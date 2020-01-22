@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /mkt-user
+Disallow: /mkt-user/*
+Disallow: /login
+Disallow: /register
+Disallow: /password
+Disallow: /password/*
