@@ -1,0 +1,44 @@
+
+/*components*/
+.components { overflow: hidden; }
+.components .scrollme li { position: absolute; }
+.pages-html { overflow: hidden; }
+.pages-html .container-fluid { padding: 0; }
+.pages-html .scrollme li { position: absolute; top: -210px; }
+
+
+
+@media (max-width: 1199px) {
+  .feature-text .feature-icon { position: relative; text-align: center; }
+  .feature-text .feature-info { padding-left: 0; text-align: center; margin-top: 20px; }
+  .isotope-filters  button { padding: 18px 12px;  }
+  .scrollme .list-unstyled { margin-top: 100px; }
+  .isotope.columns-3 .grid-item { width: 33.33333%; }
+}
+ 
+@media (max-width: 992px) { 
+  h2  { font-size: 32px; }
+  h3  { font-size: 18px; }
+  .intro h1 { line-height: 80px; font-size: 80px; }
+  .intro h2 { font-size: 30px; line-height: 30px; }
+  .intro strong { font-size: 16px; }
+  .button { padding: 12px 30px; font-size: 14px; }
+  .section-title p { font-size: 14px; }
+  .page-section-ptb { padding: 70px 0; }
+  .isotope.columns-3 .grid-item { width: 33.33333%; }
+  .section-title { margin-bottom: 40px; }
+  .title-line:before { background: transparent; }
+  .section-title-number .counter span, .section-title-number .counter b { font-size: 60px; line-height: 60px; }
+  .revslider .counter span, .revslider .counter b { line-height: 60px; font-size: 60px; }
+  .scrollme .list-unstyled { display: none; }
+  .section-title-number.text-right { text-align: center !important; margin-bottom: 10px; }
+  .section-title { text-align: center; }
+  .isotope-filters { border:0; }
+  .section-title.text-white .title-line:before { display: none; }
+  #awwwards img { width: 60%; }
+  .isotope-filters { text-align: center; }
+  .isotope-filters button, .isotope-filters a { margin: 20px 0; }
+  .intro { padding: 100px 0px;}
+  #awwwards img { width: 60%; }
+  .b4-img { display: none; }
+} 
