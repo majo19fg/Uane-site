@@ -58,6 +58,8 @@
       <ul class="br-menu-sub">
         <li class="sub-item"><a href="{{ route('diseno.solicitudes') }}"
             class="sub-link {{ setActiveRoute('diseno.solicitudes') }}">Lista de solicitudes</a></li>
+            <li class="sub-item"><a href="{{ route('formulario.diseno') }}"
+              class="sub-link {{ setActiveRoute('formulario.diseno') }}">Formulario de diseño</a></li>
       </ul>
     </li>
 
@@ -151,7 +153,7 @@
      <li class="br-menu-item">
       <a href="#" class="br-menu-link with-sub {{ setActiveRoute('usuarios.PlantillaDescarga') }}">
         <i class="menu-item-icon icon ion-ios-gear-outline"></i>
-        <span class="menu-item-label tx-13">Plantillas de diseños </span>
+        <span class="menu-item-label tx-13">Marketing Box </span>
       </a>
       <ul class="br-menu-sub">
         <li class="sub-item"><a href="{{ route('usuarios.PlantillaDescarga') }}"

@@ -37,6 +37,7 @@ Route::post('/programas/aspirante', 'ProgramasController@datosAspirante')->name(
 Route::post('/programas/aspirante/index', 'ProgramasController@datosAspirante2')->name('guardar.aspirante2');
 
 
+
 //Nuestra historia
 Route::get('/somos-uane/nuestra-historia', 'PagesController@historia')->name('somos-uane.historia');
 Route::get('/somos-uane/el-rector', 'PagesController@rector')->name('somos-uane.rector');
@@ -72,7 +73,7 @@ Route::get('/vozuane/45aniversario', 'PagesController@NoticiasEventos11')->name(
 Route::get('/vozuane/45aniversario/Pasteles', 'PagesController@Pasteles')->name('blog.Pasteles');
 Route::get('/soyuane', 'PagesController@soyuane')->name('blog.soyuane');
 Route::get('/vozuane/45aniversario/Inaguración CU', 'PagesController@PiedraI')->name('blog.PiedraI');
-Route::get('/prueba', 'PagesController@cuadro')->name('cuadro');
+Route::get('/prueba', 'PagesController@programa')->name('programa');
 // Route::get('/prueba', function () {
 //     return App\Programa::all();
 // });

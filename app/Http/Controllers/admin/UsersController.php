@@ -131,46 +131,6 @@ class UsersController extends Controller
         return view('admin.usuarios.Presentaciones-Saltillo', compact('usuarios'));
 
     }  
-     public function Plantilla_Fbro() 
-    {
-        $usuarios = User::allowed()->get();
-        //$users = User::all();
-        
-        return view('admin.usuarios.Folleto-Brochure', compact('usuarios'));
-
-    }
-    public function Plantilla_Fenl() 
-    {
-        $usuarios = User::allowed()->get();
-        //$users = User::all();
-        
-        return view('admin.usuarios.Folleto-EnLinea', compact('usuarios'));
-
-    }
-    public function Plantilla_FGrl() 
-    {
-        $usuarios = User::allowed()->get();
-        //$users = User::all();
-        
-        return view('admin.usuarios.Folleto-General', compact('usuarios'));
-
-    }
-    public function Plantilla_FLic() 
-    {
-        $usuarios = User::allowed()->get();
-        //$users = User::all();
-        
-        return view('admin.usuarios.Folletos-Licenciatura', compact('usuarios'));
-
-    }
-    public function Plantilla_FLiCoah() 
-    {
-        $usuarios = User::allowed()->get();
-        //$users = User::all();
-        
-        return view('admin.usuarios.Folletos-LiCoah', compact('usuarios'));
-
-    }
     public function lista_encuesta()
     {
         $encuestas = Encuesta::all();
