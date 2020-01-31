@@ -131,11 +131,6 @@ Route::group(['prefix' => 'mkt-user', 'namespace' => 'admin', 'middleware' => 'a
     //plantilla 
     Route::get('/usuarios/plantilla', 'UsersController@Plantilla')->name('usuarios.PlantillaDescarga');
     Route::get('/usuarios/plantilla/presentacionesSLW', 'UsersController@Presentaciones_Saltillo')->name('usuarios.presentacionesSLW');
-    Route::get('/usuarios/plantilla/folletos/brochures', 'UsersController@Plantilla_Fbro')->name('usuarios.Folleto-Brochure');
-    Route::get('/usuarios/plantilla/folletos/enlinea', 'UsersController@Plantilla_Fenl')->name('usuarios.Folleto-EnLinea');
-    Route::get('/usuarios/plantilla/folletos/generales', 'UsersController@Plantilla_FGrl')->name('usuarios.Folleto-General');
-    Route::get('/usuarios/plantilla/folletos/licenciatura', 'UsersController@Plantilla_FLic')->name('usuarios.Folletos-Licenciatura');
-    Route::get('/usuarios/plantilla/folletos/licenciatura/coahuila', 'UsersController@Plantilla_FLiCoah')->name('usuarios.Folletos-LiCoah');
     //usuarios
     Route::get('/usuarios', 'UsersController@index')->name('mostrar.usuarios');
     Route::get('/usuarios/crear', 'UsersController@create')->name('crear.usuario');

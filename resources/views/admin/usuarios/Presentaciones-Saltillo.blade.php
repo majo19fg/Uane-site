@@ -42,7 +42,7 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="{{ asset('/multi/pdf/presentaciones/Saltillo/UANE - Oferta Educativa Saltillo - Bachillerato.pdf') }}">UANE - Oferta Educativa Saltillo - Bachillerato.pdf</a></th>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/mgil_uane_edu_mx/EdC8Cyzd6_RErD2xtXutJ0ABU8a1kzJ0f3WrObfw4x4fjw?e=CrLDJJ">UANE - Oferta Educativa Saltillo - Bachillerato.pdf</a></th>
                                       <td>20 de Junio</td>
                                       <td>628 KB</td>
                                       <td><a href="{{ asset('/multi/pdf/presentaciones/Saltillo/UANE - Oferta Educativa Saltillo - Bachillerato.pdf') }}"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>

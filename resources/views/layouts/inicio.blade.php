@@ -551,52 +551,7 @@
                 <h3 class="line-bottom mt-0 line-height-1">Suplemento <span class="text-theme-color-2">45 ANIVERSARIO</span></h3>
                 <a class="gallery" href="{{ asset('/multi/pdf/UANE 45 SUPLEMENTO.pdf') }}"> <img src="{{ asset('/multi/images/Suplemento.jpg') }}" class="img-responsive center-block"/>
             </div>
-            <div class="col-md-4">
-              <h3 class="line-bottom mt-0 line-height-1">¿Por qué <span class="text-theme-color-2">UANE?</span></h3>
-              {{-- <p class="mb-10">The Cweren Law Firm is a recognized leader in landlord tenant representation throughout Texas.The largest professional property.</p> --}}
-              <div id="accordion1" class="panel-group accordion">
-                <div class="panel">
-                  <div class="panel-title"> <a class="active" data-parent="#accordion1" data-toggle="collapse" href="#accordion11" aria-expanded="true"> <span class="open-sub"></span> 8 Campus en 3 estados de la República</a> </div>
-                  <div id="accordion11" class="panel-collapse collapse in" role="tablist" aria-expanded="true">
-                    <div class="panel-content">
-                      <p>Contamos con 8 campus en 3 estados de la república mexicana, con el fin de brindar educación y generar oportunidades para desarrollar personas ejemplares, comprometidas con su futuro.</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="panel">
-                  <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion12" class="" aria-expanded="true"> <span class="open-sub"></span> Más de 60 planes de estudio</a> </div>
-                  <div id="accordion12" class="panel-collapse collapse" role="tablist" aria-expanded="true">
-                    <div class="panel-content">
-                      <p>Contamos con una amplia oferta educativa donde nuestros maestros son expertos en su área con el fin prepararte para enfrentar un mundo laboral y competitivo.</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="panel">
-                  <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion13" class="" aria-expanded="true"> <span class="open-sub"></span> 45 años de experiencia</a> </div>
-                  <div id="accordion13" class="panel-collapse collapse" role="tablist" aria-expanded="true">
-                    <div class="panel-content">
-                      <p>Contamos con 45 años de experiencia en educación, ofreciendo un sistema modular el cual te ayudara a enfocarte y aprovechar cada minuto de estudio.</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="panel">
-                  <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion14" class="" aria-expanded="true"> <span class="open-sub"></span>Clubes deportivos y culturales</a> </div>
-                  <div id="accordion14" class="panel-collapse collapse" role="tablist" aria-expanded="true">
-                    <div class="panel-content">
-                      <p>Vive la experiencia de ser campeón siendo parte en alguno de nuestros clubes deportivos o culturales los cuales han ganado torneos nacionales.</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="panel">
-                  <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="" aria-expanded="true"> <span class="open-sub"></span> Carreras y Maestría en Línea</a> </div>
-                  <div id="accordion15" class="panel-collapse collapse" role="tablist" aria-expanded="true">
-                    <div class="panel-content">
-                      <p>Contamos con diferentes Carreras y maestrías en línea en las cuales podrás organizar tu tiempo para cursarlas y disfrutar los mejores momentos de tu vida.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+
           </div>
         </div>
       </div>
@@ -822,72 +777,6 @@
               </article>
               
             </div>
-
-            <!--<div class="col-xs-12 col-sm-6 col-md-4 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
-              <article class="post clearfix mb-sm-30">
-                <div class="entry-header">
-                  <div class="post-thumb thumb"> 
-                    <img src="/multi/images/noticias/empleabilidad.png" alt="" class="img-responsive img-fullwidth"> 
-                  </div>
-                </div>
-                <div class="entry-content p-20 pr-10 bg-white">
-                  <div class="entry-meta media mt-0 no-bg no-border">
-                    <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
-                      <ul>
-                        <li class="font-16 text-white font-weight-600 border-bottom">10</li>
-                        <li class="font-12 text-white text-uppercase">JUN</li>
-                      </ul>
-                    </div>
-                    <div class="media-body pl-15">
-                      <div class="event-content pull-left flip">
-                        <h4 class="entry-title text-white text-uppercase m-0 mt-5"><a href="{{ route('blog.empleabilidad') }}">Primer congreso internacional de empleabilidad y mercado laboral</a></h4>
-                        {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                        --}}
-                        {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}}
-                      </div>
-                    </div>
-                  </div>
-                  <p class="mt-10">“La aptitud de la persona para encontrar y conservar un trabajo...</p>
-                  <a href="https://www.emple-ap.com" target="_blank" class="btn-read-more">Leer más</a>
-                  <div class="clearfix"></div>
-                </div>
-              </article>
-              
-            </div>
-
-            <!--<div class="col-xs-12 col-sm-6 col-md-4 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
-              <article class="post clearfix mb-sm-30">
-                <div class="entry-header">
-                  <div class="post-thumb thumb"> 
-                    <img src="/multi/images/noticias/cv.jpg" alt="" class="img-responsive img-fullwidth"> 
-                  </div>
-                </div>
-                <div class="entry-content p-20 pr-10 bg-white">
-                  <div class="entry-meta media mt-0 no-bg no-border">
-                    <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
-                      <ul>
-                        <li class="font-16 text-white font-weight-600 border-bottom">29</li>
-                        <li class="font-12 text-white text-uppercase">MAR</li>
-                      </ul>
-                    </div>
-                    <div class="media-body pl-15">
-                      <div class="event-content pull-left flip">
-                        <h4 class="entry-title text-white text-uppercase m-0 mt-5"><a href="{{ route('blog.cv') }}">Tips para mejorar tu Currículum</a></h4>
-                        {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                        --}}
-                        {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}}
-                      </div>
-                    </div>
-                  </div>
-                  <p class="mt-10">El Currículum Vitae es el primer contacto que tendrá una empresa contigo, por eso es importante...</p>
-                  <a href="{{ route('blog.cv') }}" class="btn-read-more">Leer más</a>
-                  <div class="clearfix"></div>
-                </div>
-              </article>
-              
-            </div>-->
-
-            
-
-            
           </div>
         </div>
       </div>
