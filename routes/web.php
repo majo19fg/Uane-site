@@ -69,11 +69,13 @@ Route::get('/vozuane/Saram', 'PagesController@NoticiasEventos10')->name('blog.Sa
 Route::get('/MensajesRector', 'PagesController@MensajeRector')->name('blog.MensajesRector');
 Route::get('/MensajesRector/Bienvenidos2019', 'PagesController@MensajeRector12')->name('blog.Mensaje12-09-19');
 Route::get('/MensajesRector/AñoNuevo2020', 'PagesController@Mensaje20')->name('blog.Mensaje20-01-2020');
+Route::get('/MensajesRector/Responsabilidad', 'PagesController@Mensaje06')->name('blog.Mensaje06-02-2020');
 Route::get('/vozuane/45aniversario', 'PagesController@NoticiasEventos11')->name('blog.45aniversario');
 Route::get('/vozuane/45aniversario/Pasteles', 'PagesController@Pasteles')->name('blog.Pasteles');
 Route::get('/soyuane', 'PagesController@soyuane')->name('blog.soyuane');
 Route::get('/vozuane/45aniversario/Inaguración CU', 'PagesController@PiedraI')->name('blog.PiedraI');
 Route::get('/prueba', 'PagesController@programa')->name('programa');
+Route::get('/VozUane', 'PagesController@vozuane')->name('vozuane');
 // Route::get('/prueba', function () {
 //     return App\Programa::all();
 // });
