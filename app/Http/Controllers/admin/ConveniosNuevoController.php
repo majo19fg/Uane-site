@@ -18,7 +18,8 @@ use function GuzzleHttp\json_decode;
 use Illuminate\Support\Facades\Mail;
 use App\Mail\DesignRequest\DesignRequestUpdate;
 use App\Mail\DesignRequest\NotificationMail;
-use App\Mail\DesignRequest\ConfirmationMail;
+use App\Mail\DesignRequest\ConfirmationMailConvenio;
+use App\Mail\prueba;
 use Maatwebsite\Excel\Facades\Excel;
 use Barryvdh\DomPDF\Facade AS PDF;
 use App\Exports\ConvenionuevoExport;
@@ -61,8 +62,8 @@ class ConveniosNuevoController extends Controller
     public function store(ConveniosRequest $request)
     {
 
-
-        $convenio = ConveniosNuevo::create($request->all());
+        $data = $request->all();
+        $convenio = ConveniosNuevo::create($data);
         if (empty($request->file('documento'))) { } else {
             $nameFile = str_slug($request->get('empresa'));
             $fileExt = $request->file('documento')->getClientOriginalExtension();
@@ -72,8 +73,12 @@ class ConveniosNuevoController extends Controller
             $convenio->nombre_documento = $nameFile . '.' . $fileExt;
         }
         $convenio->save();
-        
-        $data = $request->all();
+
+        Mail::to($request->correo_contacto)->send(new ConfirmationMailConvenio($convenio));
+        Mail::to($request->correo_representante)->send(new ConfirmationMailConvenio($convenio));
+        Mail::to('rurreta@uane.edu.mx')->send( new ConfirmationMailConvenio($convenio));
+        return view('admin.convenios.Convenio_View', compact('convenio'));
+      /**  $data = $request->all();
         // $dataRequest = collect($request->request_design);        
         // $data['request_design'] = $dataRequest->implode('<br>');
         //$data['request_code'] = 'SD-'.uniqid();
@@ -100,9 +105,9 @@ class ConveniosNuevoController extends Controller
         Mail::to('mgil@uane.edu.mx')->send( new NotificationMail);
 
         return redirect()->back()->with('success', 'El convenio se guardo exitosamente');
-        //return redirect()->back()->with('success', 'Tu solicitud ya ha sido compartida con el equipo de marketing. Revisa tu correo para mantenerte a tento de todas las actualizaciones.');
+        //return redirect()->back()->with('success', 'Tu solicitud ya ha sido compartida con el equipo de marketing. Revisa tu correo para mantenerte a tento de todas las actualizaciones.');*/
     }
-    public function save(DesignRequestMessage $request)
+    /**public function save(DesignRequestMessage $request)
     {
         $data = $request->all();
         $dataRequest = collect($request->request_design);        
@@ -114,7 +119,7 @@ class ConveniosNuevoController extends Controller
         Mail::to($request->email)->send(new ConfirmationMail($designRequestData));
         Mail::to('cprado@uane.edu.mx')->send( new NotificationMail);
         return redirect()->back()->with('success', 'Tu solicitud ya ha sido compartida con el equipo de marketing. Revisa tu correo para mantenerte a tento de todas las actualizaciones.');
-    }
+    }*/
 
 
     /**

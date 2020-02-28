@@ -120,7 +120,7 @@ class UsersController extends Controller
         $usuarios = User::allowed()->get();
         //$users = User::all();
         
-        return view('admin.usuarios.PlantillaDescarga', compact('usuarios'));
+        return view('admin.marketingbox.PlantillaDescarga', compact('usuarios'));
 
     } 
     public function Presentaciones_Saltillo() 
@@ -128,9 +128,82 @@ class UsersController extends Controller
         $usuarios = User::allowed()->get();
         //$users = User::all();
         
-        return view('admin.usuarios.Presentaciones-Saltillo', compact('usuarios'));
+        return view('admin.marketingbox.Presentaciones-Saltillo', compact('usuarios'));
 
     }  
+    public function Presentaciones_Torreon() 
+    {
+        $usuarios = User::allowed()->get();
+        //$users = User::all();
+        
+        return view('admin.marketingbox.Presentaciones-Torreon', compact('usuarios'));
+
+    } 
+    public function Presentaciones_Monclova() 
+    {
+        $usuarios = User::allowed()->get();
+        //$users = User::all();
+        
+        return view('admin.marketingbox.Presentaciones-Monclova', compact('usuarios'));
+
+    } 
+    public function Presentaciones_Sabinas() 
+    {
+        $usuarios = User::allowed()->get();
+        //$users = User::all();
+        
+        return view('admin.marketingbox.Presentaciones-Sabinas', compact('usuarios'));
+
+    } 
+    
+    public function Presentaciones_Piedras() 
+    {
+        $usuarios = User::allowed()->get();
+        //$users = User::all();
+        
+        return view('admin.marketingbox.Presentaciones-Piedras', compact('usuarios'));
+
+    } 
+    public function Presentaciones_Monterrey() 
+    {
+        $usuarios = User::allowed()->get();
+        //$users = User::all();
+        
+        return view('admin.marketingbox.Presentaciones-Monterrey', compact('usuarios'));
+
+    } 
+    public function Presentaciones_Reynosa() 
+    {
+        $usuarios = User::allowed()->get();
+        //$users = User::all();
+        
+        return view('admin.marketingbox.Presentaciones-Reynosa', compact('usuarios'));
+
+    } 
+    public function Presentaciones_Matamoros() 
+    {
+        $usuarios = User::allowed()->get();
+        //$users = User::all();
+        
+        return view('admin.marketingbox.Presentaciones-Matamoros', compact('usuarios'));
+
+    } 
+    public function Presentaciones_EL() 
+    {
+        $usuarios = User::allowed()->get();
+        //$users = User::all();
+        
+        return view('admin.marketingbox.Presentaciones-EnLinea', compact('usuarios'));
+
+    } 
+    public function Presentaciones_Bach() 
+    {
+        $usuarios = User::allowed()->get();
+        //$users = User::all();
+        
+        return view('admin.marketingbox.Bachillerato', compact('usuarios'));
+
+    } 
     public function lista_encuesta()
     {
         $encuestas = Encuesta::all();
