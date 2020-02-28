@@ -129,7 +129,7 @@
       </div>
     </section>
 
-  <!--   <section>
+   <section>
       <div class="container">
         <div class="content">
           <div class="row mt-30">
@@ -140,10 +140,10 @@
                 </h4>
               </div>
 
-             <!-- <programas-component
+             <programas-component
               campus="{{ $campus->url }}"
               urlprograma="/programas/"
-              ></programas-component>-->
+              ></programas-component>
               {{--
               <div class="owl-carousel-2col" data-dots="true">
                   

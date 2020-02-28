@@ -55,6 +55,11 @@
             <label class="col-sm-4 form-control-label"><strong>Representante legal: </strong></label>
             <label class="col-sm-4 mg-t-10 mg-sm-t-0">{{ $convenio->nombre_representante_legal }}</label>
             </div>
+        {{-- Correo del representante legal --}}
+        <div class="row mg-t-20">
+            <label class="col-sm-4 form-control-label"><strong> Correo representante legal: </strong></label>
+            <label class="col-sm-4 mg-t-10 mg-sm-t-0">{{ $convenio->correo_representante }}</label>
+            </div>
         {{-- Nombre del contacto --}}
         <div class="row mg-t-20">
             <label class="col-sm-4 form-control-label"><strong>Nombre del contacto: </strong></label>

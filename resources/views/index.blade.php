@@ -98,18 +98,31 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </head>
 
 <body class="">
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "name": "Universidad Autonoma de Noreste",
+      "url": "https://www.uane.edu.mx/",
+      "address": "",
+      "sameAs": [
+        "https://www.facebook.com/UANEOficial/",
+        "https://twitter.com/UANEOSOS"
+      ]
+    }
+  </script>
   <div id="app">
     
     <div id="wrapper " class="clearfix">
 
       <!-- preloader -->
-      <div id="preloader">
+     <!-- <div id="preloader">
         <div id="spinner">
           <img src="{{ asset('/multi/images/preloaders/Logo-45años-1000.gif') }}"width="100%" height="100%";
           height: 100%;/>
         </div>
         <div id="disable-preloader" class="btn btn-default btn-sm">Disable Preloader</div>
-      </div>
+      </div>-->
 
 
       @include('partial.menu')

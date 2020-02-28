@@ -181,6 +181,15 @@
                                     name="nombre_representante_legal" class="form-control" placeholder="">
                             </div>
                         </div>
+                         {{-- Correo del representante legal --}}
+                        <div class="row mg-t-5">
+                            <label class="col-sm-4 form-control-label">Correo del representante legal <span
+                                    class="tx-danger">*</span></label>
+                            <div class="col-sm-8 mg-t-10 mg-sm-t-0">
+                                <input type="text" value="{{ old('correo_representante') }}"
+                                    name="correo_representante" class="form-control" placeholder="">
+                            </div>
+                        </div>
                         {{-- Nombre del contacto --}}
                         <div class="row mg-t-5">
                             <label class="col-sm-4 form-control-label">Nombre del contacto <span

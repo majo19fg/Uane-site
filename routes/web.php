@@ -56,23 +56,24 @@ Route::get('/proximamente', 'PagesController@proximamente')->name('coming-soon')
 
 
 //Blog
-Route::get('/vozuane', 'PagesController@NoticiasEventos')->name('blog.noticias');
+Route::get('/Noticias', 'PagesController@NoticiasEventos')->name('blog.noticias');
 Route::get('/vozuane/comunicado-del-rector-analogia', 'PagesController@NoticiasEventos1')->name('blog.rector1');
 Route::get('/vozuane/comunicado-del-rector', 'PagesController@NoticiasEventos2')->name('blog.rector2');
-Route::get('/vozuane/interuane2019', 'PagesController@NoticiasEventos4')->name('blog.interuane');
-Route::get('/vozuane/tips-para-mejorar-tu-curriculum', 'PagesController@NoticiasEventos5')->name('blog.cv');
-Route::get('/vozuane/congreso-internacional-de-empleabilidad', 'PagesController@NoticiasEventos6')->name('blog.empleabilidad');
-Route::get('/vozuane/sabias-que-en-uane-puedes-cursar-un-diplomado-como-opcion-de-titulacion', 'PagesController@NoticiasEventos7')->name('blog.titulacion');
-Route::get('/vozuane/inicio-clases-Piedras-Negras', 'PagesController@NoticiasEventos8')->name('blog.InicioClases');
-Route::get('/vozuane/inicio-clases-lic-Piedras-Negras', 'PagesController@NoticiasEventos9')->name('blog.InicioClasesLic');
-Route::get('/vozuane/Saram', 'PagesController@NoticiasEventos10')->name('blog.Saram');
+Route::get('/Noticias/interuane2019', 'PagesController@NoticiasEventos4')->name('blog.interuane');
+Route::get('/VozUane/tips-para-mejorar-tu-curriculum', 'PagesController@NoticiasEventos5')->name('blog.cv');
+Route::get('/VozUane/6-pasos-para-comenzar-a-ser-emprendedor', 'PagesController@noticia11')->name('blog.6-pasos');
+Route::get('/Noticias/congreso-internacional-de-empleabilidad', 'PagesController@NoticiasEventos6')->name('blog.empleabilidad');
+Route::get('/Noticias/sabias-que-en-uane-puedes-cursar-un-diplomado-como-opcion-de-titulacion', 'PagesController@NoticiasEventos7')->name('blog.titulacion');
+Route::get('/Noticias/inicio-clases-Piedras-Negras', 'PagesController@NoticiasEventos8')->name('blog.InicioClases');
+Route::get('/Noticias/inicio-clases-lic-Piedras-Negras', 'PagesController@NoticiasEventos9')->name('blog.InicioClasesLic');
+Route::get('/Noticias/Saram', 'PagesController@NoticiasEventos10')->name('blog.Saram');
 Route::get('/MensajesRector', 'PagesController@MensajeRector')->name('blog.MensajesRector');
 Route::get('/MensajesRector/Bienvenidos2019', 'PagesController@MensajeRector12')->name('blog.Mensaje12-09-19');
 Route::get('/MensajesRector/AñoNuevo2020', 'PagesController@Mensaje20')->name('blog.Mensaje20-01-2020');
 Route::get('/MensajesRector/Responsabilidad', 'PagesController@Mensaje06')->name('blog.Mensaje06-02-2020');
-Route::get('/vozuane/45aniversario', 'PagesController@NoticiasEventos11')->name('blog.45aniversario');
-Route::get('/vozuane/45aniversario/Pasteles', 'PagesController@Pasteles')->name('blog.Pasteles');
-Route::get('/soyuane', 'PagesController@soyuane')->name('blog.soyuane');
+Route::get('/Noticias/45aniversario', 'PagesController@NoticiasEventos11')->name('blog.45aniversario');
+Route::get('/Noticias/45aniversario/Pasteles', 'PagesController@Pasteles')->name('blog.Pasteles');
+Route::get('/VozUane/soyuane', 'PagesController@soyuane')->name('blog.soyuane');
 Route::get('/vozuane/45aniversario/Inaguración CU', 'PagesController@PiedraI')->name('blog.PiedraI');
 Route::get('/prueba', 'PagesController@programa')->name('programa');
 Route::get('/VozUane', 'PagesController@vozuane')->name('vozuane');
@@ -131,8 +132,17 @@ Route::group(['prefix' => 'mkt-user', 'namespace' => 'admin', 'middleware' => 'a
 
     Route::delete('/campus/delete-photo/{galery}', 'CampusController@galeriaDestroy')->name('galeria.destroy');
     //plantilla 
-    Route::get('/usuarios/plantilla', 'UsersController@Plantilla')->name('usuarios.PlantillaDescarga');
-    Route::get('/usuarios/plantilla/presentacionesSLW', 'UsersController@Presentaciones_Saltillo')->name('usuarios.presentacionesSLW');
+    Route::get('/usuarios/MKTBOX', 'UsersController@Plantilla')->name('usuarios.PlantillaDescarga');
+    Route::get('/usuarios/MKTBOX/presentacionesSLW', 'UsersController@Presentaciones_Saltillo')->name('usuarios.presentacionesSLW');
+    Route::get('/usuarios/MKTBOX/presentacionesTor', 'UsersController@Presentaciones_Torreon')->name('usuarios.presentacionesTor');
+    Route::get('/usuarios/MKTBOX/presentacionesMon', 'UsersController@Presentaciones_Monclova')->name('usuarios.presentacionesMon');
+    Route::get('/usuarios/MKTBOX/presentacionesSab', 'UsersController@Presentaciones_Sabinas')->name('usuarios.presentacionesSab');
+    Route::get('/usuarios/MKTBOX/presentacionesPN', 'UsersController@Presentaciones_Piedras')->name('usuarios.presentacionesPN');
+    Route::get('/usuarios/MKTBOX/presentacionesMTY', 'UsersController@Presentaciones_Monterrey')->name('usuarios.presentacionesMTY');
+    Route::get('/usuarios/MKTBOX/presentacionesRey', 'UsersController@Presentaciones_Reynosa')->name('usuarios.presentacionesRey');
+    Route::get('/usuarios/MKTBOX/presentacionesMat', 'UsersController@Presentaciones_Matamoros')->name('usuarios.presentacionesMat');
+    Route::get('/usuarios/MKTBOX/presentacionesEL', 'UsersController@Presentaciones_EL')->name('usuarios.presentacionesEL');
+    Route::get('/usuarios/MKTBOX/Bachillerato', 'UsersController@Presentaciones_Bach')->name('usuarios.presentacionesBach');
     //usuarios
     Route::get('/usuarios', 'UsersController@index')->name('mostrar.usuarios');
     Route::get('/usuarios/crear', 'UsersController@create')->name('crear.usuario');
@@ -161,18 +171,25 @@ Route::group(['prefix' => 'mkt-user', 'namespace' => 'admin', 'middleware' => 'a
     Route::put('/diseno/asignar-usuario/{id}', 'DisenoController@asignarDisenador')->name('diseno.asignar-usuario');
 
 
-    Route::get('/convenios anteriores', 'ConveniosController@index')->name('convenios.lista');
-    Route::get('/convenios', 'ConveniosNuevoController@index')->name('convenios.index');
-    Route::get('/convenios/exportarexcel', 'ConveniosNuevoController@exportar')->name('exportar.convenios');
-    Route::get('/convenios/guardar-convenio', 'ConveniosNuevoController@create')->name('convenios.formulario');
-    Route::post('/convenios/guardar-convenio', 'ConveniosNuevoController@store')->name('convenios.formulario.guardar');
-    Route::get('/convenios/editar/{convenio}', 'ConveniosNuevoController@edit')->name('convenios.editar');
-    Route::get('/convenios/Vista/{convenio}', 'ConveniosNuevoController@view')->name('convenios.view');
-    Route::put('/convenios/actualizar/{convenio}', 'ConveniosNuevoController@update')->name('convenios.actualizar');
-    Route::delete('/convenios/eliminar/{convenio}', 'ConveniosNuevoController@destroy')->name('convenios.eliminar');
-    Route::get('/pdf/{convenio}', 'ConveniosNuevoController@pdf')->name('convenios.pdf');
+Route::get('/convenios anteriores', 'ConveniosController@index')->name('convenios.lista');
+Route::get('/convenios', 'ConveniosNuevoController@index')->name('convenios.index');
+Route::get('/convenios/exportarexcel', 'ConveniosNuevoController@exportar')->name('exportar.convenios');
+Route::get('/convenios/guardar-convenio', 'ConveniosNuevoController@create')->name('convenios.formulario');
+Route::post('/convenios/guardar-convenio', 'ConveniosNuevoController@store')->name('convenios.formulario.guardar');
+Route::get('/convenios/editar/{convenio}', 'ConveniosNuevoController@edit')->name('convenios.editar');
+Route::get('/convenios/Vista/{convenio}', 'ConveniosNuevoController@view')->name('convenios.view');
+Route::put('/convenios/actualizar/{convenio}', 'ConveniosNuevoController@update')->name('convenios.actualizar');
+Route::delete('/convenios/eliminar/{convenio}', 'ConveniosNuevoController@destroy')->name('convenios.eliminar');
+Route::get('/pdf/{convenio}', 'ConveniosNuevoController@pdf')->name('convenios.pdf');
     
     
+   /**Route::get('/convenios', 'ConveniosController@index')->name('convenios.index');
+   Route::get('/convenios/guardar-convenio', 'ConveniosController@create')->name('convenios.formulario');
+   Route::post('/convenios/guardar-convenio', 'ConveniosController@store')->name('convenios.formulario.guardar');
+   Route::get('/convenios/editar/{convenio}', 'ConveniosController@edit')->name('convenios.editar');
+   Route::put('/convenios/actualizar/{convenio}', 'ConveniosController@update')->name('convenios.actualizar');
+   Route::get('/convenios/exportarConvenios', 'ConveniosController@exportarConvenios')->name('exportar.convenios');
+   Route::delete('/convenios/eliminar/{convenio}', 'ConveniosController@destroy')->name('convenios.eliminar');*/
 });
 
 

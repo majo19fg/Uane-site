@@ -20,7 +20,7 @@
             data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
             data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
             data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-            style="z-index: 7; white-space: nowrap; font-weight:900; color:#e7c209;">&nbsp;¡PREPÁRATE!&nbsp;
+            style="z-index: 7; white-space: nowrap; font-weight:900; color:#F4C300;">&nbsp;¡PREPÁRATE!&nbsp;
           </div>
   
           <!-- LAYER NR. 2 -->
@@ -70,7 +70,7 @@
             data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
             data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
             data-start="1300" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-            style="z-index: 5; white-space: nowrap; letter-spacing:2px; font-weight:800; background:#E7C209; color:#73243d;">
+            style="z-index: 5; white-space: nowrap; letter-spacing:2px; font-weight:800; background:#F4C300; color:#73243d;">
             &nbsp;Bachillerato o Carrera&nbsp;
           </div>
   
@@ -141,16 +141,16 @@
   
         </li>
   
-          <!--slide ranking de universidades-->
+          <!--slide ranking de universidades--
           <li data-index="rs-7" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default"
           data-easeout="default" data-masterspeed="default" data-thumb="/multi/images/sliders/5.jpg"
           data-rotate="0" data-saveperformance="off" data-title="Web Show" data-description="">
-          <!-- MAIN IMAGE -->
+          <!-- MAIN IMAGE --
           <img src="/multi/images/sliders/2.jpg" alt="" data-bgposition="center 10%" data-bgfit=""
             data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="6" data-no-retina><a href="#"></a>
           <!--LAYERS -->
   
-          <!-- LAYER NR. 1 -->
+          <!-- LAYER NR. 1 --
           <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left','left',middle','middle']"
             data-hoffset="['-230','-230','-1000','-1000']" data-y="['center','center','middle','middle']"
             data-voffset="['0']" data-fontsize="['70','70','70','70']"
@@ -162,7 +162,7 @@
             style="z-index: 7; white-space: nowrap; font-weight:900; color:#e7c209;"><a href="http://www.rankinguniversitario.mx?pagina=UANE"><img src="/multi/images/sliders/6.png" alt=""></a>
           </div>
 
-           <!-- LAYER NR. 2 -->
+           <!-- LAYER NR. 2 --
           <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left','left',middle','middle']"
             data-hoffset="['-2000','-2000','0','0']" data-y="['center','center','middle','middle']" de Enero 
             data-voffset="['0']" data-fontsize="['70','70','70','70']"

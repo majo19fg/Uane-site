@@ -1,6 +1,6 @@
 <!-- Header -->
 <header id="header" class="header">
-  <div class="header-top bg-theme-color-2 sm-text-center p-0">
+  <div class="header-top sm-text-center p-0" style="background-color: #F4C300">
     <div class="container">
       <div class="row">
         <div class="col-md-4">
@@ -218,7 +218,8 @@
             <li class="{{ request()->is('egresados') ? 'active' : '' }} {{ request()->is('egresados/actualizar-datos') ? 'active' : '' }}"><a href="{{ route('exauane') }}">ExaUANE</a></li>
             <li><a href="#">Vida universitaria</a>
               <ul class="dropdown">
-                <li><a href="{{ route('blog.noticias') }}">Voz UANE</a></li>
+                <li><a href="{{ route('vozuane') }}">Voz Uane</a></li>
+                <li><a href="{{ route('blog.noticias') }}">Noticias</a></li>
                 <li><a href="{{ route('blog.MensajesRector') }}">Mensaje del Rector</a></li>
               </ul>
             </li>
@@ -228,11 +229,11 @@
             <li>
               <!-- Modal: Book Now Starts -->
               @if (\Route::current()->getName() == 'exauane')
-              <a class="btn btn-colored btn-flat bg-theme-color-2 text-white font-16 bs-modal-ajax-load mt-0 p-25 pr-15 pl-15" href="{{ route('exauane.formulario') }}"
+              <a class="btn btn-colored btn-flat  text-white font-16 bs-modal-ajax-load mt-0 p-25 pr-15 pl-15" style="background-color: #F4C300"  href="{{ route('exauane.formulario') }}"
                 style="font-weight:600;">¡Regístrate!</a> @elseif(\Route::current()->getName() == 'exauane.formulario')
-              <a class="btn btn-colored btn-flat bg-theme-color-2 text-white font-16 bs-modal-ajax-load mt-0 p-25 pr-15 pl-15" href="{{ route('exauane.formulario') }}"
+              <a class="btn btn-colored btn-flat  text-white font-16 bs-modal-ajax-load mt-0 p-25 pr-15 pl-15" style="background-color: #F4C300" href="{{ route('exauane.formulario') }}"
                 style="font-weight:600;">¡Regístrate!</a> @else
-              <a class="btn btn-colored btn-flat bg-theme-color-2 text-white font-16 bs-modal-ajax-load mt-0 p-25 pr-15 pl-15" data-toggle="modal"
+              <a class="btn btn-colored btn-flat  text-white font-16 bs-modal-ajax-load mt-0 p-25 pr-15 pl-15" style="background-color: #F4C300" data-toggle="modal"
                 data-target="#BSParentModal" style="font-weight:600;">Solicita más información</a> @endif
 
               <!-- Modal: Book Now End -->

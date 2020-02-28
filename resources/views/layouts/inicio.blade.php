@@ -20,7 +20,7 @@
           <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-3 pb-sm-20 ">
               <h2 class="line-bottom font-20 text-theme-colored text-uppercase mb-10 mt-0">Tu oportunidad está en<span class="text-theme-color-2"> UANE</span></h2>
-              <p class="lead font-18" align="justify">UANE cuenta con 45 años de historia, más de 11,500 estudiantes y más de 45,000 egresados en los niveles de Bachillerato, Licenciatura y Postgrado.</p>
+              <p class="lead font-18" align="justify">UANE cuenta con 45 años de historia, más de 12,000 estudiantes y más de 45,000 egresados en los niveles de Bachillerato, Licenciatura y Postgrado.</p>
               <p align="justify">Contamos con 8 campus en el noreste de México ubicados en los estados de Coahuila, Tamaulipas y Nuevo León que ofrecen educación presencial además de ofrecer educación en Línea. </p>
               <a class="btn btn-colored btn-theme-colored btn-sm" href="#">Conoce más de UANE</a>
             </div>
@@ -59,192 +59,6 @@
         </div>
       </div>
     </section>
-   <!-- Section: Gallery -->
-    <div class="container">
-      <div class="section-content">
-        <div class="row">
-          <div class="col-md-12 wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s">
-            <center><a href="{{ route('blog.soyuane') }}"><img alt="project" src="/multi/images/soyuane/Logo.png" class="logo"></a></center></div>
-        </div>
-      </div>
-    </div>
-  </br>
-            <!-- Portfolio Gallery Grid -->
-           <div class="container">
-            <div class="section-content">
-            <div class="row">
-            <div class="col-md-12" data-wow-duration="1s" data-wow-delay="0.3s">
-            <div class="gallery-isotope grid-5 gutter-small clearfix" data-lightbox="gallery">
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item">
-                <div class="thumb">
-                  <img alt="project" src="/multi/images/soyuane/soyuane01.jpg" >
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a href="/multi/images/soyuane/soyuane01.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-              
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item">
-                <div class="thumb">
-                  <img alt="project" src="/multi/images/soyuane/soyuane02.jpg" >
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a href="/multi/images/soyuane/soyuane02.jpg"   data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-              
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item">
-                <div class="thumb">
-                  <img alt="project" src="/multi/images/soyuane/soyuane03.jpg" >
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a href="/multi/images/soyuane/soyuane03.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-              
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item">
-                <div class="thumb">
-                  <img alt="project" src="/multi/images/soyuane/soyuane04.jpg" >
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a href="/multi/images/soyuane/soyuane04.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-              
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item">
-                <div class="thumb">
-                  <img alt="project" src="/multi/images/soyuane/soyuane05.jpg" >
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a href="/multi/images/soyuane/soyuane05.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-              
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item">
-                <div class="thumb">
-                  <img alt="project" src="/multi/images/soyuane/soyuane06.jpg" >
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a href="/multi/images/soyuane/soyuane06.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-              
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item">
-                <div class="thumb">
-                  <img alt="project" src="/multi/images/soyuane/soyuane07.jpg" >
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a href="/multi/images/soyuane/soyuane07.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-              
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item">
-                <div class="thumb">
-                  <img alt="project" src="/multi/images/soyuane/soyuane08.jpg">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a href="/multi/images/soyuane/soyuane08.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-              
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item">
-                <div class="thumb">
-                  <img alt="project" src="/multi/images/soyuane/soyuane09.jpg" >
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a href="/multi/images/soyuane/soyuane09.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-              
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item">
-                <div class="thumb">
-                  <img alt="project" src="/multi/images/soyuane/soyuane010.jpg" >
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                        <a href="/multi/images/soyuane/soyuane010.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-            </div>
-            <!-- End Portfolio Gallery Grid -->
-          </br>
-           <center> <a href="{{ route('blog.soyuane') }}" class="btn btn-xl btn-theme-colored">Conoce nuestra galeria aquí</a></center>
-        </br>
-            </div>
-        </div>
-      </div>
-    </div>
-   </section>
-
     <!-- Section: COURSES -->
     @include('partial.datos')
     <!-- Section: Gallery -->
@@ -506,7 +320,7 @@
       <div class="container pb-50">
         <div class="section-content">
           <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-6">
               <h3 class="text-uppercase line-bottom mt-0 line-height-1"><i class="fa fa-calendar mr-10"></i>SIGUENOS EN <span class="text-theme-color-2">FACEBOOK</span></h3>
               <div class="fb-page" data-href="https://www.facebook.com/UANEOficial/" data-tabs="timeline" data-width="" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/UANEOficial/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/UANEOficial/">UANE</a></blockquote></div>
               <br/>
@@ -547,11 +361,52 @@
                 </div>
               </article> --}}
             </div>
-            <div class="col-md-4">
-                <h3 class="line-bottom mt-0 line-height-1">Suplemento <span class="text-theme-color-2">45 ANIVERSARIO</span></h3>
-                <a class="gallery" href="{{ asset('/multi/pdf/UANE 45 SUPLEMENTO.pdf') }}"> <img src="{{ asset('/multi/images/Suplemento.jpg') }}" class="img-responsive center-block"/>
+            <div class="col-md-6">
+              <h3 class="line-bottom mt-0 line-height-1">¿Por qué <span class="text-theme-color-2">UANE?</span></h3>
+              {{-- <p class="mb-10">The Cweren Law Firm is a recognized leader in landlord tenant representation throughout Texas.The largest professional property.</p> --}}
+              <div id="accordion1" class="panel-group accordion">
+                <div class="panel">
+                  <div class="panel-title"> <a class="active" data-parent="#accordion1" data-toggle="collapse" href="#accordion11" aria-expanded="true"> <span class="open-sub"></span> 8 Campus en 3 estados de la República</a> </div>
+                  <div id="accordion11" class="panel-collapse collapse in" role="tablist" aria-expanded="true">
+                    <div class="panel-content">
+                      <p>Contamos con 8 campus en 3 estados de la república mexicana, con el fin de brindar educación y generar oportunidades para desarrollar personas ejemplares, comprometidas con su futuro.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="panel">
+                  <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion12" class="" aria-expanded="true"> <span class="open-sub"></span> Más de 60 planes de estudio</a> </div>
+                  <div id="accordion12" class="panel-collapse collapse" role="tablist" aria-expanded="true">
+                    <div class="panel-content">
+                      <p>Contamos con una amplia oferta educativa donde nuestros maestros son expertos en su área con el fin prepararte para enfrentar un mundo laboral y competitivo.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="panel">
+                  <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion13" class="" aria-expanded="true"> <span class="open-sub"></span> 45 años de experiencia</a> </div>
+                  <div id="accordion13" class="panel-collapse collapse" role="tablist" aria-expanded="true">
+                    <div class="panel-content">
+                      <p>Contamos con 45 años de experiencia en educación, ofreciendo un sistema modular el cual te ayudara a enfocarte y aprovechar cada minuto de estudio.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="panel">
+                  <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion14" class="" aria-expanded="true"> <span class="open-sub"></span>Clubes deportivos y culturales</a> </div>
+                  <div id="accordion14" class="panel-collapse collapse" role="tablist" aria-expanded="true">
+                    <div class="panel-content">
+                      <p>Vive la experiencia de ser campeón siendo parte en alguno de nuestros clubes deportivos o culturales los cuales han ganado torneos nacionales.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="panel">
+                  <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="" aria-expanded="true"> <span class="open-sub"></span> Carreras y Maestría en Línea</a> </div>
+                  <div id="accordion15" class="panel-collapse collapse" role="tablist" aria-expanded="true">
+                    <div class="panel-content">
+                      <p>Contamos con diferentes Carreras y maestrías en línea en las cuales podrás organizar tu tiempo para cursarlas y disfrutar los mejores momentos de tu vida.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
-
           </div>
         </div>
       </div>
@@ -783,7 +638,7 @@
     </section>
 
     <!-- Divider: Call To Action -->
-    <section class="bg-theme-color-2">
+    <section style="background-color: #F4C300">
       <div class="container pt-10 pb-20">
         <div class="row">
           <div class="call-to-action">
@@ -797,7 +652,6 @@
         </div>
       </div>
     </section>
-
 @endsection
 @push('css')
 <style>

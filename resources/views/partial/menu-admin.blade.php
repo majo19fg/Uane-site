@@ -29,7 +29,7 @@
       </ul>
     </li>
 
-    <li class="br-menu-item">
+  <li class="br-menu-item">
       <a href="#" class="br-menu-link with-sub {{ setActiveRoute(['convenios.index', 'convenios.formulario']) }}">
         <i class="fas fa-building tx-20"></i>
         <span class="menu-item-label tx-13">Convenios empresariales</span>
@@ -46,8 +46,7 @@
 
 
     @endhasanyrole
-
-    {{-- Roles para diseñadores --}}
+     {{-- Roles para diseñadores --}}
     @hasanyrole('Diseñador|Super Admin')
 
     <li class="br-menu-item">
@@ -136,8 +135,6 @@
       </a>
       <ul class="br-menu-sub">
         @hasanyrole('Super Admin|Admin')
-          <li class="sub-item"><a href="{{ route('reporte') }}"
-              class="sub-link {{ setActiveRoute('reporte') }}">Encuesta de Medios</a></li>
         <li class="sub-item"><a href="{{ route('crear.usuario') }}"
             class="sub-link {{ setActiveRoute('crear.usuario')}}">Crear un usuario</a></li>
         <li class="sub-item"><a href="{{ route('mostrar.usuarios') }}"
@@ -149,19 +146,22 @@
 
       </ul>
     </li>
-     {{-- Aspirantes --}}
-     <li class="br-menu-item">
-      <a href="#" class="br-menu-link with-sub {{ setActiveRoute('usuarios.PlantillaDescarga') }}">
-        <i class="menu-item-icon icon ion-ios-gear-outline"></i>
-        <span class="menu-item-label tx-13">Marketing Box </span>
+    @endhasrole
+   @hasanyrole('Webmaster|Super Admin|Community Manager|Admin|Campus|Comercial|Diseñador|Becario')
+
+    {{-- Programas --}}
+    <li class="br-menu-item">
+      <a href="#" class="br-menu-link with-sub {{setActiveRoute('usuarios.PlantillaDescarga')}}">
+        <img src="{{ asset('/multi/images/Marketing box/LOGOblanco.png') }}" width="30px" height="30px"/>
+        <span class="menu-item-label">Marketing Box</span>
       </a>
+      <!-- br-menu-link -->
       <ul class="br-menu-sub">
         <li class="sub-item"><a href="{{ route('usuarios.PlantillaDescarga') }}"
-            class="sub-link {{ setActiveRoute('usuarios.PlantillaDescarga') }}">Archivos de Descarga</a></li>
+            class="sub-link {{ setActiveRoute('usuarios.PlantillaDescarga') }}">Lista de archivos</a></li>
       </ul>
     </li>
-    @endhasrole
-
+    @endhasanyrole
 
 
     <li class="br-menu-item">
