@@ -95,7 +95,7 @@
             data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
             data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
             data-start="1300" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-            style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><img src="/multi/images/sliders/dit-40.png" alt="">
+            style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><img src="/multi/images/sliders/dit-40.jpg" alt="">
           </div>
   
           <!-- LAYER NR. 6 -->
@@ -134,7 +134,7 @@
             data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
             data-start="1300" data-splitin="none" data-splitout="none" data-responsive_offset="on"
             style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:200;  color:#fff;">&nbsp;*Aplican
-            restricciones. Válido hasta el 29 de Febrero 2020 .<br>Únicamente para nuevo ingreso de semestre<br>Julio
+            restricciones. Válido hasta el 31 de Marzo 2020 .<br>Únicamente para nuevo ingreso de semestre<br>Julio
             - Diciembre 2020.&nbsp;
           </div>
   

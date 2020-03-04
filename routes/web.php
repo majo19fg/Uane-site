@@ -143,6 +143,15 @@ Route::group(['prefix' => 'mkt-user', 'namespace' => 'admin', 'middleware' => 'a
     Route::get('/usuarios/MKTBOX/presentacionesMat', 'UsersController@Presentaciones_Matamoros')->name('usuarios.presentacionesMat');
     Route::get('/usuarios/MKTBOX/presentacionesEL', 'UsersController@Presentaciones_EL')->name('usuarios.presentacionesEL');
     Route::get('/usuarios/MKTBOX/Bachillerato', 'UsersController@Presentaciones_Bach')->name('usuarios.presentacionesBach');
+    Route::get('/usuarios/MKTBOX/Carreras', 'UsersController@Presentaciones_Carreras')->name('usuarios.presentacionesCarr');
+    Route::get('/usuarios/MKTBOX/FlyersCoahuila', 'UsersController@FlyersCoah')->name('usuarios.FlyersCoah');
+    Route::get('/usuarios/MKTBOX/FlyersPN', 'UsersController@FlyersPN')->name('usuarios.FlyersPN');
+    Route::get('/usuarios/MKTBOX/FlyersMty', 'UsersController@FlyersMty')->name('usuarios.FlyersMty');
+    Route::get('/usuarios/MKTBOX/FlyersMat', 'UsersController@FlyersMat')->name('usuarios.FlyersMat');
+    Route::get('/usuarios/MKTBOX/FlyersRey', 'UsersController@FlyersRey')->name('usuarios.FlyersRey');
+    Route::get('/usuarios/MKTBOX/FlyersPG', 'UsersController@FlyersPG')->name('usuarios.FlyersPG');
+    Route::get('/usuarios/MKTBOX/FlyersEL', 'UsersController@FlyersEL')->name('usuarios.FlyersEL');
+    
     //usuarios
     Route::get('/usuarios', 'UsersController@index')->name('mostrar.usuarios');
     Route::get('/usuarios/crear', 'UsersController@create')->name('crear.usuario');

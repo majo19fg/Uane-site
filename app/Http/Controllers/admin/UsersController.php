@@ -204,6 +204,70 @@ class UsersController extends Controller
         return view('admin.marketingbox.Bachillerato', compact('usuarios'));
 
     } 
+    public function Presentaciones_Carreras() 
+    {
+        $usuarios = User::allowed()->get();
+        //$users = User::all();
+        
+        return view('admin.marketingbox.Carreras', compact('usuarios'));
+
+    } 
+    public function FlyersCoah() 
+    {
+        $usuarios = User::allowed()->get();
+        //$users = User::all();
+        
+        return view('admin.marketingbox.FlyersCoah', compact('usuarios'));
+
+    } 
+    public function FlyersPN() 
+    {
+        $usuarios = User::allowed()->get();
+        //$users = User::all();
+        
+        return view('admin.marketingbox.FlyersPN', compact('usuarios'));
+
+    } 
+    public function FlyersMty() 
+    {
+        $usuarios = User::allowed()->get();
+        //$users = User::all();
+        
+        return view('admin.marketingbox.FlyersNL', compact('usuarios'));
+
+    } 
+    public function FlyersMat() 
+    {
+        $usuarios = User::allowed()->get();
+        //$users = User::all();
+        
+        return view('admin.marketingbox.FlyersMat', compact('usuarios'));
+
+    } 
+    public function FlyersRey() 
+    {
+        $usuarios = User::allowed()->get();
+        //$users = User::all();
+        
+        return view('admin.marketingbox.FlyersRey', compact('usuarios'));
+
+    } 
+    public function FlyersPG() 
+    {
+        $usuarios = User::allowed()->get();
+        //$users = User::all();
+        
+        return view('admin.marketingbox.FlyersPG', compact('usuarios'));
+
+    } 
+    public function FlyersEL() 
+    {
+        $usuarios = User::allowed()->get();
+        //$users = User::all();
+        
+        return view('admin.marketingbox.FlyersEL', compact('usuarios'));
+
+    } 
     public function lista_encuesta()
     {
         $encuestas = Encuesta::all();

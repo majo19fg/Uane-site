@@ -126,19 +126,19 @@
                                     <td>3 elementos</td>
                                   </tr>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.presentacionesSLW') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.presentacionesSLW') }}">Carreras</a></th>
+                                    <td><a href="{{ route('usuarios.presentacionesCarr') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.presentacionesCarr') }}">Carreras</a></th>
                                     <td>7 elementos</td>
                                   </tr>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.presentacionesSLW') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.presentacionesSLW') }}">Postgrado</a></th>
-                                    <td>7 elementos</td>
+                                    <td><a href="{{ route('usuarios.FlyersPG') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.FlyersPG') }}">Postgrado</a></th>
+                                    <td>26 elementos</td>
                                   </tr>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.presentacionesSLW') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.presentacionesSLW') }}">En línea</a></th>
-                                    <td>7 elementos</td>
+                                    <td><a href="{{ route('usuarios.FlyersEL') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.FlyersEL') }}">En línea</a></th>
+                                    <td>21 elementos</td>
                                   </tr>
   
                                 </tbody>
@@ -147,7 +147,7 @@
                           </div>
                           </div>
                         </div>
-                    </div>
+                  <!--  </div>
                     <div class="col-md-4">
                       <div id="accordion3" class="br-menu-item show-sub">
                         <div class="panel">

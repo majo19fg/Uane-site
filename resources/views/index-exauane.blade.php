@@ -757,6 +757,106 @@ integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb
                   <div class="row">
                     <div class="col-md-12">
                       <div class="owl-carousel-3col" data-nav="true">
+                        <div class="item">
+                          <article class="post clearfix maxwidth600 mb-sm-30">
+                            <div class="entry-header">
+                                <div class="video-popup">                
+                                    <a href="https://www.youtube.com/watch?v=VopyrT0W3cM" data-lightbox-gallery="youtube-video" title="Video">
+                                      <img alt="" src="/multi/images/exauane/LuisAngel.jpg" class="img-fullwidth">
+                                    </a>
+                                  </div>       
+                            </div>
+                            <div class="entry-content bg-white border-1px p-20">
+                              <h5 class="entry-title mt-0 pt-0"><a href="#">Luis Angel Leza - Gerente Gral. Leal México </a></h5>
+                              <p class="text-left mb-20 mt-15 font-13"> Luis Angel Leza es egresado de la Licenciatura de Administración de Recursos Humanos actualmente es Gerente Gral. de Leal México.</p>
+                              <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="https://www.youtube.com/watch?v=VopyrT0W3cM">Ver más</a>
+                              <ul class="list-inline entry-date pull-right font-12 mt-5">
+                                <li><span class="text-theme-colored">Feb 19, 2020</span></li>
+                              </ul>
+                              <div class="clearfix"></div>
+                            </div>
+                          </article>
+                        </div>
+                        <div class="item">
+                          <article class="post clearfix maxwidth600 mb-sm-30">
+                            <div class="entry-header">
+                                <div class="video-popup">                
+                                    <a href="https://www.youtube.com/watch?v=dacwDXhyDRM" data-lightbox-gallery="youtube-video" title="Video">
+                                      <img alt="" src="/multi/images/exauane/Omar.jpg" class="img-fullwidth">
+                                    </a>
+                                  </div>       
+                            </div>
+                            <div class="entry-content bg-white border-1px p-20">
+                              <h5 class="entry-title mt-0 pt-0"><a href="#">Omar Medrano - Logistica Whirlpool</a></h5>
+                              <p class="text-left mb-20 mt-15 font-13"> Omar Medrano es egresado de Ingenieria Industrial y de Sistemas actualmente trabaja en el area de Logistica  en la empresa Whirlpool.</p>
+                              <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="https://www.youtube.com/watch?v=dacwDXhyDRM">Ver más</a>
+                              <ul class="list-inline entry-date pull-right font-12 mt-5">
+                                <li><span class="text-theme-colored">Feb 19, 2020</span></li>
+                              </ul>
+                              <div class="clearfix"></div>
+                            </div>
+                          </article>
+                        </div>
+                        <div class="item">
+                          <article class="post clearfix maxwidth600 mb-sm-30">
+                            <div class="entry-header">
+                                <div class="video-popup">                
+                                    <a href="https://www.youtube.com/watch?v=M-BWkJsgEBc" data-lightbox-gallery="youtube-video" title="Video">
+                                      <img alt="" src="/multi/images/exauane/Fabiola.JPG" class="img-fullwidth">
+                                    </a>
+                                  </div>       
+                            </div>
+                            <div class="entry-content bg-white border-1px p-20">
+                              <h5 class="entry-title mt-0 pt-0"><a href="#">Fabiola Guerrero - Lic. en Nutrición en Muscular Gym</a></h5>
+                              <p class="text-left mb-20 mt-15 font-13"> Fabiola Guerrero es egresada de la Licenciatura en Nutrición actualmente en Muscular Gym.</p>
+                              <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="https://www.youtube.com/watch?v=M-BWkJsgEBc">Ver más</a>
+                              <ul class="list-inline entry-date pull-right font-12 mt-5">
+                                <li><span class="text-theme-colored">Feb 19, 2020</span></li>
+                              </ul>
+                              <div class="clearfix"></div>
+                            </div>
+                          </article>
+                        </div>
+                        <div class="item">
+                          <article class="post clearfix maxwidth600 mb-sm-30">
+                            <div class="entry-header">
+                                <div class="video-popup">                
+                                    <a href="https://www.youtube.com/watch?v=CyjM_kIlvfc" data-lightbox-gallery="youtube-video" title="Video">
+                                      <img alt="" src="/multi/images/exauane/Blanca.jpg" class="img-fullwidth">
+                                    </a>
+                                  </div>       
+                            </div>
+                            <div class="entry-content bg-white border-1px p-20">
+                              <h5 class="entry-title mt-0 pt-0"><a href="#">Blanca Contretras - Titular del area de fiscalización en IEC</a></h5>
+                              <p class="text-left mb-20 mt-15 font-13">Blanca Contreras es egresada de Licenciatura en Derecho actualmente es Titular del area de fiscalización en IEC.</p>
+                              <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="https://www.youtube.com/watch?v=CyjM_kIlvfc">Ver más</a>
+                              <ul class="list-inline entry-date pull-right font-12 mt-5">
+                                <li><span class="text-theme-colored">Feb 19, 2020</span></li>
+                              </ul>
+                              <div class="clearfix"></div>
+                            </div>
+                          </article>
+                        </div>
+                        <div class="item">
+                          <article class="post clearfix maxwidth600 mb-sm-30">
+                            <div class="entry-header">
+                                <div class="video-popup">                
+                                    <a href="https://www.youtube.com/watch?v=RTxfQEFVY-I" data-lightbox-gallery="youtube-video" title="Video">
+                                      <img alt="" src="/multi/images/exauane/Beatriz.jpg" class="img-fullwidth">
+                                    </a>
+                                  </div>       
+                            </div>
+                            <div class="entry-content bg-white border-1px p-20">
+                              <h5 class="entry-title mt-0 pt-0"><a href="#">Beatríz Espinosa - RH en VINSSA</a></h5>
+                              <p class="text-left mb-20 mt-15 font-13"> Beatríz Espinosa es egresado de Licenciatura en Recursos Humanos actualmente esta a cargo del departamento de Recursos Humanos en VINSSA.</p>
+                              <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="https://www.youtube.com/watch?v=RTxfQEFVY-I">Ver más</a>
+                              <ul class="list-inline entry-date pull-right font-12 mt-5">
+                                <li><span class="text-theme-colored">Feb 19, 2019</span></li>
+                              </ul>
+                              <div class="clearfix"></div>
+                            </div>
+                          </article>
+                        </div>
                           <div class="item">
                               <article class="post clearfix maxwidth600 mb-sm-30">
                                 <div class="entry-header">
