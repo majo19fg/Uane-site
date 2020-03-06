@@ -71,6 +71,7 @@ Route::get('/MensajesRector', 'PagesController@MensajeRector')->name('blog.Mensa
 Route::get('/MensajesRector/Bienvenidos2019', 'PagesController@MensajeRector12')->name('blog.Mensaje12-09-19');
 Route::get('/MensajesRector/AñoNuevo2020', 'PagesController@Mensaje20')->name('blog.Mensaje20-01-2020');
 Route::get('/MensajesRector/Responsabilidad', 'PagesController@Mensaje06')->name('blog.Mensaje06-02-2020');
+Route::get('/MensajesRector/Desarrollo Humano', 'PagesController@Mensaje05')->name('blog.Mensaje05-03-2020');
 Route::get('/Noticias/45aniversario', 'PagesController@NoticiasEventos11')->name('blog.45aniversario');
 Route::get('/Noticias/45aniversario/Pasteles', 'PagesController@Pasteles')->name('blog.Pasteles');
 Route::get('/VozUane/soyuane', 'PagesController@soyuane')->name('blog.soyuane');

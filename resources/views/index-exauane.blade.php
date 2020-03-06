@@ -63,13 +63,6 @@ integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb
 <body class="">
 <div id="wrapper" class="clearfix">
   <!-- preloader -->
-  <div id="preloader">
-    <div id="spinner">
-      <img src="{{ asset('/multi/images/preloaders/Logo-45años-1000.gif') }}"/>
-    </div>
-    <div id="disable-preloader" class="btn btn-default btn-sm">Disable Preloader</div>
-  </div>
-
 
   <!-- Header -->
   @include('partial.menu')
