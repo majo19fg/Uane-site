@@ -38,7 +38,7 @@
                   </ul>
                 </div>
                 <div class="entry-content mt-10">
-                  <p style="text-align: justify;">No tengo el honor de dirigirme a toda la comunidad universitaria para hablar de otro de los pilaresque sustentan nuestra casa de  estudios.</p>
+                  <p style="text-align: justify;">Tengo el honor de dirigirme a toda la comunidad universitaria para hablar de otro de los pilares que sustentan nuestra casa de  estudios.</p>
 
                   <p style="text-align: justify;">El desarrollo humano, es uno de los valores más importantes pues desde los inicios de UANE se pusieron las bases para lograr que esta institución educativa ofreciera un ambiente de oportunidades, respeto y confianza que motivara la pasión por el aprendizaje y la superación permanentes.</p>
 

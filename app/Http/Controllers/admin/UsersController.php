@@ -233,6 +233,24 @@ class UsersController extends Controller
         return view('admin.marketingbox.FlyersEL');
 
     } 
+    public function Banner() 
+    {
+
+        return view('admin.marketingbox.Banner');
+
+    } 
+    public function Facebook() 
+    {
+
+        return view('admin.marketingbox.Facebook');
+
+    } 
+    public function Instagram() 
+    {
+
+        return view('admin.marketingbox.Instagram');
+
+    } 
     public function lista_encuesta()
     {
         $encuestas = Encuesta::all();

@@ -152,6 +152,9 @@ Route::group(['prefix' => 'mkt-user', 'namespace' => 'admin', 'middleware' => 'a
     Route::get('/usuarios/MKTBOX/FlyersRey', 'UsersController@FlyersRey')->name('usuarios.FlyersRey');
     Route::get('/usuarios/MKTBOX/FlyersPG', 'UsersController@FlyersPG')->name('usuarios.FlyersPG');
     Route::get('/usuarios/MKTBOX/FlyersEL', 'UsersController@FlyersEL')->name('usuarios.FlyersEL');
+    Route::get('/usuarios/MKTBOX/Banner', 'UsersController@Banner')->name('usuarios.Banner');
+    Route::get('/usuarios/MKTBOX/Facebook', 'UsersController@Facebook')->name('usuarios.Facebook');
+    Route::get('/usuarios/MKTBOX/Instagram', 'UsersController@Instagram')->name('usuarios.Instagram');
     
     //usuarios
     Route::get('/usuarios', 'UsersController@index')->name('mostrar.usuarios');

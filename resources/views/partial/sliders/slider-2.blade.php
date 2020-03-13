@@ -2,6 +2,50 @@
 <div class="rev_slider_wrapper">
   <div class="rev_slider" data-version="5.0">
     <ul>
+      <!--slide ranking de universidades--
+          <li data-index="rs-7" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default"
+          data-easeout="default" data-masterspeed="default" data-thumb="/multi/images/sliders/Liston.jpg"
+          data-rotate="0" data-saveperformance="off" data-title="Web Show" data-description="">
+          <!-- MAIN IMAGE --
+          <img src="/multi/images/sliders/Unidos-Fondo.jpg" alt="" data-bgposition="center 10%" data-bgfit=""
+            data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="6" data-no-retina><a href="#"></a>
+          <!--LAYERS --
+  
+          <!-- LAYER NR. 1 --
+          <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left','left',middle','middle']"
+            data-hoffset="['-50','-50','-1000','-1000']" data-y="['center','center','middle','middle']"
+            data-voffset="['-50']" data-fontsize="['70','70','70','70']"
+            data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+            data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+            data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+            data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+            data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+            style="z-index: 7; white-space: nowrap; font-weight:900; color:#e7c209;"><img src="/multi/images/sliders/Liston.png" alt=""></a>
+          </div>
+           <!-- LAYER NR. 2 --
+          <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left','left',middle','middle']"
+            data-hoffset="['280','280','0','0']" data-y="['center','center','middle','middle']" de Enero 
+            data-voffset="['-150']" data-fontsize="['70','70','70','70']"
+            data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+            data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+            data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+            data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+            data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+            style="z-index: 7; white-space: nowrap; font-weight:900; color:#e7c209;"><img src="/multi/images/sliders/UNIDOS.png" alt=""></a>
+          </div>
+          <!-- LAYER NR. 3 --
+          <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left','left',middle','middle']"
+            data-hoffset="['100','100','-1000','-1000']" data-y="['center','center','middle','middle']"
+            data-voffset="['120']" data-fontsize="['70','70','70','70']"
+            data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+            data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+            data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+            data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+            data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+            style="z-index: 7; white-space: nowrap; font-weight:900; color:#e7c209;"><img src="/multi/images/sliders/Manos.png" alt=""></a>
+          </div>
+         </li>-->
+
           <!--slide 55 diciembre-->
           <li data-index="rs-6" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default"
           data-easeout="default" data-masterspeed="default" data-thumb="/multi/images/sliders/slider-dit.jpg"
@@ -161,7 +205,6 @@
             data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
             style="z-index: 7; white-space: nowrap; font-weight:900; color:#e7c209;"><a href="http://www.rankinguniversitario.mx?pagina=UANE"><img src="/multi/images/sliders/6.png" alt=""></a>
           </div>
-
            <!-- LAYER NR. 2 --
           <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left','left',middle','middle']"
             data-hoffset="['-2000','-2000','0','0']" data-y="['center','center','middle','middle']" de Enero 
@@ -183,7 +226,6 @@
         <img src="/multi/images/sliders/EXAUANE - Slide escritorio.png" alt="" data-bgposition="center 10%" data-bgfit="cover"
           data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="0" data-no-retina>
         <!-- LAYERS --
-
         <!-- LAYER NR. 1 --
         <div class="tp-caption tp-resizeme text-left text-uppercase font-raleway" id="rs-2-layer-1"
           data-x="['left','left','center','center']" data-hoffset="['210','210','-30','-30']" data-y="['center','center','middle','middle']"
@@ -219,7 +261,6 @@
           style="z-index: 7; white-space: nowrap; font-weight:700; font-family: 'Raleway', sans-serif; color:#fff;">
          <br>Encuesta de&nbsp;
         </div>
-
         <!-- LAYER NR. 3 --
         <div class="tp-caption tp-resizeme text-white text-center font-raleway " id="rs-2-layer-3"
           data-x="['left','left','center','center']" data-hoffset="['660','660','230','230']" data-y="['center']"
@@ -231,7 +272,6 @@
           data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on"
           style="z-index: 7; white-space: nowrap; font-weight:700; "><br>Empleabilidad&nbsp;
         </div>
-
         <!-- LAYER NR. 4 --
         <div class="tp-caption tp-resizeme text-white text-center font-raleway" id="rs-2-layer-4"
           data-x="['left','left','center','center']" data-hoffset="['720','720','250','250']" data-y="['center']"
@@ -258,7 +298,6 @@
         <!-- LAYER NR. 1 --
                 <div class="tp-caption tp-resizeme font-raleway"
                   id="rs-1-layer-1"
-
                   data-x="['left','left','center','center']"
                   data-hoffset="['600','600','0','0']"
                   data-y="['center','center','middle','middle']"
@@ -279,10 +318,8 @@
                   data-responsive_offset="on"
                   style="z-index: 7; white-space: nowrap; font-weight:900; color:#e7c209;">&nbsp;¡Ayúdanos a mejorar!&nbsp;
                 </div>
-
                 <div class="tp-caption tp-resizeme font-raleway"
                   id="rs-1-layer-1"
-
                   data-x="['left','left','center','center']"
                   data-hoffset="['800','800','140','140']"
                   data-y="['center','center','middle','middle']"
@@ -303,10 +340,8 @@
                   data-responsive_offset="on"
                   style="z-index: 7; white-space: nowrap; font-weight:600; color:#fff;">&nbsp;Contesta nuestra&nbsp;
                 </div>
-
                 <div class="tp-caption tp-resizeme font-raleway"
                   id="rs-1-layer-1"
-
                   data-x="['left','left','center','center']"
                   data-hoffset="['900','900','215','215']"
                   data-y="['center','center','middle','middle']"
@@ -327,11 +362,8 @@
                   data-responsive_offset="on"
                   style="z-index: 7; white-space: nowrap; font-weight:800; color:#fff;">&nbsp;Encuesta&nbsp;
                 </div>
-
-
                 <div class="tp-caption tp-resizeme font-raleway"
                   id="rs-1-layer-1"
-
                   data-x="['left','left','center','center']"
                   data-hoffset="['880','880','200','200']"
                   data-y="['center','center','center','center']"
@@ -352,10 +384,8 @@
                   data-responsive_offset="on"
                   style="z-index: 7; white-space: nowrap; font-weight:800; color:#fff;">&nbsp;de Medios&nbsp;
                 </div>
-
                 <div class="tp-caption tp-resizeme" 
                   id="rs-1-layer-5"
-
                   data-x="['left','left','center','center']"
                   data-hoffset="['0','0','-50','-50']"
                   data-y="['center']"
@@ -374,7 +404,6 @@
                   data-responsive_offset="on"
                   style="z-index: 5; white-space: nowrap; font-weight:700;"><img src="/multi/images/sliders/Slide Encuesta Medios Chica.png" alt=""> 
                 </div>
-
                 <!-- LAYER NR. 5 --
                 <div class="tp-caption tp-resizeme text-white text-center font-raleway" id="rs-2-layer-4"
                 data-x="['left','left','center','center']" 
@@ -397,7 +426,6 @@
                 style="z-index: 5; white-space: nowrap; letter-spacing:1px; font-family: 'Raleway', sans-serif; font-weight:600; background:#de453b; color:#fff; border-radius:10px;">
                 <a class="btn btn-colored btn-lg btn-flat text-white pl-20 pr-20" href="{{ route('encuesta') }}">¡Ingresa aquí!</a>
                 </div>
-
                 <div class="tp-caption tp-resizeme font-raleway"
                 id="rs-1-layer-1"
                 data-x="['left','left','center','center']"
@@ -442,7 +470,6 @@
               data-responsive_offset="on"
               style="z-index: 7; white-space: nowrap; font-weight:800; color:#40BAB3;">&nbsp;en modalidad presencial&nbsp;
             </div>
-
               <div class="tp-caption tp-resizeme font-raleway"
               id="rs-1-layer-1"
               data-x="['left','left','center','center']"
@@ -512,7 +539,6 @@
                 <!-- LAYER NR. 6 --
                 <div class="tp-caption tp-resizeme font-raleway text-center" 
                   id="rs-1-layer-5"
-
                   data-x="['center','center','center','center']"
                   data-hoffset="['250','250','0','0']"
                   data-y="['middle']"
@@ -533,10 +559,8 @@
                   data-responsive_offset="on"
                   style="z-index: 5; white-space: nowrap; letter-spacing:2px; font-weight:600; background:#fff; color:#73243d;">&nbsp;en todas las <b>Mensualidades</b>&nbsp;
                 </div>
-
                 <div class="tp-caption tp-resizeme font-raleway text-center" 
                   id="rs-1-layer-5"
-
                   data-x="['center','center','center','center']"
                   data-hoffset="['250','250','0','0']"
                   data-y="['middle']"
@@ -560,7 +584,6 @@
                 
                 <div class="tp-caption tp-resizeme font-raleway text-center" 
                   id="rs-1-layer-5"
-
                   data-x="['center','center','center','center']"
                   data-hoffset="['250','250','0','0']"
                   data-y="['middle']"
@@ -581,12 +604,10 @@
                   data-responsive_offset="on"
                   style="z-index: 5; white-space: nowrap; letter-spacing:2px; font-weight:600; background:#fff; color:#73243d;"> &nbsp;Presencial. &nbsp;
                 </div>          
-
                 
                 <!-- LAYER NR. 10 --
                 <div class="tp-caption tp-resizeme font-raleway text-center" 
                   id="rs-1-layer-7"
-
                   data-x="['center','center','center','center']"
                   data-hoffset="['250 ','250 ','0','0']"
                   data-y="['middle']"
@@ -607,11 +628,9 @@
                   data-responsive_offset="on"
                   style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:200; color:#fff;">&nbsp;*Aplican restricciones. Válido hasta el 12 de Octubre de 2019.<br>Únicamente para nuevo ingreso de Especialidad y Maestría<br>trimestre Septiembre - Diciembre 2019.&nbsp;
                 </div>
-
                
               </li>
       <!-- SLIDE 1 --
-
       <li data-index="rs-2" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default"
         data-easeout="default" data-masterspeed="default" data-thumb="/multi/images/sliders/slider-dit.jpg"
         data-rotate="0" data-saveperformance="off" data-title="Web Show" data-description="">
@@ -619,7 +638,6 @@
         <img src="/multi/images/sliders/slider-dit.jpg" alt="" data-bgposition="center 10%" data-bgfit=""
           data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="6" data-no-retina><a href="#"></a>
         <!--LAYERS --
-
         <!-- LAYER NR. 1 --
         <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left','left',middle','middle']"
           data-hoffset="['0']" data-y="['center','center','middle','middle']"
@@ -631,7 +649,6 @@
           data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
           style="z-index: 7; white-space: nowrap; font-weight:900; color:#e7c209;">&nbsp;¡APROVECHA!&nbsp;
         </div>
-
         <!-- LAYER NR. 2 --
         <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left','left',middle','middle']"
           data-hoffset="['0']" data-y="['center','center','middle','middle']"
@@ -643,7 +660,6 @@
           data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
           style="z-index: 7; white-space: nowrap; font-weight:900; color:#fff;">&nbsp;LLEGÓ&nbsp;
         </div>
-
         <!-- LAYER NR. 3 --
         <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left','left',middle','middle']"
           data-hoffset="['0']" data-y="['center','center','middle','middle']" data-voffset="['-60','-60','-215','-215']"
@@ -655,7 +671,6 @@
           data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
           style="z-index: 7; white-space: nowrap; font-weight:900; color:#fff;">&nbsp;EL MOMENTO&nbsp;
         </div>
-
         <!-- LAYER NR. 4 --
         <div class="tp-caption tp-resizeme font-raleway text-center" id="rs-1-layer-5"
           data-x="['left','left',middle','middle']" data-hoffset="['130','130','0','0']"
@@ -669,7 +684,6 @@
           style="z-index: 5; white-space: nowrap; letter-spacing:2px; font-weight:800; background:#fff; color:#73243d;">
           &nbsp;Estudia tu&nbsp;
         </div>
-
         <!-- LAYER NR. 5 --
         <div class="tp-caption tp-resizeme font-raleway text-center" id="rs-1-layer-5"
           data-x="['left','left','center','center']" data-hoffset="['30','30','0','0']"
@@ -683,7 +697,6 @@
           style="z-index: 5; white-space: nowrap; letter-spacing:2px; font-weight:800; background:#E7C209; color:#73243d;">
           &nbsp;Bachillerato o Carrera&nbsp;
         </div>
-
         <!-- LAYER NR. 6 --
         <div class="tp-caption tp-resizeme font-raleway text-center" id="rs-1-layer-5"
           data-x="['left','left','center','center']" data-hoffset="['130','130','0','0']"
@@ -707,7 +720,6 @@
           data-start="1300" data-splitin="none" data-splitout="none" data-responsive_offset="on"
           style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><img src="/multi/images/sliders/55.jpg" alt="">
         </div>
-
         <!-- LAYER NR. 6 --
         <div class="tp-caption tp-resizeme font-raleway text-center" id="rs-1-layer-5"
           data-x="['center','center','center','center']" data-hoffset="['290','290','0','0']" data-y="['middle']"
@@ -732,7 +744,6 @@
           style="z-index: 5; white-space: nowrap; letter-spacing:2px; font-weight:600; background:#fff; color:#73243d;">
           &nbsp;de tu primer semestre.&nbsp;
         </div>
-
         <!-- LAYER NR. 8 --
         <div class="tp-caption tp-resizeme font-raleway text-center" id="rs-1-layer-7"
           data-x="['center','center','center','center']" data-hoffset="['290 ','290 ','0','0']" data-y="['middle']"
@@ -746,10 +757,7 @@
           restricciones. Válido hasta el 30 de noviembre de 2019.<br>Únicamente para nuevo ingreso de semestre<br>Julio
           - Diciembre 2020.&nbsp;
         </div>
-
-
       </li>
-
       <!-- SLIDE 2 -->
 
 

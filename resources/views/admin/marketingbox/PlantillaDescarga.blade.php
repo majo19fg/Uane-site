@@ -237,10 +237,9 @@
                             <div class="panel-content">
                               <table border-collapse: separate; style>
                                 <colgroup>
-                                  <col style="width: 5%"/>                                    
-                                  <col style="width: 40%"/>
-                                  <col style="width: 20%"/>
-                                  <col style="width: 20%"/>
+                                  <col style="width: 15%"/>                                    
+                                  <col style="width: 55%"/>
+                                  <col style="width: 30%"/>
                                 </colgroup>
                                 <thead>
                                   <tr>
@@ -253,46 +252,20 @@
                                 </tfoot>
                                 <tbody>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.presentacionesSLW') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.presentacionesSLW') }}">Saltillo</a></th>
-                                    <td>7 elementos</td>
+                                    <td><a href="{{ route('usuarios.Banner') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.Banner') }}">Banner</a></th>
+                                    <td>2 elementos</td>
                                   </tr>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.presentacionesSLW') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.presentacionesSLW') }}">Torreón</a></th>
-                                    <td>7 elementos</td>
+                                    <td><a href="{{ route('usuarios.Facebook') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.Facebook') }}">Facebook</a></th>
+                                    <td>2 elementos</td>
                                   </tr>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.presentacionesSLW') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.presentacionesSLW') }}">Monclova</a></th>
-                                    <td>7 elementos</td>
+                                    <td><a href="{{ route('usuarios.Instagram') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.Instagram') }}">Instagram</a></th>
+                                    <td>3 elementos</td>
                                   </tr>
-                                  <tr>
-                                    <td><a href="{{ route('usuarios.presentacionesSLW') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.presentacionesSLW') }}">Sabinas</a></th>
-                                    <td>7 elementos</td>
-                                  </tr>
-                                  <tr>
-                                    <td><a href="{{ route('usuarios.presentacionesSLW') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.presentacionesSLW') }}">Piedras Negras</a></th>
-                                    <td>7 elementos</td>
-                                  </tr>
-                                  <tr>
-                                    <td><a href="{{ route('usuarios.presentacionesSLW') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.presentacionesSLW') }}">Monterrey</a></th>
-                                    <td>7 elementos</td>
-                                  </tr>
-                                  <tr>
-                                    <td><a href="{{ route('usuarios.presentacionesSLW') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.presentacionesSLW') }}">Reynosa</a></th>
-                                    <td>7 elementos</td>
-                                  </tr>
-                                  <tr>
-                                    <td><a href="{{ route('usuarios.presentacionesSLW') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.presentacionesSLW') }}">Matamoros</a></th>
-                                    <td>7 elementos</td>
-                                  </tr>
-  
                                 </tbody>
                               </table>
                             </div>
