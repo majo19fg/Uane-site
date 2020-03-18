@@ -46,16 +46,16 @@
           </div>
          </li>-->
 
-          <!--slide 55 diciembre-->
+          <!--slide 55 diciembre--
           <li data-index="rs-6" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default"
           data-easeout="default" data-masterspeed="default" data-thumb="/multi/images/sliders/slider-dit.jpg"
           data-rotate="0" data-saveperformance="off" data-title="Web Show" data-description="">
-          <!-- MAIN IMAGE -->
+          <!-- MAIN IMAGE --
           <img src="/multi/images/sliders/slider-dit.jpg" alt="" data-bgposition="center 10%" data-bgfit=""
             data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="6" data-no-retina><a href="#"></a>
           <!--LAYERS -->
   
-          <!-- LAYER NR. 1 -->
+          <!-- LAYER NR. 1 --
           <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left','left',middle','middle']"
             data-hoffset="['0']" data-y="['center','center','middle','middle']"
             data-voffset="['-200','-200','-350','-350']" data-fontsize="['70','70','70','70']"
@@ -67,7 +67,7 @@
             style="z-index: 7; white-space: nowrap; font-weight:900; color:#F4C300;">&nbsp;¡PREPÁRATE!&nbsp;
           </div>
   
-          <!-- LAYER NR. 2 -->
+          <!-- LAYER NR. 2 --
           <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left','left',middle','middle']"
             data-hoffset="['0']" data-y="['center','center','middle','middle']"
             data-voffset="['-120','-120','-270','-270']" data-fontsize="['70','70','70','70']"
@@ -78,7 +78,7 @@
             data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
             style="z-index: 7; white-space: nowrap; font-weight:900; color:#fff;">&nbsp;LLEGÓ&nbsp;
           </div>
-          <!-- LAYER NR. 3 -->
+          <!-- LAYER NR. 3 --
           <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left','left',middle','middle']"
             data-hoffset="['0']" data-y="['center','center','middle','middle']" data-voffset="['-60','-60','-215','-215']"
             data-fontsize="['70','70','70','70']" data-lineheight="['120','120','60','60']" data-width="none"
@@ -90,7 +90,7 @@
             style="z-index: 7; white-space: nowrap; font-weight:900; color:#fff;">&nbsp;EL MOMENTO&nbsp;
           </div>
   
-          <!-- LAYER NR. 4 -->
+          <!-- LAYER NR. 4 --
           <div class="tp-caption tp-resizeme font-raleway text-center" id="rs-1-layer-5"
             data-x="['left','left',middle','middle']" data-hoffset="['130','130','0','0']"
             data-y="['center','center','middle','middle']" data-voffset="['52','52','-140','90']"
@@ -104,7 +104,7 @@
             &nbsp;Estudia tu&nbsp;
           </div>
   
-          <!-- LAYER NR. 5 -->
+          <!-- LAYER NR. 5 --
           <div class="tp-caption tp-resizeme font-raleway text-center" id="rs-1-layer-5"
             data-x="['left','left','center','center']" data-hoffset="['30','30','0','0']"
             data-y="['center','center','middle','middle']" data-voffset="['100','100','-90','175']"
@@ -118,7 +118,7 @@
             &nbsp;Bachillerato o Carrera&nbsp;
           </div>
   
-          <!-- LAYER NR. 6 -->
+          <!-- LAYER NR. 6 --
           <div class="tp-caption tp-resizeme font-raleway text-center" id="rs-1-layer-5"
             data-x="['left','left','center','center']" data-hoffset="['130','130','0','0']"
             data-y="['center','center','middle','middle']" data-voffset="['149','149','-40','-52']"
@@ -131,7 +131,7 @@
             style="z-index: 5; white-space: nowrap; letter-spacing:2px; font-weight:800; background:#40BAB3; color:#fff;">
             &nbsp;Presencial&nbsp;
           </div>
-          <!-- LAYER NR. 5 -->
+          <!-- LAYER NR. 5 --
           <div class="tp-caption tp-resizeme" id="rs-1-layer-5" data-x="['center','center','center','center']"
             data-hoffset="['300','300','0','0']" data-y="['middle']" data-voffset="['-120','120','130','50']"
             data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500"
@@ -142,7 +142,7 @@
             style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><img src="/multi/images/sliders/dit-40.jpg" alt="">
           </div>
   
-          <!-- LAYER NR. 6 -->
+          <!-- LAYER NR. 6 --
           <div class="tp-caption tp-resizeme font-raleway text-center" id="rs-1-layer-5"
             data-x="['center','center','center','center']" data-hoffset="['290','290','0','0']" data-y="['middle']"
             data-voffset="['60','60','280','195']" data-fontsize="['30']" data-lineheight="['50']" data-width="none"
@@ -155,7 +155,7 @@
             &nbsp;en todas las <b>mensualidades</b>&nbsp;
           </div>
   
-          <!-- LAYER NR. 7-->
+          <!-- LAYER NR. 7--
           <div class="tp-caption tp-resizeme font-raleway text-center" id="rs-1-layer-5"
             data-x="['center','center','center','center']" data-hoffset="['290','290','0','0']" data-y="['middle']"
             data-voffset="['110','110','320','175']" data-fontsize="['30']" data-lineheight="['50']" data-width="none"
@@ -168,7 +168,7 @@
             &nbsp;de tu primer semestre.&nbsp;
           </div>
   
-          <!-- LAYER NR. 8 -->
+          <!-- LAYER NR. 8 --
           <div class="tp-caption tp-resizeme font-raleway text-center" id="rs-1-layer-7"
             data-x="['center','center','center','center']" data-hoffset="['290 ','290 ','0','0']" data-y="['middle']"
             data-voffset="['175','175','395','395']" data-fontsize="['16','16','18','18']"
@@ -184,38 +184,69 @@
   
   
         </li>
-  
-          <!--slide ranking de universidades--
-          <li data-index="rs-7" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default"
-          data-easeout="default" data-masterspeed="default" data-thumb="/multi/images/sliders/5.jpg"
+                  <!--slide ranking de universidades-->
+                  <li data-index="rs-7" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default"
+                  data-easeout="default" data-masterspeed="default" data-thumb=""
+                  data-rotate="0" data-saveperformance="off" data-title="Web Show" data-description="">
+                  <!-- MAIN IMAGE -->
+                  <img src="" alt="" data-bgposition="center 10%" data-bgfit=""
+                    data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="6" data-no-retina><a href="#"></a>
+                            <!--LAYERS -->
+          
+                  <!-- LAYER NR. 1 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['middle']"
+                    data-hoffset="['0']" data-y="['middle']"
+                    data-voffset="['0']" data-fontsize="['70','70','70','70']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><img src="/multi/images/sliders/COMUNICADO-CH.jpg" alt="">
+          </div>
+          </li>
+
+           <!--slide ranking de universidades-->
+          <li data-index="rs-8" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default"
+          data-easeout="default" data-masterspeed="default" data-thumb=""
           data-rotate="0" data-saveperformance="off" data-title="Web Show" data-description="">
-          <!-- MAIN IMAGE --
-          <img src="/multi/images/sliders/2.jpg" alt="" data-bgposition="center 10%" data-bgfit=""
-            data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="6" data-no-retina><a href="#"></a>
-          <!--LAYERS -->
-  
-          <!-- LAYER NR. 1 --
-          <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left','left',middle','middle']"
-            data-hoffset="['-230','-230','-1000','-1000']" data-y="['center','center','middle','middle']"
+           <!-- MAIN IMAGE -->
+          <img src="" alt="" data-bgposition="center 10%" data-bgfit=""
+          data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="6" data-no-retina><a href="#"></a>
+                            <!--LAYERS -->
+      
+          <!-- LAYER NR. 1 -->
+          <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['middle']"
+            data-hoffset="['0']" data-y="['middle']"
             data-voffset="['0']" data-fontsize="['70','70','70','70']"
             data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
             data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
             data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
             data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
             data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-            style="z-index: 7; white-space: nowrap; font-weight:900; color:#e7c209;"><a href="http://www.rankinguniversitario.mx?pagina=UANE"><img src="/multi/images/sliders/6.png" alt=""></a>
+            style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><img src="/multi/images/sliders/COMUNICADO3-CH.jpg" alt="">
           </div>
-           <!-- LAYER NR. 2 --
-          <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left','left',middle','middle']"
-            data-hoffset="['-2000','-2000','0','0']" data-y="['center','center','middle','middle']" de Enero 
+          </li>
+           <!--slide ranking de universidades-->
+          <li data-index="rs-9" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default"
+          data-easeout="default" data-masterspeed="default" data-thumb=""
+          data-rotate="0" data-saveperformance="off" data-title="Web Show" data-description="">
+           <!-- MAIN IMAGE -->
+          <img src="" alt="" data-bgposition="center 10%" data-bgfit=""
+          data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="6" data-no-retina><a href="#"></a>
+                            <!--LAYERS -->
+           <!-- LAYER NR. 3 -->
+          <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['middle']"
+            data-hoffset="['0']" data-y="['middle']"
             data-voffset="['0']" data-fontsize="['70','70','70','70']"
             data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
             data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
             data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
             data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
             data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-            style="z-index: 7; white-space: nowrap; font-weight:900; color:#e7c209;"><a href="http://www.rankinguniversitario.mx?pagina=UANE"><img src="/multi/images/sliders/7.jpg" alt=""></a>
+            style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><img src="/multi/images/sliders/COMUNICADO2-CH.jpg" alt="">
           </div>
+
          </li>
   
       <!-- SLIDE 3 --
@@ -761,16 +792,16 @@
       <!-- SLIDE 2 -->
 
 
-              <!-- SLIDE 3 -->
+              <!-- SLIDE 3 --
       <li data-index="rs-3" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default"
         data-easeout="default" data-masterspeed="default" data-thumb="/multi/images/sliders/enlinea.jpg" data-rotate="0"
         data-saveperformance="off" data-title="Web Show" data-description="">
-        <!-- MAIN IMAGE -->
+        <!-- MAIN IMAGE --
         <img src="/multi/images/sliders/slider-dit.jpg" alt="" data-bgposition="center 50%" data-bgfit="cover"
           data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="6" data-no-retina>
         <!-- LAYERS -->
 
-        <!-- LAYER NR. 1 -->
+        <!-- LAYER NR. 1 --
         <div class="tp-caption tp-resizeme text-left text-uppercase font-raleway" id="rs-2-layer-1"
           data-x="['left','left','center','center']" data-hoffset="['0']" data-y="['center','center','middle','middle']"
           data-voffset="['-225','-225','-370','-370']" data-fontsize="['55']" data-lineheight="['60']" data-width="none"
@@ -781,7 +812,7 @@
           data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on"
           style="z-index: 7; white-space: nowrap; font-weight:900;color:#fff; ">&nbsp;LLEGÓ&nbsp;
         </div>
-        <!-- LAYER NR. 1 -->
+        <!-- LAYER NR. 1 --
         <div class="tp-caption tp-resizeme text-left text-uppercase font-raleway" id="rs-2-layer-1"
           data-x="['left','left','center','center']" data-hoffset="['0']" data-y="['center','center','middle','middle']"
           data-voffset="['-178','-178','-320','-320']" data-fontsize="['55']" data-lineheight="['60']" data-width="none"
@@ -792,7 +823,7 @@
           data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on"
           style="z-index: 7; white-space: nowrap; font-weight:900;color:#fff; ">&nbsp;EL MOMENTO&nbsp;
         </div>
-        <!-- LAYER NR. 2 -->
+        <!-- LAYER NR. 2 --
         <div class="tp-caption tp-resizeme text-left font-raleway " id="rs-2-layer-2"
           data-x="['left','left','center','center']" data-hoffset="['13']" data-y="['center']"
           data-voffset="['-85','-85','-230','-230']" data-fontsize="['28','28','30','30']" data-lineheight="['35']"
@@ -805,7 +836,7 @@
           Estudia tu Carrera, Especialidad <br>o Maestría con nuestros Programas&nbsp;
         </div>
 
-        <!-- LAYER NR. 3 -->
+        <!-- LAYER NR. 3 --
         <div class="tp-caption tp-resizeme text-white text-center font-raleway " id="rs-2-layer-3"
           data-x="['left','left','center','center']" data-hoffset="['13','13','-70','-70']" data-y="['center']"
           data-voffset="['-15','-15','-40','-40']" data-fontsize="['30','30','30','30']" data-lineheight="['50']"
@@ -818,7 +849,7 @@
             width="100px" alt="">
         </div>
 
-        <!-- LAYER NR. 4 -->
+        <!-- LAYER NR. 4 --
         <div class="tp-caption tp-resizeme text-white text-center font-raleway" id="rs-2-layer-4"
           data-x="['left','left','center','center']" data-hoffset="['13','13','-70','-70']" data-y="['center']"
           data-voffset="['80','80','40','40']" data-width="none" data-height="none" data-fontsize="['25']"
@@ -845,15 +876,15 @@
       </li>
 
 
-      <!-- SLIDE 4 -->
+      <!-- SLIDE 4 --
       <li data-index="rs-4" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default"
         data-easeout="default" data-masterspeed="default" data-thumb="/multi/images/sliders/slider-rector.jpg"
         data-rotate="0" data-saveperformance="off" data-title="Web Show" data-description="">
-        <!-- MAIN IMAGE -->
+        <!-- MAIN IMAGE --
         <img src="/multi/images/sliders/banner.jpg" alt="" data-bgposition="center 10%" data-bgfit=""
           data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="6" data-no-retina><a href="#"></a>
-        <!-- LAYERS -->
-        <div class="tp-caption tp-resizeme " id="rs-2-layer-1" data-x="['left','left','center','center']"
+        <!-- LAYERS --
+v        <div class="tp-caption tp-resizeme " id="rs-2-layer-1" data-x="['left','left','center','center']"
           data-hoffset="['600','600','50','50']" data-y="['center']" data-voffset="['0','0','150','150']"
           data-fontsize="['100']" data-lineheight="['110']" data-width="none" data-height="none"
           data-whitespace="nowrap" data-transform_idle="o:1;s:500"
@@ -864,7 +895,7 @@
           style="z-index: 7; white-space: nowrap; font-weight:700; "><img src="/multi/images/sliders/Rector editada.png"
             alt="">
         </div>
-        <!-- LAYER NR. 1 -->
+        <!-- LAYER NR. 1 --
         <div class="tp-caption tp-resizeme " id="rs-2-layer-1" data-x="['left','left','center','center']"
           data-hoffset="['0']" data-y="['center']" data-voffset="['-110','-110','-400','-400']" data-fontsize="['100']"
           data-lineheight="['110']" data-width="none" data-height="none" data-whitespace="nowrap"
@@ -876,7 +907,7 @@
             alt="">
         </div>
 
-        <!-- LAYER NR. 2 -->
+        <!-- LAYER NR. 2 --
         <div class="tp-caption tp-resizeme text-white text-center font-raleway " id="rs-2-layer-2"
           data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']" data-y="['center']"
           data-voffset="['-5','-5','-280','-280']" data-fontsize="['20','20','30','30']" data-lineheight="['30']"
@@ -890,7 +921,7 @@
           la comunidad de UANE
         </div>
 
-        <!-- LAYER NR. 4 -->
+        <!-- LAYER NR. 4 --
         <div class="tp-caption tp-resizeme text-white text-center font-raleway" id="rs-2-layer-4"
           data-x="['left','left','center','center']" data-hoffset="['110','110','0','0']" data-y="['center']"
           data-voffset="['70','70','-200','-200']" data-width="none" data-height="none" data-fontsize="['25']"
