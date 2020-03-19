@@ -224,7 +224,7 @@
             data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
             data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
             data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-            style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><img src="/multi/images/sliders/COMUNICADO3-CH.jpg" alt="">
+            style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><img src="/multi/images/sliders/COMUNICADO-CH4.jpg" alt="">
           </div>
           </li>
            <!--slide ranking de universidades-->
@@ -244,7 +244,7 @@
             data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
             data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
             data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-            style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><img src="/multi/images/sliders/COMUNICADO2-CH.jpg" alt="">
+            style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><img src="/multi/images/sliders/COMUNICADO3-CH.jpg" alt="">
           </div>
 
          </li>
