@@ -319,8 +319,9 @@
     <section id="event" class="">
       <div class="container pb-50">
         <div class="section-content">
-          <div class="row">
-            <div class="col-md-6">
+          <div class="row">              
+            <br/>
+            <div class="col-md-4">
               <h3 class="text-uppercase line-bottom mt-0 line-height-1"><i class="fa fa-calendar mr-10"></i>SIGUENOS EN <span class="text-theme-color-2">FACEBOOK</span></h3>
               <div class="fb-page" data-href="https://www.facebook.com/UANEOficial/" data-tabs="timeline" data-width="" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/UANEOficial/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/UANEOficial/">UANE</a></blockquote></div>
               <br/>
@@ -361,8 +362,15 @@
                 </div>
               </article> --}}
             </div>
-            <div class="col-md-6">
-              <h3 class="line-bottom mt-0 line-height-1">¿Por qué <span class="text-theme-color-2">UANE?</span></h3>
+            <div class="col-md-4">
+              <h3 class="text-uppercase line-bottom mt-0 line-height-1"><i class="fa fa-heartbeat mr-10"></i>Programa fitness <span class="text-theme-color-2">Uane</span></h3>
+              <div class="gallery">
+                  <div><a href="{{ asset('/multi/pdf/Programa fit UANE.pdf') }}"><img src="{{ asset('/multi/images/UANE-fit.jpg') }}"width="623px"id=experiencias1 /></a>
+                </div>
+              </div>  
+          </div> 
+            <div class="col-md-4">
+              <h3 class="line-bottom mt-0 line-height-1"><i class="fa fa-question-circle mr-10"></i>¿Por qué <span class="text-theme-color-2">UANE?</span></h3>
               {{-- <p class="mb-10">The Cweren Law Firm is a recognized leader in landlord tenant representation throughout Texas.The largest professional property.</p> --}}
               <div id="accordion1" class="panel-group accordion">
                 <div class="panel">

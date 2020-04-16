@@ -44,7 +44,7 @@
 
         <footer class="br-footer">
             <div class="footer-left">
-              <div class="mg-b-2">UANE &copy; 2019. </div>
+              <div class="mg-b-2">UANE &copy; 2020. </div>
             </div>
             <div class="footer-right d-flex align-items-center">
               

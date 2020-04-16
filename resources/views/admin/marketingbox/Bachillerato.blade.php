@@ -47,12 +47,6 @@
                                       <td>5.6 MB</td>
                                       <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EagUP-OEXaVEr1ayy3HHGZABqG7igGMLQfFlXWf_0-ZpCw?e=qNyhaQ"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
-                                    <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ETscsvw8Aq1EgDT3zGFqLnoB82Ud4PYjl-wOrBzMRBgftw?e=iduXuQ">BACH - NL - 2020.pdf</a></th>
-                                        <td>21 de Febrero</td>
-                                        <td>4.6 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ETscsvw8Aq1EgDT3zGFqLnoB82Ud4PYjl-wOrBzMRBgftw?e=iduXuQ"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                      </tr>
                                       <tr>
                                         <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ef0D0Nrm-8JEh_RsJRxDqBIBvMkhSaQNZUlwKVdJe0Ry9Q?e=gtiT9a">BMB - 2020.pdf</a></th>
                                         <td>21 de Febrero</td>

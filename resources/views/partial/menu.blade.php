@@ -86,6 +86,7 @@
                       <li><a href="{{ route('programas.maes') }}">Maestría</a></li>
                       <li><a href="{{ route('programas.esp') }}">Especialidad</a></li>
                       <li><a href="{{ route('programas.doc') }}">Doctorado</a></li>
+                      <li><a href="{{ route('programas.cursos') }}">Cursos en línea</a></li>
                     </ul>
                   </div>
                   <div class="col4">

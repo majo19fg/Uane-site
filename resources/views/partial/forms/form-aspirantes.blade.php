@@ -76,6 +76,7 @@
                                   <option  value="Maestría">Maestría</option>
                                   <option  value="Especialidad">Especialidad</option>
                                   <option  value="Doctorado">Doctorado</option>
+                                  <option  value="Cursos en Línea">Cursos en Línea</option>
                             </select>
                         </div>
                       </div>
@@ -316,6 +317,12 @@
                                     <option value="{{ $programa->title }}">{{ $programa->title }}</option>
                                 @endforeach
                             </optgroup>
+                            <optgroup class="CursoEnLinea">
+                              @foreach ($CursoEnLinea as $programa)
+                                  <option value="{{ $programa->title }}">{{ $programa->title }}</option>
+                              @endforeach
+                          </optgroup>
+
 
 
                           </select>

@@ -54,7 +54,7 @@
                                         <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EYcNmA5JSO5PnQsgKwnHIu8B36Wq5RzH0cdcYnRnoGyRhw?e=hTX1Z0"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                       <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EQA53h2EejJIp3zG0rB-Ym8Bnh_YrjYAcCyFGtJXR-NMSA?e=4zAesH">IMPI-1340-NL-2020.pdf</a></th>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EQA53h2EejJIp3zG0rB-Ym8Bnh_YrjYAcCyFGtJXR-NMSA?e=4zAesH">IMPI-1300-NL-2020.pdf</a></th>
                                         <td>21 de Febrero</td>
                                         <td>2.7 MB</td>
                                         <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EQA53h2EejJIp3zG0rB-Ym8Bnh_YrjYAcCyFGtJXR-NMSA?e=4zAesH"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>

@@ -85,7 +85,7 @@
         <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
           <div class="funfact text-center">
             <i class="fas fa-users mt-5 text-theme-color-2"></i>
-            <h2 data-animation-duration="5000" data-value="12000" class="animate-number text-white mt-0 font-38 font-weight-500">0</h2>
+            <h2 data-animation-duration="5000" data-value="12500" class="animate-number text-white mt-0 font-38 font-weight-500">0</h2>
             <h5 class="text-white text-uppercase mb-0">Estudiantes</h5>
           </div>
         </div>
@@ -106,7 +106,7 @@
         <div class="col-xs-12 col-sm-6 col-md-3 mb-md-0">
           <div class="funfact text-center">
             <i class="fas fa-globe-americas mt-5 text-theme-color-2"></i>
-            <h2 data-animation-duration="5000" data-value="400" class="animate-number text-white mt-0 font-38 font-weight-500">0</h2>
+            <h2 data-animation-duration="5000" data-value="760" class="animate-number text-white mt-0 font-38 font-weight-500">0</h2>
             <h5 class="text-white text-uppercase mb-0">Convenios</h5>
           </div>
         </div>

@@ -5,7 +5,7 @@
 
 @section('content')
     <!-- Section: inner-header -->
-    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="/multi/images/banners/banner.jpg">
+    <section class="inner-header divider parallax layer-overlay overlay-dark-2" data-bg-img="/multi/images/banners/separados.jpg">
       <div class="container pt-70 pb-20">
         <!-- Section Content -->
         <div class="section-content">
@@ -76,6 +76,7 @@
                         <li><a href="{{ route('programas.maes') }}"><i class="fa fa-check-square-o mr-10 text-black-light"></i> Maestría</a></li>
                         <li><a href="{{ route('programas.esp') }}"><i class="fa fa-check-square-o mr-10 text-black-light"></i> Especialidad</a></li>
                         <li><a href="{{ route('programas.doc') }}"><i class="fa fa-check-square-o mr-10 text-black-light"></i> Doctorado</a></li>
+                        <li><a href="{{ route('programas.cursos') }}"><i class="fa fa-check-square-o mr-10 text-black-light"></i> Cursos en Línea</a></li>
                     </ul>
                   </ul>
                 </div>

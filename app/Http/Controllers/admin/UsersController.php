@@ -177,7 +177,7 @@ class UsersController extends Controller
         return view('admin.marketingbox.Presentaciones-EnLinea');
 
     } 
-    public function Presentaciones_Bach() 
+    public function Bachillerato() 
     {
 
         return view('admin.marketingbox.Bachillerato');
@@ -251,6 +251,384 @@ class UsersController extends Controller
         return view('admin.marketingbox.Instagram');
 
     } 
+    public function SW() 
+    {
+
+        return view('admin.marketingbox.Carpetas_Saltillo');
+
+    } 
+    public function Torreon() 
+    {
+
+        return view('admin.marketingbox.Carpetas_Torreon');
+
+    } 
+    public function Monclova() 
+    {
+
+        return view('admin.marketingbox.Carpetas_Monclova');
+
+    } 
+    public function Sabinas() 
+    {
+
+        return view('admin.marketingbox.Carpetas_Sabinas');
+
+    } 
+    public function PiedrasNegras() 
+    {
+
+        return view('admin.marketingbox.Carpetas_PN');
+
+    } 
+    public function Matamoros() 
+    {
+
+        return view('admin.marketingbox.Carpetas_Matamoros');
+
+    } 
+    public function Monterrey() 
+    {
+
+        return view('admin.marketingbox.Carpetas_Monterrey');
+
+    }     
+    public function Reynosa() 
+    {
+
+        return view('admin.marketingbox.Carpetas_Reynosa');
+
+    } 
+    public function EnLinea() 
+    {
+
+        return view('admin.marketingbox.Carpetas_EnLinea');
+
+    } 
+    public function BachNL() 
+    {
+
+        return view('admin.marketingbox.BachilleratoNL');
+
+    } 
+    public function Bach() 
+    {
+
+        return view('admin.marketingbox.Bach');
+
+    } 
+    public function FB()
+    {
+
+        return view('admin.marketingbox.Facebook-post');
+
+    } 
+    public function BMB() 
+    {
+
+        return view('admin.marketingbox.Bachillerato');
+
+    }
+    public function BMB2() 
+    {
+
+        return view('admin.marketingbox.BMB');
+
+    }
+    public function Postgradossw() 
+    {
+
+        return view('admin.marketingbox.Postgrados');
+
+    }
+    public function PostgradosTR() 
+    {
+
+        return view('admin.marketingbox.Postgrados_Torreon');
+
+    }
+    public function PreciosSW() 
+    {
+
+        return view('admin.marketingbox.Precios-Saltillo');
+
+    }
+    public function Procesos() 
+    {
+
+        return view('admin.marketingbox.Proceso');
+
+    }
+    public function CarrerasTorr() 
+    {
+
+        return view('admin.marketingbox.Carreras_Torreon');
+
+    }
+    public function PreciosTor() 
+    {
+
+        return view('admin.marketingbox.Precios-Torreon');
+
+    }
+    public function CarrerasMon() 
+    {
+
+        return view('admin.marketingbox.Carreras_Monclova');
+
+    }
+    public function PreciosMon() 
+    {
+
+        return view('admin.marketingbox.Precios-Monclova');
+
+    }
+    public function PostgradosMon() 
+    {
+
+        return view('admin.marketingbox.Postgrados_Monclova');
+
+    }
+    public function CarrerasSab() 
+    {
+
+        return view('admin.marketingbox.Carreras_Sabinas');
+
+    }
+    public function PreciosSabinas() 
+    {
+
+        return view('admin.marketingbox.Precios-Sabinas');
+
+    }
+    public function PreciosPN() 
+    {
+
+        return view('admin.marketingbox.Precios-PN');
+
+    }
+    public function PostgradosPN() 
+    {
+
+        return view('admin.marketingbox.Postgrados_PN');
+
+    }
+    public function PreciosMat() 
+    {
+
+        return view('admin.marketingbox.Precios-Mat');
+
+    }
+    public function PostgradosMat() 
+    {
+
+        return view('admin.marketingbox.Postgrados_Mat');
+
+    }
+    public function PreciosMty() 
+    {
+
+        return view('admin.marketingbox.Precios-Mty');
+
+    }
+    public function PostgradosMty() 
+    {
+
+        return view('admin.marketingbox.Postgrados_Mty');
+
+    }
+    public function PreciosRey() 
+    {
+
+        return view('admin.marketingbox.Precios-Rey');
+
+    }
+    public function PostgradosRey() 
+    {
+
+        return view('admin.marketingbox.Postgrados_Rey');
+
+    }
+    public function PreciosEL() 
+    {
+
+        return view('admin.marketingbox.Precios-EL');
+
+    }
+    public function PostgradosEL() 
+    {
+
+        return view('admin.marketingbox.Postgrados_EL');
+
+    }
+    public function Autonoma() 
+    {
+
+        return view('admin.marketingbox.Carpetas_Autonoma');
+
+    }
+    public function Americana() 
+    {
+
+        return view('admin.marketingbox.Carpetas_Americana');
+
+    }
+    public function DiapositivasAutonoma() 
+    {
+
+        return view('admin.marketingbox.Diapositiva_Autonoma');
+
+    }
+    public function ReconocimientoAutonoma() 
+    {
+
+        return view('admin.marketingbox.Reconocimiento_Autonoma');
+
+    }
+    public function ConstanciaAutonoma() 
+    {
+
+        return view('admin.marketingbox.Constancia_Autonoma');
+
+    }
+    public function DiplomaAutonoma() 
+    {
+
+        return view('admin.marketingbox.Diploma_Autonoma');
+
+    }
+    public function DiapositivasAmericana() 
+    {
+
+        return view('admin.marketingbox.Diapositiva_Americana');
+
+    }
+    public function ReconocimientoAmericana() 
+    {
+
+        return view('admin.marketingbox.Reconocimiento_Americana');
+
+    }
+    public function ConstanciaAmericana() 
+    {
+
+        return view('admin.marketingbox.Constancia_Americana');
+
+    }
+    public function DiplomaAmericana() 
+    {
+
+        return view('admin.marketingbox.Diploma_Americana');
+
+    }
+    public function carpeta40() 
+    {
+
+        return view('admin.marketingbox.Carpetas_dit40');
+
+    }
+    public function banner40() 
+    {
+
+        return view('admin.marketingbox.Banner-40');
+
+    }
+    public function banner40Mty() 
+    {
+
+        return view('admin.marketingbox.Banner-40Mty');
+
+    }
+    public function banner70() 
+    {
+
+        return view('admin.marketingbox.Banner-70');
+
+    }
+    public function banner70Mty() 
+    {
+
+        return view('admin.marketingbox.Banner-70Mty');
+
+    }
+    public function carpeta40Mty() 
+    {
+
+        return view('admin.marketingbox.Carpetas_dit40_Mty');
+
+    }
+    public function FB40() 
+    {
+
+        return view('admin.marketingbox.FB-40');
+
+    }
+    public function FB40Mty() 
+    {
+
+        return view('admin.marketingbox.FB-40Mty');
+
+    }
+    public function FB70() 
+    {
+
+        return view('admin.marketingbox.FB-70');
+
+    }
+    public function FB70Mty() 
+    {
+
+        return view('admin.marketingbox.FB-70Mty');
+
+    }
+    public function carpeta70() 
+    {
+
+        return view('admin.marketingbox.Carpetas_dit70');
+
+    }
+    public function Instagram40() 
+    {
+
+        return view('admin.marketingbox.Instagram-40');
+
+    }
+    public function Instagram40Mty() 
+    {
+
+        return view('admin.marketingbox.Instagram-40Mty');
+
+    }
+    public function Instagram70() 
+    {
+
+        return view('admin.marketingbox.Instagram-70');
+
+    }
+    public function Instagram70Mty() 
+    {
+
+        return view('admin.marketingbox.Instagram-70Mty');
+
+    }
+    public function carpeta70Mty() 
+    {
+
+        return view('admin.marketingbox.Carpetas_dit70_Mty');
+
+    }
+    public function Mail70() 
+    {
+
+        return view('admin.marketingbox.Mail-70');
+
+    }
+    public function Mail70Mty() 
+    {
+
+        return view('admin.marketingbox.Mail-70Mty');
+
+    }
     public function lista_encuesta()
     {
         $encuestas = Encuesta::all();

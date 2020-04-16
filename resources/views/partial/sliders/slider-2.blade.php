@@ -185,136 +185,418 @@
   
         </li>
                   <!--slide ranking de universidades-->
-                  <li data-index="rs-7" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default"
-                  data-easeout="default" data-masterspeed="default" data-thumb=""
+                  <li data-index="rs-7" data-transition="slidingoverlayhorizontal" data-slotamount="5" data-speed="5" data-easein="default"
+                  data-easeout="2" data-masterspeed="5" data-thumb=""
                   data-rotate="0" data-saveperformance="off" data-title="Web Show" data-description="">
                   <!-- MAIN IMAGE -->
-                  <img src="" alt="" data-bgposition="center 10%" data-bgfit=""
+                  <img src="/multi/images/sliders/fondo.jpg" alt="" data-bgposition="center 10%" data-bgfit=""
                     data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="6" data-no-retina><a href="#"></a>
                             <!--LAYERS -->
           
                   <!-- LAYER NR. 1 -->
                   <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['middle']"
                     data-hoffset="['0']" data-y="['middle']"
-                    data-voffset="['0']" data-fontsize="['70','70','70','70']"
+                    data-voffset="['-170']" data-fontsize="['70','70','40','40']"
                     data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
                     data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
                     data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
                     data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
                     data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                    style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><img src="/multi/images/sliders/COMUNICADO-CH.jpg" alt="">
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;  color:#fff; ">&nbsp;Debido a la contigencia de COVID-19 &nbsp;
+                  </div>
+                           <!-- LAYER NR. 2 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['middle']"
+                    data-hoffset="['0']" data-y="['middle']"
+                    data-voffset="[0]" data-fontsize="['60','60','40','40']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1100" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:500 ;color:#fff; ">&nbsp;mejoramos el proceso de admisión&nbsp;
           </div>
+                                     <!-- LAYER NR. 3 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['middle']"
+                    data-hoffset="['0']" data-y="['middle']"
+                    data-voffset="[100]" data-fontsize="['80','80','40','40']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1300" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:800 ;color:#F4C300; ">&nbsp;Comunícate a nuestros&nbsp;
+          </div>
+          <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['middle']"
+          data-hoffset="['0']" data-y="['middle']"
+          data-voffset="['230','230','340','340']" data-fontsize="['70','70','40','40']"
+          data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+          data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+          data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+          data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+          data-start="1300" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+          style="z-index: 5; white-space: nowrap; font-weight:800 ;color:#ffff; ">&nbsp;Centros de Admisión <img src="/multi/images/sliders/download.png" alt="WP">&nbsp;
+  </div>
           </li>
 
-           <!--slide ranking de universidades-->
-          <li data-index="rs-8" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default"
-          data-easeout="default" data-masterspeed="default" data-thumb=""
-          data-rotate="0" data-saveperformance="off" data-title="Web Show" data-description="">
-           <!-- MAIN IMAGE -->
-          <img src="" alt="" data-bgposition="center 10%" data-bgfit=""
-          data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="6" data-no-retina><a href="#"></a>
-                            <!--LAYERS -->
-      
-          <!-- LAYER NR. 1 -->
-          <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['middle']"
-            data-hoffset="['0']" data-y="['middle']"
-            data-voffset="['0']" data-fontsize="['70','70','70','70']"
-            data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
-            data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
-            data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
-            data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
-            data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-            style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><img src="/multi/images/sliders/COMUNICADO-CH4.jpg" alt="">
-          </div>
-          </li>
-           <!--slide ranking de universidades-->
-          <li data-index="rs-9" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default"
-          data-easeout="default" data-masterspeed="default" data-thumb=""
-          data-rotate="0" data-saveperformance="off" data-title="Web Show" data-description="">
-           <!-- MAIN IMAGE -->
-          <img src="" alt="" data-bgposition="center 10%" data-bgfit=""
-          data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="6" data-no-retina><a href="#"></a>
-                            <!--LAYERS -->
-           <!-- LAYER NR. 3 -->
-          <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['middle']"
-            data-hoffset="['0']" data-y="['middle']"
-            data-voffset="['0']" data-fontsize="['70','70','70','70']"
-            data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
-            data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
-            data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
-            data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
-            data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-            style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><img src="/multi/images/sliders/COMUNICADO3-CH.jpg" alt="">
-          </div>
-
-         </li>
-  
-      <!-- SLIDE 3 --
-      <li data-index="rs-5" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default"
-        data-easeout="default" data-masterspeed="default" data-thumb="/multi/images/sliders/EXAUANE - Slide Encuesta (fondo).jpg" data-rotate="0"
+      <!-- SLIDE 3 -->
+      <li data-index="rs-5" data-transition="" data-slotamount="1000000" data-speed="1000000" data-easein="default"
+        data-easeout="default" data-masterspeed="1000000" data-thumb="/multi/images/sliders/EXAUANE - Slide Encuesta (fondo).jpg" data-rotate="0"
         data-saveperformance="off" data-title="Web Show" data-description="">
-        <!-- MAIN IMAGE --
-        <img src="/multi/images/sliders/EXAUANE - Slide escritorio.png" alt="" data-bgposition="center 10%" data-bgfit="cover"
+        <!-- MAIN IMAGE -->
+        <img src="/multi/images/sliders/fondo.jpg" alt="" data-bgposition="center 10%" data-bgfit="cover"
           data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="0" data-no-retina>
-        <!-- LAYERS --
-        <!-- LAYER NR. 1 --
-        <div class="tp-caption tp-resizeme text-left text-uppercase font-raleway" id="rs-2-layer-1"
-          data-x="['left','left','center','center']" data-hoffset="['210','210','-30','-30']" data-y="['center','center','middle','middle']"
-          data-voffset="['-110','-110','-180','-180']" data-fontsize="['55']" data-lineheight="['60']" data-width="none"
-          data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500"
-          data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
-          data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
-          data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
-          data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-          style="z-index: 7; white-space: nowrap; font-weight:900;color:#fff; "><img src="/multi/images/sliders/EXAUANE(logo EXAUANE).png"
-          width="100px" alt="">
-        </div>
-        <!-- LAYER NR. 2 --
-        <div class="tp-caption tp-resizeme text-left font-raleway" id="rs-2-layer-1"
-          data-x="['left','left','center','center']" data-hoffset="['580','580','100','100']" data-y="['center','center','middle','middle']"
-          data-voffset="['10','10','-20','-20']" data-fontsize="['30']" data-lineheight="['60']" data-width="none"
-          data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500"
-          data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
-          data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
-          data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
-          data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-          style="z-index: 7; white-space: nowrap; font-weight:500;color:#fff; ">&nbsp;Participa en la&nbsp;
-        </div>
-        <!-- LAYER NR. 2 --
-        <div class="tp-caption tp-resizeme text-left font-raleway " id="rs-2-layer-2"
-          data-x="['left','left','center','center']" data-hoffset="['615','615','160','160']" data-y="['center']"
-          data-voffset="['40','40','20','20']" data-fontsize="['40','40','40','40']" data-lineheight="['35']"
-          data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500"
-          data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
-          data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
-          data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
-          data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-          style="z-index: 7; white-space: nowrap; font-weight:700; font-family: 'Raleway', sans-serif; color:#fff;">
-         <br>Encuesta de&nbsp;
-        </div>
-        <!-- LAYER NR. 3 --
-        <div class="tp-caption tp-resizeme text-white text-center font-raleway " id="rs-2-layer-3"
-          data-x="['left','left','center','center']" data-hoffset="['660','660','230','230']" data-y="['center']"
-          data-voffset="['90','90','80','80']" data-fontsize="['40','40','40','40']" data-lineheight="['50']"
-          data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500"
-          data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
-          data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
-          data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
-          data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-          style="z-index: 7; white-space: nowrap; font-weight:700; "><br>Empleabilidad&nbsp;
-        </div>
-        <!-- LAYER NR. 4 --
-        <div class="tp-caption tp-resizeme text-white text-center font-raleway" id="rs-2-layer-4"
-          data-x="['left','left','center','center']" data-hoffset="['720','720','250','250']" data-y="['center']"
-          data-voffset="['175','175','180','180']" data-width="none" data-height="none" data-fontsize="['25']"
-          data-whitespace="nowrap" data-transform_idle="o:1;s:500"
-          data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
-          data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
-          data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
-          data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-          style="z-index: 5; white-space: nowrap; letter-spacing:1px; font-family: 'Raleway', sans-serif; font-weight:600; background:#de453b; color:#fff; border-radius:10px;">
-          <a class="btn btn-colored btn-lg btn-flat text-white pl-20 pr-20" href="https://www.dttsurvey.com/index.php/136434?lang=es&fbclid=IwAR0ySABEWoV-JJzc0ZOuXcLVA6vCTu8rAbuSjHpaXxAGjAeL0wnEbCpusvY">¡Ingresa aquí!</a>
-        </div>
+        <!-- LAYERS -->
+        <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['middle']"
+        data-hoffset="['0']" data-y="['middle']"
+        data-voffset="['-280','-280','-380','-380']" data-fontsize="['60','60','40','40']"
+        data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+        data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+        data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+        data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+        data-start="700" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+        style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#F4C300; ">&nbsp;Centros de Admisión&nbsp;
+</div>
+                                               <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['50','50','50','50']" data-y="['middle']"
+                    data-voffset="['-200','-200','-280','-280']" data-fontsize="['40','40','30','30']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ; color:#FFFF; ">&nbsp; Saltillo   &nbsp;
+          </div>
+                                                         <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['300','300','300','300']" data-y="['middle']"
+                    data-voffset="['-200','-200','-280','-280']" data-fontsize="['40','40','30','30']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ; color:#FFFF; ">&nbsp;    Monclova   &nbsp;
+          </div>
+                                                               <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['600','600','600','600']" data-y="['middle']"
+                    data-voffset="['-200','-200','-280','-280']" data-fontsize="['40','40','30','30']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ; color:#FFFF; ">&nbsp;   Sabinas   &nbsp;
+          </div>
+                                                         <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['900','900','50','50']" data-y="['middle']"
+                    data-voffset="['-200','-200','-130','-130']" data-fontsize="['40','40','30','30']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ; color:#FFFF; ">&nbsp;   Reynosa &nbsp;
+          </div>     
+                                                         <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['0','0','0','0']" data-y="['middle']"
+                    data-voffset="['-130','-130','-230','-230']" data-fontsize="['28','28','22','25']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1200" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#F4C300; ">&nbsp;<img src="/multi/images/sliders/whatsapp.png" height="60px" width="60px" alt="WP"> (844)&nbsp;
+          </div>
+                                                         <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['120','120','120','120']" data-y="['middle']"
+                    data-voffset="['-130','-130','-230','-230']" data-fontsize="['28','28','25','25']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1200" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#ffff; ">&nbsp; 587 21 20&nbsp;
+          </div>
+                                                          <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['280','280','250','250']" data-y="['middle']"
+                    data-voffset="['-130','-130','-230','-230']" data-fontsize="['28','28','25','25']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1200" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#F4C300; ">&nbsp;<img src="/multi/images/sliders/whatsapp.png" height="60px" width="60px" alt="WP"> (866)&nbsp;
+          </div>
+                                                         <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['400','400','370','370']" data-y="['middle']"
+                    data-voffset="['-130','-130','-230','-230']" data-fontsize="['28','28','25','25']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1200" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#ffff; ">&nbsp; 236 37 09&nbsp;
+          </div>
+                                                                    <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['560','560','520','520']" data-y="['middle']"
+                    data-voffset="['-130','-130','-230','-230']" data-fontsize="['28','28','25','25']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1200" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#F4C300; ">&nbsp;<img src="/multi/images/sliders/whatsapp.png" height="60px" width="60px" alt="WP"> (861)&nbsp;
+          </div>
+                                                         <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['680','680','640','640']" data-y="['middle']"
+                    data-voffset="['-130','-130','-230','-230']" data-fontsize="['28','28','25','25']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1200" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#ffff; ">&nbsp; 126 08 55&nbsp;
+          </div>
+                                                                              <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['840','840','0','0']" data-y="['middle']"
+                    data-voffset="['-130','-130','-80','-80']" data-fontsize="['28','28','25','25']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1200" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#F4C300; ">&nbsp;<img src="/multi/images/sliders/whatsapp.png" height="60px" width="60px" alt="WP"> (899)&nbsp;
+          </div>
+                                                         <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['960','960','120','120']" data-y="['middle']"
+                    data-voffset="['-130','-130','-80','-80']" data-fontsize="['28','28','25','25']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1200" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#ffff; ">&nbsp; 947 96 76&nbsp;
+          </div>
+                                                                 <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['0']" data-y="['middle']"
+                    data-voffset="['-70','-70','-190','-190']" data-fontsize="['28','28','25','25']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1200" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#F4C300; ">&nbsp;<img src="/multi/images/sliders/whatsapp.png" height="60px" width="60px" alt="WP"> (844)&nbsp;
+          </div>
+                                                         <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['120']" data-y="['middle']"
+                    data-voffset="['-70','-70','-190','-190']" data-fontsize="['28','28','25','25']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1200" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#ffff; ">&nbsp; 155 77 57&nbsp;
+          </div>
+                                                         <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['50','50','300','300']" data-y="['middle']"
+                    data-voffset="['20','20','-130','-130']" data-fontsize="['40','40','30','30']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1600" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ; color:#FFFF; ">&nbsp; Torreón   &nbsp;
+          </div>
+                                                         <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['250','250','530','530']" data-y="['middle']"
+                    data-voffset="['20','20','-130','-130']" data-fontsize="['40','40','30','30']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1600" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ; color:#FFFF; ">&nbsp;    Piedras Negras   &nbsp;
+          </div>
+                                                               <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['600','600','300','300']" data-y="['middle']"
+                    data-voffset="['20','20','15','15']" data-fontsize="['40','40','30','30']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1600" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ; color:#FFFF; ">&nbsp;   Monterrey   &nbsp;
+          </div>
+                                                         <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['850','850','50'.'50']" data-y="['middle']"
+                    data-voffset="['20','20','15','15']" data-fontsize="['40','40','30','30']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1600" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ; color:#FFFF; ">&nbsp;   Matamoros &nbsp;
+          </div>     
+                                                         <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['0','0','250','250']" data-y="['middle']"
+                    data-voffset="['80','80','-80','-80']" data-fontsize="['28','28','25','25']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1800" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#F4C300; ">&nbsp;<img src="/multi/images/sliders/whatsapp.png" height="60px" width="60px" alt="WP"> (871)&nbsp;
+          </div>
+                                                         <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['120','120','370','370']" data-y="['middle']"
+                    data-voffset="['80','80','-80','-80']" data-fontsize="['28','28','25','25']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1800" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#ffff; ">&nbsp; 507 19 40&nbsp;
+          </div>
+                                                          <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['280','280','520','520']" data-y="['middle']"
+                    data-voffset="['80','80','-80','-80']" data-fontsize="['28','28','25','25']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1800" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#F4C300; ">&nbsp;<img src="/multi/images/sliders/whatsapp.png" height="60px" width="60px" alt="WP"> (878)&nbsp;
+          </div>
+                                                         <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['400','400','640','640']" data-y="['middle']"
+                    data-voffset="['80','80','-80','-80']" data-fontsize="['28','28','25','25']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1800" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#ffff; ">&nbsp; 148 83 41&nbsp;
+          </div>
+                                                                    <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['560','560','250','250']" data-y="['middle']"
+                    data-voffset="['80','80','60','60']" data-fontsize="['28','28','25','25']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1800" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#F4C300; ">&nbsp;<img src="/multi/images/sliders/whatsapp.png" height="60px" width="60px" alt="WP"> (812)&nbsp;
+          </div>
+                                                         <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['680','680','370','370']" data-y="['middle']"
+                    data-voffset="['80','80','60','60']" data-fontsize="['28','28','25','25']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1800" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#ffff; ">&nbsp; 465 09 06&nbsp;
+          </div>
+                                                                              <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['840','840','0','0']" data-y="['middle']"
+                    data-voffset="['80','80','60','60']" data-fontsize="['28','28','25','25']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1800" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#F4C300; ">&nbsp;<img src="/multi/images/sliders/whatsapp.png" height="60px" width="60px" alt="WP"> (868)&nbsp;
+          </div>
+                                                         <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['960','960','120','120']" data-y="['middle']"
+                    data-voffset="['80','80','60','60']" data-fontsize="['28','28','25','25']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1800" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#ffff; ">&nbsp; 304 44 19&nbsp;
+          </div>
+                                                                 <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['280','280','520','520']" data-y="['middle']"
+                    data-voffset="['130','130','-30','-30']" data-fontsize="['28','28','25','25']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1800" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#F4C300; ">&nbsp;<img src="/multi/images/sliders/whatsapp.png" height="60px" width="60px" alt="WP"> (877)&nbsp;
+          </div>
+                                                         <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['400','400','640','640']" data-y="['middle']"
+                    data-voffset="['130','130','-30','-30']" data-fontsize="['28','28','25','25']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="1800" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#ffff; ">&nbsp; 146 54 14&nbsp;
+          </div>
+                                                                   <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['80','80','100','100']" data-y="['middle']"
+                    data-voffset="['220','220','180','180']" data-fontsize="['28','28','30','30']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="2000" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#ffff; ">&nbsp;<img src="/multi/images/sliders/messenger.png" alt="mg"> UANEoficial&nbsp;
+          </div>
+                                                          <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['350','350','200','200']" data-y="['middle']"
+                    data-voffset="['220','220','250','250']" data-fontsize="['28','28','30','30']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="2000" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#FFFF; ">&nbsp;<img src="/multi/images/sliders/correo.png" alt="correo"> admisiones@uane.edu.mx&nbsp;
+          </div>
+                                                                    <!-- LAYER NR. 4 -->
+                  <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left']"
+                    data-hoffset="['800','800','400','400']" data-y="['middle']"
+                    data-voffset="['220','220','180','180']" data-fontsize="['28','28','30','30']"
+                    data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+                    data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+                    data-start="2000" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;color:#FFFF; ">&nbsp;<img src="/multi/images/sliders/telefono.png" alt="telefono"> (800)822 8263&nbsp;
+          </div>
       </li>
       <!-- SLIDE 2 --
       <li data-index="rs-1" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default"

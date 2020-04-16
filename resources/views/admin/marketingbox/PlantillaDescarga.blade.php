@@ -21,20 +21,17 @@
     <div class="container">
         <div class="section-content">
             <div class="row"> 
-                <div class="col-md-12" style="background-image:{{ asset('/multi/images/Fondo Vino.jpg') }};">
-
-                    {{-- <p class="mb-10">The Cweren Law Firm is a recognized leader in landlord tenant representation throughout Texas.The largest professional property.</p> --}}
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                     <div id="accordion1" class="br-menu-item show-sub">
                       <div class="panel">
-                        <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="" aria-expanded="true"> <span class="open-sub"></span><center><img src="{{ asset('/multi/images/Marketing box/Iconos -01.png') }}"/>Presentaciones</center></a></div>
+                        <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="" aria-expanded="true"> <span class="open-sub"></span><center><img src="{{ asset('/multi/images/Marketing box/Iconos -01.png') }}"/>Presentaciones- Oferta Educativa </center></a></div>
                         <div id="accordion15" class="panel-collapse collapse" role="tablist" aria-expanded="true">
                           <div class="panel-content">
                             <table border-collapse: separate; style>
                               <colgroup>
-                                <col style="width: 15%"/>                                    
-                                <col style="width: 55%"/>
-                                <col style="width: 30%"/>
+                                <col style="width: 10%"/>                                    
+                                <col style="width: 50%"/>
+                                <col style="width: 40%"/>
                               </colgroup>
                               <thead>
                                 <tr>
@@ -74,7 +71,7 @@
                                 <tr>
                                   <td><a href="{{ route('usuarios.presentacionesMTY') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
                                   <th><a href="{{ route('usuarios.presentacionesMTY') }}">Monterrey</a></th>
-                                  <td>3 elementos</td>
+                                  <td>2 elementos</td>
                                 </tr>
                                 <tr>
                                   <td><a href="{{ route('usuarios.presentacionesRey') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
@@ -98,68 +95,17 @@
                         </div>
                       </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                       <div id="accordion2" class="br-menu-item show-sub">
                         <div class="panel">
-                          <div class="panel-title"> <a data-parent="#accordion2" data-toggle="collapse" href="#accordion16" class="" aria-expanded="true"> <span class="open-sub"></span><center><img src="{{ asset('/multi/images/Marketing box/Iconos -02.png') }}"/>Flyers</center></a> </div>
+                          <div class="panel-title"> <a data-parent="#accordion2" data-toggle="collapse" href="#accordion16" class="" aria-expanded="true"> <span class="open-sub"></span><center><img src="{{ asset('/multi/images/Marketing box/Iconos -021.png') }}"/>Flyers - Planes, precios y procesos </center></a> </div>
                           <div id="accordion16" class="panel-collapse collapse" role="tablist" aria-expanded="true">
                             <div class="panel-content">
                               <table border-collapse: separate; style>
                                 <colgroup>
-                                  <col style="width: 15%"/>                                    
-                                  <col style="width: 55%"/>
-                                  <col style="width: 30%"/>
-                                </colgroup>
-                                <thead>
-                                  <tr>
-                                      <th rowspan="2"></th>
-                                      <th rowspan="2">Nombre</th>
-                                      <th rowspan="2">Tamaño</th>
-                                  </tr>
-                                </thead>
-                                <tfoot>
-                                </tfoot>
-                                <tbody>
-                                  <tr>
-                                    <td><a href="{{ route('usuarios.presentacionesBach') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.presentacionesBach') }}">Bachillerato</a></th>
-                                    <td>3 elementos</td>
-                                  </tr>
-                                  <tr>
-                                    <td><a href="{{ route('usuarios.presentacionesCarr') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.presentacionesCarr') }}">Carreras</a></th>
-                                    <td>7 elementos</td>
-                                  </tr>
-                                  <tr>
-                                    <td><a href="{{ route('usuarios.FlyersPG') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.FlyersPG') }}">Postgrado</a></th>
-                                    <td>26 elementos</td>
-                                  </tr>
-                                  <tr>
-                                    <td><a href="{{ route('usuarios.FlyersEL') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.FlyersEL') }}">En línea</a></th>
-                                    <td>21 elementos</td>
-                                  </tr>
-  
-                                </tbody>
-                              </table>
-                            </div>
-                          </div>
-                          </div>
-                        </div>
-                  <!--  </div>
-                    <div class="col-md-4">
-                      <div id="accordion3" class="br-menu-item show-sub">
-                        <div class="panel">
-                          <div class="panel-title"> <a data-parent="#accordion3" data-toggle="collapse" href="#accordion17" class="" aria-expanded="true"> <span class="open-sub"></span><center><img src="{{ asset('/multi/images/Marketing box/Iconos -03.png') }}"/>Videos</center></a></div>
-                          <div id="accordion17" class="panel-collapse collapse" role="tablist" aria-expanded="true">
-                            <div class="panel-content">
-                              <table border-collapse: separate; style>
-                                <colgroup>
-                                  <col style="width: 5%"/>                                    
+                                  <col style="width: 10%"/>                                    
+                                  <col style="width: 50%"/>
                                   <col style="width: 40%"/>
-                                  <col style="width: 20%"/>
-                                  <col style="width: 20%"/>
                                 </colgroup>
                                 <thead>
                                   <tr>
@@ -172,64 +118,58 @@
                                 </tfoot>
                                 <tbody>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.presentacionesSLW') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.presentacionesSLW') }}">Saltillo</a></th>
-                                    <td>7 elementos</td>
+                                    <td><a href="{{ route('usuarios.SW') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.SW') }}">Saltillo</a></th>
+                                    <td>5 elementos</td>
                                   </tr>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.presentacionesSLW') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.presentacionesSLW') }}">Torreón</a></th>
-                                    <td>7 elementos</td>
+                                    <td><a href="{{ route('usuarios.Tor') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.Tor') }}">Torreón</a></th>
+                                    <td>5 elementos</td>
                                   </tr>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.presentacionesSLW') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.presentacionesSLW') }}">Monclova</a></th>
-                                    <td>7 elementos</td>
+                                    <td><a href="{{ route('usuarios.Monclova') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.Monclova') }}">Monclova</a></th>
+                                    <td>5 elementos</td>
                                   </tr>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.presentacionesSLW') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.presentacionesSLW') }}">Sabinas</a></th>
-                                    <td>7 elementos</td>
+                                    <td><a href="{{ route('usuarios.Sabinas') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.Sabinas') }}">Sabinas</a></th>
+                                    <td>4 elementos</td>
                                   </tr>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.presentacionesSLW') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.presentacionesSLW') }}">Piedras Negras</a></th>
-                                    <td>7 elementos</td>
+                                    <td><a href="{{ route('usuarios.PiedrasNegras') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.PiedrasNegras') }}">Piedras Negras</a></th>
+                                    <td>5 elementos</td>
                                   </tr>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.presentacionesSLW') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.presentacionesSLW') }}">Monterrey</a></th>
-                                    <td>7 elementos</td>
+                                    <td><a href="{{ route('usuarios.Monterrey') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.Monterrey') }}">Monterrey</a></th>
+                                    <td>5 elementos</td>
                                   </tr>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.presentacionesSLW') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.presentacionesSLW') }}">Reynosa</a></th>
-                                    <td>7 elementos</td>
+                                    <td><a href="{{ route('usuarios.Reynosa') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.Reynosa') }}">Reynosa</a></th>
+                                    <td>5 elementos</td>
                                   </tr>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.presentacionesSLW') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.presentacionesSLW') }}">Matamoros</a></th>
-                                    <td>7 elementos</td>
+                                    <td><a href="{{ route('usuarios.Matamoros') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.Matamoros') }}">Matamoros</a></th>
+                                    <td>5 elementos</td>
                                   </tr>
-  
+                                  <tr>
+                                    <td><a href="{{ route('usuarios.EnLinea') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.EnLinea') }}">En línea</a></th>
+                                    <td>5 elemento</td>
+                                  </tr>
                                 </tbody>
                               </table>
                             </div>
                           </div>
                           </div>
                         </div>
-                      </div>
-                     <!-- <div class="panel">
-                        <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="" aria-expanded="true"> <span class="open-sub"></span><img src="{{ asset('/multi/images/SampleArrow.png') }}" width="50px" height="50px"/>Video</a> </div>
-                        <div id="accordion15" class="panel-collapse collapse" role="tablist" aria-expanded="true">
-                          <div class="panel-content">
-                            <p>Contamos con diferentes Carreras y maestrías en línea en las cuales podrás organizar tu tiempo para cursarlas y disfrutar los mejores momentos de tu vida.</p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>-->
-                   </div>
-                    <div class="col-md-4">
+                </div>
+                    <div class="col-md-3">
                       <div id="accordion3" class="br-menu-item show-sub">
                         <div class="panel">
                           <div class="panel-title"> <a data-parent="#accordion3" data-toggle="collapse" href="#accordion17" class="" aria-expanded="true"> <span class="open-sub"></span><center><img src="{{ asset('/multi/images/Marketing box/Iconos -04.png') }}"/>Promociones</center></a></div>
@@ -237,9 +177,9 @@
                             <div class="panel-content">
                               <table border-collapse: separate; style>
                                 <colgroup>
-                                  <col style="width: 15%"/>                                    
-                                  <col style="width: 55%"/>
-                                  <col style="width: 30%"/>
+                                  <col style="width: 10%"/>                                    
+                                  <col style="width: 50%"/>
+                                  <col style="width: 40%"/>
                                 </colgroup>
                                 <thead>
                                   <tr>
@@ -252,19 +192,63 @@
                                 </tfoot>
                                 <tbody>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.Banner') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.Banner') }}">Banner</a></th>
+                                    <td><a href="{{ route('usuarios.carpeta70') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.carpeta70') }}">DIT 70% </a></th>
                                     <td>2 elementos</td>
                                   </tr>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.Facebook') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.Facebook') }}">Facebook</a></th>
+                                    <td><a href="{{ route('usuarios.carpeta70Mty') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.carpeta70Mty') }}">DIT 70% Monterrey</a></th>
                                     <td>2 elementos</td>
                                   </tr>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.Instagram') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.Instagram') }}">Instagram</a></th>
-                                    <td>3 elementos</td>
+                                    <td><a href="{{ route('usuarios.carpeta40') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.carpeta40') }}">DIT 40% </a></th>
+                                    <td>2 elementos</td>
+                                  </tr>
+                                  <tr>
+                                    <td><a href="{{ route('usuarios.carpeta40Mty') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.carpeta40Mty') }}">DIT 40% Monterrey</a></th>
+                                    <td>2 elementos</td>
+                                  </tr>
+                                  </tbody>
+                              </table>
+                            </div>
+                          </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-3">
+                      <div id="accordion5" class="br-menu-item show-sub">
+                        <div class="panel">
+                          <div class="panel-title"> <a data-parent="#accordion5" data-toggle="collapse" href="#accordion20" class="" aria-expanded="true"> <span class="open-sub"></span><center><img src="{{ asset('/multi/images/Marketing box/Iconos -05.png') }}"/>Editables</center></a></div>
+                          <div id="accordion20" class="panel-collapse collapse" role="tablist" aria-expanded="true">
+                            <div class="panel-content">
+                              <table border-collapse: separate; style>
+                                <colgroup>
+                                  <col style="width: 10%"/>                                    
+                                  <col style="width: 50%"/>
+                                  <col style="width: 40%"/>
+                                </colgroup>
+                                <thead>
+                                  <tr>
+                                      <th rowspan="2"></th>
+                                      <th rowspan="2">Nombre</th>
+                                      <th rowspan="2">Tamaño</th>
+                                  </tr>
+                                </thead>
+                                <tfoot>
+                                </tfoot>
+                                <tbody>
+                                  <tr>
+                                    <td><a href="{{ route('usuarios.Autonoma') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.Autonoma') }}">Autónoma</a></th>
+                                    <td>8 elementos</td>
+                                  </tr>
+                                  <tr>
+                                    <td><a href="{{ route('usuarios.Americana') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.Americana') }}">Americana</a></th>
+                                    <td>8 elementos</td>
                                   </tr>
                                 </tbody>
                               </table>
@@ -272,8 +256,101 @@
                           </div>
                           </div>
                         </div>
-                      </div>    
+                      </div>   
+                  <div class="col-md-3">
+                  <div id="accordion6" class="br-menu-item show-sub">
+                    <div class="panel">
+                      <div class="panel-title"> <a data-parent="#accordion6" data-toggle="collapse" href="#accordion21" class="" aria-expanded="true"> <span class="open-sub"></span><center><img src="{{ asset('/multi/images/Marketing box/Facebook.jpg') }}"/>Facebook</center></a></div>
+                      <div id="accordion21" class="panel-collapse collapse" role="tablist" aria-expanded="true">
+                        <div class="panel-content">
+                          <table border-collapse: separate; style>
+                            <colgroup>
+                              <col style="width: 10%"/>                                    
+                              <col style="width: 50%"/>
+                              <col style="width: 40%"/>
+                            </colgroup>
+                            <thead>
+                              <tr>
+                                  <th rowspan="2"></th>
+                                  <th rowspan="2">Nombre</th>
+                                  <th rowspan="2">Tamaño</th>
+                              </tr>
+                            </thead>
+                            <tfoot>
+                            </tfoot>
+                            <tbody>
+                              <tr>
+                                <td><a href="{{ route('usuarios.FB') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                <th><a href="{{ route('usuarios.FB') }}">Oferta Educativa</a></th>
+                                <td>23 elementos</td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </div>
+                      </div>
+                      </div>
                     </div>
-    </div>
+                  </div>
+                  <div class="col-md-3">
+                    <div id="accordion7" class="br-menu-item show-sub">
+                      <div class="panel">
+                        <div class="panel-title"> <a data-parent="#accordion7" data-toggle="collapse" href="#accordion22" class="" aria-expanded="true"> <span class="open-sub"></span><center><img src="{{ asset('/multi/images/Marketing box/Iconos -031.png') }}"/>Videos</center></a></div>
+                        <div id="accordion22" class="panel-collapse collapse" role="tablist" aria-expanded="true">
+                          <div class="panel-content">
+                            <table border-collapse: separate; style>
+                              <colgroup>
+                                <col style="width: 10%"/>                                    
+                                <col style="width: 50%"/>
+                                <col style="width: 40%"/>
+                              </colgroup>
+                              <thead>
+                                <tr>
+                                    <th rowspan="2"></th>
+                                    <th rowspan="2">Nombre</th>
+                                    <th rowspan="2">Tamaño</th>
+                                </tr>
+                              </thead>
+                              <tfoot>
+                              </tfoot>
+                              <tbody>
+                              </tbody>
+                            </table>
+                          </div>
+                        </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-3">
+                      <div id="accordion8" class="br-menu-item show-sub">
+                        <div class="panel">
+                          <div class="panel-title"> <a data-parent="#accordion8" data-toggle="collapse" href="#accordion23" class="" aria-expanded="true"> <span class="open-sub"></span><center><img src="{{ asset('/multi/images/Marketing box/Icono -08.png') }}"/>Imagen institucional</center></a></div>
+                          <div id="accordion23" class="panel-collapse collapse" role="tablist" aria-expanded="true">
+                            <div class="panel-content">
+                              <table border-collapse: separate; style>
+                                <colgroup>
+                                  <col style="width: 10%"/>                                    
+                                  <col style="width: 50%"/>
+                                  <col style="width: 40%"/>
+                                </colgroup>
+                                <thead>
+                                  <tr>
+                                      <th rowspan="2"></th>
+                                      <th rowspan="2">Nombre</th>
+                                      <th rowspan="2">Tamaño</th>
+                                  </tr>
+                                </thead>
+                                <tfoot>
+                                </tfoot>
+                                <tbody>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+                          </div>
+                        </div>
+                      </div>
+          </div>
+      </div>
+  </div>
 </section>
 @endsection

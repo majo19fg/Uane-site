@@ -23,6 +23,7 @@ use App\Mail\prueba;
 use Maatwebsite\Excel\Facades\Excel;
 use Barryvdh\DomPDF\Facade AS PDF;
 use App\Exports\ConvenionuevoExport;
+use App\Exports\ConveniosExport;
 
 class ConveniosNuevoController extends Controller
 {
@@ -194,6 +195,11 @@ class ConveniosNuevoController extends Controller
     public function exportar()
     {
         return Excel::download(new ConvenionuevoExport, 'Convenios.xlsx');
+ 
+    }
+    public function exportaranteriores()
+    {
+        return Excel::download(new ConveniosExport, 'Convenios_anteriores.xlsx');
  
     }
 }

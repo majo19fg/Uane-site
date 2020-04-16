@@ -2,7 +2,7 @@
 @section('title', 'Empleabilidad') 
 @section('content')
 <!-- Section: inner-header -->
-<section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="/multi/images/banners/banner.jpg">
+<section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="/multi/images/banners/separados.jpg">
     <div class="container pt-70 pb-20">
         <!-- Section Content -->
         <div class="section-content">
@@ -44,6 +44,13 @@
                    
                  <p align="justify">Durante este semestre UANE ha impactado, mediante muchas actividades, el desarrollo de competencias y habilidades útiles para la empleabilidad. Desde jornadas de actualización, ferias de empleo y proyectos emprendedores por mencionar solo algunos. </br>Hemos firmado nuevos convenios de vinculación profesional en todas las ciudades en que tenemos presencia, tanto en el noreste como a nivel nacional e internacional, así como el establecimiento de mecanismos que impulsen la colocación de nuestros egresados. <b>Llegó el momento. </b></p>
                  <br/>
+                 <div class="col-md-12">
+                  <div class="gallery2">
+                <div align="center"><a href="{{ asset('/multi/pdf/Infografía prácticas profesionales.pdf') }}"><img src="{{ asset('/multi/images/practicas-profesionales/practicas.jpg') }}"/></a>
+                </div>
+              </div>
+            </div>
+            <br/>
                  <div class="col-md-4">
                   <div class="gallery">
                       <div><a href="{{ asset('/multi/pdf/RESULTADOS CURSOS JUNIO 2019.pdf') }}"><img src="{{ asset('/multi/images/campus/Experiencias laborales.jpg') }}"width="250px" height="250px"id=experiencias1 /></a>
@@ -121,6 +128,22 @@
     }
     
     div.gallery img {
+        width: 100%;
+      height: auto;
+    }
+    
+    </style>
+@endpush
+@push('css')
+<style>
+    div.gallery2 {
+      margin: 10px;
+      border: 2px solid #ccc;
+      float: left;
+
+    }
+    
+    div.gallery2 img {
         width: 100%;
       height: auto;
     }

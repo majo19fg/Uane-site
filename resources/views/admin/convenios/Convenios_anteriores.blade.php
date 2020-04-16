@@ -79,7 +79,7 @@
             <div class="col-md-3">
                 </div>
                 <div class="col-md-6">
-                    <a href="{{ route('exportar.convenios') }}" class="btn btn-primary btn-block tx-15 tx-uppercase pd-y-12 pd-x-25 tx-mont tx-large" >Exportar tabla a excel</a>
+                    <a href="{{ route('exportaranteriores.convenios') }}" class="btn btn-primary btn-block tx-15 tx-uppercase pd-y-12 pd-x-25 tx-mont tx-large" >Exportar tabla a excel</a>
                 </div>
         
         </div><!-- row -->

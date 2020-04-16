@@ -47,30 +47,6 @@
                                       <td>5.6 MB</td>
                                       <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EROkLoReaBJJhKynYzd77FwByKV3WBW1h74FUvXzbvsIIQ?e=lLQ7OZ"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
-                                    <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EQGkXUa5aWtNtcJvM0GXKowBTg2kk7V74plZfm_Mf_QCZQ?e=swk3V9">EAYL-2020.pdf</a></th>
-                                        <td>21 de Febrero</td>
-                                        <td>4.6 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EQGkXUa5aWtNtcJvM0GXKowBTg2kk7V74plZfm_Mf_QCZQ?e=swk3V9"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                      </tr>
-                                      <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ec91RnPuLgtLn2lf6cFbBBoBtWF_d4XvI5Uq71o9MH4Q2w?e=TWQxlr">EL-2020.pdf</a></th>
-                                        <td>21 de Febrero</td>
-                                        <td>2.7 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ec91RnPuLgtLn2lf6cFbBBoBtWF_d4XvI5Uq71o9MH4Q2w?e=TWQxlr"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                      </tr>
-                                      <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EfRzDT11CBVFrIv0qrSKRKUBj15tCfbZV6nAnSpBsBdgkQ?e=NNFOaW">EME-2020.pdf</a></th>
-                                        <td>21 de Febrero</td>
-                                        <td>5.6 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EfRzDT11CBVFrIv0qrSKRKUBj15tCfbZV6nAnSpBsBdgkQ?e=NNFOaW"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                      </tr>
-                                      <tr>
-                                          <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EW1yYL33Tx5JgxNuIFN5qpYBsO2PrGsZ7rUnjjEOU1-YYQ?e=kNvvMq">ESO-2020.pdf</a></th>
-                                          <td>21 de Febrero</td>
-                                          <td>4.6 MB</td>
-                                          <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EW1yYL33Tx5JgxNuIFN5qpYBsO2PrGsZ7rUnjjEOU1-YYQ?e=kNvvMq"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                        </tr>
                                         <tr>
                                           <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ES3gni1CVfBEq7tiz9pz7P0BmO07bheglXG_N7g8ZCJzfA?e=Uhz131">IDS-2020.pdf</a></th>
                                           <td>21 de Febrero</td>
@@ -132,41 +108,17 @@
                                                 <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EfWKRH3T2C1DuU3yf-_6lSoB7veUFMhrxS73bxTS7huFjQ?e=KH8KQN"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                               </tr>
                                               <tr>
-                                                  <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EZkno-AbOf1FoH50UVUqdfIBuPp9hfjhunJGrV8e2rEVDw?e=yO58yE">MAGNM-2020.pdf</a></th>
-                                                  <td>21 de Febrero</td>
-                                                  <td>5.6 MB</td>
-                                                  <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EZkno-AbOf1FoH50UVUqdfIBuPp9hfjhunJGrV8e2rEVDw?e=yO58yE"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                                </tr>
-                                                <tr>
-                                                  <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EeOJeocnRVtFjIQc6zb5q2sBu_YV8ImbxBJvlCDAB32XKA?e=nbfWXT">MAYL-2020.pdf</a></th>
-                                                  <td>21 de Febrero</td>
-                                                  <td>5.6 MB</td>
-                                                  <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EeOJeocnRVtFjIQc6zb5q2sBu_YV8ImbxBJvlCDAB32XKA?e=nbfWXT"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                                </tr>
-                                                <tr>
-                                                    <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ER7nkB7SIXhKnYzi9Jp7EQEBVCVZMQ1nu-G68SBxZRO95A?e=KdBPPe">MDIE-2020.pdf</a></th>
-                                                    <td>21 de Febrero</td>
-                                                    <td>4.6 MB</td>
-                                                    <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ER7nkB7SIXhKnYzi9Jp7EQEBVCVZMQ1nu-G68SBxZRO95A?e=KdBPPe"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                                  </tr>
-                                                  <tr>
-                                                    <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ESYYmVKdiKVKrj0qkA4xibcB2V1-bN_0QN26Tj-5gw_x0Q?e=CPUCbg">MGA-2020.pdf</a></th>
-                                                    <td>21 de Febrero</td>
-                                                    <td>2.7 MB</td>
-                                                    <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ESYYmVKdiKVKrj0qkA4xibcB2V1-bN_0QN26Tj-5gw_x0Q?e=CPUCbg"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                                  </tr>
-                                                  <tr>
-                                                    <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EW6MbkJGQehLoY5a_ydr_DcBtOY4R8U9CZTke56p4O73vg?e=tdAoA8">MME-2020.pdf</a></th>
-                                                    <td>21 de Febrero</td>
-                                                    <td>5.6 MB</td>
-                                                    <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EW6MbkJGQehLoY5a_ydr_DcBtOY4R8U9CZTke56p4O73vg?e=tdAoA8"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                                  </tr>
-                                                  <tr>
-                                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ESUjFrEX8MZCtpBI5VsYjwABU8QxyR2f7eUnjfTReUAhqw?e=Vo6cvU">MSO-2020.pdf</a></th>
-                                                      <td>21 de Febrero</td>
-                                                      <td>4.6 MB</td>
-                                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ESUjFrEX8MZCtpBI5VsYjwABU8QxyR2f7eUnjfTReUAhqw?e=Vo6cvU"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                                    </tr>
+                                                <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EaYKLkx7SjZGmLO1qUxNPWMBh2DHA35qPoTdV-8CAsP0zg?e=FLKXUk">LCD-2020.pdf</a></th>
+                                                <td>21 de Febrero</td>
+                                                <td>4.6 MB</td>
+                                                <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EaYKLkx7SjZGmLO1qUxNPWMBh2DHA35qPoTdV-8CAsP0zg?e=FLKXUk"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                              </tr>
+                                              <tr>
+                                                <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EZWCBSss-PZHnWETFg3qVOYBXfgPk5bAOcK2s-bw5hOcyg?e=QZwhys">LIMD-2020.pdf</a></th>
+                                                <td>21 de Febrero</td>
+                                                <td>2.7 MB</td>
+                                                <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EZWCBSss-PZHnWETFg3qVOYBXfgPk5bAOcK2s-bw5hOcyg?e=QZwhys"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                              </tr>
                                    </tbody>
                                 </table>
         </div>

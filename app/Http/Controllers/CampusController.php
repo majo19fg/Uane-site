@@ -549,9 +549,19 @@ class CampusController extends Controller
                     })
                     ->orderBy('tipoPrograma_id')
                     ->get();
+                    $CursoEnLinea = Programa::with('Campus', 'modalidadPrograma', 'tipoPrograma')
+                    ->whereHas('modalidadPrograma', function($query){
+                        $query->where('name', 'En línea');
+                    })
+                    ->whereHas('tipoPrograma', function($query){
+                        $query->where('name', 'Curso');
+                    })
+                    ->orderBy('tipoPrograma_id')
+                    ->get();
             //
         //
         $datos = [
+            'CursoEnLinea' => $CursoEnLinea,
             'MaeEnLinea' => $MaeEnLinea,
             'LicEnLinea' => $LicEnLinea,
             'BachSaltillo' => $BachSaltillo,
