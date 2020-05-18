@@ -9,9 +9,9 @@
     </nav>
 </div><!-- br-pageheader -->
 <div class="br-pagetitle">
-    <img src="{{ asset('/multi/images/Marketing box/logo.png') }}" width="150px" height="150px"/>
+  <img src="{{ asset('/multi/images/Marketing box/logo.png') }}" width="150px" height="150px"/>
     <div>
-        <h4>Presentaciones Piedras Negras</h4>
+        <h4>Precios</h4>
         <p class="mg-b-0"></p>
     </div>
 </div><!-- d-flex -->
@@ -42,17 +42,17 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ed9gdjP2Z6JIpNt3U2nXPu8BqLSKUmF6JZn1G2MFL9jRdA?e=KLZI2X">UANE - Oferta Educativa Monterrey - Empresas.pdf</a></th>
-                                        <td>21 de Febrero</td>
-                                        <td>4.6 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ed9gdjP2Z6JIpNt3U2nXPu8BqLSKUmF6JZn1G2MFL9jRdA?e=KLZI2X"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                      </tr>
-                                      <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ETWgq75XFi5LpM9pbHr3-KUBbpi8r0fNPX6ZsZ9e7zuYag?e=sbeD4b">UANE - Oferta Educativa Monterrey - Presencial.pdf</a></th>
-                                        <td>21 de Febrero</td>
-                                        <td>2.7 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ETWgq75XFi5LpM9pbHr3-KUBbpi8r0fNPX6ZsZ9e7zuYag?e=sbeD4b"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                      </tr>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:p:/g/personal/marketingdigital_uane_edu_mx/Eb1em8F7BO9Nig_aQ6gwxEcBx4b4bqmC9GHSwWNLjKGjBA?e=HbOasj">Precios Reynosa Bachillerato.pptx</a></th>
+                                      <td>21 de Febrero</td>
+                                      <td>5.6 MB</td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:p:/g/personal/marketingdigital_uane_edu_mx/Eb1em8F7BO9Nig_aQ6gwxEcBx4b4bqmC9GHSwWNLjKGjBA?e=HbOasj"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                    </tr>
+                                    <tr>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:p:/g/personal/marketingdigital_uane_edu_mx/EVGutvqCE35PmslgeVr4hQUBlh4B2GfMkTVz_9mzdbQosw?e=Hh1Rej">Precios Reynosa Carreras.pptx</a></th>
+                                      <td>21 de Febrero</td>
+                                      <td>5.6 MB</td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:p:/g/personal/marketingdigital_uane_edu_mx/EVGutvqCE35PmslgeVr4hQUBlh4B2GfMkTVz_9mzdbQosw?e=Hh1Rej"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                    </tr>                                      
                                   </tbody>
                                 </table>
                        

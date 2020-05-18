@@ -38,7 +38,7 @@
                       <div class="form-group mb-30">
                         <div class="styled-select">
                           <select name="modalidadAspirante" id="modalidadAspirante" class="form-control">
-                            <option value="">- Selecciona una opción -</option>
+                            <option value=""> Selecciona modalidad</option>
                             <option value="Presencial">Presencial</option>
                             <option value="En línea">En línea</option>
                           </select>
@@ -50,8 +50,9 @@
                     <div class="col-sm-6" data-show="presencial" data-hide="modalidadAspirante">
                       <div class="form-group mb-30">
                         <div class="styled-select">
-                            <select name="campusAspirante" id="campusAspirante" class="form-control" required="">
-                                <option value="">-- --</option>
+                            <select name="campusAspirante" id="campusAspirante" class="form-control" >
+                                <option value="">Selecciona campus</option>
+                                <option  value="">Otro</option>
                                   <option  value="Saltillo">Saltillo</option>
                                   <option  value="Torreón">Torreón</option>
                                   <option  value="Monclova">Monclova</option>
@@ -70,13 +71,15 @@
                       <div class="form-group mb-30">
                         <div class="styled-select">
                             <select name="tipoProgramaAspirante" id="tipoProgramaAspirante" class="form-control" required="">
-                                <option value="">-- --</option>
+                                <option value="">Tipo de programa</option>
                                   <option  value="Bachillerato">Bachillerato</option>
                                   <option  value="Licenciatura">Licenciatura</option>
                                   <option  value="Maestría">Maestría</option>
                                   <option  value="Especialidad">Especialidad</option>
                                   <option  value="Doctorado">Doctorado</option>
-                                  <option  value="Cursos en Línea">Cursos en Línea</option>
+                                  <option  value="Licenciatura En Línea">Licenciatura En Línea</option>
+                                  <option  value="Maestría En Línea">Maestría En Línea</option>
+                                  <option  value="Especialidad En Línea">Especialidad En Línea</option>
                             </select>
                         </div>
                       </div>
@@ -87,7 +90,7 @@
                       <div class="form-group mb-30">
                         <div class="styled-select">
                           <select name="programaAspirante" id="programaAspirante" class="form-control">
-                            <option value="">-- --</option>
+                            <option value="">Selecciona un programa</option>
                             {{-- Saltillo --}}
                               <optgroup class="BachSaltillo" label="Bachillerato para Saltillo">
                               @foreach ($BachSaltillo as $campus)
@@ -306,24 +309,21 @@
                             {{--  --}}
 
                             {{-- En línea --}}
-
-                            <optgroup class="LicEnLinea">
-                                @foreach ($LicEnLinea as $programa)
-                                    <option value="{{ $programa->title }}">{{ $programa->title }}</option>
-                                @endforeach
-                            </optgroup>
-                            <optgroup class="MaeEnLinea">
-                                @foreach ($MaeEnLinea as $programa)
-                                    <option value="{{ $programa->title }}">{{ $programa->title }}</option>
-                                @endforeach
-                            </optgroup>
-                            <optgroup class="CursoEnLinea">
-                              @foreach ($CursoEnLinea as $programa)
+                            <optgroup class="LicEL">
+                              @foreach ($LicEL as $programa)
                                   <option value="{{ $programa->title }}">{{ $programa->title }}</option>
                               @endforeach
                           </optgroup>
-
-
+                          <optgroup class="MEL">
+                            @foreach ($MEL as $programa)
+                                <option value="{{ $programa->title }}">{{ $programa->title }}</option>
+                            @endforeach
+                        </optgroup>
+                        <optgroup class="EEL">
+                          @foreach ($EEL as $programa)
+                              <option value="{{ $programa->title }}">{{ $programa->title }}</option>
+                          @endforeach
+                      </optgroup>
 
                           </select>
                         </div>

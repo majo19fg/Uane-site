@@ -192,25 +192,22 @@
                                 </tfoot>
                                 <tbody>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.carpeta70') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.carpeta70') }}">DIT 70% </a></th>
-                                    <td>2 elementos</td>
+                                    <td><a href="{{ route('usuarios.carpeta70Mayo') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.carpeta70Mayo') }}">DIT 70% </a></th>
+                                    <td>4 elementos</td>
                                   </tr>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.carpeta70Mty') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.carpeta70Mty') }}">DIT 70% Monterrey</a></th>
-                                    <td>2 elementos</td>
+                                    <td><a href="{{ route('usuarios.carpeta70MayoMty') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.carpeta70MayoMty') }}">DIT 70% Mty</a></th>
+                                    <td>4 elementos</td>
                                   </tr>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.carpeta40') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.carpeta40') }}">DIT 40% </a></th>
-                                    <td>2 elementos</td>
+                                    <td><a href="{{ route('usuarios.carpeta70MayoEL') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.carpeta70MayoEL') }}">DIT 70% En Línea</a></th>
+                                    <td>4 elementos</td>
                                   </tr>
-                                  <tr>
-                                    <td><a href="{{ route('usuarios.carpeta40Mty') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.carpeta40Mty') }}">DIT 40% Monterrey</a></th>
-                                    <td>2 elementos</td>
-                                  </tr>
+
+
                                   </tbody>
                               </table>
                             </div>
@@ -281,7 +278,12 @@
                             <tbody>
                               <tr>
                                 <td><a href="{{ route('usuarios.FB') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                <th><a href="{{ route('usuarios.FB') }}">Oferta Educativa</a></th>
+                                <th><a href="{{ route('usuarios.FB') }}">Oferta Educativa Presencial</a></th>
+                                <td>23 elementos</td>
+                              </tr>
+                              <tr>
+                                <td><a href="{{ route('usuarios.FBEL') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                <th><a href="{{ route('usuarios.FBEL') }}">Oferta Educativa En Línea</a></th>
                                 <td>23 elementos</td>
                               </tr>
                             </tbody>

@@ -76,7 +76,7 @@
                         <li><a href="{{ route('programas.maes') }}"><i class="fa fa-check-square-o mr-10 text-black-light"></i> Maestría</a></li>
                         <li><a href="{{ route('programas.esp') }}"><i class="fa fa-check-square-o mr-10 text-black-light"></i> Especialidad</a></li>
                         <li><a href="{{ route('programas.doc') }}"><i class="fa fa-check-square-o mr-10 text-black-light"></i> Doctorado</a></li>
-                        <li><a href="{{ route('programas.cursos') }}"><i class="fa fa-check-square-o mr-10 text-black-light"></i> Cursos en Línea</a></li>
+
                     </ul>
                   </ul>
                 </div>

@@ -86,7 +86,6 @@
                       <li><a href="{{ route('programas.maes') }}">Maestría</a></li>
                       <li><a href="{{ route('programas.esp') }}">Especialidad</a></li>
                       <li><a href="{{ route('programas.doc') }}">Doctorado</a></li>
-                      <li><a href="{{ route('programas.cursos') }}">Cursos en línea</a></li>
                     </ul>
                   </div>
                   <div class="col4">
@@ -243,5 +242,23 @@
         </nav>
       </div>
     </div>
-  </div>
+  </div>   
+  <section id="home">
+    <div class="container-fluid p-0">
+      <div id="fb-root"></div>
+      <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v4.0"></script>
+      <section style="background-color: #F4C300">
+        <div class="container pt-10 pb-20">
+          <div class="row">
+            <div class="call-to-action">
+              <div class="col-md-9">
+               <center><h3 class="mt-0 text-white font-weight-600 font-16">¡Vive una Experiencia que Transforma!</h3></center> 
+              </div>
+              <div class="col-md-3 text-right flip sm-text-center"> 
+                <a class="btn btn-flat btn-theme-colored btn-lg mt-5" href="#" data-toggle="modal" data-target="#BSParentModal">Solicita información Aquí</a>  
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
 </header>

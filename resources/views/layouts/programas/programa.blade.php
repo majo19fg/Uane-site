@@ -105,15 +105,225 @@
               
               alt="">
               <h3 class="text-theme-colored line-bottom text-theme-colored">{{ $programa->title }}</h3>
+              {{-- <h4 class="mt-0"><span class="text-theme-color-2">Price :</span> $420</h4>
+                <ul class="review_text list-inline">
+                  <li>
+                    <div class="star-rating" title="Rated 4.50 out of 5"><span style="width: 90%;">4.50</span></div>
+                  </li>
+                </ul> --}}
               <h5><em>{{ $programa->descripcion_corta }}</em></h5>
+              <div class="col-md-12" style="background-color:#73243d">
+                <h2 value="Plan de estudios"style="font-size: 35px; font-weight:500;color:#fefefe;" > Plan de estudios</h2></div>
+                <div class="col-md-12" id="programa">
+                {!! $programa->descripcion_programa !!}
+
+              <!--@if ($programa->duracion_curso == '8 semestres')
+              <h4 class="line-bottom mt-20 mb-20 text-theme-colored">Programa</h4>
+              <ul id="myTab" class="nav nav-tabs boot-tabs">
+                <li class="active"><a href="#primero" data-toggle="tab">Primer año</a></li>
+                <li><a href="#segundo" data-toggle="tab">Segundo año</a></li>
+                <li><a href="#tercero" data-toggle="tab">Tercer año</a></li>
+                <li><a href="#cuarto" data-toggle="tab">Cuarto año</a></li>
+              </ul>
+              <div id="myTabContent" class="tab-content">
+                <div class="tab-pane fade in active" id="primero">
+                  <table class="table table-bordered"> 
+                    <tr>
+                      <td class="text-center font-16 font-weight-600 bg-theme-color-2 text-white" colspan="4">Prices For All Lesson Type</td>
+                    </tr>
+                    <tr> <th>Coures Type</th> <th>Class time</th> <th>Course Duration</th> <th>Price</th> </tr>
+                    <tbody> 
+                      <tr> <th scope="row">Applied Psychology</th> <td>45 minutes</td> <td>3 years</td> <td>$810</td> </tr>
+                      <tr> <th scope="row">Business Administration (MBA)</th> <td>45 minutes</td> <td>2 years</td> <td>$940</td> </tr>
+                      <tr> <th scope="row">Computer Science (BSc)</th> <td>1 Hours</td> <td>4 years</td> <td>$1180</td> </tr>
+                      <tr> <th scope="row">Development Studies (MDS)</th> <td>1 Hours</td> <td>5 years</td> <td>$1400</td> </tr> 
+                      <tr> <th scope="row">Engineering Technology (BSc)</th> <td>30 minutes</td> <td>3 years</td> <td>$600</td> </tr> 
+                    </tbody> 
+                  </table>
+                </div>
+                <div class="tab-pane fade" id="segundo">
+                  <table class="table table-bordered"> 
+                    <tr>
+                      <td class="text-center font-16 font-weight-600 bg-theme-color-2 text-white" colspan="4">Prices For All Lesson Type</td>
+                    </tr>
+                    <tr> <th>Coures Type</th> <th>Class time</th> <th>Course Duration</th> <th>Price</th> </tr>
+                    <tbody> 
+                      <tr> <th scope="row">Applied Psychology</th> <td>45 minutes</td> <td>3 years</td> <td>$810</td> </tr>
+                      <tr> <th scope="row">Business Administration (MBA)</th> <td>45 minutes</td> <td>2 years</td> <td>$940</td> </tr>
+                      <tr> <th scope="row">Computer Science (BSc)</th> <td>1 Hours</td> <td>4 years</td> <td>$1180</td> </tr>
+                      <tr> <th scope="row">Development Studies (MDS)</th> <td>1 Hours</td> <td>5 years</td> <td>$1400</td> </tr> 
+                      <tr> <th scope="row">Engineering Technology (BSc)</th> <td>30 minutes</td> <td>3 years</td> <td>$600</td> </tr> 
+                    </tbody> 
+                  </table>
+                </div>
+                <div class="tab-pane fade" id="tercero">
+                  <table class="table table-bordered"> 
+                    <tr>
+                      <td class="text-center font-16 font-weight-600 bg-theme-color-2 text-white" colspan="4">Prices For All Lesson Type</td>
+                    </tr>
+                    <tr> <th>Coures Type</th> <th>Class time</th> <th>Course Duration</th> <th>Price</th> </tr>
+                    <tbody> 
+                      <tr> <th scope="row">Applied Psychology</th> <td>45 minutes</td> <td>3 years</td> <td>$810</td> </tr>
+                      <tr> <th scope="row">Business Administration (MBA)</th> <td>45 minutes</td> <td>2 years</td> <td>$940</td> </tr>
+                      <tr> <th scope="row">Computer Science (BSc)</th> <td>1 Hours</td> <td>4 years</td> <td>$1180</td> </tr>
+                      <tr> <th scope="row">Development Studies (MDS)</th> <td>1 Hours</td> <td>5 years</td> <td>$1400</td> </tr> 
+                      <tr> <th scope="row">Engineering Technology (BSc)</th> <td>30 minutes</td> <td>3 years</td> <td>$600</td> </tr> 
+                    </tbody> 
+                  </table>
+                </div>
+                <div class="tab-pane fade" id="cuarto">
+                  <table class="table table-bordered"> 
+                    <tr>
+                      <td class="text-center font-16 font-weight-600 bg-theme-color-2 text-white" colspan="4">Prices For All Lesson Type</td>
+                    </tr>
+                    <tr> <th>Coures Type</th> <th>Class time</th> <th>Course Duration</th> <th>Price</th> </tr>
+                    <tbody> 
+                      <tr> <th scope="row">Applied Psychology</th> <td>45 minutes</td> <td>3 years</td> <td>$810</td> </tr>
+                      <tr> <th scope="row">Business Administration (MBA)</th> <td>45 minutes</td> <td>2 years</td> <td>$940</td> </tr>
+                      <tr> <th scope="row">Computer Science (BSc)</th> <td>1 Hours</td> <td>4 years</td> <td>$1180</td> </tr>
+                      <tr> <th scope="row">Development Studies (MDS)</th> <td>1 Hours</td> <td>5 years</td> <td>$1400</td> </tr> 
+                      <tr> <th scope="row">Engineering Technology (BSc)</th> <td>30 minutes</td> <td>3 years</td> <td>$600</td> </tr> 
+                    </tbody> 
+                  </table>
+                </div>
               </div>
+              @elseif($programa->duracion_curso == '4 semestres')
+              <h4 class="line-bottom mt-20 mb-20 text-theme-colored">Programa</h4>
+              <ul id="myTab" class="nav nav-tabs boot-tabs">
+                <li class="active"><a href="#primero" data-toggle="tab">Primer año</a></li>
+                <li><a href="#segundo" data-toggle="tab">Segundo año</a></li>
+              </ul>
+              <div id="myTabContent" class="tab-content">
+                <div class="tab-pane fade in active" id="primero">
+                  <table class="table table-bordered"> 
+                    <tr>
+                      <td class="text-center font-16 font-weight-600 bg-theme-color-2 text-white" colspan="4">Prices For All Lesson Type</td>
+                    </tr>
+                    <tr> <th>Coures Type</th> <th>Class time</th> <th>Course Duration</th> <th>Price</th> </tr>
+                    <tbody> 
+                      <tr> <th scope="row">Applied Psychology</th> <td>45 minutes</td> <td>3 years</td> <td>$810</td> </tr>
+                      <tr> <th scope="row">Business Administration (MBA)</th> <td>45 minutes</td> <td>2 years</td> <td>$940</td> </tr>
+                      <tr> <th scope="row">Computer Science (BSc)</th> <td>1 Hours</td> <td>4 years</td> <td>$1180</td> </tr>
+                      <tr> <th scope="row">Development Studies (MDS)</th> <td>1 Hours</td> <td>5 years</td> <td>$1400</td> </tr> 
+                      <tr> <th scope="row">Engineering Technology (BSc)</th> <td>30 minutes</td> <td>3 years</td> <td>$600</td> </tr> 
+                    </tbody> 
+                  </table>
+                </div>
+                <div class="tab-pane fade" id="segundo">
+                  <table class="table table-bordered"> 
+                    <tr>
+                      <td class="text-center font-16 font-weight-600 bg-theme-color-2 text-white" colspan="4">Primer año</td>
+                    </tr>
+                    <tr> 
+                      <th>Primer semestre</th> 
+                      <th>Segundo semestre</th> 
+                    <tbody> 
+                      <tr> 
+                         <td>45 minutes</td>
+                         <td>3 years</td>
+                      </tr>
+                      <tr> 
+                         <td>45 minutes</td>
+                         <td>2 years</td>
+                      </tr>
+                      <tr> 
+                         <td>1 Hours</td>
+                         <td>4 years</td>
+                      </tr>
+                      <tr> 
+                         <td>1 Hours</td>
+                         <td>5 years</td>
+                      </tr> 
+                      <tr> 
+                         <td>30 minutes</td>
+                         <td>3 years</td>
+                      </tr> 
+                    </tbody> 
+                  </table>
+                </div>
+              </div>
+              @elseif($programa->duracion_curso == '2 semestres')
+              <h4 class="line-bottom mt-20 mb-20 text-theme-colored">Programa</h4>
+              <ul id="myTab" class="nav nav-tabs boot-tabs">
+                <li class="active"><a href="#primero" data-toggle="tab">Primer año</a></li>
+              </ul>
+              <div id="myTabContent" class="tab-content">
+                <div class="tab-pane fade in active" id="primero">
+                  <table class="table table-bordered"> 
+                    <tr>
+                      <td class="text-center font-16 font-weight-600 bg-theme-color-2 text-white" colspan="4">Prices For All Lesson Type</td>
+                    </tr>
+                    <tr> <th>Coures Type</th> <th>Class time</th> <th>Course Duration</th> <th>Price</th> </tr>
+                    <tbody> 
+                      <tr> <th scope="row">Applied Psychology</th> <td>45 minutes</td> <td>3 years</td> <td>$810</td> </tr>
+                      <tr> <th scope="row">Business Administration (MBA)</th> <td>45 minutes</td> <td>2 years</td> <td>$940</td> </tr>
+                      <tr> <th scope="row">Computer Science (BSc)</th> <td>1 Hours</td> <td>4 years</td> <td>$1180</td> </tr>
+                      <tr> <th scope="row">Development Studies (MDS)</th> <td>1 Hours</td> <td>5 years</td> <td>$1400</td> </tr> 
+                      <tr> <th scope="row">Engineering Technology (BSc)</th> <td>30 minutes</td> <td>3 years</td> <td>$600</td> </tr> 
+                    </tbody> 
+                  </table>
+                </div>
+              </div>
+
+              @elseif($programa->duracion_curso == '6 semestres')
+              <h4 class="line-bottom mt-20 mb-20 text-theme-colored">Programa</h4>
+              <ul id="myTab" class="nav nav-tabs boot-tabs">
+                <li class="active"><a href="#primero" data-toggle="tab">Primer año</a></li>
+                <li class="active"><a href="#segundo" data-toggle="tab">Segundo año</a></li>
+                <li class="active"><a href="#tercero" data-toggle="tab">Tercer año</a></li>
+              </ul>
+              <div id="myTabContent" class="tab-content">
+                <div class="tab-pane fade in active" id="primero">
+                  <table class="table table-bordered"> 
+                    <tr>
+                      <td class="text-center font-16 font-weight-600 bg-theme-color-2 text-white" colspan="4">Prices For All Lesson Type</td>
+                    </tr>
+                    <tr> <th>Coures Type</th> <th>Class time</th> <th>Course Duration</th> <th>Price</th> </tr>
+                    <tbody> 
+                      <tr> <th scope="row">Applied Psychology</th> <td>45 minutes</td> <td>3 years</td> <td>$810</td> </tr>
+                      <tr> <th scope="row">Business Administration (MBA)</th> <td>45 minutes</td> <td>2 years</td> <td>$940</td> </tr>
+                      <tr> <th scope="row">Computer Science (BSc)</th> <td>1 Hours</td> <td>4 years</td> <td>$1180</td> </tr>
+                      <tr> <th scope="row">Development Studies (MDS)</th> <td>1 Hours</td> <td>5 years</td> <td>$1400</td> </tr> 
+                      <tr> <th scope="row">Engineering Technology (BSc)</th> <td>30 minutes</td> <td>3 years</td> <td>$600</td> </tr> 
+                    </tbody> 
+                  </table>
+                </div>
+                <div class="tab-pane fade in active" id="segundo">
+                  <table class="table table-bordered"> 
+                    <tr>
+                      <td class="text-center font-16 font-weight-600 bg-theme-color-2 text-white" colspan="4">Prices For All Lesson Type</td>
+                    </tr>
+                    <tr> <th>Coures Type</th> <th>Class time</th> <th>Course Duration</th> <th>Price</th> </tr>
+                    <tbody> 
+                      <tr> <th scope="row">Applied Psychology</th> <td>45 minutes</td> <td>3 years</td> <td>$810</td> </tr>
+                      <tr> <th scope="row">Business Administration (MBA)</th> <td>45 minutes</td> <td>2 years</td> <td>$940</td> </tr>
+                      <tr> <th scope="row">Computer Science (BSc)</th> <td>1 Hours</td> <td>4 years</td> <td>$1180</td> </tr>
+                      <tr> <th scope="row">Development Studies (MDS)</th> <td>1 Hours</td> <td>5 years</td> <td>$1400</td> </tr> 
+                      <tr> <th scope="row">Engineering Technology (BSc)</th> <td>30 minutes</td> <td>3 years</td> <td>$600</td> </tr> 
+                    </tbody> 
+                  </table>
+                </div>
+                <div class="tab-pane fade in active" id="tercero">
+                  <table class="table table-bordered"> 
+                    <tr>
+                      <td class="text-center font-16 font-weight-600 bg-theme-color-2 text-white" colspan="4">Prices For All Lesson Type</td>
+                    </tr>
+                    <tr> <th>Coures Type</th> <th>Class time</th> <th>Course Duration</th> <th>Price</th> </tr>
+                    <tbody> 
+                      <tr> <th scope="row">Applied Psychology</th> <td>45 minutes</td> <td>3 years</td> <td>$810</td> </tr>
+                      <tr> <th scope="row">Business Administration (MBA)</th> <td>45 minutes</td> <td>2 years</td> <td>$940</td> </tr>
+                      <tr> <th scope="row">Computer Science (BSc)</th> <td>1 Hours</td> <td>4 years</td> <td>$1180</td> </tr>
+                      <tr> <th scope="row">Development Studies (MDS)</th> <td>1 Hours</td> <td>5 years</td> <td>$1400</td> </tr> 
+                      <tr> <th scope="row">Engineering Technology (BSc)</th> <td>30 minutes</td> <td>3 years</td> <td>$600</td> </tr> 
+                    </tbody> 
+                  </table>
+                </div>
+              </div>
+              @endif-->
+                </div>
+          </div>
             </div>
-          </div>
-          <div class="col-md-12" style="background-color:#73243d">
-          <input value="Plan de estudios" id="plan" type="button"style="font-size: 35px; font-weight:500;color: #fefefe; background-color:#40BAB3" ></div>
-          <div class="col-md-12" id="programa" style="display: none">
-          {!! $programa->descripcion_programa !!}
-          </div>
+
         {{-- Formulario de aspirante --}}
         <div class="row">
           <div class="col-md-12 blog-pull-right">
