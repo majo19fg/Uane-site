@@ -11,7 +11,7 @@
 <div class="br-pagetitle">
     <img src="{{ asset('/multi/images/Marketing box/logo.png') }}" width="150px" height="150px"/>
     <div>
-        <h4>Banner </h4>
+        <h4>Facebook</h4>
         <p class="mg-b-0"></p>
     </div>
 </div><!-- d-flex -->
@@ -42,10 +42,10 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZnJmVH_9UtPpp_Pjzb4w-MBm9m8oj3rsDkr63WpWWvIvg?e=aSj2f0">Banner DIT 40% Marzo MTY.jpg</a></th>
-                                      <td>3 de Marzo</td>
-                                      <td>276 KB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZnJmVH_9UtPpp_Pjzb4w-MBm9m8oj3rsDkr63WpWWvIvg?e=aSj2f0"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Eemyb6pzVABNk7M6cI7A36kBeFMEqdqkeOIPE5D1aIRU0w?e=cjdnhE">Facebook DIT 70% Mayo Mty.jpg</a></th>
+                                      <td>4 de Mayo</td>
+                                      <td>262 KB</td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Eemyb6pzVABNk7M6cI7A36kBeFMEqdqkeOIPE5D1aIRU0w?e=cjdnhE"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                   </tbody>
                                 </table>

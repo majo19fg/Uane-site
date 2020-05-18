@@ -11,7 +11,7 @@
 <div class="br-pagetitle">
     <img src="{{ asset('/multi/images/Marketing box/logo.png') }}" width="150px" height="150px"/>
     <div>
-        <h4>Reynosa </h4>
+        <h4>Promociones </h4>
         <p class="mg-b-0"></p>
     </div>
 </div><!-- d-flex -->
@@ -40,29 +40,29 @@
                       </tfoot>
                       <tbody>
                         <tr>
-                          <td><a href="{{ route('usuarios.BMB2') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.BMB2') }}">Bachillerato</a></th>
+                          <td><a href="{{ route('usuarios.Banner70mayo') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.Banner70mayo') }}">Banner</a></th>
                           <td>1 elemento</td>
                         </tr>
                         <tr>
-                          <td><a href="{{ route('usuarios.FlyersRey') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.FlyersRey') }}">Carreras</a></th>
-                          <td>7 elementos</td>
+                          <td><a href="{{ route('usuarios.FB70mayo') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.FB70mayo') }}">Facebook</a></th>
+                          <td>1 elemento</td>
                         </tr>
                         <tr>
-                          <td><a href="{{ route('usuarios.Postgrados') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.Postgrados') }}">Postgrados</a></th>
-                          <td>5 elementos</td>
+                          <td><a href="{{ route('usuarios.Instagram70mayo') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.Instagram70mayo') }}">Instagram</a></th>
+                          <td>1 elemento</td>
                         </tr>
                         <tr>
-                          <td><a href="{{ route('usuarios.PreciosRey') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.PreciosRey') }}">Precios</a></th>
-                          <td>2 elementos</td>
+                          <td><a href="{{ route('usuarios.WA70') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.WA70') }}">WhatsApp</a></th>
+                          <td>1 elemento</td>
                         </tr>
                         <tr>
-                          <td><a href="{{ route('usuarios.Procesos') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.Procesos') }}">Procesos de admisión</a></th>
-                          <td>2 elementos</td>
+                          <td><a href="{{ route('usuarios.Mail70mayo') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.Mail70mayo') }}">Mailing</a></th>
+                          <td>7 elemento</td>
                         </tr>
                       </tbody>
                     </table>

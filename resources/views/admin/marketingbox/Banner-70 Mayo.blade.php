@@ -11,7 +11,7 @@
 <div class="br-pagetitle">
     <img src="{{ asset('/multi/images/Marketing box/logo.png') }}" width="150px" height="150px"/>
     <div>
-        <h4>Instagram </h4>
+        <h4>Banner </h4>
         <p class="mg-b-0"></p>
     </div>
 </div><!-- d-flex -->
@@ -42,17 +42,11 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EeiL6GwJoj1Lj0NeWLzCjpcBWY0JJaUAY4QPpjVI63DsuQ?e=VmiZb8">Historia instagram 2- 40% Marzo.jpg</a></th>
-                                      <td>3 de Marzo</td>
-                                      <td>1.29 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EeiL6GwJoj1Lj0NeWLzCjpcBWY0JJaUAY4QPpjVI63DsuQ?e=VmiZb8"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                    </tr>
-                                    <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EQYhLeX3CuxGi6fJnO-XX3UBNMi9WeHAMPe18IDres-8fg?e=eiFObX">Historia instagram 40% Marzo.jpg</a></th>
-                                      <td>3 de Marzo</td>
-                                      <td>1.13 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EQYhLeX3CuxGi6fJnO-XX3UBNMi9WeHAMPe18IDres-8fg?e=eiFObX"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                    </tr>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EaEz6SIYKNxPj7RFo1IyZYUBAA8NdzKPA6Ku7-3GqSqFfA?e=QM1Ln5">Banner DIT 70% Presencial Mayo.jpg</a></th>
+                                        <td>4 de Mayo</td>
+                                        <td>262 KB</td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EaEz6SIYKNxPj7RFo1IyZYUBAA8NdzKPA6Ku7-3GqSqFfA?e=QM1Ln5"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      </tr>
                                   </tbody>
                                 </table>
                        
