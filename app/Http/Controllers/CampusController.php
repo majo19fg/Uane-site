@@ -549,19 +549,40 @@ class CampusController extends Controller
                     })
                     ->orderBy('tipoPrograma_id')
                     ->get();
-                    $CursoEnLinea = Programa::with('Campus', 'modalidadPrograma', 'tipoPrograma')
+                    $LicEL = Programa::with('modalidadPrograma', 'tipoPrograma')
                     ->whereHas('modalidadPrograma', function($query){
                         $query->where('name', 'En línea');
                     })
                     ->whereHas('tipoPrograma', function($query){
-                        $query->where('name', 'Curso');
+                        $query->where('name', 'Licenciatura En línea');
                     })
                     ->orderBy('tipoPrograma_id')
                     ->get();
+                    $MEL = Programa::with('modalidadPrograma', 'tipoPrograma')
+                    ->whereHas('modalidadPrograma', function($query){
+                        $query->where('name', 'En línea');
+                    })
+                    ->whereHas('tipoPrograma', function($query){
+                        $query->where('name', 'Maestría En Línea');
+                    })
+                    ->orderBy('tipoPrograma_id')
+                    ->get();
+                    $EEL = Programa::with('modalidadPrograma', 'tipoPrograma')
+                    ->whereHas('modalidadPrograma', function($query){
+                        $query->where('name', 'En línea');
+                    })
+                    ->whereHas('tipoPrograma', function($query){
+                        $query->where('name', 'Especialidad En Línea');
+                    })
+                    ->orderBy('tipoPrograma_id')
+                    ->get();
+
             //
         //
         $datos = [
-            'CursoEnLinea' => $CursoEnLinea,
+            'EEL' =>$EEL,
+            'MEL' =>$MEL,
+            'LicEL' =>$LicEL,
             'MaeEnLinea' => $MaeEnLinea,
             'LicEnLinea' => $LicEnLinea,
             'BachSaltillo' => $BachSaltillo,

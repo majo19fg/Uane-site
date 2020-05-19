@@ -61,7 +61,6 @@ class ProgramasController extends Controller
             'tipoPrograma' => 'required',
             'modalidad' => 'required',
             'duracionCurso' => 'required',
-            'campus' => 'required',
             'fechaInicio' => 'required',
             'descripcionCorta' => 'required',
             'descripcionPrograma' => 'required',

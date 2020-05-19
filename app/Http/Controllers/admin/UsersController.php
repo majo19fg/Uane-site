@@ -521,114 +521,110 @@ class UsersController extends Controller
         return view('admin.marketingbox.Diploma_Americana');
 
     }
-    public function carpeta40() 
+    public function Carpeta70mayo() 
     {
 
-        return view('admin.marketingbox.Carpetas_dit40');
+        return view('admin.marketingbox.Carpetas_dit70Presencial');
 
     }
-    public function banner40() 
+    public function Banner70mayo() 
     {
 
-        return view('admin.marketingbox.Banner-40');
+        return view('admin.marketingbox.Banner-70 Mayo');
 
     }
-    public function banner40Mty() 
+    public function FB70mayo() 
     {
 
-        return view('admin.marketingbox.Banner-40Mty');
+        return view('admin.marketingbox.FB-70Mayo');
 
-    }
-    public function banner70() 
+    }    
+    public function Instagram70mayo() 
     {
 
-        return view('admin.marketingbox.Banner-70');
+        return view('admin.marketingbox.FB-70Mayo');
 
     }
-    public function banner70Mty() 
+    public function Mail70mayo() 
     {
 
-        return view('admin.marketingbox.Banner-70Mty');
+        return view('admin.marketingbox.Mail-70Mayo');
 
     }
-    public function carpeta40Mty() 
+    public function Carpeta70mayoMty() 
     {
 
-        return view('admin.marketingbox.Carpetas_dit40_Mty');
+        return view('admin.marketingbox.Carpetas_dit70PresencialMTY');
 
     }
-    public function FB40() 
+    public function Banner70mayoMty() 
     {
 
-        return view('admin.marketingbox.FB-40');
+        return view('admin.marketingbox.Banner-70 MayoMty');
 
     }
-    public function FB40Mty() 
+    public function FB70mayoMty() 
     {
 
-        return view('admin.marketingbox.FB-40Mty');
+        return view('admin.marketingbox.FB-70MayoMty');
 
-    }
-    public function FB70() 
+    }    
+    public function Instagram70mayoMty() 
     {
 
-        return view('admin.marketingbox.FB-70');
+        return view('admin.marketingbox.Instagram-70MayoMty');
 
     }
-    public function FB70Mty() 
+    public function Mail70mayoMty() 
     {
 
-        return view('admin.marketingbox.FB-70Mty');
+        return view('admin.marketingbox.Mail-70MayoMty');
 
     }
-    public function carpeta70() 
+    public function Carpeta70mayoEL() 
     {
 
-        return view('admin.marketingbox.Carpetas_dit70');
+        return view('admin.marketingbox.Carpetas_dit70EL');
 
     }
-    public function Instagram40() 
+    public function Banner70mayoEL() 
     {
 
-        return view('admin.marketingbox.Instagram-40');
+        return view('admin.marketingbox.Banner-70 MayoEL');
 
     }
-    public function Instagram40Mty() 
+    public function FB70mayoEL() 
     {
 
-        return view('admin.marketingbox.Instagram-40Mty');
+        return view('admin.marketingbox.FB-70MayoEL');
 
-    }
-    public function Instagram70() 
+    }    
+    public function Instagram70mayoEL() 
     {
 
-        return view('admin.marketingbox.Instagram-70');
+        return view('admin.marketingbox.Instagram-70MayoMty');
 
     }
-    public function Instagram70Mty() 
+    public function Mail70mayoEL() 
     {
 
-        return view('admin.marketingbox.Instagram-70Mty');
+        return view('admin.marketingbox.Mail-70MayoEL');
 
     }
-    public function carpeta70Mty() 
+    public function FBEL() 
     {
 
-        return view('admin.marketingbox.Carpetas_dit70_Mty');
+        return view('admin.marketingbox.Facebook-postEL');
 
     }
-    public function Mail70() 
+    public function WA70() 
     {
 
-        return view('admin.marketingbox.Mail-70');
+        return view('admin.marketingbox.WhatsApp-70 Mayo');
 
     }
-    public function Mail70Mty() 
-    {
+    
 
-        return view('admin.marketingbox.Mail-70Mty');
-
-    }
     public function lista_encuesta()
     {
         $encuestas = Encuesta::all();
