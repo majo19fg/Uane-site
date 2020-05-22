@@ -6,6 +6,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class Acceso extends Model
 {
-    protected $table = 'acceso'; 
-} 
+    protected $guarded = [];
 
+}

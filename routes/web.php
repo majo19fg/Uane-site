@@ -112,6 +112,8 @@ Auth::routes();
 
 Route::group(['prefix' => 'mkt-user', 'namespace' => 'admin', 'middleware' => 'auth', 'except' => ''], function () {
     Route::get('/', 'AdminController@index')->name('home.admin');
+    Route::get('/Acceso', 'AccesController@index')->name('acceso.index');
+Route::post('/Accesoguardar', 'AccesController@store')->name('acceso.guardar');
 
     //Programas
     Route::get('/programas/lista-programas', 'ProgramasController@index')->name('mostrar.programa');
@@ -267,7 +269,7 @@ Route::put('/convenios/actualizar/{convenio}', 'ConveniosNuevoController@update'
 Route::delete('/convenios/eliminar/{convenio}', 'ConveniosNuevoController@destroy')->name('convenios.eliminar');
 Route::get('/pdf/{convenio}', 'ConveniosNuevoController@pdf')->name('convenios.pdf');
     
-    
+
    /**Route::get('/convenios', 'ConveniosController@index')->name('convenios.index');
    Route::get('/convenios/guardar-convenio', 'ConveniosController@create')->name('convenios.formulario');
    Route::post('/convenios/guardar-convenio', 'ConveniosController@store')->name('convenios.formulario.guardar');

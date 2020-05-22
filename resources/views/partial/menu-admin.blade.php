@@ -151,14 +151,14 @@
 
     {{-- Programas --}}
     <li class="br-menu-item">
-      <a href="#" class="br-menu-link with-sub {{setActiveRoute('usuarios.PlantillaDescarga')}}">
+      <a href="#" class="br-menu-link with-sub {{setActiveRoute('acceso.index')}}">
         <img src="{{ asset('/multi/images/Marketing box/LOGOblanco.png') }}" width="30px" height="30px"/>
         <span class="menu-item-label">Marketing Box</span>
       </a>
       <!-- br-menu-link -->
       <ul class="br-menu-sub">
-        <li class="sub-item"><a href="{{ route('usuarios.PlantillaDescarga') }}"
-            class="sub-link {{ setActiveRoute('usuarios.PlantillaDescarga') }}">Lista de archivos</a></li>
+        <li class="sub-item"><a href="{{ route('acceso.index') }}"
+            class="sub-link {{ setActiveRoute('acceso.index') }}">Lista de archivos</a></li>
       </ul>
     </li>
     @endhasanyrole
