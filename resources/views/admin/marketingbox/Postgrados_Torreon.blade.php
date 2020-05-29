@@ -65,22 +65,22 @@
                                               <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EVd-xnqYUWJBkaUDU3M_85EBfWJ6HzK8T4ehe2sW0Ha7Zg?e=DGTQnR"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                             </tr>
                                             <tr>
-                                              <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ESLmaig4qGhKvxeOGTIDFyQBewFtP3XwGnPGiMEez0bYPw?e=ruLL7K">MGA-0800-2020.pdf</a></th>
+                                              <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ESik9JsE5clGkxUdydLt_eEBUmq37YmW-2Z6o0FdapJ1uw?e=BSv9wS">MGA-0800-2020.pdf</a></th>
                                               <td>21 de Febrero</td>
                                               <td>2.7 MB</td>
-                                              <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ESLmaig4qGhKvxeOGTIDFyQBewFtP3XwGnPGiMEez0bYPw?e=ruLL7K"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                              <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ESik9JsE5clGkxUdydLt_eEBUmq37YmW-2Z6o0FdapJ1uw?e=BSv9wS"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                             </tr>
                                             <tr>
-                                                <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EWAxKiq6iNdInHV92GzRRQIBmwaemS3rZPVZIAhJzISJrA?e=D0Fewl">MGNM-1700-2020.pdf</a></th>
+                                                <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ERtnkaAYHMpFgLx3DjTCWR4BSKQSo2sCC2M6UjHEvCIBAA?e=eZSu9j">MGNM-1700-2020.pdf</a></th>
                                                 <td>21 de Febrero</td>
                                                 <td>5.6 MB</td>
-                                                <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EWAxKiq6iNdInHV92GzRRQIBmwaemS3rZPVZIAhJzISJrA?e=D0Fewl"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                                <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ERtnkaAYHMpFgLx3DjTCWR4BSKQSo2sCC2M6UjHEvCIBAA?e=eZSu9j"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                               </tr>
                                                 <tr>
-                                                    <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EQCgwn_YR9lJsWz4KyM9_RsBUrwPtrpyK0qDMvugYQlJPg?e=Sx3T3i">MSO-1100-2020.pdf</a></th>
+                                                    <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ee0XGJRcZpxPnRGpZ4AmGoABAwMOssiZJykdWPqr-FcJWA?e=q0SYSV">MSO-1100-2020.pdf</a></th>
                                                     <td>21 de Febrero</td>
                                                     <td>5.6 MB</td>
-                                                    <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EQCgwn_YR9lJsWz4KyM9_RsBUrwPtrpyK0qDMvugYQlJPg?e=Sx3T3i"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                                    <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ee0XGJRcZpxPnRGpZ4AmGoABAwMOssiZJykdWPqr-FcJWA?e=q0SYSV"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                                   </tr>
                                   </tbody>
                                 </table>

@@ -90,16 +90,16 @@
                                               <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EVd-xnqYUWJBkaUDU3M_85EBfWJ6HzK8T4ehe2sW0Ha7Zg?e=DGTQnR"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                             </tr>
                                             <tr>
-                                              <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ESLmaig4qGhKvxeOGTIDFyQBewFtP3XwGnPGiMEez0bYPw?e=ruLL7K">MGA-0800-2020.pdf</a></th>
+                                              <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ESik9JsE5clGkxUdydLt_eEBUmq37YmW-2Z6o0FdapJ1uw?e=YRwgFC">MGA-0800-2020.pdf</a></th>
                                               <td>21 de Febrero</td>
                                               <td>2.7 MB</td>
-                                              <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ESLmaig4qGhKvxeOGTIDFyQBewFtP3XwGnPGiMEez0bYPw?e=ruLL7K"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                              <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ESik9JsE5clGkxUdydLt_eEBUmq37YmW-2Z6o0FdapJ1uw?e=YRwgFC"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                             </tr>
                                             <tr>
-                                                <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EWAxKiq6iNdInHV92GzRRQIBmwaemS3rZPVZIAhJzISJrA?e=D0Fewl">MGNM-1700-2020.pdf</a></th>
+                                                <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ERtnkaAYHMpFgLx3DjTCWR4BSKQSo2sCC2M6UjHEvCIBAA?e=cBynIo">MGNM-1700-2020.pdf</a></th>
                                                 <td>21 de Febrero</td>
                                                 <td>5.6 MB</td>
-                                                <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EWAxKiq6iNdInHV92GzRRQIBmwaemS3rZPVZIAhJzISJrA?e=D0Fewl"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                                <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ERtnkaAYHMpFgLx3DjTCWR4BSKQSo2sCC2M6UjHEvCIBAA?e=cBynIo"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                               </tr>
                                               <tr>
                                                   <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EUp392WhHqpGiH_B2fHnGYIBzslRBBE09CaSAg7hV95HDQ?e=e2vaai">MGSS-1400-2020.pdf</a></th>
@@ -114,10 +114,10 @@
                                                   <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EUuuYZpf6G5NomWBsLIM6qABxqY7VBy_EbDm2MY9Ygl_zA?e=u9StGW"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                                 </tr>
                                                 <tr>
-                                                    <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EQCgwn_YR9lJsWz4KyM9_RsBUrwPtrpyK0qDMvugYQlJPg?e=Sx3T3i">MSO-1100-2020.pdf</a></th>
+                                                    <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ee0XGJRcZpxPnRGpZ4AmGoABAwMOssiZJykdWPqr-FcJWA?e=ba3heL">MSO-1100-2020.pdf</a></th>
                                                     <td>21 de Febrero</td>
                                                     <td>5.6 MB</td>
-                                                    <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EQCgwn_YR9lJsWz4KyM9_RsBUrwPtrpyK0qDMvugYQlJPg?e=Sx3T3i"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                                    <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ee0XGJRcZpxPnRGpZ4AmGoABAwMOssiZJykdWPqr-FcJWA?e=ba3heL"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                                   </tr>
                                                   <tr>
                                                       <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EYWa2mlt4mxEu9o6x7pg2hABQePl4FvZLoM5uOC7avL3IA?e=kYO45C">MSPA-1100-2020.pdf</a></th>
@@ -142,6 +142,12 @@
                                                           <td>21 de Febrero</td>
                                                           <td>4.6 MB</td>
                                                           <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EVheZBL7BcRBnOyd4KWQS6IBrKPrAdTQ4CzkKDjtxy2L5g?e=VFUGNL"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                          <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ec0ypTngc09Jkzg-ZqHkfVcB0oYFPPXt5a4THOyt77YPfQ?e=1amONg">MJA-1900-2020.pdf</a></th>
+                                                          <td>21 de Febrero</td>
+                                                          <td>4.6 MB</td>
+                                                          <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ec0ypTngc09Jkzg-ZqHkfVcB0oYFPPXt5a4THOyt77YPfQ?e=1amONg"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                                         </tr>
                                                         <tr>
                                                           <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EdLsTQGiSG1Jpw1j_RkzhsQB7VkfbI1mE2dDImMlIQQ_Dw?e=qStBCK">DD-1400-2020.pdf</a></th>

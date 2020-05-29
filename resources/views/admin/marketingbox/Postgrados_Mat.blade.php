@@ -11,7 +11,7 @@
 <div class="br-pagetitle">
   <img src="{{ asset('/multi/images/Marketing box/logo.png') }}" width="150px" height="150px"/>
     <div>
-        <h4>Flyers Coahuila </h4>
+        <h4>Postgrado Matamoros </h4>
         <p class="mg-b-0"></p>
     </div>
 </div><!-- d-flex -->
@@ -54,16 +54,16 @@
                                               <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EamVBL8yYRRIpgSVmX3uEuYBOTPv1FadeG6E8JXLp-jo2w?e=ysIPEN"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                             </tr>
                                                   <tr>
-                                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EWAxKiq6iNdInHV92GzRRQIBmwaemS3rZPVZIAhJzISJrA?e=bQ3NB5">MGNM-1700-2020.pdf</a></th>
+                                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ERtnkaAYHMpFgLx3DjTCWR4BSKQSo2sCC2M6UjHEvCIBAA?e=dtM5i2">MGNM-1700-2020.pdf</a></th>
                                                       <td>21 de Febrero</td>
                                                       <td>4.6 MB</td>
-                                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EWAxKiq6iNdInHV92GzRRQIBmwaemS3rZPVZIAhJzISJrA?e=bQ3NB5"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ERtnkaAYHMpFgLx3DjTCWR4BSKQSo2sCC2M6UjHEvCIBAA?e=dtM5i2"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                                     </tr>
                                                       <tr>
-                                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EQCgwn_YR9lJsWz4KyM9_RsBUrwPtrpyK0qDMvugYQlJPg?e=54T12X">MSO-1100-2020.pdf</a></th>
+                                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ee0XGJRcZpxPnRGpZ4AmGoABAwMOssiZJykdWPqr-FcJWA?e=eI8tbJ">MSO-1100-2020.pdf</a></th>
                                                         <td>21 de Febrero</td>
                                                         <td>2.7 MB</td>
-                                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EQCgwn_YR9lJsWz4KyM9_RsBUrwPtrpyK0qDMvugYQlJPg?e=54T12X"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ee0XGJRcZpxPnRGpZ4AmGoABAwMOssiZJykdWPqr-FcJWA?e=eI8tbJ"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                                       </tr>
 
                                    </tbody>

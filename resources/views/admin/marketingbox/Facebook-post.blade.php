@@ -96,6 +96,18 @@
                                             <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EYYc4IdZ00pApm8Vw5Gh8BgB_CWTfKkouRacxuyB1nA-sw?e=H4REkt"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                           </tr>
                                           <tr>
+                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EfgpRCs84thBqml_zzc7Za4BjTm0CkJt6LWqpfTK51f0WQ?e=VOpakz">Post FB - EME.jpg</a></th>
+                                            <td>1 de Abril</td>
+                                            <td>5.6 MB</td>
+                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EfgpRCs84thBqml_zzc7Za4BjTm0CkJt6LWqpfTK51f0WQ?e=VOpakz"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                          </tr>
+                                          <tr>
+                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ee97GfK4eOBCmf7kTTAK2x8Bu9b9TJ2TbeTEyLzkh48dew?e=qeG6SJ">Post FB - EGDRH.jpg</a></th>
+                                            <td>15 de Mayo</td>
+                                            <td>5.6 MB</td>
+                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ee97GfK4eOBCmf7kTTAK2x8Bu9b9TJ2TbeTEyLzkh48dew?e=qeG6SJ"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                          </tr>
+                                            <tr>
                                               <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EXPxh5TurlZPh57vatgja60BLJ9JBM401Ik6QLrMWtE7lA?e=IUz8Zi">Post FB - MASC.jpg</a></th>
                                               <td>1 de Abril</td>
                                               <td>5.6 MB</td>

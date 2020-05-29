@@ -344,6 +344,11 @@
                                 <tfoot>
                                 </tfoot>
                                 <tbody>
+                                  <tr>
+                                    <td><a href="{{ route('usuarios.logotipos') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.logotipos') }}">Logotipos</a></th>
+                                    <td>10 elementos</td>
+                                  </tr>
                                 </tbody>
                               </table>
                             </div>

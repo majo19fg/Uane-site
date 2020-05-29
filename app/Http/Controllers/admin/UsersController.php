@@ -623,7 +623,12 @@ class UsersController extends Controller
         return view('admin.marketingbox.WhatsApp-70 Mayo');
 
     }
-    
+    public function logotipos() 
+    {
+
+        return view('admin.marketingbox.Logotipos');
+
+    }
 
     public function lista_encuesta()
     {

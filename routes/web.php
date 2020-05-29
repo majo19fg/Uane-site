@@ -221,6 +221,7 @@ Route::post('/Accesoguardar', 'AccesController@store')->name('acceso.guardar');
     Route::get('/usuarios/MKTBOX/Mailing70EL', 'UsersController@Mail70mayoEL')->name('usuarios.Mail70mayoEL');
     Route::get('/usuarios/MKTBOX/PostFB-EL', 'UsersController@FBEL')->name('usuarios.FBEL');
     Route::get('/usuarios/MKTBOX/WhatsApp70', 'UsersController@WA70')->name('usuarios.WA70');
+    Route::get('/usuarios/MKTBOX/Logotipos', 'UsersController@logotipos')->name('usuarios.logotipos');
     //Route::get('/usuarios/MKTBOX/DIT70Mty', 'UsersController@carpeta70Mty')->name('usuarios.carpeta70Mty');
     //Route::get('/usuarios/MKTBOX/Banner 70 Mty', 'UsersController@banner70Mty')->name('usuarios.banner70Mty');
     //Route::get('/usuarios/MKTBOX/Facebook 70 Mty', 'UsersController@FB70Mty')->name('usuarios.FB70Mty');

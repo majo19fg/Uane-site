@@ -49,7 +49,7 @@
                                       </tr>
                                       <tr>
                                         <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ETWgq75XFi5LpM9pbHr3-KUBbpi8r0fNPX6ZsZ9e7zuYag?e=sbeD4b">UANE - Oferta Educativa Monterrey - Presencial.pdf</a></th>
-                                        <td>21 de Febrero</td>
+                                        <td>11 de Mayo</td>
                                         <td>2.7 MB</td>
                                         <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ETWgq75XFi5LpM9pbHr3-KUBbpi8r0fNPX6ZsZ9e7zuYag?e=sbeD4b"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>

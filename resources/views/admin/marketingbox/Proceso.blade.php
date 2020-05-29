@@ -53,6 +53,12 @@
                                       <td>5.6 MB</td>
                                       <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ERyGxKdhRCpNoDaiR55dgTQBYQxj8egOJU6Gi7VS5KhAzw?e=7TbM34"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>                                      
+                                    <tr>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ETyoWnzVge1CuyqkNfPIDT4BwcbcZ1DrydGFMLiicHQ2JQ?e=tF0uP7">POSTGRADOS-PROCESO-DE-ADMISION.jpg</a></th>
+                                      <td>21 de Febrero</td>
+                                      <td>5.6 MB</td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ETyoWnzVge1CuyqkNfPIDT4BwcbcZ1DrydGFMLiicHQ2JQ?e=tF0uP7"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                    </tr>                                      
                                   </tbody>
                                 </table>
                        
