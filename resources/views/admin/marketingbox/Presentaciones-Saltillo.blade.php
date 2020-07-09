@@ -54,10 +54,10 @@
                                         <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EVzO7QXU165Nl0osbYbAPtgBa7LdeeRrWD6lgTV6cH21Nw?e=OuKE0w"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                       <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EY9D1pdbq-pBsw7Z_vhZYn4Bvu30PlfbiS6upl811h6qkg?e=hPozAv">UANE - Oferta Educativa Saltillo - Presencial.pdf</a></th>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EY9D1pdbq-pBsw7Z_vhZYn4Bvu30PlfbiS6upl811h6qkg?e=97DHrm">UANE - Oferta Educativa Saltillo - Presencial.pdf</a></th>
                                         <td>21 de Febrero</td>
                                         <td>2.7 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EY9D1pdbq-pBsw7Z_vhZYn4Bvu30PlfbiS6upl811h6qkg?e=hPozAv"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EY9D1pdbq-pBsw7Z_vhZYn4Bvu30PlfbiS6upl811h6qkg?e=97DHrm"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
     
 

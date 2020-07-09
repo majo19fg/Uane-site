@@ -62,7 +62,7 @@
                             <tr>
                                 <td class="wd-10p">{{ $convenio->id }}</td>
                                 <td class="wd-10p">{{ $convenio->campus }}</td>
-                                <td class="wd-10p">{{ $convenio->empresa }}</td>
+                                <td class="wd-10p">{{ $convenio->nombre_empresa }}</td>
                                 <td class="wd-10p">{{ $convenio->giro_empresa }}</td>
                                 <td class="wd-10">{{ $convenio->direccion_empresa }}</td>
                                 <td class="wd-25p">{!! 'Nombre: '.$convenio->nombre_contacto.'<br> Teléfono: '.$convenio->telefono_contacto.'<br> Correo:'.$convenio->correo_contacto !!}</td>

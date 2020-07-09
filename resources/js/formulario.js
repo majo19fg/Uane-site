@@ -9,6 +9,7 @@
   var monterrey   = $('select option[value=Monterrey]');
   var reynosa     = $('select option[value=Reynosa]');
   var matamoros   = $('select option[value=Matamoros]');
+  var enlinea   = $('select option[value=En linea]');
 //
 
 //Tipo Programa Var
@@ -17,6 +18,9 @@
   var maestria      = $('select option[value=Maestría]');
   var especialidad  = $('select option[value=Especialidad]');
   var doctorado     = $('select option[value=Doctorado]');
+  var licenciaturaenlínea  = $('select option[value=Licenciatura En Línea]');
+  var maestríaenlínea  = $('select option[value=Maestría En Línea]');
+  var especialidadenlínea  = $('select option[value=Especialidad En Línea]');
 
 //
 
@@ -71,8 +75,9 @@
     var DocMatamoros   = $('.DocMatamoros'); 
 
   //En línea
-    var LicEnlinea    = $('.LicEnLinea');
-    var MaeEnLinea    = $('.MaeEnLinea');
+    var LicEL    = $('.LicEL');
+    var mel    = $('.MEL');
+    var eel   = $('.EEL');
 
 
 
@@ -86,6 +91,7 @@
   monterrey.attr('disabled', 'disabled').hide();
   reynosa.attr('disabled', 'disabled').hide();
   matamoros.attr('disabled', 'disabled').hide();
+  enlinea.attr('disabled', 'disabled').hide();
 //Esconder Campus
 
 //Esconder Tipo Programa
@@ -94,6 +100,10 @@
   maestria.attr('disabled', 'disabled').hide();
   especialidad.attr('disabled', 'disabled').hide();
   doctorado.attr('disabled', 'disabled').hide();
+  licenciaturaenlínea.attr('disabled', 'disabled').hide();
+  maestríaenlínea.attr('disabled', 'disabled').hide();
+  especialidadenlínea.attr('disabled', 'disabled').hide();
+
 //
 
 //Esconder grupos de programas
@@ -145,8 +155,9 @@
   EspMatamoros.attr('disabled', 'disabled').hide();
   DocMatamoros.attr('disabled', 'disabled').hide();
 
-  LicEnlinea.attr('disabled', 'disabled').hide();
-  MaeEnLinea.attr('disabled', 'disabled').hide();
+  LicEL.attr('disabled', 'disabled').hide();
+  mel.attr('disabled', 'disabled').hide();
+  eel.attr('disabled', 'disabled').hide();
 //
 $(function() {
 
@@ -162,9 +173,6 @@ $(function() {
         monterrey.removeAttr('disabled').show();
         reynosa.removeAttr('disabled').show();
         matamoros.removeAttr('disabled').show();
-
-        LicEnlinea.removeAttr('disabled', 'disabled').hide();
-        MaeEnLinea.removeAttr('disabled', 'disabled').hide();
 
         $('#campusAspirante').prop('selectedIndex', 0);
         $('#tipoProgramaAspirante').prop('selectedIndex', 0);
@@ -439,8 +447,9 @@ $(function() {
                     }
                   })
                 //
-                LicEnlinea.removeAttr('disabled', 'disabled').hide();
-                MaeEnLinea.removeAttr('disabled', 'disabled').hide();
+                LicEL.removeAttr('disabled', 'disabled').hide();
+                mel.removeAttr('disabled', 'disabled').hide();
+                eel.removeAttr('disabled', 'disabled').hide();
               break;
               case 'Torreón':  
                 $('#programaAspirante').prop('selectedIndex', 0);
@@ -711,8 +720,9 @@ $(function() {
                     }
                   })
                 //   
-                LicEnlinea.removeAttr('disabled', 'disabled').hide();
-                MaeEnLinea.removeAttr('disabled', 'disabled').hide();
+                LicEL.removeAttr('disabled', 'disabled').hide();
+                mel.removeAttr('disabled', 'disabled').hide();
+                eel.removeAttr('disabled', 'disabled').hide();
               break;
               case 'Monclova':     
                 $('#programaAspirante').prop('selectedIndex', 0);
@@ -983,8 +993,9 @@ $(function() {
                     }
                   })
                 //    
-                LicEnlinea.removeAttr('disabled', 'disabled').hide();
-                MaeEnLinea.removeAttr('disabled', 'disabled').hide();    
+                LicEL.removeAttr('disabled', 'disabled').hide();
+                mel.removeAttr('disabled', 'disabled').hide();
+                eel.removeAttr('disabled', 'disabled').hide();
               break;
               case 'Sabinas':      
                 $('#programaAspirante').prop('selectedIndex', 0);
@@ -1255,8 +1266,9 @@ $(function() {
                     }
                   })
                 //  
-                LicEnlinea.removeAttr('disabled', 'disabled').hide();
-                MaeEnLinea.removeAttr('disabled', 'disabled').hide();   
+                LicEL.removeAttr('disabled', 'disabled').hide();
+                mel.removeAttr('disabled', 'disabled').hide();
+                eel.removeAttr('disabled', 'disabled').hide(); 
               break;
               case 'Piedras Negras':  
               $('#programaAspirante').prop('selectedIndex', 0);
@@ -1527,8 +1539,9 @@ $(function() {
                     }
                   })
                 //   
-                LicEnlinea.removeAttr('disabled', 'disabled').hide();
-                MaeEnLinea.removeAttr('disabled', 'disabled').hide();
+                LicEL.removeAttr('disabled', 'disabled').hide();
+                mel.removeAttr('disabled', 'disabled').hide();
+                eel.removeAttr('disabled', 'disabled').hide();
               break;
               case 'Monterrey':  
                 $('#programaAspirante').prop('selectedIndex', 0);
@@ -1799,8 +1812,9 @@ $(function() {
                     }
                   })
                 // 
-                LicEnlinea.removeAttr('disabled', 'disabled').hide();
-                MaeEnLinea.removeAttr('disabled', 'disabled').hide();  
+                LicEL.attr('disabled', 'disabled').hide();
+                mel.attr('disabled', 'disabled').hide();
+                eel.attr('disabled', 'disabled').hide();
               break;
               case 'Reynosa':  
                 $('#programaAspirante').prop('selectedIndex', 0);
@@ -2071,8 +2085,9 @@ $(function() {
                     }
                   })
                 //  
-                LicEnlinea.removeAttr('disabled', 'disabled').hide();
-                MaeEnLinea.removeAttr('disabled', 'disabled').hide(); 
+                LicEL.attr('disabled', 'disabled').hide();
+                mel.attr('disabled', 'disabled').hide();
+                eel.attr('disabled', 'disabled').hide();
               break;
               case 'Matamoros':  
                 $('#programaAspirante').prop('selectedIndex', 0);
@@ -2343,8 +2358,9 @@ $(function() {
                     }
                   })
                 //  
-                LicEnlinea.removeAttr('disabled', 'disabled').hide();
-                MaeEnLinea.removeAttr('disabled', 'disabled').hide();
+                LicEL.attr('disabled', 'disabled').hide();
+                mel.attr('disabled', 'disabled').hide();
+                eel.attr('disabled', 'disabled').hide();
               break;
             
             }
@@ -2361,8 +2377,9 @@ $(function() {
         reynosa.removeAttr('disabled').show();
         matamoros.removeAttr('disabled').show();
 
-        LicEnlinea.removeAttr('disabled', 'disabled').hide();
-        MaeEnLinea.removeAttr('disabled', 'disabled').hide();
+        LicEL.attr('disabled', 'disabled').hide();
+        mel.attr('disabled', 'disabled').hide();
+        eel.attr('disabled', 'disabled').hide();
 
         $('#campusAspirante').prop('selectedIndex', 0);
         $('#tipoProgramaAspirante').prop('selectedIndex', 0);
@@ -2385,7 +2402,7 @@ $(function() {
                       case 'Licenciatura':
                         $('#programaAspirante').prop('selectedIndex', 0);
 
-                        LicEnlinea.removeAttr('disabled').show();
+                        LicEL.removeAttr('disabled').show();
                         
                         BachSaltillo.attr('disabled', 'disabled').hide();
                         LicSaltillo.attr('disabled', 'disabled').hide();
@@ -2436,7 +2453,7 @@ $(function() {
                         DocMatamoros.attr('disabled', 'disabled').hide();
                       break;
                       case 'Maestría':
-                        MaeEnLinea.removeAttr('disabled').show();
+                        mel.removeAttr('disabled').show();
                         $('#programaAspirante').prop('selectedIndex', 0);
                         BachSaltillo.attr('disabled', 'disabled').hide();
                         LicSaltillo.attr('disabled', 'disabled').hide();
@@ -2504,7 +2521,7 @@ $(function() {
                       case 'Licenciatura':
                         $('#programaAspirante').prop('selectedIndex', 0);
 
-                        LicEnlinea.removeAttr('disabled').show();
+                        LicEL.removeAttr('disabled').show();
                         
                         BachSaltillo.attr('disabled', 'disabled').hide();
                         LicSaltillo.attr('disabled', 'disabled').hide();
@@ -2555,7 +2572,7 @@ $(function() {
                         DocMatamoros.attr('disabled', 'disabled').hide();
                       break;
                       case 'Maestría':
-                        MaeEnLinea.removeAttr('disabled').show();
+                        mel.removeAttr('disabled').show();
                         $('#programaAspirante').prop('selectedIndex', 0);
                         BachSaltillo.attr('disabled', 'disabled').hide();
                         LicSaltillo.attr('disabled', 'disabled').hide();
@@ -2623,7 +2640,7 @@ $(function() {
                       case 'Licenciatura':
                         $('#programaAspirante').prop('selectedIndex', 0);
 
-                        LicEnlinea.removeAttr('disabled').show();
+                        LicEL.removeAttr('disabled').show();
                         
                         BachSaltillo.attr('disabled', 'disabled').hide();
                         LicSaltillo.attr('disabled', 'disabled').hide();
@@ -2674,7 +2691,7 @@ $(function() {
                         DocMatamoros.attr('disabled', 'disabled').hide();
                       break;
                       case 'Maestría':
-                        MaeEnLinea.removeAttr('disabled').show();
+                        mel.removeAttr('disabled').show();
                         $('#programaAspirante').prop('selectedIndex', 0);
                         BachSaltillo.attr('disabled', 'disabled').hide();
                         LicSaltillo.attr('disabled', 'disabled').hide();
@@ -2742,7 +2759,7 @@ $(function() {
                       case 'Licenciatura':
                         $('#programaAspirante').prop('selectedIndex', 0);
 
-                        LicEnlinea.removeAttr('disabled').show();
+                        LicEL.removeAttr('disabled').show();
                         
                         BachSaltillo.attr('disabled', 'disabled').hide();
                         LicSaltillo.attr('disabled', 'disabled').hide();
@@ -2793,7 +2810,7 @@ $(function() {
                         DocMatamoros.attr('disabled', 'disabled').hide();
                       break;
                       case 'Maestría':
-                        MaeEnLinea.removeAttr('disabled').show();
+                        mel.removeAttr('disabled').show();
                         $('#programaAspirante').prop('selectedIndex', 0);
                         BachSaltillo.attr('disabled', 'disabled').hide();
                         LicSaltillo.attr('disabled', 'disabled').hide();
@@ -2861,7 +2878,7 @@ $(function() {
                       case 'Licenciatura':
                         $('#programaAspirante').prop('selectedIndex', 0);
 
-                        LicEnlinea.removeAttr('disabled').show();
+                        LicEL.removeAttr('disabled').show();
                         
                         BachSaltillo.attr('disabled', 'disabled').hide();
                         LicSaltillo.attr('disabled', 'disabled').hide();
@@ -2912,7 +2929,7 @@ $(function() {
                         DocMatamoros.attr('disabled', 'disabled').hide();
                       break;
                       case 'Maestría':
-                        MaeEnLinea.removeAttr('disabled').show();
+                        mel.removeAttr('disabled').show();
                         $('#programaAspirante').prop('selectedIndex', 0);
                         BachSaltillo.attr('disabled', 'disabled').hide();
                         LicSaltillo.attr('disabled', 'disabled').hide();
@@ -2980,7 +2997,7 @@ $(function() {
                       case 'Licenciatura':
                         $('#programaAspirante').prop('selectedIndex', 0);
 
-                        LicEnlinea.removeAttr('disabled').show();
+                        LicEL.removeAttr('disabled').show();
                         
                         BachSaltillo.attr('disabled', 'disabled').hide();
                         LicSaltillo.attr('disabled', 'disabled').hide();
@@ -3031,7 +3048,7 @@ $(function() {
                         DocMatamoros.attr('disabled', 'disabled').hide();
                       break;
                       case 'Maestría':
-                        MaeEnLinea.removeAttr('disabled').show();
+                        mel.removeAttr('disabled').show();
                         $('#programaAspirante').prop('selectedIndex', 0);
                         BachSaltillo.attr('disabled', 'disabled').hide();
                         LicSaltillo.attr('disabled', 'disabled').hide();
@@ -3099,7 +3116,7 @@ $(function() {
                       case 'Licenciatura':
                         $('#programaAspirante').prop('selectedIndex', 0);
 
-                        LicEnlinea.removeAttr('disabled').show();
+                        LicEL.removeAttr('disabled').show();
                         
                         BachSaltillo.attr('disabled', 'disabled').hide();
                         LicSaltillo.attr('disabled', 'disabled').hide();
@@ -3150,7 +3167,7 @@ $(function() {
                         DocMatamoros.attr('disabled', 'disabled').hide();
                       break;
                       case 'Maestría':
-                        MaeEnLinea.removeAttr('disabled').show();
+                        mel.removeAttr('disabled').show();
                         $('#programaAspirante').prop('selectedIndex', 0);
                         BachSaltillo.attr('disabled', 'disabled').hide();
                         LicSaltillo.attr('disabled', 'disabled').hide();
@@ -3218,7 +3235,7 @@ $(function() {
                       case 'Licenciatura':
                         $('#programaAspirante').prop('selectedIndex', 0);
 
-                        LicEnlinea.removeAttr('disabled').show();
+                        LicEL.removeAttr('disabled').show();
                         
                         BachSaltillo.attr('disabled', 'disabled').hide();
                         LicSaltillo.attr('disabled', 'disabled').hide();
@@ -3269,7 +3286,7 @@ $(function() {
                         DocMatamoros.attr('disabled', 'disabled').hide();
                       break;
                       case 'Maestría':
-                        MaeEnLinea.removeAttr('disabled').show();
+                        mel.removeAttr('disabled').show();
                         $('#programaAspirante').prop('selectedIndex', 0);
                         BachSaltillo.attr('disabled', 'disabled').hide();
                         LicSaltillo.attr('disabled', 'disabled').hide();

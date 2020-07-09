@@ -192,19 +192,14 @@
                                 </tfoot>
                                 <tbody>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.carpeta70Mayo') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.carpeta70Mayo') }}">DIT 70% </a></th>
-                                    <td>4 elementos</td>
+                                    <td><a href="{{ route('usuarios.Carpetasdit50Jul') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.Carpetasdit50Jul') }}">DIT 50% Autonoma</a></th>
+                                    <td>1 elemento</td>
                                   </tr>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.carpeta70MayoMty') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.carpeta70MayoMty') }}">DIT 70% Mty</a></th>
-                                    <td>4 elementos</td>
-                                  </tr>
-                                  <tr>
-                                    <td><a href="{{ route('usuarios.carpeta70MayoEL') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.carpeta70MayoEL') }}">DIT 70% En Línea</a></th>
-                                    <td>4 elementos</td>
+                                    <td><a href="{{ route('usuarios.Carpetasdit50JulAm') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.Carpetasdit50JulAm') }}">DIT 50% Americana</a></th>
+                                    <td>1 elemento</td>
                                   </tr>
 
 
@@ -348,6 +343,11 @@
                                     <td><a href="{{ route('usuarios.logotipos') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
                                     <th><a href="{{ route('usuarios.logotipos') }}">Logotipos</a></th>
                                     <td>10 elementos</td>
+                                  </tr>
+                                  <tr>
+                                    <td><a href="{{ route('usuarios.hoja') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.hoja') }}">Hojas membretadas</a></th>
+                                    <td>9 elementos</td>
                                   </tr>
                                 </tbody>
                               </table>

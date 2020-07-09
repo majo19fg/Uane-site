@@ -157,9 +157,14 @@
       </a>
       <!-- br-menu-link -->
       <ul class="br-menu-sub">
-        <li class="sub-item"><a href="{{ route('acceso.index') }}"
-            class="sub-link {{ setActiveRoute('acceso.index') }}">Lista de archivos</a></li>
-      </ul>
+        <li class="sub-item"><a href="{{ route('acceso.show') }}"
+            class="sub-link {{ setActiveRoute('acceso.show') }}">Archivos</a></li>
+
+      @hasanyrole('Super Admin|Admin')
+      <li class="sub-item"><a href="{{ route('acceso.index') }}"
+          class="sub-link {{ setActiveRoute('acceso.index')}}">Accesos</a></li>
+      @endhasanyrole
+    </ul>
     </li>
     @endhasanyrole
 

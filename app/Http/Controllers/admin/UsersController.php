@@ -521,112 +521,141 @@ class UsersController extends Controller
         return view('admin.marketingbox.Diploma_Americana');
 
     }
-    public function Carpeta70mayo() 
+    public function Carpeta50() 
     {
 
-        return view('admin.marketingbox.Carpetas_dit70Presencial');
+        return view('admin.marketingbox.Carpetas_dit50Jul');
 
     }
-    public function Banner70mayo() 
+    public function presencial50() 
     {
 
-        return view('admin.marketingbox.Banner-70 Mayo');
+        return view('admin.marketingbox.Presencial_dit50');
 
     }
-    public function FB70mayo() 
+    public function Banner50julio() 
     {
 
-        return view('admin.marketingbox.FB-70Mayo');
+        return view('admin.marketingbox.Banner-50Julio');
+
+    }
+    public function FB50julio() 
+    {
+
+        return view('admin.marketingbox.FB-50Julio');
 
     }    
-    public function Instagram70mayo() 
+    public function Instagram50julio() 
     {
 
-        return view('admin.marketingbox.FB-70Mayo');
+        return view('admin.marketingbox.Instagram-50Julio');
 
     }
-    public function Mail70mayo() 
+    public function Mail50julio() 
     {
 
-        return view('admin.marketingbox.Mail-70Mayo');
+        return view('admin.marketingbox.Mail-50Julio');
 
     }
-    public function Carpeta70mayoMty() 
+    public function WA50julio() 
     {
 
-        return view('admin.marketingbox.Carpetas_dit70PresencialMTY');
+        return view('admin.marketingbox.WhatsApp-50Julio');
 
     }
-    public function Banner70mayoMty() 
+    public function Carpeta50Am() 
     {
 
-        return view('admin.marketingbox.Banner-70 MayoMty');
+        return view('admin.marketingbox.Carpetas_dit50JulAm');
 
     }
-    public function FB70mayoMty() 
+    public function presencial50Am() 
     {
 
-        return view('admin.marketingbox.FB-70MayoMty');
+        return view('admin.marketingbox.Presencial_dit50Am');
+
+    }
+    public function Banner50julioAm() 
+    {
+
+        return view('admin.marketingbox.Banner-50julioAm');
+
+    }
+    public function FB50julioAm() 
+    {
+
+        return view('admin.marketingbox.FB-50JulioAm');
 
     }    
-    public function Instagram70mayoMty() 
+    public function Instagram50julioAm() 
     {
 
-        return view('admin.marketingbox.Instagram-70MayoMty');
+        return view('admin.marketingbox.Instagram-50JulioAm');
 
     }
-    public function Mail70mayoMty() 
+    public function Mail50julioAm() 
     {
 
-        return view('admin.marketingbox.Mail-70MayoMty');
+        return view('admin.marketingbox.Mail-50JulioAm');
 
     }
-    public function Carpeta70mayoEL() 
+    public function WA50junioAm() 
     {
 
-        return view('admin.marketingbox.Carpetas_dit70EL');
+        return view('admin.marketingbox.WhatsApp-50JulioAm');
 
     }
-    public function Banner70mayoEL() 
+
+
+
+
+
+    public function enlinea50() 
     {
 
-        return view('admin.marketingbox.Banner-70 MayoEL');
+        return view('admin.marketingbox.EnLinea_dit50');
 
     }
-    public function FB70mayoEL() 
+    public function Banner50julioEL() 
     {
 
-        return view('admin.marketingbox.FB-70MayoEL');
+        return view('admin.marketingbox.Banner-50JulioEL');
+
+    }
+    public function FB50julioEL() 
+    {
+
+        return view('admin.marketingbox.FB-50JulioEL');
 
     }    
-    public function Instagram70mayoEL() 
+    public function Instagram50julioEL() 
     {
 
-        return view('admin.marketingbox.Instagram-70MayoMty');
+        return view('admin.marketingbox.Instagram-50JulioEL');
 
     }
-    public function Mail70mayoEL() 
+    public function Mail50julioEL() 
     {
 
-        return view('admin.marketingbox.Mail-70MayoEL');
+        return view('admin.marketingbox.Mail-50JulioEL');
 
     }
-    public function FBEL() 
+    public function WA50julioEL() 
     {
 
-        return view('admin.marketingbox.Facebook-postEL');
-
-    }
-    public function WA70() 
-    {
-
-        return view('admin.marketingbox.WhatsApp-70 Mayo');
+        return view('admin.marketingbox.WhatsApp-50JulioEL');
 
     }
     public function logotipos() 
     {
 
         return view('admin.marketingbox.Logotipos');
+
+    }
+    public function hoja() 
+    {
+
+        return view('admin.marketingbox.hojas membretadas');
 
     }
 
