@@ -504,6 +504,7 @@
                       </div>
                     </div>
                   </div>
+                  <p class="mt-10">UANE campus Monclova abrió sus puertas para celebrar el ya tradicional InterUANE en su edición 2020...</p>
                   <a href="{{ route('blog.interuane20') }}" class="btn-read-more">Leer más</a>
                   <div class="clearfix"></div>
                 </div>
@@ -533,8 +534,7 @@
                       </div>
                     </div>
                   </div>
-                  <p class="mt-10">UANE y Saram HR buscan mayor inserción con el primer Employment Center..
-                  </p>
+                  <p class="mt-10">UANE y Saram HR buscan mayor inserción con el primer Employment Center...</p>
                   <a href="{{ route('blog.Saram') }}" class="btn-read-more">Leer más</a>
                   <div class="clearfix"></div>
                 </div>
@@ -635,7 +635,7 @@
               
             </div>
 
-            <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+           <!-- <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
               <article class="post clearfix mb-sm-30">
                 <div class="entry-header">
                   <div class="post-thumb thumb"> 
@@ -664,7 +664,7 @@
                 </div>
               </article>
               
-            </div>
+            </div>-->
           </div>
         </div>
       </div>

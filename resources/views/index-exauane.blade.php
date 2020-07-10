@@ -396,7 +396,7 @@ integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb
                   <img src="/multi/images/flaticon-png/small/6.png" width="70" alt="">
                 </a>
                 <h4 class="font-weight-600 mt-20">Trámites y solicitudes</h4>
-                <p>UANE sigue creca de ti y continúa con su misión de formar personas ejemplares comprometidas con su futuro.</p>
+                <p>UANE sigue cerca de ti y continúa con su misión de formar personas ejemplares comprometidas con su futuro.</p>
               </div>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
