@@ -4,12 +4,12 @@
     <ul>
       <!--slide ranking de universidades--
           <li data-index="rs-7" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default"
-          data-easeout="default" data-masterspeed="default" data-thumb="/multi/images/sliders/Liston.jpg"
+          data-easeout="default" data-masterspeed="default" data-thumb="/multi/images/sliders/UANE1.jpg"
           data-rotate="0" data-saveperformance="off" data-title="Web Show" data-description="">
           <!-- MAIN IMAGE --
-          <img src="/multi/images/sliders/Unidos-Fondo.jpg" alt="" data-bgposition="center 10%" data-bgfit=""
+          <img src="/multi/images/sliders/UANE1.jpg" alt="" data-bgposition="center 10%" data-bgfit=""
             data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="6" data-no-retina><a href="#"></a>
-          <!--LAYERS --
+          <!--LAYERS -->
   
           <!-- LAYER NR. 1 --
           <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left','left',middle','middle']"
@@ -48,10 +48,10 @@
 
           <!--slide 55 diciembre--
           <li data-index="rs-6" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default"
-          data-easeout="default" data-masterspeed="default" data-thumb="/multi/images/sliders/slider-dit.jpg"
+          data-easeout="default" data-masterspeed="default" data-thumb="/multi/images/sliders/UANE-Comunicado2.jpg"
           data-rotate="0" data-saveperformance="off" data-title="Web Show" data-description="">
           <!-- MAIN IMAGE --
-          <img src="/multi/images/sliders/slider-dit.jpg" alt="" data-bgposition="center 10%" data-bgfit=""
+          <img src="/multi/images/sliders/UANE-Comunicado2.jpg" alt="" data-bgposition="center 10%" data-bgfit=""
             data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="6" data-no-retina><a href="#"></a>
           <!--LAYERS -->
   

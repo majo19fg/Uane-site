@@ -57,15 +57,21 @@
                     </div>
                   </div>  
               </div>  
-              <div class="col-md-4">
+              <!--<div class="col-md-4">
                       <div class="gallery">
                     <div align="center"><a href="{{ asset('/multi/pdf/INFORME POR DIMENSIONES.pdf') }}"><img src="{{ asset('/multi/images/campus/Fotos de campus-13.png') }}" width="250px" height="250px"id=informe1 /></a>
                     </div>
                   </div>
-                </div>
+                </div>-->
                 <div class="col-md-4">
                   <div class="gallery">
                 <div align="center"><a href="{{ asset('/multi/pdf/INFORME POR DIMENSIONES JUL-DIC19.pdf') }}"><img src="{{ asset('/multi/images/campus/Fotos de campus-12.png') }}" width="250px" height="250px"id=informe1 /></a>
+                </div>
+              </div>
+            </div>
+               <div class="col-md-4">
+                  <div class="gallery">
+                <div align="center"><a href="{{ asset('/multi/pdf/Informe de empleabilidad.pdf') }}"><img src="{{ asset('/multi/images/campus/Fotos de campus-14.jpg') }}" width="250px" height="250px"id=informe1 /></a>
                 </div>
               </div>
             </div>

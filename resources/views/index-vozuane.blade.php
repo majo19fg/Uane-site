@@ -998,6 +998,66 @@ integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb
               </div>
             </div>
           </section>-->
+          <section>
+            <div class="container">
+              <div class="section-content">
+                <div class="row">
+                  <div class="col-md-12" data-wow-duration="1s" data-wow-delay="0.3s">
+                    <div class="gallery-isotope grid-3 gutter-small clearfix" data-lightbox="gallery">
+                      <!-- Portfolio Item Start -->
+                      <div class="gallery-item">
+                        <div class="thumb">
+                          <img alt="project" src="/multi/images/sliders/UANE-Comunicado-20-julio1.jpg" >
+                          <div class="overlay-shade"></div>
+                          <div class="icons-holder">
+                            <div class="icons-holder-inner">
+                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                                <a href="/multi/images/sliders/UANE-Comunicado-20-julio1.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!-- Portfolio Item End -->
+                      
+                      <!-- Portfolio Item Start -->
+                      <div class="gallery-item">
+                        <div class="thumb">
+                          <img alt="project" src="/multi/images/sliders/UANE-Comunicado-20-julio-MTY.jpg" >
+                          <div class="overlay-shade"></div>
+                          <div class="icons-holder">
+                            <div class="icons-holder-inner">
+                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                                <a href="/multi/images/sliders/UANE-Comunicado-20-julio-MTY.jpg"   data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!-- Portfolio Item End -->
+                      
+                      <!-- Portfolio Item Start -->
+                      <div class="gallery-item">
+                        <div class="thumb">
+                          <img alt="project" src="/multi/images/sliders/UANE-Comunicado-20-julio-PN.jpg" >
+                          <div class="overlay-shade"></div>
+                          <div class="icons-holder">
+                            <div class="icons-holder-inner">
+                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                                <a href="/multi/images/sliders/UANE-Comunicado-20-julio-PN.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!-- Portfolio Item End -->
+                    </div>
+                    <!-- End Portfolio Gallery Grid -->
+                    </div>
+                </div>
+              </div>
+            </div>
+          </section>
           <section class="divider parallax layer-overlay overlay-white-7 img-responsive img-fullwidth" data-bg-img="/multi/images/soyuane/vozuaneprueba.jpg" data-parallax-ratio="0.7">
             <div class="container">
 

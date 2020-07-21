@@ -60,6 +60,12 @@
                                         <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZnWBev4OZRAnsNPzvqg8ZoBnJGwnn4lDIx42BeetzA6iw?e=CQGbt6"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                       <tr>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EeTHjlSvZVtCuk-XH_XBeAwBRWRhbI3JOFr4eNOQe4DlXA?e=vun38e">Post FB -  LCP.jpg</a></th>
+                                        <td>21 de Julio</td>
+                                        <td>5.6 MB</td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EeTHjlSvZVtCuk-XH_XBeAwBRWRhbI3JOFr4eNOQe4DlXA?e=vun38e"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      </tr>
+                                      <tr>
                                         <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EaOS8w5GSttJnIdrMnuKYh4BnRA6eWgtiTzH0BU1DsZFuw?e=2enePy">Post FB - LD.jpg</a></th>
                                         <td>1 de Abril</td>
                                         <td>5.6 MB</td>
@@ -185,6 +191,7 @@
                                         <td>5.6 MB</td>
                                         <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EcOg07UN_T5GmH4z2Y14S30B4CP4IeljT_AXbJa1SS3WLQ?e=38YojQ"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
+
 
  
                                   </tbody>
