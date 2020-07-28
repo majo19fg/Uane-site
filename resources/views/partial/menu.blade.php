@@ -212,7 +212,7 @@
             <li><a href="#">Aulas Virtuales</a>
               <ul class="dropdown">
                 <li><a href="https://sistema.uane.edu.mx/" target="_blank">SIUANE</a></li>
-                <li><a href="http://pg.uane.edu.mx/" target="_blank">Postgrado</a></li>
+                <li><a href="https://moodle.uane.edu.mx/" target="_blank">Postgrado</a></li>
               </ul>
             </li>
             <li class="{{ request()->is('egresados') ? 'active' : '' }} {{ request()->is('egresados/actualizar-datos') ? 'active' : '' }}"><a href="{{ route('exauane') }}">ExaUANE</a></li>
