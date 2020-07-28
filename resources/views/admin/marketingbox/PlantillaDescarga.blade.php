@@ -201,6 +201,11 @@
                                     <th><a href="{{ route('usuarios.Carpetasdit50JulAm') }}">DIT 50% Americana</a></th>
                                     <td>1 elemento</td>
                                   </tr>
+                                  <tr>
+                                    <td><a href="{{ route('usuarios.TuPuntajeVale') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.TuPuntajeVale') }}">#TuPuntajeVale</a></th>
+                                    <td>1 elemento</td>
+                                  </tr>
 
 
                                   </tbody>

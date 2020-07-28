@@ -228,6 +228,7 @@ Route::group(['prefix' => 'mkt-user', 'namespace' => 'admin', 'middleware' => 'a
     Route::get('/usuarios/MKTBOX/Mailing50', 'UsersController@Mail50julioEL')->name('usuarios.Mail50JulioEL');
     Route::get('/usuarios/MKTBOX/WhatsApp50', 'UsersController@WA50julioEL')->name('usuarios.WA50JulioEL');
     Route::get('/usuarios/MKTBOX/PostFB-EL', 'UsersController@FBEL')->name('usuarios.FBEL');
+    Route::get('/usuarios/MKTBOX/TuPuntajeVale', 'UsersController@TuPuntajeVale')->name('usuarios.TuPuntajeVale');
 
     Route::get('/usuarios/MKTBOX/Logotipos', 'UsersController@logotipos')->name('usuarios.logotipos');
     Route::get('/usuarios/MKTBOX/Hojas membretadas', 'UsersController@hoja')->name('usuarios.hoja');
