@@ -523,30 +523,84 @@ class EncuestaController extends Controller
         ->orderBy('tipoPrograma_id')
         ->get();
 //En Línea
-    $LicEnLinea = Programa::with('Campus', 'modalidadPrograma', 'tipoPrograma')
-        ->whereHas('modalidadPrograma', function($query){
-            $query->where('name', 'En línea');
-        })
-        ->whereHas('tipoPrograma', function($query){
-            $query->where('name', 'Licenciatura');
-        })
-        ->orderBy('tipoPrograma_id')
-        ->get();
-    $MaeEnLinea = Programa::with('Campus', 'modalidadPrograma', 'tipoPrograma')
-        ->whereHas('modalidadPrograma', function($query){
-            $query->where('name', 'En línea');
-        })
-        ->whereHas('tipoPrograma', function($query){
-            $query->where('name', 'Maestría');
-        })
-        ->orderBy('tipoPrograma_id')
-        ->get();
-//
-//
+                    $LicEL = Programa::with('modalidadPrograma', 'tipoPrograma')
+                    ->whereHas('modalidadPrograma', function($query){
+                        $query->where('name', 'En línea');
+                    })
+                    ->whereHas('tipoPrograma', function($query){
+                        $query->where('name', 'Licenciatura En línea');
+                    })
+                    ->orderBy('tipoPrograma_id')
+                    ->get();
+                    $MEL = Programa::with('modalidadPrograma', 'tipoPrograma')
+                    ->whereHas('modalidadPrograma', function($query){
+                        $query->where('name', 'En línea');
+                    })
+                    ->whereHas('tipoPrograma', function($query){
+                        $query->where('name', 'Maestría En Línea');
+                    })
+                    ->orderBy('tipoPrograma_id')
+                    ->get();
+                    $EEL = Programa::with('modalidadPrograma', 'tipoPrograma')
+                    ->whereHas('modalidadPrograma', function($query){
+                        $query->where('name', 'En línea');
+                    })
+                    ->whereHas('tipoPrograma', function($query){
+                        $query->where('name', 'Especialidad En Línea');
+                    })
+                    ->orderBy('tipoPrograma_id')
+                    ->get();
 
+                    $BachEL = Programa::with('modalidadPrograma', 'tipoPrograma')
+                    ->whereHas('modalidadPrograma', function($query){
+                        $query->where('name', 'En línea');
+                    })
+                    ->whereHas('tipoPrograma', function($query){
+                        $query->where('name', 'Bachillerato En línea');
+                    })
+                    ->orderBy('tipoPrograma_id')
+                    ->get();
+
+                    $Curso = Programa::with('modalidadPrograma', 'tipoPrograma')
+                    ->whereHas('modalidadPrograma', function($query){
+                        $query->where('name', 'En línea');
+                    })
+                    ->whereHas('tipoPrograma', function($query){
+                        $query->where('name', 'Cursos En Línea');
+                    })
+                    ->orderBy('tipoPrograma_id')
+                    ->get();
+   
+                    $Diplomado = Programa::with('modalidadPrograma', 'tipoPrograma')
+                    ->whereHas('modalidadPrograma', function($query){
+                        $query->where('name', 'En línea');
+                    })
+                    ->whereHas('tipoPrograma', function($query){
+                        $query->where('name', 'Diplomados En Línea');
+                    })
+                    ->orderBy('tipoPrograma_id')
+                    ->get();
+
+                    $DiplomadoBarcelona = Programa::with('modalidadPrograma', 'tipoPrograma')
+                    ->whereHas('modalidadPrograma', function($query){
+                        $query->where('name', 'En línea');
+                    })
+                    ->whereHas('tipoPrograma', function($query){
+                        $query->where('name', 'Diplomados Barcelona');
+                    })
+                    ->orderBy('tipoPrograma_id')
+                    ->get();
+
+            //
+        //
 $datos = [
-'MaeEnLinea' => $MaeEnLinea,
-'LicEnLinea' => $LicEnLinea,
+'BachEL' => $BachEL,
+'Curso' => $Curso,
+'Diplomado' => $Diplomado,
+'DiplomadoBarcelona' => $DiplomadoBarcelona,
+'EEL' =>$EEL,
+'MEL' =>$MEL,
+'LicEL' =>$LicEL,
 'BachSaltillo' => $BachSaltillo,
 'LicSaltillo' => $LicSaltillo,
 'MaeSaltillo' => $MaeSaltillo,
@@ -1113,30 +1167,84 @@ $datos = [
         ->orderBy('tipoPrograma_id')
         ->get();
 //En Línea
-    $LicEnLinea = Programa::with('Campus', 'modalidadPrograma', 'tipoPrograma')
-        ->whereHas('modalidadPrograma', function($query){
-            $query->where('name', 'En línea');
-        })
-        ->whereHas('tipoPrograma', function($query){
-            $query->where('name', 'Licenciatura');
-        })
-        ->orderBy('tipoPrograma_id')
-        ->get();
-    $MaeEnLinea = Programa::with('Campus', 'modalidadPrograma', 'tipoPrograma')
-        ->whereHas('modalidadPrograma', function($query){
-            $query->where('name', 'En línea');
-        })
-        ->whereHas('tipoPrograma', function($query){
-            $query->where('name', 'Maestría');
-        })
-        ->orderBy('tipoPrograma_id')
-        ->get();
-//
-//
+$LicEL = Programa::with('modalidadPrograma', 'tipoPrograma')
+->whereHas('modalidadPrograma', function($query){
+    $query->where('name', 'En línea');
+})
+->whereHas('tipoPrograma', function($query){
+    $query->where('name', 'Licenciatura En línea');
+})
+->orderBy('tipoPrograma_id')
+->get();
+$MEL = Programa::with('modalidadPrograma', 'tipoPrograma')
+->whereHas('modalidadPrograma', function($query){
+    $query->where('name', 'En línea');
+})
+->whereHas('tipoPrograma', function($query){
+    $query->where('name', 'Maestría En Línea');
+})
+->orderBy('tipoPrograma_id')
+->get();
+$EEL = Programa::with('modalidadPrograma', 'tipoPrograma')
+->whereHas('modalidadPrograma', function($query){
+    $query->where('name', 'En línea');
+})
+->whereHas('tipoPrograma', function($query){
+    $query->where('name', 'Especialidad En Línea');
+})
+->orderBy('tipoPrograma_id')
+->get();
 
+$BachEL = Programa::with('modalidadPrograma', 'tipoPrograma')
+->whereHas('modalidadPrograma', function($query){
+$query->where('name', 'En línea');
+})
+->whereHas('tipoPrograma', function($query){
+$query->where('name', 'Bachillerato En línea');
+})
+->orderBy('tipoPrograma_id')
+->get();
+
+                    $Curso = Programa::with('modalidadPrograma', 'tipoPrograma')
+                    ->whereHas('modalidadPrograma', function($query){
+                        $query->where('name', 'En línea');
+                    })
+                    ->whereHas('tipoPrograma', function($query){
+                        $query->where('name', 'Cursos En Línea');
+                    })
+                    ->orderBy('tipoPrograma_id')
+                    ->get();
+   
+                    $Diplomado = Programa::with('modalidadPrograma', 'tipoPrograma')
+                    ->whereHas('modalidadPrograma', function($query){
+                        $query->where('name', 'En línea');
+                    })
+                    ->whereHas('tipoPrograma', function($query){
+                        $query->where('name', 'Diplomados En Línea');
+                    })
+                    ->orderBy('tipoPrograma_id')
+                    ->get();
+
+                    $DiplomadoBarcelona = Programa::with('modalidadPrograma', 'tipoPrograma')
+                    ->whereHas('modalidadPrograma', function($query){
+                        $query->where('name', 'En línea');
+                    })
+                    ->whereHas('tipoPrograma', function($query){
+                        $query->where('name', 'Diplomados Barcelona');
+                    })
+                    ->orderBy('tipoPrograma_id')
+                    ->get();
+
+            //
+        //
 $datos = [
-'MaeEnLinea' => $MaeEnLinea,
-'LicEnLinea' => $LicEnLinea,
+'BachEL' => $BachEL,
+'Curso' => $Curso,
+'Diplomado' => $Diplomado,
+'DiplomadoBarcelona' => $DiplomadoBarcelona,
+'EEL' =>$EEL,
+'MEL' =>$MEL,
+'LicEL' =>$LicEL,
 'BachSaltillo' => $BachSaltillo,
 'LicSaltillo' => $LicSaltillo,
 'MaeSaltillo' => $MaeSaltillo,

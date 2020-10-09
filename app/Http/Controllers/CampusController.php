@@ -577,9 +577,54 @@ class CampusController extends Controller
                     ->orderBy('tipoPrograma_id')
                     ->get();
 
+                                        $BachEL = Programa::with('modalidadPrograma', 'tipoPrograma')
+                    ->whereHas('modalidadPrograma', function($query){
+                        $query->where('name', 'En línea');
+                    })
+                    ->whereHas('tipoPrograma', function($query){
+                        $query->where('name', 'Bachillerato En línea');
+                    })
+                    ->orderBy('tipoPrograma_id')
+                    ->get();
+
+                    $Curso = Programa::with('modalidadPrograma', 'tipoPrograma')
+                    ->whereHas('modalidadPrograma', function($query){
+                        $query->where('name', 'En línea');
+                    })
+                    ->whereHas('tipoPrograma', function($query){
+                        $query->where('name', 'Cursos En Línea');
+                    })
+                    ->orderBy('tipoPrograma_id')
+                    ->get();
+   
+                    $Diplomado = Programa::with('modalidadPrograma', 'tipoPrograma')
+                    ->whereHas('modalidadPrograma', function($query){
+                        $query->where('name', 'En línea');
+                    })
+                    ->whereHas('tipoPrograma', function($query){
+                        $query->where('name', 'Diplomados En Línea');
+                    })
+                    ->orderBy('tipoPrograma_id')
+                    ->get();
+
+                    $DiplomadoBarcelona = Programa::with('modalidadPrograma', 'tipoPrograma')
+                    ->whereHas('modalidadPrograma', function($query){
+                        $query->where('name', 'En línea');
+                    })
+                    ->whereHas('tipoPrograma', function($query){
+                        $query->where('name', 'Diplomados Barcelona');
+                    })
+                    ->orderBy('tipoPrograma_id')
+                    ->get();
+                 
+
             //
         //
         $datos = [
+            'BachEL' => $BachEL,
+            'Curso' => $Curso,
+            'Diplomado' => $Diplomado,
+            'DiplomadoBarcelona' => $DiplomadoBarcelona,
             'EEL' =>$EEL,
             'MEL' =>$MEL,
             'LicEL' =>$LicEL,

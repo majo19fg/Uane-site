@@ -11,7 +11,7 @@
 <div class="br-pagetitle">
     <img src="{{ asset('/multi/images/Marketing box/logo.png') }}" width="150px" height="150px"/>
     <div>
-        <h4>Promociones Autonoma</h4>
+        <h4>Promociones</h4>
         <p class="mg-b-0"></p>
     </div>
 </div><!-- d-flex -->
@@ -40,28 +40,28 @@
                       </tfoot>
                       <tbody>
                         <tr>
-                          <td><a href="{{ route('usuarios.Banner50julio') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.Banner50julio') }}">Banner</a></th>
+                          <td><a href="{{ route('usuarios.Firma50Sep') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.Firma50Sep') }}">Firma</a></th>
                           <td>1 elemento</td>
                         </tr>
                         <tr>
-                          <td><a href="{{ route('usuarios.FB50julio') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.FB50julio') }}">Facebook</a></th>
+                          <td><a href="{{ route('usuarios.FB50Sep') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.FB50Sep') }}">Facebook</a></th>
                           <td>1 elemento</td>
                         </tr>
                         <tr>
-                          <td><a href="{{ route('usuarios.Instagram50Julio') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.Instagram50Julio') }}">Instagram</a></th>
+                          <td><a href="{{ route('usuarios.Instagram50Sep') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.Instagram50Sep') }}">Instagram</a></th>
                           <td>2 elemento</td>
                         </tr>
                         <tr>
-                          <td><a href="{{ route('usuarios.Mail50Julio') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.Mail50Julio') }}">Mailing</a></th>
+                          <td><a href="{{ route('usuarios.Mail50Sep') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.Mail50Sep') }}">Mailing</a></th>
                           <td>1 elemento</td>
                         </tr>
                         <tr>
-                          <td><a href="{{ route('usuarios.WA50Julio') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.WA50Julio') }}">WhatsApp</a></th>
+                          <td><a href="{{ route('usuarios.WA50Sep') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.WA50Sep') }}">WhatsApp</a></th>
                           <td>1 elemento</td>
                         </tr>
                       </tbody>

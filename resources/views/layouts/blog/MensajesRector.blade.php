@@ -24,7 +24,7 @@
       <div class="container">
         <div class="section-content">
           <div class="row">
-<!--         <div class="col-md-6">
+     <!-- <div class="col-md-6">
             <article class="post clearfix maxwidth600 mb-30 mb-sm-30">
               <div class="entry-header">
                 <div class="post-thumb thumb"> <img src="/multi/images/comunicados-del-rector.gif" alt="" class="img-responsive img-fullwidth"> </div>
@@ -49,11 +49,91 @@
                 <div class="clearfix"></div>
               </div>
             </article>
-        </div>-->
+        </div>    --> 
         <div class="col-md-6">
           <article class="post clearfix maxwidth600 mb-30 mb-sm-30">
             <div class="entry-header">
-              <div class="post-thumb thumb"> <img src="/multi/images/mensaje01.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+              <div class="post-thumb thumb"><a href="{{ route('blog.Mensaje05-10-2020') }}"><img src="/multi/images/Octubre.jpg" alt="" class="img-responsive img-fullwidth"></a></div>
+              {{-- <div class="entry-meta meta-absolute text-center pl-15 pr-15">
+              <div class="display-table">
+                <div class="display-table-cell">
+                  <ul>
+                    <li><a class="text-white" href="#"><i class="fa fa-thumbs-o-up"></i> 265 <br> Likes</a></li>
+                    <li class="mt-20"><a class="text-white" href="#"><i class="fa fa-comments-o"></i> 72 <br> comments</a></li>
+                  </ul>
+                </div>
+              </div>
+              </div> --}}
+            </div>
+            <div class="entry-content border-1px p-20">
+              <h5 class="entry-title mt-0 pt-0"><a href="#">Mensaje del rector: Octubre 2020</a></h5>
+              <p class="text-left mb-20 mt-15 font-13">¡JUNTOS! LA FAMILIA UANE, EN ESTE MES DE SEPTIEMBRE, CONMEMORAMOS CUARENTA Y SEIS AÑOS DE VIDA;</p>
+              <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="{{ route('blog.Mensaje05-10-2020') }}">Leer más</a>
+              <ul class="list-inline entry-date pull-right font-12 mt-5">
+                <li><span class="text-theme-colored">Oct 05, 2020</span></li>
+              </ul>
+              <div class="clearfix"></div>
+            </div>
+          </article>
+      </div>
+        <div class="col-md-6">
+          <article class="post clearfix maxwidth600 mb-30 mb-sm-30">
+            <div class="entry-header">
+              <div class="post-thumb thumb"><a href="{{ route('blog.Mensaje09-09-2020') }}"><img src="/multi/images/Septiembre.jpg" alt="" class="img-responsive img-fullwidth"></a></div>
+              {{-- <div class="entry-meta meta-absolute text-center pl-15 pr-15">
+              <div class="display-table">
+                <div class="display-table-cell">
+                  <ul>
+                    <li><a class="text-white" href="#"><i class="fa fa-thumbs-o-up"></i> 265 <br> Likes</a></li>
+                    <li class="mt-20"><a class="text-white" href="#"><i class="fa fa-comments-o"></i> 72 <br> comments</a></li>
+                  </ul>
+                </div>
+              </div>
+              </div> --}}
+            </div>
+            <div class="entry-content border-1px p-20">
+              <h5 class="entry-title mt-0 pt-0"><a href="#">Mensaje del rector: 46º Aniversario Septiembre 2020 2020</a></h5>
+              <p class="text-left mb-20 mt-15 font-13">¡JUNTOS! LA FAMILIA UANE, EN ESTE MES DE SEPTIEMBRE, CONMEMORAMOS CUARENTA Y SEIS AÑOS DE VIDA;</p>
+              <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="{{ route('blog.Mensaje09-09-2020') }}">Leer más</a>
+              <ul class="list-inline entry-date pull-right font-12 mt-5">
+                <li><span class="text-theme-colored">Sep 09, 2020</span></li>
+              </ul>
+              <div class="clearfix"></div>
+            </div>
+          </article>
+      </div>
+          </div>
+        <div class="col-md-6">
+          <article class="post clearfix maxwidth600 mb-30 mb-sm-30">
+            <div class="entry-header">
+              <div class="post-thumb thumb"><a href="{{ route('blog.Mensaje01-08-2020') }}"><img src="/multi/images/Agosto.jpg" alt="" class="img-responsive img-fullwidth"></a></div>
+              {{-- <div class="entry-meta meta-absolute text-center pl-15 pr-15">
+              <div class="display-table">
+                <div class="display-table-cell">
+                  <ul>
+                    <li><a class="text-white" href="#"><i class="fa fa-thumbs-o-up"></i> 265 <br> Likes</a></li>
+                    <li class="mt-20"><a class="text-white" href="#"><i class="fa fa-comments-o"></i> 72 <br> comments</a></li>
+                  </ul>
+                </div>
+              </div>
+              </div> --}}
+            </div>
+            <div class="entry-content border-1px p-20">
+              <h5 class="entry-title mt-0 pt-0"><a href="#">Mensaje del rector: Agosto 2020</a></h5>
+              <p class="text-left mb-20 mt-15 font-13">ESTIMADOS ESTUDIANTES, LES DOY NUEVAMENTE LA BIENVENIDA A SU ALMA MATER.</p>
+              <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="{{ route('blog.Mensaje01-08-2020') }}">Leer más</a>
+              <ul class="list-inline entry-date pull-right font-12 mt-5">
+                <li><span class="text-theme-colored">Ago 10, 2020</span></li>
+              </ul>
+              <div class="clearfix"></div>
+            </div>
+          </article>
+      </div>
+          </div>
+        <div class="col-md-6">
+          <article class="post clearfix maxwidth600 mb-30 mb-sm-30">
+            <div class="entry-header">
+              <div class="post-thumb thumb"><a href="{{ route('blog.Mensaje 15-05-2020') }}"><img src="/multi/images/diadelmaestro.jpg" alt="" class="img-responsive img-fullwidth"></a></div>
               {{-- <div class="entry-meta meta-absolute text-center pl-15 pr-15">
               <div class="display-table">
                 <div class="display-table-cell">
@@ -76,10 +156,12 @@
             </div>
           </article>
       </div>
-        <div class="col-md-6">
+          </div>
+      <!--</div>-->
+      {{--  <div class="col-md-6">
           <article class="post clearfix maxwidth600 mb-30 mb-sm-30">
             <div class="entry-header">
-              <div class="post-thumb thumb"> <img src="/multi/images/mensaje02.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+              <div class="post-thumb thumb"><a href="{{ route('blog.Mensaje 02-04-2020') }}"><img src="/multi/images/Abril.jpg" alt="" class="img-responsive img-fullwidth"></a></div>
               {{-- <div class="entry-meta meta-absolute text-center pl-15 pr-15">
               <div class="display-table">
                 <div class="display-table-cell">
@@ -91,33 +173,7 @@
               </div>
               </div> --}}
             </div>
-            <div class="entry-content border-1px p-20">
-              <h5 class="entry-title mt-0 pt-0"><a href="#">Mensaje del rector: MAYO 2020</a></h5>
-              <p class="text-left mb-20 mt-15 font-13">HOY CON ESTE NUEVO RETO MUNDIAL QUE AFRONTAMOS, ACRECENTAMOS EL ESPÍRITU</p>
-              <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="{{ route('blog.Mensaje 05-05-2020') }}">Leer más</a>
-              <ul class="list-inline entry-date pull-right font-12 mt-5">
-                <li><span class="text-theme-colored">May 05, 2020</span></li>
-              </ul>
-              <div class="clearfix"></div>
-            </div>
-          </article>
-      </div>
-        <div class="col-md-6">
-          <article class="post clearfix maxwidth600 mb-30 mb-sm-30">
-            <div class="entry-header">
-              <div class="post-thumb thumb"> <img src="/multi/images/mensaje01.jpg" alt="" class="img-responsive img-fullwidth"> </div>
-              {{-- <div class="entry-meta meta-absolute text-center pl-15 pr-15">
-              <div class="display-table">
-                <div class="display-table-cell">
-                  <ul>
-                    <li><a class="text-white" href="#"><i class="fa fa-thumbs-o-up"></i> 265 <br> Likes</a></li>
-                    <li class="mt-20"><a class="text-white" href="#"><i class="fa fa-comments-o"></i> 72 <br> comments</a></li>
-                  </ul>
-                </div>
-              </div>
-              </div> --}}
-            </div>
-            <div class="entry-content border-1px p-20">
+           {{-- <div class="entry-content border-1px p-20">
               <h5 class="entry-title mt-0 pt-0"><a href="#">Mensaje del rector: Abril 2020</a></h5>
               <p class="text-left mb-20 mt-15 font-13">ME DIRIJO NUEVAMENTE A LA COMUNIDAD UNIVERSITARIA DE UANE PARA HACER ALGUNAS REFLEXIONES SOBRE EL MOMENTO QUE ESTAMOS VIVIENDO.r</p>
               <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="{{ route('blog.Mensaje 02-04-2020') }}">Leer más</a>
@@ -128,7 +184,7 @@
             </div>
           </article>
       </div>
-        <div class="col-md-6">
+      {{--  <div class="col-md-6">
           <article class="post clearfix maxwidth600 mb-30 mb-sm-30">
             <div class="entry-header">
               <div class="post-thumb thumb"> <img src="/multi/images/mensaje02.jpg" alt="" class="img-responsive img-fullwidth"> </div>
@@ -142,7 +198,7 @@
                 </div>
               </div>
               </div> --}}
-            </div>
+         {{--   </div>
             <div class="entry-content border-1px p-20">
               <h5 class="entry-title mt-0 pt-0"><a href="#">Mensaje del rector: Desarrollo Humano</a></h5>
               <p class="text-left mb-20 mt-15 font-13">Nuevamente tengo el honor de dirigirme a toda la comunidad universitaria para hablar</p>
@@ -155,10 +211,10 @@
           </article>
       </div>
           </div>
-        <div class="col-md-6">
+       {{-- <div class="col-md-6">
           <article class="post clearfix maxwidth600 mb-30 mb-sm-30">
             <div class="entry-header">
-              <div class="post-thumb thumb"> <img src="/multi/images/mensaje01.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+              <div class="post-thumb thumb"> <img src="/multi/images/mensaje01.jpg" alt="" class="img-responsive img-fullwidth"> </div>--}}
               {{-- <div class="entry-meta meta-absolute text-center pl-15 pr-15">
               <div class="display-table">
                 <div class="display-table-cell">
@@ -169,7 +225,7 @@
                 </div>
               </div>
               </div> --}}
-            </div>
+           {{-- </div>
             <div class="entry-content border-1px p-20">
               <h5 class="entry-title mt-0 pt-0"><a href="#">Mensaje del rector: Resposabilidad</a></h5>
               <p class="text-left mb-20 mt-15 font-13">En esta ocasión hablaremos de otro valor que es pilar dentro del ámbito académico</p>
@@ -180,8 +236,8 @@
               <div class="clearfix"></div>
             </div>
           </article>
-      </div>
-       <!-- <div class="col-md-6">
+      </div>--}}
+      <!--  <div class="col-md-6">
           <article class="post clearfix maxwidth600 mb-30 mb-sm-30">
             <div class="entry-header">
               <div class="post-thumb thumb"> <img src="/multi/images/mensaje02.jpg" alt="" class="img-responsive img-fullwidth"> </div>

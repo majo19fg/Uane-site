@@ -77,9 +77,13 @@
                                   <option  value="Maestría">Maestría</option>
                                   <option  value="Especialidad">Especialidad</option>
                                   <option  value="Doctorado">Doctorado</option>
+                                  <option  value="Bachillerato En Línea">Bachillerato En Línea</option>
                                   <option  value="Licenciatura En Línea">Licenciatura En Línea</option>
                                   <option  value="Maestría En Línea">Maestría En Línea</option>
                                   <option  value="Especialidad En Línea">Especialidad En Línea</option>
+                                <!--  <option  value="Curso En Línea">Curso En Línea</option>
+                                  <option  value="Diplomado En Línea">Diplomado En Línea</option>
+                                  <option  value="Diplomado Barcelona">Diplomado Barcelona</option>-->
                             </select>
                         </div>
                       </div>
@@ -309,6 +313,11 @@
                             {{--  --}}
 
                             {{-- En línea --}}
+                            <optgroup class="BachEL">
+                              @foreach ($BachEL as $programa)
+                                  <option value="{{ $programa->title }}">{{ $programa->title }}</option>
+                              @endforeach
+                          </optgroup>
                             <optgroup class="LicEL">
                               @foreach ($LicEL as $programa)
                                   <option value="{{ $programa->title }}">{{ $programa->title }}</option>
@@ -324,6 +333,21 @@
                               <option value="{{ $programa->title }}">{{ $programa->title }}</option>
                           @endforeach
                       </optgroup>
+                      <optgroup class="Curso">
+                        @foreach ($Curso as $programa)
+                            <option value="{{ $programa->title }}">{{ $programa->title }}</option>
+                        @endforeach
+                    </optgroup>
+                    <optgroup class="Diplomado">
+                      @foreach ($Diplomado as $programa)
+                          <option value="{{ $programa->title }}">{{ $programa->title }}</option>
+                      @endforeach
+                  </optgroup>
+                  <optgroup class="DiplomadoBarcelona">
+                    @foreach ($DiplomadoBarcelona as $programa)
+                        <option value="{{ $programa->title }}">{{ $programa->title }}</option>
+                    @endforeach
+                </optgroup>
 
                           </select>
                         </div>

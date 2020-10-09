@@ -39,6 +39,26 @@
                       <tfoot>
                       </tfoot>
                       <tbody>
+                   <!--     <tr>
+                          <td><a href="{{ route('usuarios.CEL') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.CEL') }}">Cursos en línea</a></th>
+                          <td>2 elementos</td>
+                        </tr>
+                        <tr>
+                          <td><a href="{{ route('usuarios.DEL') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.DEL') }}">Diplomados en línea</a></th>
+                          <td>2 elementos</td>
+                        </tr>
+                        <tr>
+                          <td><a href="{{ route('usuarios.DB') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.DB') }}">Diplomados Barcelona</a></th>
+                          <td>2 elementos</td>
+                        </tr>-->
+                        <tr>
+                          <td><a href="{{ route('usuarios.BachEL') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.BachEL') }}">Bachillerato</a></th>
+                          <td>1 elemento</td>
+                        </tr>
                         <tr>
                           <td><a href="{{ route('usuarios.FlyersEL') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
                           <th><a href="{{ route('usuarios.FlyersEL') }}">Carreras</a></th>

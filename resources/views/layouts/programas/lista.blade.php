@@ -4,7 +4,7 @@
 @section('meta-desc', 'Conoce todos los programas presenciales y en línea que UANE tiene para ti.')
 @section('content')
     <!-- Section: inner-header -->
-    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="/multi/images/banners/separados.png">
+    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="/multi/images/banners/46banner.jpg">
       <div class="container pt-70 pb-20">
         <!-- Section Content -->
         <div class="section-content">

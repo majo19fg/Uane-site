@@ -115,6 +115,12 @@ class UsersController extends Controller
         return redirect()->route('mostrar.usuarios')->with('success', 'El usuario ha sido eliminado');
     }
 
+    public function cursos() 
+    {
+        
+        return view('admin.marketingbox.Carpetas_cursos');
+
+    } 
     public function Plantilla() 
     {
         
@@ -305,6 +311,31 @@ class UsersController extends Controller
         return view('admin.marketingbox.Carpetas_EnLinea');
 
     } 
+    public function BachEL() 
+    {
+
+        return view('admin.marketingbox.BachEL');
+
+    } 
+
+        public function CEL() 
+    {
+
+        return view('admin.marketingbox.CEL');
+
+    } 
+        public function DEL() 
+    {
+
+        return view('admin.marketingbox.DEL');
+
+    } 
+        public function DB() 
+    {
+
+        return view('admin.marketingbox.DB');
+
+    } 
     public function BachNL() 
     {
 
@@ -321,6 +352,12 @@ class UsersController extends Controller
     {
 
         return view('admin.marketingbox.Facebook-post');
+
+    } 
+    public function FBEL()
+    {
+
+        return view('admin.marketingbox.Facebook-postEL');
 
     } 
     public function BMB() 
@@ -527,123 +564,198 @@ class UsersController extends Controller
         return view('admin.marketingbox.Carpetas_dit50Jul');
 
     }
+    public function DIT55() 
+    {
+
+        return view('admin.marketingbox.DIT55');
+
+    }
+    public function DIT55oct() 
+    {
+
+        return view('admin.marketingbox.DIT55oct');
+
+    }    
+    public function DIT55mty() 
+    {
+
+        return view('admin.marketingbox.DIT55mty');
+
+    }
+    public function DIT55pn() 
+    {
+
+        return view('admin.marketingbox.DIT55pn');
+
+    }
+    public function Firma55Oct() 
+    {
+
+        return view('admin.marketingbox.Firma-55Oct');
+
+    }
+    public function FB55Oct() 
+    {
+
+        return view('admin.marketingbox.FB-55Oct');
+
+    }    
+    public function Instagram55Oct() 
+    {
+
+        return view('admin.marketingbox.Instagram-55Oct');
+
+    }
+    public function Mail55Oct() 
+    {
+
+        return view('admin.marketingbox.Mail-55Oct');
+
+    }
+    public function WA55Oct() 
+    {
+
+        return view('admin.marketingbox.WhatsApp-55Oct');
+
+    }
+    public function Firma55mty() 
+    {
+
+        return view('admin.marketingbox.Firma-55mty');
+
+    }
+    public function FB55mty() 
+    {
+
+        return view('admin.marketingbox.FB-55mty');
+
+    }    
+    public function Instagram55mty() 
+    {
+
+        return view('admin.marketingbox.Instagram-55mty');
+
+    }
+    public function Mail55mty() 
+    {
+
+        return view('admin.marketingbox.Mail-55mty');
+
+    }
+    public function WA55mty() 
+    {
+
+        return view('admin.marketingbox.WhatsApp-55mty');
+
+    }
+    public function Firma55pn() 
+    {
+
+        return view('admin.marketingbox.Firma-55pn');
+
+    }
+    public function FB55pn() 
+    {
+
+        return view('admin.marketingbox.FB-55pn');
+
+    }    
+    public function Instagram55pn() 
+    {
+
+        return view('admin.marketingbox.Instagram-55pn');
+
+    }
+    public function Mail55pn() 
+    {
+
+        return view('admin.marketingbox.Mail-55pn');
+
+    }
+    public function WA55pn() 
+    {
+
+        return view('admin.marketingbox.WhatsApp-55pn');
+
+    }
     public function presencial50() 
     {
 
         return view('admin.marketingbox.Presencial_dit50');
 
     }
-    public function Banner50julio() 
+    public function Firma50Sep() 
     {
 
-        return view('admin.marketingbox.Banner-50Julio');
+        return view('admin.marketingbox.Firma-50Sep');
 
     }
-    public function FB50julio() 
+    public function FB50Sep() 
     {
 
-        return view('admin.marketingbox.FB-50Julio');
+        return view('admin.marketingbox.FB-50Sep');
 
     }    
-    public function Instagram50julio() 
+    public function Instagram50Sep() 
     {
 
-        return view('admin.marketingbox.Instagram-50Julio');
+        return view('admin.marketingbox.Instagram-50Sep');
 
     }
-    public function Mail50julio() 
+    public function Mail50Sep() 
     {
 
-        return view('admin.marketingbox.Mail-50Julio');
+        return view('admin.marketingbox.Mail-50Sep');
 
     }
-    public function WA50julio() 
+    public function WA50Sep() 
     {
 
-        return view('admin.marketingbox.WhatsApp-50Julio');
+        return view('admin.marketingbox.WhatsApp-50Sep');
 
     }
-    public function Carpeta50Am() 
+   
+    public function enlinea70() 
+
     {
 
-        return view('admin.marketingbox.Carpetas_dit50JulAm');
+        return view('admin.marketingbox.EnLinea_dit70');
 
     }
-    public function presencial50Am() 
+    public function Firma70EL() 
     {
 
-        return view('admin.marketingbox.Presencial_dit50Am');
+        return view('admin.marketingbox.Firma-70AgoEL');
 
     }
-    public function Banner50julioAm() 
+    public function FB70AgoEL() 
     {
 
-        return view('admin.marketingbox.Banner-50julioAm');
-
-    }
-    public function FB50julioAm() 
-    {
-
-        return view('admin.marketingbox.FB-50JulioAm');
+        return view('admin.marketingbox.FB-70AgoEL');
 
     }    
-    public function Instagram50julioAm() 
+    public function Instagram70AgoEL() 
     {
 
-        return view('admin.marketingbox.Instagram-50JulioAm');
+        return view('admin.marketingbox.Instagram-70AgoEL');
 
     }
-    public function Mail50julioAm() 
+    public function Mail70AgoEL() 
     {
 
-        return view('admin.marketingbox.Mail-50JulioAm');
+        return view('admin.marketingbox.Mail-70AgoEL');
 
     }
-    public function WA50junioAm() 
+    public function WA70AgoEL() 
     {
 
-        return view('admin.marketingbox.WhatsApp-50JulioAm');
+        return view('admin.marketingbox.WhatsApp-70AgoEL');
 
     }
-
-
-
-
-
-    public function enlinea50() 
+    public function TuPuntajeVale() 
     {
 
-        return view('admin.marketingbox.EnLinea_dit50');
-
-    }
-    public function Banner50julioEL() 
-    {
-
-        return view('admin.marketingbox.Banner-50JulioEL');
-
-    }
-    public function FB50julioEL() 
-    {
-
-        return view('admin.marketingbox.FB-50JulioEL');
-
-    }    
-    public function Instagram50julioEL() 
-    {
-
-        return view('admin.marketingbox.Instagram-50JulioEL');
-
-    }
-    public function Mail50julioEL() 
-    {
-
-        return view('admin.marketingbox.Mail-50JulioEL');
-
-    }
-    public function WA50julioEL() 
-    {
-
-        return view('admin.marketingbox.WhatsApp-50JulioEL');
+        return view('admin.marketingbox.TuPuntajeVale');
 
     }
     public function logotipos() 
@@ -652,13 +764,60 @@ class UsersController extends Controller
         return view('admin.marketingbox.Logotipos');
 
     }
+    public function Wallpapers() 
+    {
+
+        return view('admin.marketingbox.Wallpapers');
+
+    }
     public function hoja() 
     {
 
         return view('admin.marketingbox.hojas membretadas');
 
     }
+    public function Deportes() 
+    {
 
+        return view('admin.marketingbox.Deportes');
+
+    }
+    public function Culturales() 
+    {
+
+        return view('admin.marketingbox.Culturales');
+
+    }
+    public function Identidad46() 
+    {
+
+        return view('admin.marketingbox.Identidad46');
+
+    }
+    public function Logo46() 
+    {
+
+        return view('admin.marketingbox.Logo46');
+
+    }
+    public function conferencias() 
+    {
+
+        return view('admin.marketingbox.conferencias');
+
+    }
+    public function orgullosamente() 
+    {
+
+        return view('admin.marketingbox.orgullosamente');
+
+    }
+    public function exauane46() 
+    {
+
+        return view('admin.marketingbox.exauane46');
+
+    }
     public function lista_encuesta()
     {
         $encuestas = Encuesta::all();

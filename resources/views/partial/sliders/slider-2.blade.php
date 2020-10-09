@@ -51,12 +51,12 @@
           data-easeout="default" data-masterspeed="default" data-thumb="/multi/images/sliders/UANE-Comunicado2.jpg"
           data-rotate="0" data-saveperformance="off" data-title="Web Show" data-description="">
           <!-- MAIN IMAGE --
-          <img src="/multi/images/sliders/UANE-Comunicado2.jpg" alt="" data-bgposition="center 10%" data-bgfit=""
+          <img src="/multi/images/sliders/fondo.jpg"  alt="" data-bgposition="center 10%" data-bgfit=""
             data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="6" data-no-retina><a href="#"></a>
           <!--LAYERS -->
   
           <!-- LAYER NR. 1 --
-          <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left','left',middle','middle']"
+          <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['middle','middle',middle','middle']"
             data-hoffset="['0']" data-y="['center','center','middle','middle']"
             data-voffset="['-200','-200','-350','-350']" data-fontsize="['70','70','70','70']"
             data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
@@ -64,11 +64,11 @@
             data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
             data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
             data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-            style="z-index: 7; white-space: nowrap; font-weight:900; color:#F4C300;">&nbsp;¡PREPÁRATE!&nbsp;
+            style="z-index: 7; white-space: nowrap; font-weight:900; color:#F4C300;">&nbsp;¡APROVECHA!&nbsp;
           </div>
   
           <!-- LAYER NR. 2 --
-          <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left','left',middle','middle']"
+          <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['middle','middle',middle','middle']"
             data-hoffset="['0']" data-y="['center','center','middle','middle']"
             data-voffset="['-120','-120','-270','-270']" data-fontsize="['70','70','70','70']"
             data-lineheight="['120','120','60','60']" data-width="none" data-height="none" data-whitespace="nowrap"
@@ -76,7 +76,7 @@
             data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
             data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
             data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-            style="z-index: 7; white-space: nowrap; font-weight:900; color:#fff;">&nbsp;LLEGÓ&nbsp;
+            style="z-index: 7; white-space: nowrap; font-weight:900; color:#fff;">&nbsp;¡Últimos días!&nbsp;
           </div>
           <!-- LAYER NR. 3 --
           <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['left','left',middle','middle']"
@@ -91,95 +91,95 @@
           </div>
   
           <!-- LAYER NR. 4 --
-          <div class="tp-caption tp-resizeme font-raleway text-center" id="rs-1-layer-5"
-            data-x="['left','left',middle','middle']" data-hoffset="['130','130','0','0']"
-            data-y="['center','center','middle','middle']" data-voffset="['52','52','-140','90']"
-            data-fontsize="['30','30','50','50']" data-lineheight="['50']" data-width="none" data-height="none"
+          <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-5"
+            data-x="['left','left',middle','middle']" data-hoffset="['-150','-150','0','0']"
+            data-y="['center','center','middle','middle']" data-voffset="['-10','-0','-160','-160']"
+            data-fontsize="['40','40','33','33']" data-lineheight="['50']" data-width="none" data-height="none"
             data-whitespace="nowrap" data-transform_idle="o:1;s:500"
             data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
             data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
             data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
             data-start="1300" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-            style="z-index: 5; white-space: nowrap; letter-spacing:2px; font-weight:800; background:#fff; color:#73243d;">
-            &nbsp;Estudia tu&nbsp;
+            style="z-index: 5; white-space: nowrap; letter-spacing:2px; font-weight:800;color:white;">
+            &nbsp;Aún estas a tiempo de inscribirte&nbsp;
           </div>
   
-          <!-- LAYER NR. 5 --
-          <div class="tp-caption tp-resizeme font-raleway text-center" id="rs-1-layer-5"
-            data-x="['left','left','center','center']" data-hoffset="['30','30','0','0']"
-            data-y="['center','center','middle','middle']" data-voffset="['100','100','-90','175']"
-            data-fontsize="['30','30','50','50']" data-lineheight="['50']" data-width="none" data-height="none"
+            <!-- LAYER NR. 5 --
+            <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-5"
+            data-x="['left','left',middle','middle']" data-hoffset="['-100','-100','0','0']"
+            data-y="['center','center','middle','middle']" data-voffset="['40','40','-110','-110']"
+            data-fontsize="['40','40','33','33']" data-lineheight="['50']" data-width="none" data-height="none"
             data-whitespace="nowrap" data-transform_idle="o:1;s:500"
             data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
             data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
             data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
             data-start="1300" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-            style="z-index: 5; white-space: nowrap; letter-spacing:2px; font-weight:800; background:#F4C300; color:#73243d;">
-            &nbsp;Bachillerato o Carrera&nbsp;
+            style="z-index: 5; white-space: nowrap; letter-spacing:2px; font-weight:800;color:white;">
+            &nbsp;en cualquiera de nuestros&nbsp;
+          </div>
+
+          <!-- LAYER NR. 6 --
+          <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-5"
+            data-x="['left','left','center','center']" data-hoffset="['80','80','0','0']"
+            data-y="['center','center','middle','middle']" data-voffset="['90','90','-60','-60']"
+            data-fontsize="['40','40','33','33']" data-lineheight="['50']" data-width="none" data-height="none"
+            data-whitespace="nowrap" data-transform_idle="o:1;s:500"
+            data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
+            data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
+            data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
+            data-start="1300" data-splitin="none" data-splitout="none" data-responsive_offset="on"
+            style="z-index: 5; white-space: nowrap; letter-spacing:2px; font-weight:800; color:#F4C300;">
+            &nbsp;Programas&nbsp;
           </div>
   
           <!-- LAYER NR. 6 --
           <div class="tp-caption tp-resizeme font-raleway text-center" id="rs-1-layer-5"
-            data-x="['left','left','center','center']" data-hoffset="['130','130','0','0']"
-            data-y="['center','center','middle','middle']" data-voffset="['149','149','-40','-52']"
-            data-fontsize="['30','30','50','50']" data-lineheight="['50']" data-width="none" data-height="none"
+            data-x="['left','left','center','center']" data-hoffset="['40','40','0','0']"
+            data-y="['center','center','middle','middle']" data-voffset="['150','150','0','0]"
+            data-fontsize="['40','40','33','33']" data-lineheight="['50']" data-width="none" data-height="none"
             data-whitespace="nowrap" data-transform_idle="o:1;s:500"
             data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
             data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
             data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
             data-start="1300" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-            style="z-index: 5; white-space: nowrap; letter-spacing:2px; font-weight:800; background:#40BAB3; color:#fff;">
-            &nbsp;Presencial&nbsp;
+            style="z-index: 5; white-space: nowrap; letter-spacing:2px; font-weight:800; background:#4D9C2D; color:#fff;">
+            &nbsp;100% en Línea&nbsp;
           </div>
-          <!-- LAYER NR. 5 --
+          <!-- LAYER NR. 7 --
           <div class="tp-caption tp-resizeme" id="rs-1-layer-5" data-x="['center','center','center','center']"
-            data-hoffset="['300','300','0','0']" data-y="['middle']" data-voffset="['-120','120','130','50']"
+            data-hoffset="['300','300','0','0']" data-y="['middle']" data-voffset="['60','60','170','170']"
             data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500"
             data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
             data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
             data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
             data-start="1300" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-            style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><img src="/multi/images/sliders/dit-40.jpg" alt="">
+            style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><img src="/multi/images/sliders/70.png" alt="">
           </div>
   
-          <!-- LAYER NR. 6 --
+          <!-- LAYER NR. 8--
           <div class="tp-caption tp-resizeme font-raleway text-center" id="rs-1-layer-5"
-            data-x="['center','center','center','center']" data-hoffset="['290','290','0','0']" data-y="['middle']"
-            data-voffset="['60','60','280','195']" data-fontsize="['30']" data-lineheight="['50']" data-width="none"
+            data-x="['center','center','center','center']" data-hoffset="['310','310','0','0']" data-y="['middle']"
+            data-voffset="['200','200','320','175']" data-fontsize="['30']" data-lineheight="['50']" data-width="none"
             data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500"
             data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
             data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
             data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
             data-start="1300" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-            style="z-index: 5; white-space: nowrap; letter-spacing:2px; font-weight:600; background:#fff; color:#73243d;">
-            &nbsp;en todas las <b>mensualidades</b>&nbsp;
-          </div>
-  
-          <!-- LAYER NR. 7--
-          <div class="tp-caption tp-resizeme font-raleway text-center" id="rs-1-layer-5"
-            data-x="['center','center','center','center']" data-hoffset="['290','290','0','0']" data-y="['middle']"
-            data-voffset="['110','110','320','175']" data-fontsize="['30']" data-lineheight="['50']" data-width="none"
-            data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500"
-            data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
-            data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
-            data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
-            data-start="1300" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-            style="z-index: 5; white-space: nowrap; letter-spacing:2px; font-weight:600; background:#fff; color:#73243d;">
-            &nbsp;de tu primer semestre.&nbsp;
+            style="z-index: 5; white-space: nowrap; letter-spacing:2px; font-weight:800; background:#F4C300; color:#73243d;">
+            &nbsp;en inscripción.*&nbsp;
           </div>
   
           <!-- LAYER NR. 8 --
           <div class="tp-caption tp-resizeme font-raleway text-center" id="rs-1-layer-7"
-            data-x="['center','center','center','center']" data-hoffset="['290 ','290 ','0','0']" data-y="['middle']"
-            data-voffset="['175','175','395','395']" data-fontsize="['16','16','18','18']"
+            data-x="['center','center','center','center']" data-hoffset="['-40 ','-40 ','0','0']" data-y="['middle']"
+            data-voffset="['280','250','395','395']" data-fontsize="['16','16','18','18']"
             data-lineheight="['18','10','23','23']" data-width="none" data-height="none" data-whitespace="nowrap"
             data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;"
             data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
             data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
             data-start="1300" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-            style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:200;  color:#fff;">&nbsp;*Aplican
-            restricciones. Válido hasta el 31 de Marzo 2020 .<br>Únicamente para nuevo ingreso de semestre<br>Julio
-            - Diciembre 2020.&nbsp;
+            style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:200;  color:#fff;">&nbsp;*Consulta
+            restricciones. Válido hasta el 5 de Agosto 2020. &nbsp;
           </div>
   
   

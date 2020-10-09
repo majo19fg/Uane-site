@@ -14,58 +14,6 @@
       <div class="container">
         <div class="section-content">
           <div class="row">
-              <div class="col-md-12" data-wow-duration="1s" data-wow-delay="0.3s">
-              <div class="gallery-isotope grid-3 gutter-small clearfix" data-lightbox="gallery">
-                      <!-- Portfolio Item Start -->
-                      <div class="gallery-item">
-                        <div class="thumb">
-                          <img alt="project" src="/multi/images/sliders/UANE-Comunicado-20-julio1.jpg" >
-                          <div class="overlay-shade"></div>
-                          <div class="icons-holder">
-                            <div class="icons-holder-inner">
-                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                                <a href="/multi/images/sliders/UANE-Comunicado-20-julio1.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!-- Portfolio Item End -->
-                      
-                      <!-- Portfolio Item Start -->
-                      <div class="gallery-item">
-                        <div class="thumb">
-                          <img alt="project" src="/multi/images/sliders/UANE-Comunicado-20-julio-MTY.jpg" >
-                          <div class="overlay-shade"></div>
-                          <div class="icons-holder">
-                            <div class="icons-holder-inner">
-                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                                <a href="/multi/images/sliders/UANE-Comunicado-20-julio-MTY.jpg"   data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!-- Portfolio Item End -->
-                      
-                      <!-- Portfolio Item Start -->
-                      <div class="gallery-item">
-                        <div class="thumb">
-                          <img alt="project" src="/multi/images/sliders/UANE-Comunicado-20-julio-PN.jpg" >
-                          <div class="overlay-shade"></div>
-                          <div class="icons-holder">
-                            <div class="icons-holder-inner">
-                              <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                                <a href="/multi/images/sliders/UANE-Comunicado-20-julio-PN.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!-- Portfolio Item End -->
-              </div>
-              <!-- End Portfolio Gallery Grid -->
-              </div>
             <div class="col-xs-12 col-sm-6 col-md-3 pb-sm-20 ">
               <h2 class="line-bottom font-20 text-theme-colored text-uppercase mb-10 mt-0">Tu oportunidad está en<span class="text-theme-color-2"> UANE</span></h2>
               <p class="lead font-18" align="justify">UANE cuenta con 45 años de historia, más de 12,000 estudiantes y más de 45,000 egresados en los niveles de Bachillerato, Licenciatura y Postgrado.</p>

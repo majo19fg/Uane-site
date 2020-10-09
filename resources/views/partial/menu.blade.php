@@ -124,9 +124,11 @@
                   <div class="col4">
                     <ul class="list-unstyled list-dashed">
                       <h4>Reglamento</h4>
-                      <li><a target="_blank" href="/reglamentos/reglamento_bach.pdf">Bachillerato</a></li>
-                      <li><a target="_blank" href="/reglamentos/reglamento_lic.pdf">Licenciatura</a></li>
-                      <li><a target="_blank" href="/reglamentos/reglamentopostgrado2016.pdf">Postgrado</a></li>
+                      <li><a target="_blank" href="/multi/reglamentos/Bachillerato_compressed.pdf">Bachillerato</a></li>
+                      <li><a target="_blank" href="/multi/reglamentos/Licenciatura_compressed.pdf">Licenciatura</a></li>
+                      <li><a target="_blank" href="/multi/reglamentos/Postgrado_compressed.pdf">Postgrado</a></li>
+                      <li><a target="_blank" href="/multi/reglamentos/Licenciatura en linea _compressed.pdf">Licenciatura en Línea</a></li>
+                      <li><a target="_blank" href="/multi/reglamentos/postgrado en linea_compressed.pdf">Postgrado en Línea</a></li>
                     </ul>
                   </div>
                   {{--
@@ -218,6 +220,8 @@
             <li class="{{ request()->is('egresados') ? 'active' : '' }} {{ request()->is('egresados/actualizar-datos') ? 'active' : '' }}"><a href="{{ route('exauane') }}">ExaUANE</a></li>
             <li><a href="#">Vida universitaria</a>
               <ul class="dropdown">
+               <!-- <li><a href="{{ route('aniversario') }}">Eventos Aniversario</a></li>-->
+               <!-- <li><a href="{{ route('investigacion') }}">Investigación</a></li>-->
                 <li><a href="{{ route('vozuane') }}">Voz Uane</a></li>
                 <li><a href="{{ route('blog.noticias') }}">Noticias</a></li>
                 <li><a href="{{ route('blog.MensajesRector') }}">Mensaje del Rector</a></li>
@@ -261,4 +265,11 @@
           </div>
         </div>
       </section>
+     <!-- <section id="marquee">
+        <div class="container-fluid p-0">
+              <div class="row">
+                  <MARQUEE bgcolor="#73243C";color="#ffff"> Esta marquesina tiene un fondo de color rosa </MARQUEE>
+              </div>
+        </div>
+          </section>-->
 </header>

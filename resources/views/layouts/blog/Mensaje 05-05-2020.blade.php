@@ -26,7 +26,9 @@
             <div class="blog-posts single-post">
               <article class="post clearfix mb-0">
                 <div class="entry-header">
-                  <div class="post-thumb thumb"> <img src="/multi/images/mensaje02.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="fluid-video-wrapper">
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/q3O1q3Cd_nE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
                 </div>  
                 <div class="entry-title pt-10 pl-15">
                   <h4><a class="text-uppercase" href="#">Mensaje del rector: Mayo 2020</a></h4>
@@ -76,9 +78,7 @@
 
                   <p style="text-align: justify;">ORGULLOSAMENTE OSOS, ORGULLOSAMENTE UANE"</p>
 
-                  <div class="fluid-video-wrapper">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/q3O1q3Cd_nE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                  </div>
+
                 </div>
               </article>
             </div>

@@ -46,9 +46,7 @@
                                 <div class="mg-t-20 mg-sm-t-0">
                                     <h5 class="mg-b-2 tx-success">Encuesta registrada exitosamente.</h5>
                                     <p class="mg-b-0 tx-gray">¡Haz finalizado tu encuesta!</p>
-                                    <p class="mg-b-0 tx-gray">En agradecimiento a tu colaboración, queremos darte la oportunidad de participar en un sorteo</p>
-                                    <p class="mg-b-0 tx-gray">por un kit promocional. A los ganadores se les entregará su premio personalmente en su campus</p>
-                                    <p class="mg-b-0 tx-gray">correspondiente. Te mantendremos informado.</p>
+                                    <p class="mg-b-0 tx-gray">Aviso de privacidad. Este cuestionario y el tratamiento de los datos proporcionados por los alumnos serán utilizados para efectos académicos, administrativos y estadísticos dentro de la universidad, por lo que no serán compartidos ni distribuidos con ningún ente externo a la organización ni con fines ajenos al efecto informativo.</p>
                                 </div>
                             </div>
                             <!-- d-flex -->
@@ -83,19 +81,27 @@
                        <center> 
                         <div class="linea">
                         <div class="col-md-12">                                
-                        <h2 class="text-uppercase font-weight-600 mt-0 font-28 linea"> Encuesta de medios</h2> 
+                        <h2 class="text-uppercase font-weight-600 mt-0 font-28 linea"> Encuesta Socioeconomica</h2> 
                         </div>
                         </div>
                     </center>
                         <div class="col-md-12">     
                         <p class="mg-b-0"><h5>Te agradecemos tu atención e interés por contestar esta encuesta, te tomará 15 minutos hacerla y nos proporcionará información muy valiosa para hacer mejor nuestro trabajo. </h5></p>
-                        <p class="mg-b-0"><h5>Es indispensable ser alumno de nuevo ingreso en modalidad presencial.</h5></p>
+                        <p class="mg-b-0"><h5>Es indispensable ser alumno de nuevo ingreso.</h5></p>
                         <p class="mg-b-0"><h5>Los datos que expongas serán considerados como anónimos y se utilizarán solamente con fines académicos y de investigación. </h5></p>
                         <p class="mg-b-0"><h5>Puedes consultar nuestro aviso de privacidad en
                         <a href="https://www.uane.edu.mx"><b><u style="color: #73243D">www.uane.edu.mx</u></b></a>. </h5></p>
                         <p class="mg-b-0"><h5>Muchas gracias por tu apoyo. </h5></p>
                         </div>
                     </br>
+                    {{-- Email --}} 
+                    <div class="section">
+                    <label class="col-sm-4 form-control-label">Email</label>
+                         <div class="col-sm-6 mg-t-10 mg-sm-t-0">
+                         <input class="sinborde" value="{{ old('email') }}" name="email"
+                         placeholder="Email">
+                         </div>
+                    </div>
                     {{-- Matrícula --}} 
                     <div class="section">
                     <label class="col-sm-4 form-control-label">Matrícula</label>
@@ -103,10 +109,27 @@
                          <input class="sinborde" value="{{ old('matricula') }}" name="matricula"
                          placeholder="Matrícula">
                          </div>
+                    </div>                    
+                    {{-- Edad --}} 
+                    <div class="section">
+                    <label class="col-sm-4 form-control-label">Edad</label>
+                         <div class="col-sm-6 mg-t-10 mg-sm-t-0">
+                         <input class="sinborde" value="{{ old('edad') }}" name="edad"
+                         placeholder="Edad">
+                         </div>
                     </div>
+                    {{-- Ciudad --}} 
+                    <div class="section">
+                    <label class="col-sm-4 form-control-label">Ciudad donde vive actualmente:</label>
+                         <div class="col-sm-6 mg-t-10 mg-sm-t-0">
+                         <input class="sinborde" value="{{ old('ciudad') }}" name="ciudad"
+                         placeholder="Ciudad">
+                         </div>
+                    </div>
+
                         {{-- Campus --}}     
                         <div class="section">
-                            <label class="col-sm-12 form-control-label">1. ¿A qué campus perteneces?</label>
+                            <label class="col-sm-12 form-control-label">1.   Campus origen:</label>
                             <div class="col-sm-12 mg-t-10 mg-sm-t-0">
                                 <select class="sinborde" name="campus"
                                     data-placeholder="Selecciona un campus">
@@ -132,7 +155,7 @@
                         </div>
                         {{-- Sexo --}} 
                         <div class="section">       
-                            <label class="col-sm-12 form-control-label">2. Sexo</label>
+                            <label class="col-sm-12 form-control-label">2. Sexo:</label>
                             <div class="col-sm-12 mg-t-10 mg-sm-t-0">
                                     <select class="sinborde" name="sexo"
                                     data-placeholder="Elíge una opción">
@@ -145,13 +168,88 @@
                                 </select>
                             </div>
                         </div>
-                    
-                        {{-- Edad --}}
+                        {{-- Estado Civil --}} 
+                        <div class="section">       
+                            <label class="col-sm-12 form-control-label">3.  Estado civil:</label>
+                            <div class="col-sm-12 mg-t-10 mg-sm-t-0">
+                                    <select class="sinborde" name="estado_civil"
+                                    data-placeholder="Elíge una opción">
+                                    <option label="Elíge una opción"></option>
+                                    <option {{ old('estado_civil') == 'Soltero' ? 'selected' : '' }}
+                                        value="Soltero">Soltero</option>
+                                    <option {{ old('estado_civil') == 'Casado' ? 'selected' : '' }}
+                                        value="Casado">Casado</option>
+                                    <option {{ old('estado_civil') == 'Viudo' ? 'selected' : '' }}
+                                        value="Viudo">Viudo</option>
+                                    <option {{ old('estado_civil') == 'Unión Libre' ? 'selected' : '' }}
+                                        value="Unión Libre">Unión Libre</option>
+                                    <option {{ old('estado_civil') == 'Divorciado' ? 'selected' : '' }}
+                                        value="Divorciado">Divorciado</option>                                        
+
+                                </select>
+                            </div>
+                        </div>                        
+                        {{-- Hijos --}} 
+                        <div class="section">       
+                            <label class="col-sm-12 form-control-label">4.  ¿Tienes hijos?</label>
+                            <div class="col-sm-12 mg-t-10 mg-sm-t-0">
+                                    <select class="sinborde" name="hijos_sino"
+                                    data-placeholder="Elíge una opción">
+                                    <option label="Elíge una opción"></option>
+                                    <option {{ old('hijos_sino') == 'Si' ? 'selected' : '' }}
+                                        value="Si">Sí</option>
+                                    <option {{ old('hijos_sino') == 'No' ? 'selected' : '' }}
+                                        value="No">No</option>
+                                </select>
+                            </div>
+                        </div>
+                        {{-- CuantosHijos --}} 
+                        <div class="section">       
+                            <label class="col-sm-12 form-control-label">4.1  ¿Cuántos hijos tienes?</label>
+                            <div class="col-sm-12 mg-t-10 mg-sm-t-0">
+                                    <select class="sinborde" name="hijos"
+                                    data-placeholder="Elíge una opción">
+                                    <option label="Elíge una opción"></option>
+                                    <option {{ old('hijos') == '0' ? 'selected' : '' }}
+                                        value="0">No tengo hijos</option>
+                                    <option {{ old('hijos') == '1' ? 'selected' : '' }}
+                                        value="1">1</option>
+                                    <option {{ old('hijos') == '2' ? 'selected' : '' }}
+                                        value="2">2</option>
+                                    <option {{ old('hijos') == '3' ? 'selected' : '' }}
+                                        value="3">3</option>   
+                                    <option {{ old('hijos') == '4 o más' ? 'selected' : '' }}
+                                        value="4 o más">4 o más</option>                                                                                
+                                </select>
+                            </div>
+                        </div>
+                        {{-- ResponsableHijos --}} 
+                        <div class="section">       
+                            <label class="col-sm-12 form-control-label">4.2   ¿Quién se responsabiliza económicamente de tu(s) hijo(s)?</label>
+                            <div class="col-sm-12 mg-t-10 mg-sm-t-0">
+                                    <select class="sinborde" name="responsabiliza _económicamente"
+                                    data-placeholder="Elíge una opción">
+                                    <option label="Elíge una opción"></option>
+                                    <option {{ old('responsabiliza _económicamente') == 'Yo' ? 'selected' : '' }}
+                                        value="Yo">Yo</option>
+                                    <option {{ old('responsabiliza _económicamente') == 'pareja' ? 'selected' : '' }}
+                                        value="pareja">Mi pareja</option>
+                                    <option {{ old('responsabiliza _económicamente') == 'pareja&yo' ? 'selected' : '' }}
+                                        value="pareja&yo">Mi pareja y yo</option>
+                                    <option {{ old('responsabiliza _económicamente') == 'padres' ? 'selected' : '' }}
+                                        value="padres">Mi mamá / mi papá</option>   
+                                    <option {{ old('responsabiliza _económicamente') == 'familiar' ? 'selected' : '' }}
+                                        value="familiar">Otro familiar</option>                                                                                
+                                </select>
+                            </div>
+                        </div>
+
+                        {{-- Personas hogar --}}
                         <div class="section">
-                        <label class="col-sm-4 form-control-label">3. Edad</label>
+                        <label class="col-sm-12 form-control-label">5.   ¿Cuántas personas viven en tu hogar contándote a ti?</label>
                          <div class="col-sm-8 mg-t-10 mg-sm-t-0">
-                         <input value="{{ old('edad') }}" name="edad"
-                        class="sinborde" placeholder="Edad">
+                         <input value="{{ old('personas_entuhogar') }}" name="personas_entuhogar"
+                        class="sinborde" placeholder="Respuesta">
                          </div>
                         </div>
                         {{-- Ciudad --}}
