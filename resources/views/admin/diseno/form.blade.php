@@ -451,7 +451,14 @@
                     <div class="col-md-12">
                         <textarea name="desc" class="form-control {{ $errors->has('desc') ? 'is-invalid' :'' }}" id="desc" cols="30" rows="10">{{ old('desc') }}</textarea>
                     </div>
+                </br>
+                    <div class="col-md-12" style="background-color: #cc0000; color:white;">
+
+                        <center><h5>Agrega un título para identificar tu solicitud. Máx 30 caracteres (<i>Ejemplo: Venta Nocturna Octubre</i>). Recuerda que el título es obligatorio *</h5></center>
+
+                    </div>
                 </section>
+                    
             </div>
         </form>
     </div>

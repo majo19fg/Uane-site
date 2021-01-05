@@ -135,6 +135,8 @@
       </a>
       <ul class="br-menu-sub">
         @hasanyrole('Super Admin|Admin')
+        <li class="sub-item"><a href="{{ route('reporte') }}"
+          class="sub-link {{ setActiveRoute('reporte') }}">Encuesta de Medios</a></li>
         <li class="sub-item"><a href="{{ route('crear.usuario') }}"
             class="sub-link {{ setActiveRoute('crear.usuario')}}">Crear un usuario</a></li>
         <li class="sub-item"><a href="{{ route('mostrar.usuarios') }}"

@@ -30,6 +30,16 @@ Route::get('/programas/ingenieria', 'ProgramasController@ing')->name('programas.
 Route::get('/programas/maestria', 'ProgramasController@maes')->name('programas.maes');
 Route::get('/programas/especialidad', 'ProgramasController@esp')->name('programas.esp');
 Route::get('/programas/doctorado', 'ProgramasController@doc')->name('programas.doc');
+
+Route::get('/programas/licenciaturaenlinea', 'ProgramasController@lcel')->name('programas.lcel');
+Route::get('/programas/maestriaenlinea', 'ProgramasController@Mel')->name('programas.mel');
+Route::get('/programas/especialidadenlinea', 'ProgramasController@Eel')->name('programas.eel');
+Route::get('/programas/bachilleratoenlinea', 'ProgramasController@bachel')->name('programas.bachel');
+Route::get('/programas/cursoenlinea', 'ProgramasController@curso')->name('programas.curso');
+Route::get('/programas/diplomadoenlinea', 'ProgramasController@diplomado')->name('programas.diplomado');
+Route::get('/programas/diplomadobarcelona', 'ProgramasController@diplomadobarcelona')->name('programas.diplomadobarcelona');
+
+
 Route::get('/programas/presencial', 'ProgramasController@prec')->name('programas.prec');
 Route::get('/programas/en-linea', 'ProgramasController@linea')->name('programas.linea');
 Route::get('/programas/{programa}', 'ProgramasController@show')->name('programas.lista');
@@ -78,6 +88,8 @@ Route::get('/MensajesRector/Día del maestro', 'PagesController@Mensaje1505')->n
 Route::get('/MensajesRector/Agosto', 'PagesController@Mensaje0108')->name('blog.Mensaje01-08-2020');
 Route::get('/MensajesRector/Septiembre46Aniversario', 'PagesController@Mensaje0909')->name('blog.Mensaje09-09-2020');
 Route::get('/MensajesRector/Octubre', 'PagesController@Mensaje0510')->name('blog.Mensaje05-10-2020');
+
+Route::get('/MensajesRector/Noviembre', 'PagesController@Mensaje0911')->name('blog.Mensaje09-11-2020');
 Route::get('/Noticias/45aniversario', 'PagesController@NoticiasEventos11')->name('blog.45aniversario');
 Route::get('/Noticias/45aniversario/Pasteles', 'PagesController@Pasteles')->name('blog.Pasteles');
 Route::get('/VozUane/soyuane', 'PagesController@soyuane')->name('blog.soyuane');
@@ -105,8 +117,8 @@ Route::get('/egresados/actualizar-datos', 'PagesController@exauaneRegistro')->na
 Route::view('/interuane', 'layouts.interuane');
 
 //Encuesta
-    Route::get('/encuesta2019', 'EncuestaController@create')->name('encuesta');
-    Route::post('/encuesta2019', 'EncuestaController@store')->name('encuesta.guardar');
+    Route::get('/encuesta2020', 'EncuestaController@create')->name('encuesta');
+    Route::post('/encuesta2020', 'EncuestaController@store')->name('encuesta.guardar');
     Route::get('/confirmacion', 'pagesController@confirmacion')->name('encuesta.confirmar');
 Auth::routes();
 
@@ -235,8 +247,10 @@ Route::group(['prefix' => 'mkt-user', 'namespace' => 'admin', 'middleware' => 'a
     Route::get('/usuarios/MKTBOX/PostFB-EL', 'UsersController@FBEL')->name('usuarios.FBEL');
     Route::get('/usuarios/MKTBOX/TuPuntajeVale', 'UsersController@TuPuntajeVale')->name('usuarios.TuPuntajeVale');
 
+    Route::get('/usuarios/MKTBOX/Firmas correo', 'UsersController@firmas_correo')->name('usuarios.firmas_correo');
     Route::get('/usuarios/MKTBOX/Logotipos', 'UsersController@logotipos')->name('usuarios.logotipos');
     Route::get('/usuarios/MKTBOX/Wallpapers', 'UsersController@Wallpapers')->name('usuarios.Wallpapers');
+    Route::get('/usuarios/MKTBOX/WallpapersE20', 'UsersController@WallpapersE20')->name('usuarios.WallpapersE20');
     Route::get('/usuarios/MKTBOX/Hojas membretadas', 'UsersController@hoja')->name('usuarios.hoja');
     Route::get('/usuarios/MKTBOX/Deportes', 'UsersController@Deportes')->name('usuarios.Deportes');
     Route::get('/usuarios/MKTBOX/Culturales', 'UsersController@Culturales')->name('usuarios.Culturales');
@@ -246,20 +260,20 @@ Route::group(['prefix' => 'mkt-user', 'namespace' => 'admin', 'middleware' => 'a
     Route::get('/usuarios/MKTBOX/OrgullosamenteUANE46', 'UsersController@orgullosamente')->name('usuarios.orgullosamente');
     Route::get('/usuarios/MKTBOX/EXAUANE46', 'UsersController@exauane46')->name('usuarios.exauane46');
      
-    Route::get('/usuarios/MKTBOX/DIT55', 'UsersController@DIT55')->name('usuarios.DIT55');
-    Route::get('/usuarios/MKTBOX/DIT55Oct', 'UsersController@DIT55oct')->name('usuarios.DIT55oct');
-    Route::get('/usuarios/MKTBOX/DIT55MTY', 'UsersController@DIT55mty')->name('usuarios.DIT55mty');
-    Route::get('/usuarios/MKTBOX/DIT55PN', 'UsersController@DIT55pn')->name('usuarios.DIT55pn');
-    Route::get('/usuarios/MKTBOX/Firma55', 'UsersController@Firma55Oct')->name('usuarios.Firma55Oct');
-    Route::get('/usuarios/MKTBOX/Facebook55', 'UsersController@FB55Oct')->name('usuarios.FB55Oct');
-    Route::get('/usuarios/MKTBOX/Instagram55', 'UsersController@Instagram55Oct')->name('usuarios.Instagram55Oct');
-    Route::get('/usuarios/MKTBOX/Mailing55', 'UsersController@Mail55Oct')->name('usuarios.Mail55Oct');
-    Route::get('/usuarios/MKTBOX/WhatsApp55', 'UsersController@WA55Oct')->name('usuarios.WA55Oct');
-    Route::get('/usuarios/MKTBOX/Firma55mty', 'UsersController@Firma55mty')->name('usuarios.Firma55mty');
-    Route::get('/usuarios/MKTBOX/Facebook55mty', 'UsersController@FB55mty')->name('usuarios.FB55mty');
-    Route::get('/usuarios/MKTBOX/Instagram55mty', 'UsersController@Instagram55mty')->name('usuarios.Instagram55mty');
-    Route::get('/usuarios/MKTBOX/Mailing55mty', 'UsersController@Mail55mty')->name('usuarios.Mail55mty');
-    Route::get('/usuarios/MKTBOX/WhatsApp55mty', 'UsersController@WA55mty')->name('usuarios.WA55mty');
+    Route::get('/usuarios/MKTBOX/DIT50', 'UsersController@DIT55')->name('usuarios.DIT55');
+    Route::get('/usuarios/MKTBOX/DIT50E', 'UsersController@DIT55oct')->name('usuarios.DIT55oct');
+    Route::get('/usuarios/MKTBOX/DIT50MTYE', 'UsersController@DIT55mty')->name('usuarios.DIT55mty');
+    Route::get('/usuarios/MKTBOX/BuenFin', 'UsersController@DIT55pn')->name('usuarios.DIT55pn');
+    Route::get('/usuarios/MKTBOX/Firma50E', 'UsersController@Firma55Oct')->name('usuarios.Firma55Oct');
+    Route::get('/usuarios/MKTBOX/Facebook50E', 'UsersController@FB55Oct')->name('usuarios.FB55Oct');
+    Route::get('/usuarios/MKTBOX/Instagram50E', 'UsersController@Instagram55Oct')->name('usuarios.Instagram55Oct');
+    Route::get('/usuarios/MKTBOX/Mailing50E', 'UsersController@Mail55Oct')->name('usuarios.Mail55Oct');
+    Route::get('/usuarios/MKTBOX/WhatsApp50E', 'UsersController@WA55Oct')->name('usuarios.WA55Oct');
+    Route::get('/usuarios/MKTBOX/Firma50mtyE', 'UsersController@Firma55mty')->name('usuarios.Firma55mty');
+    Route::get('/usuarios/MKTBOX/Facebook50mtyE', 'UsersController@FB55mty')->name('usuarios.FB55mty');
+    Route::get('/usuarios/MKTBOX/Instagram50mtyE', 'UsersController@Instagram55mty')->name('usuarios.Instagram55mty');
+    Route::get('/usuarios/MKTBOX/Mailing50mtyE', 'UsersController@Mail55mty')->name('usuarios.Mail55mty');
+    Route::get('/usuarios/MKTBOX/WhatsApp50mtyE', 'UsersController@WA55mty')->name('usuarios.WA55mty');
     Route::get('/usuarios/MKTBOX/Firma55pn', 'UsersController@Firma55pn')->name('usuarios.Firma55pn');
     Route::get('/usuarios/MKTBOX/Facebook55pn', 'UsersController@FB55pn')->name('usuarios.FB55pn');
     Route::get('/usuarios/MKTBOX/Instagram55pn', 'UsersController@Instagram55pn')->name('usuarios.Instagram55pn');
@@ -271,6 +285,70 @@ Route::group(['prefix' => 'mkt-user', 'namespace' => 'admin', 'middleware' => 'a
     Route::get('/usuarios/MKTBOX/Instagram', 'UsersController@Instagram50Sep')->name('usuarios.Instagram50Sep');
     Route::get('/usuarios/MKTBOX/Mailing', 'UsersController@Mail50Sep')->name('usuarios.Mail50Sep');
     Route::get('/usuarios/MKTBOX/WhatsApp', 'UsersController@WA50Sep')->name('usuarios.WA50Sep');
+
+
+    Route::get('/usuarios/MKTBOX/DIT70D', 'UsersController@DIT70D')->name('usuarios.DIT70D');
+    Route::get('/usuarios/MKTBOX/Firma70D', 'UsersController@Firma70D')->name('usuarios.Firma70D');
+    Route::get('/usuarios/MKTBOX/Facebook70D', 'UsersController@FB70D')->name('usuarios.FB70D');
+    Route::get('/usuarios/MKTBOX/Instagram70D', 'UsersController@Instagram70D')->name('usuarios.Instagram70D');
+    Route::get('/usuarios/MKTBOX/Mailing70D', 'UsersController@Mail70D')->name('usuarios.Mail70D');
+    Route::get('/usuarios/MKTBOX/WhatsApp70D', 'UsersController@WA70D')->name('usuarios.WA70D');
+
+    Route::get('/usuarios/MKTBOX/DIT70DA', 'UsersController@DIT70DA')->name('usuarios.DIT70DA');
+    Route::get('/usuarios/MKTBOX/Firma70DA', 'UsersController@Firma70DA')->name('usuarios.Firma70DA');
+    Route::get('/usuarios/MKTBOX/Facebook70DA', 'UsersController@FB70DA')->name('usuarios.FB70DA');
+    Route::get('/usuarios/MKTBOX/Instagram70DA', 'UsersController@Instagram70DA')->name('usuarios.Instagram70DA');
+    Route::get('/usuarios/MKTBOX/Mailing70DA', 'UsersController@Mail70DA')->name('usuarios.Mail70DA');
+    Route::get('/usuarios/MKTBOX/WhatsApp70DA', 'UsersController@WA70DA')->name('usuarios.WA70DA');
+
+
+    Route::get('/usuarios/MKTBOX/DIT50PP', 'UsersController@DIT50PP')->name('usuarios.DIT50PP');
+    Route::get('/usuarios/MKTBOX/Firma50PP', 'UsersController@Firma50PP')->name('usuarios.Firma50PP');
+    Route::get('/usuarios/MKTBOX/Facebook50PP', 'UsersController@FB50PP')->name('usuarios.FB50PP');
+    Route::get('/usuarios/MKTBOX/Instagram50PP', 'UsersController@Instagram50PP')->name('usuarios.Instagram50PP');
+    Route::get('/usuarios/MKTBOX/Mailing50PP', 'UsersController@Mail50PP')->name('usuarios.Mail50PP');
+    Route::get('/usuarios/MKTBOX/WhatsApp50PP', 'UsersController@WA50PP')->name('usuarios.WA50PP');
+
+    Route::get('/usuarios/MKTBOX/DIT50PL', 'UsersController@DIT50PL')->name('usuarios.DIT50PL');
+    Route::get('/usuarios/MKTBOX/Firma50PL', 'UsersController@Firma50PL')->name('usuarios.Firma50PL');
+    Route::get('/usuarios/MKTBOX/Facebook50PL', 'UsersController@FB50PL')->name('usuarios.FB50PL');
+    Route::get('/usuarios/MKTBOX/Instagram50PL', 'UsersController@Instagram50PL')->name('usuarios.Instagram50PL');
+    Route::get('/usuarios/MKTBOX/Mailing50PL', 'UsersController@Mail50PL')->name('usuarios.Mail50PL');
+    Route::get('/usuarios/MKTBOX/WhatsApp50PL', 'UsersController@WA50PL')->name('usuarios.WA50PL');
+
+
+    Route::get('/usuarios/MKTBOX/DIT55D', 'UsersController@DIT55D')->name('usuarios.DIT55D');
+    Route::get('/usuarios/MKTBOX/DIT55DIC', 'UsersController@DIT55DIC')->name('usuarios.DIT55DIC');
+    Route::get('/usuarios/MKTBOX/Firma55D', 'UsersController@Firma55D')->name('usuarios.Firma55D');
+    Route::get('/usuarios/MKTBOX/Facebook55D', 'UsersController@FB55D')->name('usuarios.FB55D');
+    Route::get('/usuarios/MKTBOX/Instagram55D', 'UsersController@Instagram55D')->name('usuarios.Instagram55D');
+    Route::get('/usuarios/MKTBOX/Mailing55D', 'UsersController@Mail55D')->name('usuarios.Mail55D');
+    Route::get('/usuarios/MKTBOX/WhatsApp55D', 'UsersController@WA55D')->name('usuarios.WA55D');
+    Route::get('/usuarios/MKTBOX/DIT55DICM', 'UsersController@DIT55DICM')->name('usuarios.DIT55DICM');
+    Route::get('/usuarios/MKTBOX/Firma55DM', 'UsersController@Firma55DM')->name('usuarios.Firma55DM');
+    Route::get('/usuarios/MKTBOX/Facebook55DM', 'UsersController@FB55DM')->name('usuarios.FB55DM');
+    Route::get('/usuarios/MKTBOX/Instagram55DM', 'UsersController@Instagram55DM')->name('usuarios.Instagram55DM');
+    Route::get('/usuarios/MKTBOX/Mailing55DM', 'UsersController@Mail55DM')->name('usuarios.Mail55DM');
+    Route::get('/usuarios/MKTBOX/WhatsApp55DM', 'UsersController@WA55DM')->name('usuarios.WA55DM');
+    
+
+    Route::get('/usuarios/MKTBOX/FirmaBF', 'UsersController@FirmaBF')->name('usuarios.FirmaBF');
+    Route::get('/usuarios/MKTBOX/FacebookBF', 'UsersController@FBBF')->name('usuarios.FBBF');
+    Route::get('/usuarios/MKTBOX/InstagramBF', 'UsersController@InstagramBF')->name('usuarios.InstagramBF');
+    Route::get('/usuarios/MKTBOX/MailingBF', 'UsersController@MailBF')->name('usuarios.MailBF');
+    Route::get('/usuarios/MKTBOX/WhatsAppBF', 'UsersController@WABF')->name('usuarios.WABF');
+
+    Route::get('/usuarios/MKTBOX/Firma55NOV', 'UsersController@Firma55NOV')->name('usuarios.Firma55NOV');
+    Route::get('/usuarios/MKTBOX/Facebook55NOV', 'UsersController@FB55NOV')->name('usuarios.FB55NOV');
+    Route::get('/usuarios/MKTBOX/Instagram55NOV', 'UsersController@Instagram55NOV')->name('usuarios.Instagram55NOV');
+    Route::get('/usuarios/MKTBOX/Mailing55NOV', 'UsersController@Mail55NOV')->name('usuarios.Mail55NOV');
+    Route::get('/usuarios/MKTBOX/WhatsApp55NOV', 'UsersController@WA55NOV')->name('usuarios.WA55NOV');
+
+    Route::get('/usuarios/MKTBOX/FirmaMTY55NOV', 'UsersController@FirmaMTY55NOV')->name('usuarios.FirmaMTY55NOV');
+    Route::get('/usuarios/MKTBOX/FacebookMTY55NOV', 'UsersController@FBMTY55NOV')->name('usuarios.FBMTY55NOV');
+    Route::get('/usuarios/MKTBOX/InstagramMTY55NOV', 'UsersController@InstagramMTY55NOV')->name('usuarios.InstagramMTY55NOV');
+    Route::get('/usuarios/MKTBOX/MailingMTY55NOV', 'UsersController@MailMTY55NOV')->name('usuarios.MailMTY55NOV');
+    Route::get('/usuarios/MKTBOX/WhatsAppMTY55NOV', 'UsersController@WAMTY55NOV')->name('usuarios.WAMTY55NOV');
  
     //Route::get('/usuarios/MKTBOX/DIT70Mty', 'UsersController@carpeta70Mty')->name('usuarios.carpeta70Mty');
     //Route::get('/usuarios/MKTBOX/Banner 70 Mty', 'UsersController@banner70Mty')->name('usuarios.banner70Mty');
@@ -285,8 +363,8 @@ Route::group(['prefix' => 'mkt-user', 'namespace' => 'admin', 'middleware' => 'a
     Route::get('/usuarios/crear', 'UsersController@create')->name('crear.usuario');
     //Route::get('/usuarios/mostrar/{usuario}', 'UsersController@show')->name('mostrar.usuarios');
     Route::get('/usuarios/editar/{usuario}', 'UsersController@edit')->name('editar.usuarios');
-    Route::get('/encuesta2019', 'UsersController@lista_encuesta')->name('reporte');
-    Route::get('/encuesta2019/exportar', 'UsersController@exportar')->name('exportar.reporte');
+    Route::get('/encuesta2020', 'UsersController@lista_encuesta')->name('reporte');
+    Route::get('/encuesta2020/exportar', 'UsersController@exportar')->name('exportar.reporte');
 
 
     Route::post('/usuarios/crear', 'UsersController@store')->name('guardar.usuario');

@@ -223,6 +223,7 @@
                                 </select>
                             </div>
                         </div>
+
                         {{-- ResponsableHijos --}} 
                         <div class="section">       
                             <label class="col-sm-12 form-control-label">4.2   ¿Quién se responsabiliza económicamente de tu(s) hijo(s)?</label>
@@ -230,6 +231,8 @@
                                     <select class="sinborde" name="responsabiliza _económicamente"
                                     data-placeholder="Elíge una opción">
                                     <option label="Elíge una opción"></option>
+                                    <option {{ old('responsabiliza _económicamente') == 'No tengo hijos' ? 'selected' : '' }}
+                                        value="No tengo hijos">No tengo hijos</option>
                                     <option {{ old('responsabiliza _económicamente') == 'Yo' ? 'selected' : '' }}
                                         value="Yo">Yo</option>
                                     <option {{ old('responsabiliza _económicamente') == 'pareja' ? 'selected' : '' }}
@@ -252,21 +255,44 @@
                         class="sinborde" placeholder="Respuesta">
                          </div>
                         </div>
+
                         {{-- Ciudad --}}
                         <div class="section">
-                        <label class="col-sm-4 form-control-label">4. Ciudad en la que vives</label>
-                            <div class="col-sm-8 mg-t-10 mg-sm-t-0">
-                                <input  value="{{ old('ciudad') }}" name="ciudad"
-                                    class="sinborde" placeholder="Ciudad en la que vives">
+                        <label class="col-sm-12 form-control-label">6.   ¿Quién se encarga mayormente de los gastos del hogar?</label>
+                        <div class="col-sm-12 mg-t-10 mg-sm-t-0">
+                                    <select class="sinborde" name="encarga_gastos"
+                                    data-placeholder="Elíge una opción">
+                                    <option label="Elíge una opción"></option>
+                                    <option {{ old('encarga_gastos') == 'Padre' ? 'selected' : '' }}
+                                        value="Padre">Padre</option>
+                                    <option {{ old('encarga_gastos') == 'Madre' ? 'selected' : '' }}
+                                        value="Madre">Madre</option>
+                                    <option {{ old('encarga_gastos') == 'Yo' ? 'selected' : '' }}
+                                        value="Yo">Yo</option>
+                                    <option {{ old('encarga_gastos') == 'Tutor' ? 'selected' : '' }}
+                                        value="Tutor">Tutor</option>
+                                    <option {{ old('encarga_gastos') == 'Amigo' ? 'selected' : '' }}
+                                        value="Amigo">Amigo</option>
+                                    <option {{ old('encarga_gastos') == 'Pareja' ? 'selected' : '' }}
+                                        value="Pareja">Pareja</option>                                    
+                                    <option {{ old('encarga_gastos') == 'OtroFamiliar' ? 'selected' : '' }}
+                                        value="OtroFamiliar">Otro Familiar</option>                                                                                       
+                                </select>
                             </div>
                         </div>
-                        {{-- Codigo postal --}}
+                        {{-- Trabajo --}}
                         <div class="section">
-                        <label class="col-sm-4 form-control-label">5. Código postal</label>
-                        <div class="col-sm-8 mg-t-10 mg-sm-t-0">
-                            <input type="text" value="{{ old('codigo_postal') }}" name="codigo_postal"
-                                class="sinborde" placeholder="Código postal">
-                        </div>
+                        <label class="col-sm-4 form-control-label">7.   ¿Trabajas Actualmente?</label>
+                        <div class="col-sm-12 mg-t-10 mg-sm-t-0">
+                                    <select class="sinborde" name="trabajas"
+                                    data-placeholder="Elíge una opción">
+                                    <option label="Elíge una opción"></option>
+                                    <option {{ old('trabajas') == 'Si' ? 'selected' : '' }}
+                                        value="Si">Sí</option>
+                                    <option {{ old('trabajas') == 'No' ? 'selected' : '' }}
+                                        value="No">No</option>                                                                                       
+                                </select>
+                            </div>
                     </div>
                         {{-- Pregunta 6 --}}
                         <div class="section">

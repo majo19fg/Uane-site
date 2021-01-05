@@ -79,13 +79,20 @@
                 <div class="megamenu-row">
                   <div class="col4">
                     <ul class="list-unstyled list-dashed">
-                      <h4><a href="{{ route('programas.index') }}">Tipos de Programas</a></h4>
+                      <h4><a href="">Tipos de Programas</a></h4>
                       <li><a href="{{ route('programas.bach') }}">Bachillerato</a></li>
                       <li><a href="{{ route('programas.lic') }}">Licenciatura</a></li>
                       <li><a href="{{ route('programas.ing') }}">Ingenieria</a></li>
                       <li><a href="{{ route('programas.maes') }}">Maestría</a></li>
                       <li><a href="{{ route('programas.esp') }}">Especialidad</a></li>
                       <li><a href="{{ route('programas.doc') }}">Doctorado</a></li>
+                      <li><a href="{{ route('programas.bachel') }}">Bachillerato en Línea</a></li>
+                      <li><a href="{{ route('programas.lcel') }}">Licenciatura en Línea</a></li>
+                      <li><a href="{{ route('programas.mel') }}">Maestría en Línea</a></li>
+                      <li><a href="{{ route('programas.eel') }}">Especialidad en Línea</a></li>
+                      <li><a href="{{ route('programas.curso') }}">Cursos en Línea</a></li>
+                      <li><a href="{{ route('programas.diplomado') }}">Diplomados  en Línea</a></li>
+                      <li><a href="{{ route('programas.diplomadobarcelona') }}">Diplomados Barcelona</a></li>
                     </ul>
                   </div>
                   <div class="col4">
@@ -220,8 +227,8 @@
             <li class="{{ request()->is('egresados') ? 'active' : '' }} {{ request()->is('egresados/actualizar-datos') ? 'active' : '' }}"><a href="{{ route('exauane') }}">ExaUANE</a></li>
             <li><a href="#">Vida universitaria</a>
               <ul class="dropdown">
-               <!-- <li><a href="{{ route('aniversario') }}">Eventos Aniversario</a></li>-->
-               <!-- <li><a href="{{ route('investigacion') }}">Investigación</a></li>-->
+               <li><a href="{{ route('aniversario') }}">Eventos Aniversario</a></li>
+               <li><a href="{{ route('investigacion') }}">Investigación</a></li>
                 <li><a href="{{ route('vozuane') }}">Voz Uane</a></li>
                 <li><a href="{{ route('blog.noticias') }}">Noticias</a></li>
                 <li><a href="{{ route('blog.MensajesRector') }}">Mensaje del Rector</a></li>

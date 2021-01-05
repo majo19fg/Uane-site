@@ -40,28 +40,28 @@
                       </tfoot>
                       <tbody>
                         <tr>
-                          <td><a href="{{ route('usuarios.Firma55Oct') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.Firma55Oct') }}">Firma</a></th>
+                          <td><a href="{{ route('usuarios.Firma55NOV') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.Firma55NOV') }}">Firma</a></th>
                           <td>1 elemento</td>
                         </tr>
                         <tr>
-                          <td><a href="{{ route('usuarios.FB55Oct') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.FB55Oct') }}">Facebook</a></th>
+                          <td><a href="{{ route('usuarios.FB55NOV') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.FB55NOV') }}">Facebook</a></th>
                           <td>1 elemento</td>
                         </tr>
                         <tr>
-                          <td><a href="{{ route('usuarios.Instagram55Oct') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.Instagram55Oct') }}">Instagram</a></th>
+                          <td><a href="{{ route('usuarios.Instagram55NOV') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.Instagram55NOV') }}">Instagram</a></th>
                           <td>2 elemento</td>
                         </tr>
                         <tr>
-                          <td><a href="{{ route('usuarios.Mail55Oct') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.Mail55Oct') }}">Mailing</a></th>
+                          <td><a href="{{ route('usuarios.Mail55NOV') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.Mail55NOV') }}">Mailing</a></th>
                           <td>1 elemento</td>
                         </tr>
                         <tr>
-                          <td><a href="{{ route('usuarios.WA55Oct') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.WA55Oct') }}">WhatsApp</a></th>
+                          <td><a href="{{ route('usuarios.WA55NOV') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.WA55NOV') }}">WhatsApp</a></th>
                           <td>1 elemento</td>
                         </tr>
                       </tbody>

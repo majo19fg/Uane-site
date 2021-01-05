@@ -6,7 +6,7 @@
 
 @section('content')
    <!-- Section: inner-header -->
-    <section class="inner-header divider" data-bg-img="/multi/images/banners/separados.jpg">
+    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="/multi/images/banners/46banner.jpg">
       <div class="container pt-70 pb-20">
         <!-- Section Content -->
         <div class="section-content">
@@ -31,9 +31,9 @@
           <div class="row">
             <div class="col-md-6">
               <h6 class="letter-space-4 text-gray-darkgray text-uppercase mt-0 mb-0"></h6>
-              <h2 class="text-uppercase font-weight-600 mt-0 font-28 line-bottom">45 años transformando vidas</h2>
+              <h2 class="text-uppercase font-weight-600 mt-0 font-28 line-bottom">46 años transformando vidas</h2>
               {{-- <h4 class="text-theme-colored">Lorem ipsum dolor sit amet soluta saepe odit error, maxime praesentium sunt udiandae!</h4> --}}
-              <p align="justify">Hace 45 años, un grupo de personas tuvieron una visión de formar una Universidad cuyo principio fundamental era generar oportunidades para una educación superior de calidad para las personas que se encontraban inmersas en el campo laboral. Con base en este compromiso social, fue que en 1974 se iniciaron las primeras clases en UANE dando a todos los fundadores una experiencia gratificante y a la vez extenuante, ya que el crecimiento se presentó de forma acelerada.</p>
+              <p align="justify">Hace 46 años, un grupo de personas tuvieron una visión de formar una Universidad cuyo principio fundamental era generar oportunidades para una educación superior de calidad para las personas que se encontraban inmersas en el campo laboral. Con base en este compromiso social, fue que en 1974 se iniciaron las primeras clases en UANE dando a todos los fundadores una experiencia gratificante y a la vez extenuante, ya que el crecimiento se presentó de forma acelerada.</p>
              <p>Actualmente UANE es una universidad con más de 10,500 estudiantes, más de 45,000 egresados en los niveles de bachillerato, licenciatura y postgrado, además de 8 campus en 3 estados de la república mexicana y seguimos expandiéndonos por todo México con nuestro nuevo programa de “Educación en línea”.</p>
             </div>
             <div class="col-md-6">

@@ -81,9 +81,9 @@
                                   <option  value="Licenciatura En Línea">Licenciatura En Línea</option>
                                   <option  value="Maestría En Línea">Maestría En Línea</option>
                                   <option  value="Especialidad En Línea">Especialidad En Línea</option>
-                                <!--  <option  value="Curso En Línea">Curso En Línea</option>
+                                <option  value="Curso En Línea">Curso En Línea</option>
                                   <option  value="Diplomado En Línea">Diplomado En Línea</option>
-                                  <option  value="Diplomado Barcelona">Diplomado Barcelona</option>-->
+                                  <option  value="Diplomado Barcelona">Diplomado Barcelona</option>
                             </select>
                         </div>
                       </div>
@@ -313,39 +313,39 @@
                             {{--  --}}
 
                             {{-- En línea --}}
-                            <optgroup class="BachEL">
-                              @foreach ($BachEL as $programa)
-                                  <option value="{{ $programa->title }}">{{ $programa->title }}</option>
+                            <optgroup class="BachEL" label="Bachillerato en Línea">
+                              @foreach ($BachEL as $tipoPrograma_id)
+                                  <option value="{{ $tipoPrograma_id->title }}">{{ $tipoPrograma_id->title }}</option>
                               @endforeach
                           </optgroup>
-                            <optgroup class="LicEL">
-                              @foreach ($LicEL as $programa)
-                                  <option value="{{ $programa->title }}">{{ $programa->title }}</option>
+                            <optgroup class="LicEL" label="Licenciaturas en Línea">
+                              @foreach ($LicEL as $tipoPrograma_id)
+                                  <option value="{{ $tipoPrograma_id->title }}">{{ $tipoPrograma_id->title }}</option>
                               @endforeach
                           </optgroup>
-                          <optgroup class="MEL">
-                            @foreach ($MEL as $programa)
-                                <option value="{{ $programa->title }}">{{ $programa->title }}</option>
+                          <optgroup class="MEL" label="Maestrías en Línea">
+                            @foreach ($MEL as $tipoPrograma_id)
+                                <option value="{{ $tipoPrograma_id->title }}">{{ $tipoPrograma_id->title }}</option>
                             @endforeach
                         </optgroup>
-                        <optgroup class="EEL">
-                          @foreach ($EEL as $programa)
-                              <option value="{{ $programa->title }}">{{ $programa->title }}</option>
+                        <optgroup class="EEL" label="Especialidad en Línea">
+                          @foreach ($EEL as $tipoPrograma_id)
+                              <option value="{{ $tipoPrograma_id->title }}">{{ $tipoPrograma_id->title }}</option>
                           @endforeach
                       </optgroup>
-                      <optgroup class="Curso">
-                        @foreach ($Curso as $programa)
-                            <option value="{{ $programa->title }}">{{ $programa->title }}</option>
+                      <optgroup class="Curso" label="Cursos en Línea">
+                        @foreach ($Curso as $tipoPrograma_id)
+                            <option value="{{ $tipoPrograma_id->title }}">{{ $tipoPrograma_id->title }}</option>
                         @endforeach
                     </optgroup>
-                    <optgroup class="Diplomado">
-                      @foreach ($Diplomado as $programa)
-                          <option value="{{ $programa->title }}">{{ $programa->title }}</option>
+                 <optgroup class="Diplomado" label="Diplomados en Línea">
+                      @foreach ($Diplomado as $tipoPrograma)
+                          <option value="{{ $tipoPrograma->title }}">{{ $tipoPrograma->title }}</option>
                       @endforeach
                   </optgroup>
-                  <optgroup class="DiplomadoBarcelona">
-                    @foreach ($DiplomadoBarcelona as $programa)
-                        <option value="{{ $programa->title }}">{{ $programa->title }}</option>
+                  <optgroup class="DiplomadoBarcelona" label="Diplomados Barcelona">
+                    @foreach ($DiplomadoBarcelona as $tipoPrograma)
+                        <option value="{{ $tipoPrograma->title }}">{{ $tipoPrograma->title }}</option>
                     @endforeach
                 </optgroup>
 

@@ -2,7 +2,7 @@
 @section('title', 'Empleabilidad') 
 @section('content')
 <!-- Section: inner-header -->
-<section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="/multi/images/banners/separados.jpg">
+<section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="/multi/images/banners/46banner.jpg">
     <div class="container pt-70 pb-20">
         <!-- Section Content -->
         <div class="section-content">
@@ -30,7 +30,7 @@
                     <h2 class="text-uppercase font-weight-600 mt-0 font-28 line-bottom">Empleabilidad</h2>
                     {{--
                     <h4 class="text-theme-colored">Lorem ipsum dolor sit amet soluta saepe odit error, maxime praesentium sunt udiandae!</h4> --}}
-                    <p align="justify">La Universidad Autónoma del Noreste es una prestigiada institución académica, cuyo trabajo está centrado en la calidad que nos permite aportar profesionistas que mejoren su entorno productivo. </br> Durante <b>45 años de experiencia</b> en el sector educativo hemos egresado más de 45 mil personas, que acorde a nuestra misión son ejemplares y comprometidas con su futuro. En UANE creemos que el trabajo requiere no solo competencias técnicas sino también habilidades que permiten afrontar los retos del futuro. </br>Como Universidad sabemos que el mercado laboral es dinámico, cambia, incluso hoy podemos decir que estamos preparando a jóvenes profesionistas para desempeñarse en trabajos que aún no existen y ante problemas que no se han presentado.</p>
+                    <p align="justify">La Universidad Autónoma del Noreste es una prestigiada institución académica, cuyo trabajo está centrado en la calidad que nos permite aportar profesionistas que mejoren su entorno productivo. </br> Durante <b>46 años de experiencia</b> en el sector educativo hemos egresado más de 49 mil personas, que acorde a nuestra misión son ejemplares y comprometidas con su futuro. En UANE creemos que el trabajo requiere no solo competencias técnicas sino también habilidades que permiten afrontar los retos del futuro. </br>Como Universidad sabemos que el mercado laboral es dinámico, cambia, incluso hoy podemos decir que estamos preparando a jóvenes profesionistas para desempeñarse en trabajos que aún no existen y ante problemas que no se han presentado.</p>
                     <p align="justify">La empleabilidad es la principal expectativa de quien deposita en nosotros sus aspiraciones, debemos siempre desarrollar alianzas, estrategias y pasos firmes para asegurar la inserción de nuestros alumnos en el mercado productivo. </br>Reconocemos la importancia de trabajar en las siguientes estrategias:</p>
                     
                     <ul class="list theme-colored circle-double-right">
@@ -44,13 +44,61 @@
                    
                  <p align="justify">Durante este semestre UANE ha impactado, mediante muchas actividades, el desarrollo de competencias y habilidades útiles para la empleabilidad. Desde jornadas de actualización, ferias de empleo y proyectos emprendedores por mencionar solo algunos. </br>Hemos firmado nuevos convenios de vinculación profesional en todas las ciudades en que tenemos presencia, tanto en el noreste como a nivel nacional e internacional, así como el establecimiento de mecanismos que impulsen la colocación de nuestros egresados. <b>Llegó el momento. </b></p>
                  <br/>
-                 <div class="col-md-12">
+                  <h4 align="justify"><img src="{{ asset('/multi/images/acierto.png') }}"/> <b> Infografías de prácticas profesionales y técnicas didácticas. Da clic a  la imagen para más información. </b></h4></li>
+                 <div class="col-md-6">
                   <div class="gallery2">
                 <div align="center"><a href="{{ asset('/multi/pdf/Infografía prácticas profesionales.pdf') }}"><img src="{{ asset('/multi/images/practicas-profesionales/practicas.jpg') }}"/></a>
                 </div>
               </div>
             </div>
+            <div class="col-md-6">
+              <div class="gallery2">
+            <div><a href="{{ asset('/multi/pdf/PP infografía 2020.pdf') }}"><img src="{{ asset('/multi/images/practicas-profesionales/practicas2020.jpg') }}"/></a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="gallery2">
+        <div align="center"><a href="{{ asset('/multi/pdf/Infografìa 4TD 2019 para pagina oficial..pdf') }}"><img src="{{ asset('/multi/images/practicas-profesionales/4dt2019.jpg') }}"/></a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="gallery2">
+    <div><a href="{{ asset('/multi/pdf/Infografìa 4TD 2020 para pagina oficial..pdf') }}"><img src="{{ asset('/multi/images/practicas-profesionales/4dt2020.jpg') }}"/></a>
+    </div>
+  </div>
+</div>
+        <br/>
+        <h4 align="justify"><img src="{{ asset('/multi/images/acierto.png') }}"/><b> Descarga las plantillas para Curriculum Vitae. Da clic sobre la imagen. </b></h4>
+
+        <div class="col-md-4">
+         <div class="gallery">
+             <div><a href="{{ asset('/multi/pdf/Plantilla CV1.docx') }}"><img src="{{ asset('/multi/images/campus/CV.jpg') }}"id=CV1 /></a>
+           </div>
+         </div>  
+     </div>  
+     <!--<div class="col-md-4">
+             <div class="gallery">
+           <div align="center"><a href="{{ asset('/multi/pdf/INFORME POR DIMENSIONES.pdf') }}"><img src="{{ asset('/multi/images/campus/Fotos de campus-13.png') }}" width="250px" height="250px"id=informe1 /></a>
+           </div>
+         </div>
+       </div>-->
+       <div class="col-md-4">
+         <div class="gallery">
+       <div align="center"><a href="{{ asset('/multi/pdf/CV 2 en ingles.docx') }}"><img src="{{ asset('/multi/images/campus/CV1.jpg') }}"id=CV2 /></a>
+       </div>
+     </div>
+   </div>
+      <div class="col-md-4">
+         <div class="gallery">
+       <div align="center"><a href="{{ asset('/multi/pdf/Plantilla CV3.docx') }}"><img src="{{ asset('/multi/images/campus/CV2.jpg') }}"id=CV3 /></a>
+       </div>
+     </div>
+   </div>
+   <br/>
             <br/>
+            <h4 align="justify"><img src="{{ asset('/multi/images/acierto.png') }}"/><b>Informes de empleabilidad. Da clic a  la imagen para más información. </b></h4>
                  <div class="col-md-4">
                   <div class="gallery">
                       <div><a href="{{ asset('/multi/pdf/RESULTADOS CURSOS JUNIO 2019.pdf') }}"><img src="{{ asset('/multi/images/campus/Experiencias laborales.jpg') }}"width="250px" height="250px"id=experiencias1 /></a>
@@ -75,9 +123,10 @@
                 </div>
               </div>
             </div>
+
                 </div>
                 </div>
-                 <p align="justify"><b>Da clic sobre el Campus de tu preferencia para más información.</b></p>
+                 <h4 align="justify"><img src="{{ asset('/multi/images/acierto.png') }}"/><b>Da clic sobre el campus de tu preferencia para más información de empleabilidad.</b></h4>
             <div class="col-md-4">
                 <div class="gallery">
                     <div><a href="{{ asset('/multi/pdf/INFORME CAMPUS SALTILLO.pdf') }}" onMouseOver="cambiar();" onMouseOut="volver();"><img src="{{ asset('/multi/images/campus/uane-saltillo.jpg') }}" width="250px" height="250px"id=saltillo1 /></a> 

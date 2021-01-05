@@ -41,19 +41,19 @@
                       <tbody>
                         <tr>
                           <td><a href="{{ route('usuarios.DIT55oct') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.DIT55oct') }}">DIT 55 Octubre</a></th>
+                          <th><a href="{{ route('usuarios.DIT55oct') }}">DIT 50 Enero</a></th>
                           <td>5 elementos</td>
                         </tr>
                         <tr>
                           <td><a href="{{ route('usuarios.DIT55mty') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.DIT55mty') }}">DIT 55 Octubre Monterrey</a></th>
+                          <th><a href="{{ route('usuarios.DIT55mty') }}">DIT 50 Enero Monterrey</a></th>
                           <td>5 elementos</td>
                         </tr>
-                        <tr>
+                       <!-- <tr>
                           <td><a href="{{ route('usuarios.DIT55pn') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
                           <th><a href="{{ route('usuarios.DIT55pn') }}">DIT 55 Octubre Piedras Negras</a></th>
                           <td>5 elementos</td>
-                        </tr>
+                        </tr>-->
                       </tbody>
                     </table>
                        

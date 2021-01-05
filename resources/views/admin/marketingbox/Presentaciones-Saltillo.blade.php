@@ -42,10 +42,16 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ETEk6LRJ_phPrIfFTgWbxDkBGL3hIYn1fuR_8pJxnqM6Og?e=ZHMx7v">UANE - Oferta Educativa Saltillo - Bachillerato.pdf</a></th>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ETEk6LRJ_phPrIfFTgWbxDkBGL3hIYn1fuR_8pJxnqM6Og?e=5T9PMj">UANE - Oferta Educativa Saltillo - Bachillerato.pdf</a></th>
                                       <td>21 de Febrero</td>
                                       <td>5.6 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ETEk6LRJ_phPrIfFTgWbxDkBGL3hIYn1fuR_8pJxnqM6Og?e=ZHMx7v"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ETEk6LRJ_phPrIfFTgWbxDkBGL3hIYn1fuR_8pJxnqM6Og?e=5T9PMj"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                    </tr>
+                                    <tr>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ee0Qw1XVb1NOgG050pU_BsEBpFeTvZ9ZekUzvRpcO7Mj0A?e=U1Kyui">UANE - Oferta Educativa Saltillo - Bachillerato 2021.pdf</a></th>
+                                      <td>10 de Noviembre</td>
+                                      <td>5.6 MB</td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ee0Qw1XVb1NOgG050pU_BsEBpFeTvZ9ZekUzvRpcO7Mj0A?e=U1Kyui"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                     <tr>
                                         <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EVzO7QXU165Nl0osbYbAPtgBa7LdeeRrWD6lgTV6cH21Nw?e=OuKE0w">UANE - Oferta Educativa Saltillo - Empresas.pdf</a></th>

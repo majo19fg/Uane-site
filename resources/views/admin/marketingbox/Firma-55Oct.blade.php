@@ -42,10 +42,10 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ER-6Byf851lGm7SXfhemH_UBfA0Dgl9ymcFjF4yOSzxoIQ?e=kNhc7d">Firma DIT 55% Octubre.jpg</a></th>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EQ44Wlg-si5Onqt-WxDRvSIB1mPtMFkxeydP7Tk8W7Y4FA?e=2BlGTQ">Firma DIT 55% Octubre.jpg</a></th>
                                         <td>1 de Octubre</td>
                                         <td>221 KB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ER-6Byf851lGm7SXfhemH_UBfA0Dgl9ymcFjF4yOSzxoIQ?e=kNhc7d"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EQ44Wlg-si5Onqt-WxDRvSIB1mPtMFkxeydP7Tk8W7Y4FA?e=2BlGTQ"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                   </tbody>
                                 </table>

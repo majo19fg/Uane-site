@@ -27,7 +27,7 @@
     
     <div class="row">
         <div class="col-md-6">
-            <h6 class="br-section-label">Respuestas Encuesta de Medios 2019</h6>
+            <h6 class="br-section-label">Respuestas Encuesta de Medios 2020</h6>
         </div>
         <div class="col-md-6">
             <a href="{{ route('exportar.reporte') }}" class="btn btn-primary btn-block tx-15 tx-uppercase pd-y-12 pd-x-25 tx-mont tx-large" >Exportar tabla a excel</a>
@@ -39,21 +39,28 @@
       <table id="datatable1" class="table display responsive nowrap" style="width:100%;">
         <thead>
           <tr>
+            <th class="wd-15p">Id</th>
+            <th class="wd-15p">Email</th>
             <th class="wd-15p">Matricula</th>
-            <th class="wd-15p">Campus</th>
-            <th class="wd-15p">Sexo</th>
+            <th class="wd-15p">Modalidad</th>
             <th class="wd-15p">Edad</th>
             <th class="wd-15p">Ciudad</th>
+            <th class="wd-15p">Campus</th>
+            <th class="wd-15p">Sexo</th>
           </tr>
         </thead>
         <tbody>
         @foreach ($encuestas as $encuestas)
           <tr >
+              <td>{{ $encuestas->id }}</td>
+              <td>{{ $encuestas->email }}</td>
               <td>{{ $encuestas->matricula }}</td>
-              <td>{{ $encuestas->campus }}</td>
-              <td>{{ $encuestas->sexo }}</td>
+              <td>{{ $encuestas->modalidad }}</td>
               <td>{{ $encuestas->edad }}</td>
               <td>{{ $encuestas->ciudad }}</td>
+              <td>{{ $encuestas->campus }}</td>
+              <td>{{ $encuestas->sexo }}</td>
+
           </tr>
         @endforeach
           

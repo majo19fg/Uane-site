@@ -42,17 +42,29 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:p:/g/personal/marketingdigital_uane_edu_mx/EZny4oSLS31MmOOh5Yrsi4wBWVHUGoXwMexsVXFQQus7qQ?e=NzP9Zk">UANE Diseño 1.pptx</a></th>
-                                      <td>21 de Febrero</td>
-                                      <td>5.6 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:p:/g/personal/marketingdigital_uane_edu_mx/EZny4oSLS31MmOOh5Yrsi4wBWVHUGoXwMexsVXFQQus7qQ?e=NzP9Zk"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:p:/g/personal/marketingdigital_uane_edu_mx/EX0Uh6SdC8NDo99a4sFotaYBuD8__B3HAavD98Pd5lbNCw?e=oHQHtD">Panorámica.pptx</a></th>
+                                      <td>27 de Octubre</td>
+                                      <td>4,14 MB</td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:p:/g/personal/marketingdigital_uane_edu_mx/EX0Uh6SdC8NDo99a4sFotaYBuD8__B3HAavD98Pd5lbNCw?e=oHQHtD"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>  
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:p:/g/personal/marketingdigital_uane_edu_mx/EYx1fMqsjCFAo6T0cxtDK4oBXU3LN7iwWFFkyS2H_aoeTA?e=Qx1ZT8">UANE Diseño 3.pptx</a></th>
-                                      <td>21 de Febrero</td>
-                                      <td>5.6 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:p:/g/personal/marketingdigital_uane_edu_mx/EYx1fMqsjCFAo6T0cxtDK4oBXU3LN7iwWFFkyS2H_aoeTA?e=Qx1ZT8"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                    </tr>                        
+                                      <th><a href="https://uanemx-my.sharepoint.com/:p:/g/personal/marketingdigital_uane_edu_mx/EVCuAEdCgzFIvtd6-Sw0iY8BvpIuGnkJxk2TN0zcyPN4mQ?e=KCbNPT">Plantilla-1-dic.pptx</a></th>
+                                      <td>27 de Octubre</td>
+                                      <td>686 KB</td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:p:/g/personal/marketingdigital_uane_edu_mx/EVCuAEdCgzFIvtd6-Sw0iY8BvpIuGnkJxk2TN0zcyPN4mQ?e=KCbNPT"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                    </tr> 
+                                    <tr>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:p:/g/personal/marketingdigital_uane_edu_mx/EeRUDYvTuQRAgfgKvNu4xWkBwN0EE7kB5xZ2FjsK71fnDw?e=XHUXc4">Plantilla-2-dic.pptx</a></th>
+                                      <td>27 de Octubre</td>
+                                      <td>664 KB</td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:p:/g/personal/marketingdigital_uane_edu_mx/EeRUDYvTuQRAgfgKvNu4xWkBwN0EE7kB5xZ2FjsK71fnDw?e=XHUXc4"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                    </tr>  
+                                    <tr>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:p:/g/personal/marketingdigital_uane_edu_mx/EWE5OAC4ImxPgJuCINr-hiYBl0_r4zG-TenoA9DT97hXdw?e=aO4TxY">Plantilla-3-dic.pptx</a></th>
+                                      <td>27 de Octubre</td>
+                                      <td>695 KB</td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:p:/g/personal/marketingdigital_uane_edu_mx/EWE5OAC4ImxPgJuCINr-hiYBl0_r4zG-TenoA9DT97hXdw?e=aO4TxY"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                    </tr>                          
                                   </tbody>
                                 </table>
                        

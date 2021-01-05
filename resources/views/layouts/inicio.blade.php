@@ -16,7 +16,7 @@
           <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-3 pb-sm-20 ">
               <h2 class="line-bottom font-20 text-theme-colored text-uppercase mb-10 mt-0">Tu oportunidad está en<span class="text-theme-color-2"> UANE</span></h2>
-              <p class="lead font-18" align="justify">UANE cuenta con 45 años de historia, más de 12,000 estudiantes y más de 45,000 egresados en los niveles de Bachillerato, Licenciatura y Postgrado.</p>
+              <p class="lead font-18" align="justify">UANE cuenta con 46 años de historia, más de 12,000 estudiantes y más de 45,000 egresados en los niveles de Bachillerato, Licenciatura y Postgrado.</p>
               <p align="justify">Contamos con 8 campus en el noreste de México ubicados en los estados de Coahuila, Tamaulipas y Nuevo León que ofrecen educación presencial además de ofrecer educación en Línea. </p>
               <a class="btn btn-colored btn-theme-colored btn-sm" href="#">Conoce más de UANE</a>
             </div>
@@ -386,10 +386,10 @@
                   </div>
                 </div>
                 <div class="panel">
-                  <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion13" class="" aria-expanded="true"> <span class="open-sub"></span> 45 años de experiencia</a> </div>
+                  <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion13" class="" aria-expanded="true"> <span class="open-sub"></span> 46 años de experiencia</a> </div>
                   <div id="accordion13" class="panel-collapse collapse" role="tablist" aria-expanded="true">
                     <div class="panel-content">
-                      <p>Contamos con 45 años de experiencia en educación, ofreciendo un sistema modular el cual te ayudara a enfocarte y aprovechar cada minuto de estudio.</p>
+                      <p>Contamos con 46 años de experiencia en educación, ofreciendo un sistema modular el cual te ayudara a enfocarte y aprovechar cada minuto de estudio.</p>
                     </div>
                   </div>
                 </div>

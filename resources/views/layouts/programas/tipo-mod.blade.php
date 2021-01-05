@@ -76,7 +76,13 @@
                         <li><a href="{{ route('programas.maes') }}"><i class="fa fa-check-square-o mr-10 text-black-light"></i> Maestría</a></li>
                         <li><a href="{{ route('programas.esp') }}"><i class="fa fa-check-square-o mr-10 text-black-light"></i> Especialidad</a></li>
                         <li><a href="{{ route('programas.doc') }}"><i class="fa fa-check-square-o mr-10 text-black-light"></i> Doctorado</a></li>
-
+                        <li><a href="{{ route('programas.bachel') }}"><i class="fa fa-check-square-o mr-10 text-black-light"></i> Bachillerato en Línea</a></li>
+                        <li><a href="{{ route('programas.lcel') }}"><i class="fa fa-check-square-o mr-10 text-black-light"></i> Licenciatura en Línea</a></li>
+                        <li><a href="{{ route('programas.mel') }}"><i class="fa fa-check-square-o mr-10 text-black-light"></i> Maestría en Línea</a></li>
+                        <li><a href="{{ route('programas.eel') }}"><i class="fa fa-check-square-o mr-10 text-black-light"></i> Especialidad en Línea</a></li>
+                        <li><a href="{{ route('programas.curso') }}"><i class="fa fa-check-square-o mr-10 text-black-light"></i> Curso en Línea</a></li>
+                        <li><a href="{{ route('programas.diplomado') }}"><i class="fa fa-check-square-o mr-10 text-black-light"></i> Diplomados en Línea</a></li>
+                        <li><a href="{{ route('programas.diplomadobarcelona') }}"><i class="fa fa-check-square-o mr-10 text-black-light"></i> Diplomados Barcelona</a></li>
                     </ul>
                   </ul>
                 </div>

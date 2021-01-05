@@ -42,7 +42,7 @@
                         <tr>
                           <td><a href="{{ route('usuarios.DiapositivasAutonoma') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
                           <th><a href="{{ route('usuarios.DiapositivasAutonoma') }}">Diapositiva</a></th>
-                          <td>2 elementos</td>
+                          <td>4 elementos</td>
                         </tr>
                         <tr>
                           <td><a href="{{ route('usuarios.ConstanciaAutonoma') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>

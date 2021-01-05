@@ -57,7 +57,7 @@
                         <tr>
                           <td><a href="{{ route('usuarios.BachEL') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
                           <th><a href="{{ route('usuarios.BachEL') }}">Bachillerato</a></th>
-                          <td>1 elemento</td>
+                          <td>5 elementos</td>
                         </tr>
                         <tr>
                           <td><a href="{{ route('usuarios.FlyersEL') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>

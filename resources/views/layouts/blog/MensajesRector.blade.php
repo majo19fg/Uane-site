@@ -2,7 +2,7 @@
 
 @section('content')
 	<!-- Section: inner-header -->
-    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="/multi/images/banners/separados.jpg">
+    <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="/multi/images/banners/46banner.jpg">
       <div class="container pt-70 pb-20">
         <!-- Section Content -->
         <div class="section-content">
@@ -50,6 +50,32 @@
               </div>
             </article>
         </div>    --> 
+        <div class="col-md-6">
+          <article class="post clearfix maxwidth600 mb-30 mb-sm-30">
+            <div class="entry-header">
+              <div class="post-thumb thumb"><a href="{{ route('blog.Mensaje09-11-2020') }}"><img src="/multi/images/Noviembre.jpg" alt="" class="img-responsive img-fullwidth"></a></div>
+              {{-- <div class="entry-meta meta-absolute text-center pl-15 pr-15">
+              <div class="display-table">
+                <div class="display-table-cell">
+                  <ul>
+                    <li><a class="text-white" href="#"><i class="fa fa-thumbs-o-up"></i> 265 <br> Likes</a></li>
+                    <li class="mt-20"><a class="text-white" href="#"><i class="fa fa-comments-o"></i> 72 <br> comments</a></li>
+                  </ul>
+                </div>
+              </div>
+              </div> --}}
+            </div>
+            <div class="entry-content border-1px p-20">
+              <h5 class="entry-title mt-0 pt-0"><a href="#">Mensaje del rector: Habilidades blandas Noviembre 2020.</a></h5>
+              <p class="text-left mb-20 mt-15 font-13">NUEVAMENTE ME DIRIJO A TODA LA COMUNIDAD UNIVERSITARIA...</p>
+              <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="{{ route('blog.Mensaje09-11-2020') }}">Leer más</a>
+              <ul class="list-inline entry-date pull-right font-12 mt-5">
+                <li><span class="text-theme-colored">Nov 09, 2020</span></li>
+              </ul>
+              <div class="clearfix"></div>
+            </div>
+          </article>
+      </div>
         <div class="col-md-6">
           <article class="post clearfix maxwidth600 mb-30 mb-sm-30">
             <div class="entry-header">
@@ -102,7 +128,7 @@
             </div>
           </article>
       </div>
-          </div>
+        
         <div class="col-md-6">
           <article class="post clearfix maxwidth600 mb-30 mb-sm-30">
             <div class="entry-header">
@@ -130,32 +156,7 @@
           </article>
       </div>
           </div>
-        <div class="col-md-6">
-          <article class="post clearfix maxwidth600 mb-30 mb-sm-30">
-            <div class="entry-header">
-              <div class="post-thumb thumb"><a href="{{ route('blog.Mensaje 15-05-2020') }}"><img src="/multi/images/diadelmaestro.jpg" alt="" class="img-responsive img-fullwidth"></a></div>
-              {{-- <div class="entry-meta meta-absolute text-center pl-15 pr-15">
-              <div class="display-table">
-                <div class="display-table-cell">
-                  <ul>
-                    <li><a class="text-white" href="#"><i class="fa fa-thumbs-o-up"></i> 265 <br> Likes</a></li>
-                    <li class="mt-20"><a class="text-white" href="#"><i class="fa fa-comments-o"></i> 72 <br> comments</a></li>
-                  </ul>
-                </div>
-              </div>
-              </div> --}}
-            </div>
-            <div class="entry-content border-1px p-20">
-              <h5 class="entry-title mt-0 pt-0"><a href="#">Mensaje del rector: DíA DEL MAESTRO</a></h5>
-              <p class="text-left mb-20 mt-15 font-13">“LA EDUCACIÓN NO CAMBIA AL MUNDO, CAMBIA A LAS PERSONAS...</p>
-              <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="{{ route('blog.Mensaje 15-05-2020') }}">Leer más</a>
-              <ul class="list-inline entry-date pull-right font-12 mt-5">
-                <li><span class="text-theme-colored">May 15, 2020</span></li>
-              </ul>
-              <div class="clearfix"></div>
-            </div>
-          </article>
-      </div>
+
           </div>
       <!--</div>-->
       {{--  <div class="col-md-6">

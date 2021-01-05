@@ -1399,7 +1399,267 @@ integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb
           </div>
           {{-- fin item --}}
 
-                    {{-- Inicio item --}}
+                    {{-- Inicio item --}
+          <div class="col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+            <article class="post clearfix mb-sm-30">
+              <div class="col-xs-10 p-30 pr-10 bg-white">
+                <div class="entry-meta media mt-0 no-bg no-border">
+                    <div class="entry-meta media mt-0 no-bg no-border">
+                        <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
+                          <ul>
+                            <li class="font-20 text-white font-weight-600 border-bottom">19</li>
+                            <li class="font-16 text-white text-uppercase">OCT</li>
+                          </ul>
+                        </div>
+                        <div class="media-body pl-15">
+                          <div class="event-content pull-left flip">
+                            <h3 class="entry-title text-white text-uppercase m-0 mt-5"><a href="">Convocatoria I Concurso Estatal de Mediación Penal</a></h3>
+                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                        --}}
+                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}
+                          </div>
+                      </div>
+                      <h4 class="mt-10">Fecha: 19 y 21 Octubre.</h4>
+                      <h4 class="mt-10">Campus: Saltillo.</h4>
+                      <h4 class="mt-10">Area: Derecho.</h4>
+                      <h4 class="mt-10" style="color: #FF4337">PREVIO REGISTRO</h4><h4 class="mt-10">Liga de Registro:<a  style="color: #FF4337">              
+                      </a></h4>
+                   
+                      <div class="clearfix"></div>
+              </div>
+              </div>
+            </article>  
+          </div>
+          {{-- fin item --}}
+
+          {{-- Inicio item --}
+          <div class="col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+            <article class="post clearfix mb-sm-30">
+              <div class="col-xs-10 p-30 pr-10 bg-white">
+                <div class="entry-meta media mt-0 no-bg no-border">
+                    <div class="entry-meta media mt-0 no-bg no-border">
+                        <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
+                          <ul>
+                            <li class="font-20 text-white font-weight-600 border-bottom">22</li>
+                            <li class="font-16 text-white text-uppercase">OCT</li>
+                          </ul>
+                        </div>
+                        <div class="media-body pl-15">
+                          <div class="event-content pull-left flip">
+                            <h3 class="entry-title text-white text-uppercase m-0 mt-5"><a href="">Conferencia Educación Ciudadana El Desafío.</a></h3>
+                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                        --}}
+                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}
+                          </div>
+                      </div>
+                      <h4 class="mt-10">Campus: Saltillo.</h4>
+                      <h4 class="mt-10">Hora: 11:00 hrs.</h4>
+                      <h4 class="mt-10">Area: Derecho.</h4>
+                   {{--    <h4 class="mt-10">Liga de Acceso:<a href="https://us04web.zoom.us/j/2951494706?pwd=ZGRpb0cwYjVxaXlaTWE2dEJNTkEyZz09" style="color: #FF4337"> https://us04web.zoom.us/j/2951494706?pwd=ZGRpb0cwYjVxaXlaTWE2dEJNTkEyZz09 </a></h4>
+                      <h4 class="mt-10">ID de reunión: 295 149 4706</h4>
+                      <h4 class="mt-10">Código de acceso: NL4Q6G</h4> --}
+                      <div class="clearfix"></div>
+              </div>
+              </div>
+            </article>  
+          </div>
+          {{-- fin item --}}
+           
+                    {{-- Inicio item --}
+                    <div class="col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+                      <article class="post clearfix mb-sm-30">
+                        <div class="col-xs-10 p-30 pr-10 bg-white">
+                          <div class="entry-meta media mt-0 no-bg no-border">
+                              <div class="entry-meta media mt-0 no-bg no-border">
+                                  <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
+                                    <ul>
+                                      <li class="font-20 text-white font-weight-600 border-bottom">23</li>
+                                      <li class="font-16 text-white text-uppercase">OCT</li>
+                                    </ul>
+                                  </div>
+                                  <div class="media-body pl-15">
+                                    <div class="event-content pull-left flip">
+                                      <h3 class="entry-title text-white text-uppercase m-0 mt-5"><a href="">Conferencia de Ministra Margarita Luna.</a></h3>
+                                      {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                        --}}
+                                      {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}
+                                    </div>
+                                </div>
+                                <h4 class="mt-10">Campus: Saltillo.</h4>
+                                <h4 class="mt-10">Hora: 18:00 hrs.</h4>
+                                <h4 class="mt-10">Area: Derecho.</h4>
+                             {{--    <h4 class="mt-10">Liga de Acceso:<a href="https://us04web.zoom.us/j/2951494706?pwd=ZGRpb0cwYjVxaXlaTWE2dEJNTkEyZz09" style="color: #FF4337"> https://us04web.zoom.us/j/2951494706?pwd=ZGRpb0cwYjVxaXlaTWE2dEJNTkEyZz09 </a></h4>
+                                <h4 class="mt-10">ID de reunión: 295 149 4706</h4>
+                                <h4 class="mt-10">Código de acceso: NL4Q6G</h4> --}
+                                <div class="clearfix"></div>
+                        </div>
+                        </div>
+                      </article>  
+                    </div>
+                    {{-- fin item --}}
+
+                    
+                    {{-- Inicio item --}
+          <div class="col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+            <article class="post clearfix mb-sm-30">
+              <div class="col-xs-10 p-30 pr-10 bg-white">
+                <div class="entry-meta media mt-0 no-bg no-border">
+                    <div class="entry-meta media mt-0 no-bg no-border">
+                        <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
+                          <ul>
+                            <li class="font-20 text-white font-weight-600 border-bottom">26</li>
+                            <li class="font-16 text-white text-uppercase">OCT</li>
+                          </ul>
+                        </div>
+                        <div class="media-body pl-15">
+                          <div class="event-content pull-left flip">
+                            <h3 class="entry-title text-white text-uppercase m-0 mt-5"><a href="">Jornadas Internacionales de Actualización</a></h3>
+                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                        --}}
+                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}
+                          </div>
+                      </div>
+                      <h4 class="mt-10">Fecha: 26, 27, 28, 29 y 30 Octubre.</h4>
+                      <h4 class="mt-10">Campus: Saltillo.</h4>
+                      <h4 class="mt-10">Area: Derecho.</h4>
+                     {{--  <h4 class="mt-10" style="color: #FF4337">PREVIO REGISTRO</h4><h4 class="mt-10">Liga de Registro:<a  style="color: #FF4337"> --}         
+                      </a></h4>
+                   
+                      <div class="clearfix"></div>
+              </div>
+              </div>
+            </article>  
+          </div>
+          {{-- fin item --}}
+                              {{-- Inicio item --}}
+          <div class="col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+            <article class="post clearfix mb-sm-30">
+              <div class="col-xs-10 p-30 pr-10 bg-white">
+                <div class="entry-meta media mt-0 no-bg no-border">
+                    <div class="entry-meta media mt-0 no-bg no-border">
+                        <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
+                          <ul>
+                            <li class="font-20 text-white font-weight-600 border-bottom">17</li>
+                            <li class="font-16 text-white text-uppercase">NOV</li>
+                          </ul>
+                        </div>
+                        <div class="media-body pl-15">
+                          <div class="event-content pull-left flip">
+                            <h3 class="entry-title text-white text-uppercase m-0 mt-5"><a href="">“Descubriendo mis emociones".</a></h3>
+
+                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                        --}}
+                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}}
+                          </div>
+                      </div>
+                      <h4 class="mt-10">Ponente: </h4>
+                      <h4 class="mt-10">Hora: 19:00 hrs.</h4>
+                      <h4 class="mt-10">Campus: </h4>
+                      <h4 class="mt-10">Liga de Acceso:<a href="https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_YmFhNTRhMjEtNDc5Mi00NjAwLWE4MzgtODU4NmE1MWYxMmNi%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252272f39ce9-e58e-4b98-8aba-e75692a1cf9f%2522%252c%2522Oid%2522%253a%2522855a86ec-0b2d-48ba-852a-1f7f5b469980%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=589d6125-282c-400b-bade-22366e35d368&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true" style="color: #FF4337"> 	https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_YmFhNTRhMjEtNDc5Mi00NjAwLWE4MzgtODU4NmE1MWYxMmNi%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252272f39ce9-e58e-4b98-8aba-e75692a1cf9f%2522%252c%2522Oid%2522%253a%2522855a86ec-0b2d-48ba-852a-1f7f5b469980%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=589d6125-282c-400b-bade-22366e35d368&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true</a></h4>          
+                      </a></h4>
+                   
+                      <div class="clearfix"></div>
+              </div>
+              </div>
+            </article>  
+          </div>
+          {{-- fin item --}}
+                                                  {{-- Inicio item --}}
+          <div class="col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+            <article class="post clearfix mb-sm-30">
+              <div class="col-xs-10 p-30 pr-10 bg-white">
+                <div class="entry-meta media mt-0 no-bg no-border">
+                    <div class="entry-meta media mt-0 no-bg no-border">
+                        <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
+                          <ul>
+                            <li class="font-20 text-white font-weight-600 border-bottom">19</li>
+                            <li class="font-16 text-white text-uppercase">NOV</li>
+                          </ul>
+                        </div>
+                        <div class="media-body pl-15">
+                          <div class="event-content pull-left flip">
+                            <h3 class="entry-title text-white text-uppercase m-0 mt-5"><a href="">"¡Sigamos adelante! Reflexiones educativas ante la pandemia de COVID-19".</a></h3>
+                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                        --}}
+                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}}
+                          </div>
+                      </div>
+                      <h4 class="mt-10">Ponente: Dr. Carlo Orefice, Universidad de Siena, Italia.</h4>
+                      <h4 class="mt-10">Hora: 10:00 hrs.</h4>
+                      <h4 class="mt-10">Campus: .</h4>
+                      <h4 class="mt-10">ID de reunion: 921 2950 7277</h4>
+                      <h4 class="mt-10">Contraseña: 437563</h4>                      
+                      <h4 class="mt-10">Liga de Registro:<a href="https://zoom.us/j/92129507277?pwd=MFM4NWM4Z3Z3RjdRMjJaUTU0UmJkQT09" style="color: #FF4337"> 	https://zoom.us/j/92129507277?pwd=MFM4NWM4Z3Z3RjdRMjJaUTU0UmJkQT09</a></h4>          
+                      </a></h4>
+                   
+                      <div class="clearfix"></div>
+              </div>
+              </div>
+            </article>  
+          </div>
+          {{-- fin item --}}
+                                        {{-- Inicio item --}}
+          <div class="col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+            <article class="post clearfix mb-sm-30">
+              <div class="col-xs-10 p-30 pr-10 bg-white">
+                <div class="entry-meta media mt-0 no-bg no-border">
+                    <div class="entry-meta media mt-0 no-bg no-border">
+                        <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
+                          <ul>
+                            <li class="font-20 text-white font-weight-600 border-bottom">1</li>
+                            <li class="font-16 text-white text-uppercase">DIC</li>
+                          </ul>
+                        </div>
+                        <div class="media-body pl-15">
+                          <div class="event-content pull-left flip">
+                            <h3 class="entry-title text-white text-uppercase m-0 mt-5"><a href="">Conferencia Magistral.</a></h3>
+                            <h3 class="entry-title text-white text-uppercase m-0 mt-5"><a href="">“El mundo empresarial en tiempos de crisis”</a></h3>
+                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                        --}}
+                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}}
+                          </div>
+                      </div>
+                      <h4 class="mt-10">Ponente: Dr. René Martín Torres Fragoso, Co-Fundador de CONTPAQ</h4>
+                      <h4 class="mt-10">Hora: 17:00 hrs.</h4>
+                      <h4 class="mt-10">Campus: .</h4>
+                      <h4 class="mt-10">Liga de Registro:<a href="https://attendee.gototraining.com/r/3888250658638247170" style="color: #FF4337"> 	https://attendee.gototraining.com/r/3888250658638247170</a></h4>          
+                      </a></h4>
+                   
+                      <div class="clearfix"></div>
+              </div>
+              </div>
+            </article>  
+          </div>
+          {{-- fin item --}}
+          {{-- Inicio item --}
+          <div class="col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+            <article class="post clearfix mb-sm-30">
+              <div class="col-xs-10 p-30 pr-10 bg-white">
+                <div class="entry-meta media mt-0 no-bg no-border">
+                    <div class="entry-meta media mt-0 no-bg no-border">
+                        <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
+                          <ul>
+                            <li class="font-20 text-white font-weight-600 border-bottom">28</li>
+                            <li class="font-16 text-white text-uppercase">OCT</li>
+                          </ul>
+                        </div>
+                        <div class="media-body pl-15">
+                          <div class="event-content pull-left flip">
+                            <h3 class="entry-title text-white text-uppercase m-0 mt-5"><a href="">Jornadas Internacionales de Actualización.</a></h3>
+                            <h3 class="entry-title text-white text-uppercase m-0 mt-5"><a href="">Valoración racional de la prueba.</a></h3>
+                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                        --}}
+                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}
+                          </div>
+                      </div>
+                      <h4 class="mt-10">Ponente: Dra. Marina Gascón Abellan, Universidad de Castilla La Mancha - España</h4>
+                      <h4 class="mt-10">Hora: 12:00 hrs.</h4>
+                      <h4 class="mt-10">Campus: Saltillo.</h4>
+                      <h4 class="mt-10">Area: Derecho.</h4>
+                      <h4 class="mt-10">ID de reunion: 864 3569 7748</h4>
+                      <h4 class="mt-10">Contraseña: 944314</h4>
+                      <h4 class="mt-10">Liga de Acceso:<a href="https://us02web.zoom.us/j/86435697748?pwd=aStZTnY2d2ZoeVBQNDFPUTJ2RTZpQT09" style="color: #FF4337"> 	https://us02web.zoom.us/j/86435697748?pwd=aStZTnY2d2ZoeVBQNDFPUTJ2RTZpQT09</a></h4>          
+                      </a></h4>
+                   
+                      <div class="clearfix"></div>
+              </div>
+              </div>
+            </article>  
+          </div>
+          {{-- fin item --}}    
+                    {{-- Inicio item --}
           <div class="col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
             <article class="post clearfix mb-sm-30">
               <div class="col-xs-10 p-30 pr-10 bg-white">
@@ -1408,30 +1668,33 @@ integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb
                         <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
                           <ul>
                             <li class="font-20 text-white font-weight-600 border-bottom">29</li>
-                            <li class="font-16 text-white text-uppercase">SEP</li>
+                            <li class="font-16 text-white text-uppercase">OCT</li>
                           </ul>
                         </div>
                         <div class="media-body pl-15">
                           <div class="event-content pull-left flip">
-                            <h3 class="entry-title text-white text-uppercase m-0 mt-5"><a href="">.</a></h3>
+                            <h3 class="entry-title text-white text-uppercase m-0 mt-5"><a href="">Jornadas Internacionales de Actualización.</a></h3>
+                            <h3 class="entry-title text-white text-uppercase m-0 mt-5"><a href="">Reforma Fiscal. Análisis de la cláusula anti-abuso contenida en el art. 5 del Código Fiscal de la Federación</a></h3>
                             {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                        --}}
-                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}}
+                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}
                           </div>
                       </div>
-                      <h4 class="mt-10">Ponente: Dr. Arnoldo Ochoa Cortes.</h4>
-                      <h4 class="mt-10">Campus: Rectoría.</h4>
-                      <h4 class="mt-10">Hora: 18:00 hrs.</h4>
-                      <h4 class="mt-10">Area: Todos.</h4>
-                      <h4 class="mt-10" style="color: #FF4337">PREVIO REGISTRO</h4><h4 class="mt-10">Liga de Registro:<a href="https://forms.gle/i3FxrBu5hbnsXkyg6" style="color: #FF4337"> https://forms.gle/i3FxrBu5hbnsXkyg6 </a></h4>
-                      <h4 class="mt-10">Liga de Acceso:<a href=" https://us02web.zoom.us/j/88479644534" style="color: #FF4337">  https://us02web.zoom.us/j/88479644534</a></h4>
+                      <h4 class="mt-10">Ponente: Mtro. Jorge Castañeda González,Magistrado Federal de la Tercera Sala Regional del Noreste del Tribunal Federal de Justicia Administrativa en Mty, N.L.</h4>
+                      <h4 class="mt-10">Hora: 19:30 hrs.</h4>
+                      <h4 class="mt-10">Campus: Saltillo.</h4>
+                      <h4 class="mt-10">Area: Derecho.</h4>
+                      <h4 class="mt-10">ID de reunion: 821 9038 6220</h4>
+                      <h4 class="mt-10">Contraseña: 239796</h4>
+                      <h4 class="mt-10">Liga de Acceso:<a href="https://us02web.zoom.us/j/82190386220?pwd=VHUvc2JCdHFoN3ZCcWdiYlMzQUdSZz09" style="color: #FF4337"> 	https://us02web.zoom.us/j/82190386220?pwd=VHUvc2JCdHFoN3ZCcWdiYlMzQUdSZz09 </a></h4>          
+                      </a></h4>
+                   
                       <div class="clearfix"></div>
               </div>
               </div>
             </article>  
           </div>
-          {{-- fin item --}}
-
-          {{-- Inicio item --}}
+          {{-- fin item --}}  
+          {{-- Inicio item --}
           <div class="col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
             <article class="post clearfix mb-sm-30">
               <div class="col-xs-10 p-30 pr-10 bg-white">
@@ -1440,31 +1703,33 @@ integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb
                         <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
                           <ul>
                             <li class="font-20 text-white font-weight-600 border-bottom">30</li>
-                            <li class="font-16 text-white text-uppercase">SEP</li>
+                            <li class="font-16 text-white text-uppercase">OCT</li>
                           </ul>
                         </div>
                         <div class="media-body pl-15">
                           <div class="event-content pull-left flip">
-                            <h3 class="entry-title text-white text-uppercase m-0 mt-5"><a href="">Conferencia: “ Ser valioso para las empresas”.</a></h3>
+                            <h3 class="entry-title text-white text-uppercase m-0 mt-5"><a href="">Jornadas Internacionales de Actualización.</a></h3>
+                            <h3 class="entry-title text-white text-uppercase m-0 mt-5"><a href="">Juzgar con Perspectiva de Género</a></h3>
                             {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                        --}}
-                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}}
+                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}
                           </div>
                       </div>
-                      <h4 class="mt-10">Ponente: Aurelia Verónica Maldonado/ Ing. Omar Medrano.</h4>
+                      <h4 class="mt-10">Ponente: Mtro. Antonio Ceja Ochoa, Magistrado del Primer Tribunal Colegiado en materia civil del cuarto circuito en Monterrey, NL.</h4>
+                      <h4 class="mt-10">Hora: 18:00 hrs.</h4>
                       <h4 class="mt-10">Campus: Saltillo.</h4>
-                      <h4 class="mt-10">Hora: 17:00 hrs.</h4>
-                      <h4 class="mt-10">Area: Empleabilidad y Egreso.</h4>
-                      <h4 class="mt-10">Liga de Acceso:<a href="https://us04web.zoom.us/j/2951494706?pwd=ZGRpb0cwYjVxaXlaTWE2dEJNTkEyZz09" style="color: #FF4337"> https://us04web.zoom.us/j/2951494706?pwd=ZGRpb0cwYjVxaXlaTWE2dEJNTkEyZz09 </a></h4>
-                      <h4 class="mt-10">ID de reunión: 295 149 4706</h4>
-                      <h4 class="mt-10">Código de acceso: NL4Q6G</h4>
+                      <h4 class="mt-10">Area: Derecho.</h4>
+                      <h4 class="mt-10">ID de reunion: 812 1117 2576</h4>
+                      <h4 class="mt-10">Contraseña: 131956</h4>
+                      <h4 class="mt-10">Liga de Acceso:<a href="https://us02web.zoom.us/j/81211172576?pwd=V0VFRGF4TFVtcDNyOEp6dFk3VHRodz09" style="color: #FF4337"> 	https://us02web.zoom.us/j/81211172576?pwd=V0VFRGF4TFVtcDNyOEp6dFk3VHRodz09 </a></h4>          
+                      </a></h4>
+                   
                       <div class="clearfix"></div>
               </div>
               </div>
             </article>  
           </div>
-          {{-- fin item --}}
-           
-                    {{-- Inicio item --}}
+          {{-- fin item --}}        
+                    {{-- Inicio item --}
           <div class="col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
             <article class="post clearfix mb-sm-30">
               <div class="col-xs-10 p-30 pr-10 bg-white">
@@ -1480,7 +1745,7 @@ integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb
                           <div class="event-content pull-left flip">
                             <h3 class="entry-title text-white text-uppercase m-0 mt-5"><a href="">La importancia de los procesos.</a></h3>
                             {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                        --}}
-                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}}
+                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}
                           </div>
                       </div>
                       <h4 class="mt-10">Ponente: Lic. Francisco Gómez.</h4>
@@ -1496,7 +1761,7 @@ integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb
           </div>
           {{-- fin item --}}
 
-                    {{-- Inicio item --}}
+                    {{-- Inicio item --}
           <div class="col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
             <article class="post clearfix mb-sm-30">
               <div class="col-xs-10 p-30 pr-10 bg-white">
@@ -1512,7 +1777,7 @@ integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb
                           <div class="event-content pull-left flip">
                             <h3 class="entry-title text-white text-uppercase m-0 mt-5"><a href="">Acceso a la información publica en tiempos de covid 19.</a></h3>
                             {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                        --}}
-                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}}
+                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}
                           </div>
                       </div>
                       <h4 class="mt-10">Ponente: Ma. Sofia Dorantes.</h4>
@@ -1528,7 +1793,7 @@ integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb
           </div>
           {{-- fin item --}}
 
-                              {{-- Inicio item --}}
+                              {{-- Inicio item --}
           <div class="col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
             <article class="post clearfix mb-sm-30">
               <div class="col-xs-10 p-30 pr-10 bg-white">
@@ -1544,7 +1809,7 @@ integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb
                           <div class="event-content pull-left flip">
                             <h3 class="entry-title text-white text-uppercase m-0 mt-5"><a href="">Sistema procesal penal .</a></h3>
                             {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                        --}}
-                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}}
+                            {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}
                           </div>
                       </div>
                       <h4 class="mt-10">Ponente: Ma. Fabrizio López.</h4>

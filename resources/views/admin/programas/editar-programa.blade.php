@@ -100,6 +100,9 @@
               <label class="form-control-label">Duración del curso: <span class="tx-danger">*</span></label>
               <select class="form-control select2" name="duracionCurso" data-placeholder="Selecciona una opción">
                 <option label="Selecciona una opción"></option>
+                <option {{ old('duracionCurso', $programa->duracion_curso) == '7 semanas' ? 'selected' : '' }} value="7 semanas">7 semanas</option>
+                <option {{ old('duracionCurso', $programa->duracion_curso) == '11 semanas' ? 'selected' : '' }} value="11 semanas">11 semanas</option>
+                <option {{ old('duracionCurso', $programa->duracion_curso) == '20 semanas' ? 'selected' : '' }} value="20 semanas">20 semanas</option>
                 <option {{ old('duracionCurso', $programa->duracion_curso) == '1 semestre' ? 'selected' : '' }} value="1 semestre">1 semestre</option>
                 <option {{ old('duracionCurso', $programa->duracion_curso) == '2 semestres' ? 'selected' : '' }} value="2 semestres">2 semestres</option>
                 <option {{ old('duracionCurso', $programa->duracion_curso) == '3 semestres' ? 'selected' : '' }} value="3 semestres">3 semestres</option>

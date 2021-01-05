@@ -88,11 +88,11 @@
                                   <th><a href="{{ route('usuarios.presentacionesEL') }}">En línea</a></th>
                                   <td>1 elemento</td>
                                 </tr>
-                                <tr>
+                              <!--  <tr>
                                   <td><a href="{{ route('usuarios.cursos') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
                                   <th><a href="{{ route('usuarios.cursos') }}">Cursos y Diplomados En línea</a></th>
                                   <td>3 elementos</td>
-                                </tr>
+                                </tr>-->
                               </tbody>
                             </table>
                           </div>
@@ -123,8 +123,9 @@
                                 </tfoot>
                                 <tbody>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.SW') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <td><a href="{{ route('usuarios.SW') }}" ><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
                                     <th><a href="{{ route('usuarios.SW') }}">Saltillo</a></th>
+                                    
                                     <td>5 elementos</td>
                                   </tr>
                                   <tr>
@@ -198,9 +199,20 @@
                                 <tbody>
                                   <tr>
                                     <td><a href="{{ route('usuarios.DIT55') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.DIT55') }}">DIT 55% Octubre</a></th>
+                                    <th><a href="{{ route('usuarios.DIT55') }}">DIT 50% Enero</a></th>
+                                    <td>2 elementos</td>
+                                  </tr>
+                                  <tr>
+                                    <td><a href="{{ route('usuarios.DIT50PP') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.DIT50PP') }}">50% Postgrado presencial</a></th>
+                                    <td>1 elemento</td>
+                                  </tr>                                  
+                                  <tr>
+                                    <td><a href="{{ route('usuarios.DIT50PL') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.DIT50PL') }}">50% Postgrado en Línea</a></th>
                                     <td>1 elemento</td>
                                   </tr>
+
                                   </tbody>
                               </table>
                             </div>
@@ -338,6 +350,11 @@
                                 </tfoot>
                                 <tbody>
                                   <tr>
+                                    <td><a href="{{ route('usuarios.firmas_correo') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.firmas_correo') }}">Firmas correo electrónico</a></th>
+                                    <td>9 elementos</td>
+                                  </tr>
+                                  <tr>
                                     <td><a href="{{ route('usuarios.logotipos') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
                                     <th><a href="{{ route('usuarios.logotipos') }}">Logotipos</a></th>
                                     <td>10 elementos</td>
@@ -346,6 +363,11 @@
                                     <td><a href="{{ route('usuarios.Wallpapers') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
                                     <th><a href="{{ route('usuarios.Wallpapers') }}">Wallpapers</a></th>
                                     <td>7 elementos</td>
+                                  </tr>
+                                  <tr>
+                                    <td><a href="{{ route('usuarios.WallpapersE20') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.WallpapersE20') }}">Wallpapers Encuentro 2020</a></th>
+                                    <td>6 elementos</td>
                                   </tr>
                                 </tbody>
                               </table>
