@@ -643,7 +643,7 @@ $datos = [
 'DocMatamoros' => $DocMatamoros,
 ];
 
-       return view('layouts.encuesta')->with($datos);
+       return view('layouts.encuestas')->with($datos);
        
     
     

@@ -25,7 +25,7 @@ use App\Encuesta;
 use Spatie\Permission\Models\Role;
 use App\EventsAndListeners\Events\UserWasCreated;
 use Maatwebsite\Excel\Facades\Excel;
-use App\Exports\EncuestaExport;
+use App\Exports\EncuestasExport;
 
 class UsersController extends Controller
 {
@@ -618,6 +618,309 @@ class UsersController extends Controller
         return view('admin.marketingbox.WhatsApp-55Oct');
 
     }
+
+    
+    public function FirmaBF() 
+    {
+
+        return view('admin.marketingbox.Firma-BF');
+
+    }
+    public function FBBF() 
+    {
+
+        return view('admin.marketingbox.FB-BF');
+
+    }    
+    public function InstagramBF() 
+    {
+
+        return view('admin.marketingbox.Instagram-BF');
+
+    }
+    public function MailBF() 
+    {
+
+        return view('admin.marketingbox.Mail-BF');
+
+    }
+    public function WABF() 
+    {
+
+        return view('admin.marketingbox.WhatsApp-BF');
+
+    }
+
+
+    public function Firma55NOV() 
+    {
+
+        return view('admin.marketingbox.Firma-55NOV');
+
+    }
+    public function FB55NOV() 
+    {
+
+        return view('admin.marketingbox.FB-55NOV');
+
+    }    
+    public function Instagram55NOV() 
+    {
+
+        return view('admin.marketingbox.Instagram-55NOV');
+
+    }
+    public function Mail55NOV() 
+    {
+
+        return view('admin.marketingbox.Mail-55NOV');
+
+    }
+    public function WA55NOV() 
+    {
+
+        return view('admin.marketingbox.WhatsApp-55NOV');
+
+    }
+
+
+
+    public function DIT70DA() 
+    {
+
+        return view('admin.marketingbox.DIT70DA');
+
+    }
+    public function Firma70DA() 
+    {
+
+        return view('admin.marketingbox.Firma-70DA');
+
+    }
+    public function FB70DA() 
+    {
+
+        return view('admin.marketingbox.FB-70DA');
+
+    }    
+    public function Instagram70DA() 
+    {
+
+        return view('admin.marketingbox.Instagram-70DA');
+
+    }
+    public function Mail70DA() 
+    {
+
+        return view('admin.marketingbox.Mail-70DA');
+
+    }
+    public function WA70DA() 
+    {
+
+        return view('admin.marketingbox.WhatsApp-70DA');
+
+    }
+
+
+
+
+
+    public function DIT70D() 
+    {
+
+        return view('admin.marketingbox.DIT70D');
+
+    }
+    public function Firma70D() 
+    {
+
+        return view('admin.marketingbox.Firma-70D');
+
+    }
+    public function FB70D() 
+    {
+
+        return view('admin.marketingbox.FB-70D');
+
+    }    
+    public function Instagram70D() 
+    {
+
+        return view('admin.marketingbox.Instagram-70D');
+
+    }
+    public function Mail70D() 
+    {
+
+        return view('admin.marketingbox.Mail-70D');
+
+    }
+    public function WA70D() 
+    {
+
+        return view('admin.marketingbox.WhatsApp-70D');
+
+    }
+    
+
+public function DIT50PP() 
+{
+
+    return view('admin.marketingbox.DIT50PP');
+
+}
+public function Firma50PP() 
+{
+
+    return view('admin.marketingbox.Firma-50PP');
+
+}
+public function FB50PP() 
+{
+
+    return view('admin.marketingbox.FB-50PP');
+
+}    
+public function Instagram50PP() 
+{
+
+    return view('admin.marketingbox.Instagram-50PP');
+
+}
+public function Mail50PP() 
+{
+
+    return view('admin.marketingbox.Mail-50PP');
+
+}
+public function WA50PP() 
+{
+
+    return view('admin.marketingbox.WhatsApp-50PP');
+
+}
+
+
+    public function DIT50PL() 
+    {
+
+        return view('admin.marketingbox.DIT50PL');
+
+    }
+    public function Firma50PL() 
+    {
+
+        return view('admin.marketingbox.Firma-50PL');
+
+    }
+    public function FB50PL() 
+    {
+
+        return view('admin.marketingbox.FB-50PL');
+
+    }    
+    public function Instagram50PL() 
+    {
+
+        return view('admin.marketingbox.Instagram-50PL');
+
+    }
+    public function Mail50PL() 
+    {
+
+        return view('admin.marketingbox.Mail-50PL');
+
+    }
+    public function WA50PL() 
+    {
+
+        return view('admin.marketingbox.WhatsApp-50PL');
+
+    }
+    
+    public function DIT55D() 
+    {
+
+        return view('admin.marketingbox.DIT55D');
+
+    }
+
+   public function DIT55DIC() 
+    {
+
+        return view('admin.marketingbox.DIT55DIC');
+
+    }
+    public function Firma55D() 
+    {
+
+        return view('admin.marketingbox.Firma-55D');
+
+    }
+    public function FB55D() 
+    {
+
+        return view('admin.marketingbox.FB-55D');
+
+    }    
+    public function Instagram55D() 
+    {
+
+        return view('admin.marketingbox.Instagram-55D');
+
+    }
+    public function Mail55D() 
+    {
+
+        return view('admin.marketingbox.Mail-55D');
+
+    }
+    public function WA55D() 
+    {
+
+        return view('admin.marketingbox.WhatsApp-55D');
+
+    }
+
+
+
+
+
+
+    public function FirmaMTY55NOV() 
+    {
+
+        return view('admin.marketingbox.Firma-MTY55NOV');
+
+    }
+    public function FBMTY55NOV() 
+    {
+
+        return view('admin.marketingbox.FB-MTY55NOV');
+
+    }    
+    public function InstagramMTY55NOV() 
+    {
+
+        return view('admin.marketingbox.Instagram-MTY55NOV');
+
+    }
+    public function MailMTY55NOV() 
+    {
+
+        return view('admin.marketingbox.Mail-MTY55NOV');
+
+    }
+    public function WAMTY55NOV() 
+    {
+
+        return view('admin.marketingbox.WhatsApp-MTY55NOV');
+
+    }
+
+
+
     public function Firma55mty() 
     {
 
@@ -758,6 +1061,12 @@ class UsersController extends Controller
         return view('admin.marketingbox.TuPuntajeVale');
 
     }
+    public function firmas_correo() 
+    {
+
+        return view('admin.marketingbox.Firmas_correo');
+
+    }
     public function logotipos() 
     {
 
@@ -768,6 +1077,12 @@ class UsersController extends Controller
     {
 
         return view('admin.marketingbox.Wallpapers');
+
+    }
+    public function WallpapersE20() 
+    {
+
+        return view('admin.marketingbox.WallpapersE20');
 
     }
     public function hoja() 
@@ -827,7 +1142,7 @@ class UsersController extends Controller
     }
     public function exportar()
     {
-        return Excel::download(new ConveniosExport, 'Reporte Encuesta 2019.xlsx');
+        return Excel::download(new EncuestasExport, 'Reporte Encuesta 2019.xlsx');
  
     }
 }

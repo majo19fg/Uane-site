@@ -11326,7 +11326,7 @@ public function  diplomadobarcelona()
 
         if ($campusAspirante->name == 'Saltillo') {
 
-            Mail::to('msantos@uane.edu.mx')->send(new AspiranteRegistrado($aspirante)); //Monica SAntos 
+            Mail::to('elara@uane.edu.mx')->send(new AspiranteRegistrado($aspirante)); //Monica SAntos 
 
         }elseif ($campusAspirante->name == 'Monclova') {
 
@@ -11401,7 +11401,7 @@ public function  diplomadobarcelona()
 
         if ($request->get('campusAspirante') == 'Saltillo') {
 
-            Mail::to('msantos@uane.edu.mx')->send(new AspiranteRegistrado($aspirante)); //Monica SAntos 
+            Mail::to('elara@uane.edu.mx')->send(new AspiranteRegistrado($aspirante)); //Monica SAntos 
 
         }elseif ($request->get('campusAspirante') == 'Monclova') {
 

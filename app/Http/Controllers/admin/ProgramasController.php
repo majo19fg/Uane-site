@@ -21,14 +21,13 @@ class ProgramasController extends Controller
         return view('admin.programas.mostrar-programas', compact('programas'));
     }
 
-    // public function create()
-    // {
-
-    //     $modalidad = ModalidadPrograma::all();
-    //     $tipoPrograma = TipoPrograma::all();
-    //     $campus = Campus::all();
-    //     return view('admin.programas.crear-programa', compact('modalidad', 'tipoPrograma', 'campus'));
-    // }
+     public function create() 
+    {
+       $modalidad = ModalidadPrograma::all();
+       $tipoPrograma = TipoPrograma::all();
+       $campus = Campus::all();
+       return view('admin.programas.crear-programa', compact('modalidad', 'tipoPrograma', 'campus'));
+    }
 
 
     public function store(Request $request)
