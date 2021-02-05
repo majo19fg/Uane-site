@@ -5,7 +5,7 @@
 
 @section('content')
     <!-- Section: inner-header -->
-    <section class="inner-header divider parallax layer-overlay overlay-dark-2" data-bg-img="/multi/images/banners/separados.jpg">
+    <section class="inner-header divider parallax layer-overlay overlay-dark-2" data-bg-img="/multi/images/banners/46banner.jpg">
       <div class="container pt-70 pb-20">
         <!-- Section Content -->
         <div class="section-content">

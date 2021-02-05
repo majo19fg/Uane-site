@@ -21,6 +21,7 @@ use Illuminate\Validation\Rule;
 use App\Http\Controllers\Controller;
 use App\User;
 
+use App\Programa;
 use App\Encuesta;
 use Spatie\Permission\Models\Role;
 use App\EventsAndListeners\Events\UserWasCreated;
@@ -1055,6 +1056,12 @@ public function WA50PP()
         return view('admin.marketingbox.WhatsApp-70AgoEL');
 
     }
+    public function MailED() 
+    {
+
+        return view('admin.marketingbox.Mail-ED');
+
+    }
     public function TuPuntajeVale() 
     {
 
@@ -1133,16 +1140,114 @@ public function WA50PP()
         return view('admin.marketingbox.exauane46');
 
     }
+    public function CursosEC() 
+    {
+
+        return view('admin.marketingbox.CursoEC');
+
+    }
+    public function DiplomadosEC() 
+    {
+
+        return view('admin.marketingbox.DiplomadosEC');
+
+    }
+    public function BarcelonaEC() 
+    {
+
+        return view('admin.marketingbox.BarcelonaEC');
+
+    }
+    public function Piezas() 
+    {
+
+        return view('admin.marketingbox.Piezas');
+
+    }
+
+    public function DIT45() 
+    {
+
+        return view('admin.marketingbox.DIT45');
+
+    }    
+    public function DIT45mty() 
+    {
+
+        return view('admin.marketingbox.DIT45mty');
+
+    }
+
+    public function Firma45() 
+    {
+
+        return view('admin.marketingbox.Firma-45');
+
+    }
+    public function FB45() 
+    {
+
+        return view('admin.marketingbox.FB-45');
+
+    }    
+    public function Instagram45() 
+    {
+
+        return view('admin.marketingbox.Instagram-45');
+
+    }
+    public function Mail45() 
+    {
+
+        return view('admin.marketingbox.Mail-45');
+
+    }
+    public function WA45() 
+    {
+
+        return view('admin.marketingbox.WhatsApp-45');
+
+    }
+    public function Firma45Mty() 
+    {
+
+        return view('admin.marketingbox.Firma-45Mty');
+
+    }
+    public function FB45Mty() 
+    {
+
+        return view('admin.marketingbox.FB-45Mty');
+
+    }    
+    public function Instagram45Mty() 
+    {
+
+        return view('admin.marketingbox.Instagram-45Mty');
+
+    }
+    public function Mail45Mty() 
+    {
+
+        return view('admin.marketingbox.Mail-45Mty');
+
+    }
+    public function WA45Mty() 
+    {
+
+        return view('admin.marketingbox.WhatsApp-45Mty');
+
+    }
     public function lista_encuesta()
     {
-        $encuestas = Encuesta::all();
+        $encuestas = Programa::all();
         //$users = User::all();
         
         return view('admin.usuarios.Reporte', compact('encuestas'));
     }
     public function exportar()
     {
-        return Excel::download(new EncuestasExport, 'Reporte Encuesta 2019.xlsx');
+        return Excel::download(new EncuestasExport, 'Programas.xlsx');
  
     }
 }

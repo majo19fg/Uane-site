@@ -98,13 +98,15 @@
    </div>
    <br/>
             <br/>
+            <div class="col-xs-12">
             <h4 align="justify"><img src="{{ asset('/multi/images/acierto.png') }}"/><b>Informes de empleabilidad. Da clic a  la imagen para más información. </b></h4>
-                 <div class="col-md-4">
+            </div>
+                <!-- <div class="col-md-4">
                   <div class="gallery">
                       <div><a href="{{ asset('/multi/pdf/RESULTADOS CURSOS JUNIO 2019.pdf') }}"><img src="{{ asset('/multi/images/campus/Experiencias laborales.jpg') }}"width="250px" height="250px"id=experiencias1 /></a>
                     </div>
                   </div>  
-              </div>  
+              </div> -->
               <!--<div class="col-md-4">
                       <div class="gallery">
                     <div align="center"><a href="{{ asset('/multi/pdf/INFORME POR DIMENSIONES.pdf') }}"><img src="{{ asset('/multi/images/campus/Fotos de campus-13.png') }}" width="250px" height="250px"id=informe1 /></a>
@@ -123,6 +125,12 @@
                 </div>
               </div>
             </div>
+            <div class="col-md-4">
+              <div class="gallery">
+            <div align="center"><a href="{{ asset('/multi/pdf/Informe de empleabilidad agosto-diciembre 2020.pdf') }}"><img src="{{ asset('/multi/images/campus/informe de empleabilidad 2020-14.jpg') }}" width="250px" height="250px"id=informe1 /></a>
+            </div>
+          </div>
+        </div>
 
                 </div>
                 </div>

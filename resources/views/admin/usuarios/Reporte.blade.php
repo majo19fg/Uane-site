@@ -5,15 +5,15 @@
 <div class="br-pageheader">
   <nav class="breadcrumb pd-0 mg-0 tx-12">
     <a class="breadcrumb-item" href="#">Dashboard</a>
-    <span class="breadcrumb-item active">Encuesta</span>
+    <span class="breadcrumb-item active">Programas</span>
   </nav>
 </div><!-- br-pageheader -->
 
 <div class="br-pagetitle">
     <i class="icon icon ion-ios-bookmarks-outline"></i>
     <div>
-      <h4>Reporte de Encuesta</h4>
-      <p class="mg-b-0">Lista completa de resultados encuesta de medios.<br></p>
+      <h4>Programas</h4>
+      <p class="mg-b-0">Lista completa de Programas.<br></p>
     </div>
 
     
@@ -27,7 +27,7 @@
     
     <div class="row">
         <div class="col-md-6">
-            <h6 class="br-section-label">Respuestas Encuesta de Medios 2020</h6>
+            <h6 class="br-section-label">Programas</h6>
         </div>
         <div class="col-md-6">
             <a href="{{ route('exportar.reporte') }}" class="btn btn-primary btn-block tx-15 tx-uppercase pd-y-12 pd-x-25 tx-mont tx-large" >Exportar tabla a excel</a>
@@ -40,7 +40,7 @@
         <thead>
           <tr>
             <th class="wd-15p">Id</th>
-            <th class="wd-15p">Email</th>
+            <th class="wd-15p">Tiy</th>
             <th class="wd-15p">Matricula</th>
             <th class="wd-15p">Modalidad</th>
             <th class="wd-15p">Edad</th>

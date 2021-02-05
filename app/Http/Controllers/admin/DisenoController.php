@@ -34,7 +34,7 @@ class DisenoController extends Controller
         // return $designRequestData;
         Mail::to($request->email)->send(new ConfirmationMail($designRequestData));
         Mail::to('cprado@uane.edu.mx')->send( new NotificationMail);
-        return redirect()->back()->with('success', 'Tu solicitud ya ha sido compartida con el equipo de marketing. Revisa tu correo para mantenerte a tento de todas las actualizaciones.');
+        return redirect()->back()->with('success', 'Tu solicitud ya ha sido compartida con el equipo de marketing. El tiempo de realización de tu solicitud inicia a partir de que el estatus cambie a Confirmado. Revisa tu correo para mantenerte atento de todas las actualizaciones.');
     }
 
 

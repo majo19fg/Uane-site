@@ -198,20 +198,15 @@
                                 </tfoot>
                                 <tbody>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.DIT55') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.DIT55') }}">DIT 50% Enero</a></th>
+                                    <td><a href="{{ route('usuarios.DIT45') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.DIT45') }}">DIT 45% Febrero</a></th>
                                     <td>2 elementos</td>
                                   </tr>
                                   <tr>
-                                    <td><a href="{{ route('usuarios.DIT50PP') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.DIT50PP') }}">50% Postgrado presencial</a></th>
+                                    <td><a href="{{ route('usuarios.DIT45mty') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.DIT45mty') }}">DIT 45% Febrero Mty</a></th>
                                     <td>1 elemento</td>
                                   </tr>                                  
-                                  <tr>
-                                    <td><a href="{{ route('usuarios.DIT50PL') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.DIT50PL') }}">50% Postgrado en Línea</a></th>
-                                    <td>1 elemento</td>
-                                  </tr>
 
                                   </tbody>
                               </table>
@@ -220,6 +215,60 @@
                           </div>
                         </div>
                       </div>
+                      <div class="col-md-3">
+                        <div id="accordion12" class="br-menu-item show-sub">
+                          <div class="panel">
+                            <div class="panel-title"> <a data-parent="#accordion12" data-toggle="collapse" href="#accordion26" class="" aria-expanded="true"> <span class="open-sub"></span><center><img src="{{ asset('/multi/images/Marketing box/Iconos -07[8831].png') }}"/>Educación continua</center></a></div>
+                            <div id="accordion26" class="panel-collapse collapse" role="tablist" aria-expanded="true">
+                              <div class="panel-content">
+                                <table border-collapse: separate; style>
+                                  <colgroup>
+                                    <col style="width: 10%"/>                                    
+                                    <col style="width: 50%"/>
+                                    <col style="width: 40%"/>
+                                  </colgroup>
+                                  <thead>
+                                    <tr>
+                                        <th rowspan="2"></th>
+                                        <th rowspan="2">Nombre</th>
+                                        <th rowspan="2">Tamaño</th>
+                                    </tr>
+                                  </thead>
+                                  <tfoot>
+                                  </tfoot>
+                                  <tbody>
+                                    <tr>
+                                      <td><a href="{{ route('usuarios.MailED') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                      <th><a href="{{ route('usuarios.MailED') }}">Mailing</a></th>
+                                      <td>2 elementos</td>
+                                    </tr>
+                                  <tr>
+                                      <td><a href="{{ route('usuarios.CursosEC') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                      <th><a href="{{ route('usuarios.CursosEC') }}">Cursos en Línea</a></th>
+                                      <td>25 elementos</td>
+                                    </tr>
+                                    <tr>
+                                      <td><a href="{{ route('usuarios.DiplomadoEC') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                      <th><a href="{{ route('usuarios.DiplomadoEC') }}">Diplomados en Línea</a></th>
+                                      <td>7 elementos</td>
+                                    </tr>
+                                    <tr>
+                                      <td><a href="{{ route('usuarios.BarcelonaEC') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                      <th><a href="{{ route('usuarios.BarcelonaEC') }}">Diplomados Universidad de Barcelona en Línea</a></th>
+                                      <td>7 elementos</td>
+                                    </tr>
+                                    <tr>
+                                      <td><a href="{{ route('usuarios.Piezas') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                      <th><a href="{{ route('usuarios.Piezas') }}">Piezas Generales</a></th>
+                                      <td>7 elementos</td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </div>
+                            </div>
+                            </div>
+                          </div>
+                        </div> 
                       <div class="col-md-3">
                       <div id="accordion5" class="br-menu-item show-sub">
                         <div class="panel">
@@ -469,6 +518,7 @@
                               </div>
                             </div>
                           </div>
+
           </div>
       </div>
   </div>

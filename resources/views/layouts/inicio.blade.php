@@ -10,13 +10,58 @@
     </section>
 
     <!-- Section: About -->
+    <!--<section>
+      <div class="container">
+        <div class="section-content">
+          <div class="row justify-content-center">
+            <div class="col-md-12" data-wow-duration="1s" data-wow-delay="0.3s">
+              <div class="gallery-isotope grid-2 gutter-small clearfix" data-lightbox="gallery">
+                <!-- Portfolio Item Start --
+                <div class="gallery-item">
+                  <div class="thumb">
+                    <img alt="project" src="/multi/images/Comunicado1.jpg" >
+                    <div class="overlay-shade"></div>
+                    <div class="icons-holder">
+                      <div class="icons-holder-inner">
+                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                          <a href="/multi/images/Comunicado1.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!-- Portfolio Item End -->
+                
+                <!-- Portfolio Item Start --
+                <div class="gallery-item">
+                  <div class="thumb">
+                    <img alt="project" src="/multi/images/Comunicadopostgrados.jpg" >
+                    <div class="overlay-shade"></div>
+                    <div class="icons-holder">
+                      <div class="icons-holder-inner">
+                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                          <a href="/multi/images/Comunicadopostgrados.jpg"   data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!-- Portfolio Item End --
+              </div>
+              <!-- End Portfolio Gallery Grid --
+              </div>
+          </div>
+
+        </div>
+      </div>
+    </section>-->
     <section>
       <div class="container">
         <div class="section-content">
           <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-3 pb-sm-20 ">
               <h2 class="line-bottom font-20 text-theme-colored text-uppercase mb-10 mt-0">Tu oportunidad está en<span class="text-theme-color-2"> UANE</span></h2>
-              <p class="lead font-18" align="justify">UANE cuenta con 46 años de historia, más de 12,000 estudiantes y más de 45,000 egresados en los niveles de Bachillerato, Licenciatura y Postgrado.</p>
+              <p class="lead font-18" align="justify">UANE cuenta con 46 años de historia, más de 12,000 estudiantes y más de 47,000 egresados en los niveles de Bachillerato, Licenciatura y Postgrado.</p>
               <p align="justify">Contamos con 8 campus en el noreste de México ubicados en los estados de Coahuila, Tamaulipas y Nuevo León que ofrecen educación presencial además de ofrecer educación en Línea. </p>
               <a class="btn btn-colored btn-theme-colored btn-sm" href="#">Conoce más de UANE</a>
             </div>
@@ -485,6 +530,36 @@
               <article class="post clearfix mb-sm-30">
                 <div class="entry-header">
                   <div class="post-thumb thumb"> 
+                    <img src="/multi/images/noticias/Quality.png" alt="" class="img-responsive img-fullwidth"> 
+                  </div>
+                </div>
+                <div class="entry-content p-20 pr-10 bg-white">
+                  <div class="entry-meta media mt-0 no-bg no-border">
+                    <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
+                      <ul>
+                        <li class="font-16 text-white font-weight-600 border-bottom">18</li>
+                        <li class="font-12 text-white text-uppercase">ENE</li>
+                      </ul>
+                    </div>
+                    <div class="media-body pl-15">
+                      <div class="event-content pull-left flip">
+                        <h4 class="entry-title text-white text-uppercase m-0 mt-5"><a href="{{ route('blog.QualityMatters') }}">AD-3011 Administración; segundo curso en América Latina certificado por Quality Matters</a></h4>
+                        {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                        --}}
+                        {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}}
+                      </div>
+                    </div>
+                  </div>
+                  <p class="mt-10">La Universidad Autónoma del Noreste, quien ..</p>
+                  <a href="{{ route('blog.QualityMatters') }}" class="btn-read-more">Leer más</a>
+                  <div class="clearfix"></div>
+                </div>
+              </article>
+              
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+              <article class="post clearfix mb-sm-30">
+                <div class="entry-header">
+                  <div class="post-thumb thumb"> 
                     <img src="/multi/images/Interuane/INTERUANE.jpg" alt="" class="img-responsive img-fullwidth"> 
                   </div>
                 </div>
@@ -541,100 +616,7 @@
               </article>
               
             </div>
-            <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
-              <article class="post clearfix mb-sm-30">
-                <div class="entry-header">
-                  <div class="post-thumb thumb"> 
-                    <img src="/multi/images/blog/Licenciatura/PHOTOCINEMA-6284.jpg" alt="" class="img-responsive img-fullwidth"> 
-                  </div>
-                </div>
-                <div class="entry-content p-20 pr-10 bg-white">
-                  <div class="entry-meta media mt-0 no-bg no-border">
-                    <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
-                      <ul>
-                        <li class="font-16 text-white font-weight-600 border-bottom">20</li>
-                        <li class="font-12 text-white text-uppercase">AGO</li>
-                      </ul>
-                    </div>
-                    <div class="media-body pl-15">
-                      <div class="event-content pull-left flip">
-                        <h4 class="entry-title text-white text-uppercase m-0 mt-5"><a href="{{ route('blog.InicioClasesLic') }}">BIENVENIDOS A UANE PIEDRAS NEGRAS</a></h4>
-                        {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                        --}}
-                        {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}}
-                      </div>
-                    </div>
-                  </div>
-                  <p class="mt-10">UANE campus Piedras Negras abrió sus puertas a los alumnos de las diferentes licenciaturas.
-                    Les deseamos un semestre lleno de éxitos.
-                  </p>
-                  <a href="{{ route('blog.InicioClasesLic') }}" class="btn-read-more">Ver galería</a>
-                  <div class="clearfix"></div>
-                </div>
-              </article>
-              
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
-              <article class="post clearfix mb-sm-30">
-                <div class="entry-header">
-                  <div class="post-thumb thumb"> 
-                    <img src="/multi/images/blog/PrepaUANE/PHOTOCINEMA-0066.jpg" alt="" class="img-responsive img-fullwidth"> 
-                  </div>
-                </div>
-                <div class="entry-content p-20 pr-10 bg-white">
-                  <div class="entry-meta media mt-0 no-bg no-border">
-                    <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
-                      <ul>
-                        <li class="font-16 text-white font-weight-600 border-bottom">20</li>
-                        <li class="font-12 text-white text-uppercase">AGO</li>
-                      </ul>
-                    </div>
-                    <div class="media-body pl-15">
-                      <div class="event-content pull-left flip">
-                        <h4 class="entry-title text-white text-uppercase m-0 mt-5"><a href="{{ route('blog.InicioClases') }}">BIENVENIDA PREPA UANE PIEDRAS NEGRAS</a></h4>
-                        {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                        --}}
-                        {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}}
-                      </div>
-                    </div>
-                  </div>
-                  <p class="mt-10">UANE campus Piedras Negras abrió sus puertas a los alumnos de bachillerato generación 2019 - 2021.</p>
-                  <a href="{{ route('blog.InicioClases') }}" class="btn-read-more">Ver galería</a>
-                  <div class="clearfix"></div>
-                </div>
-              </article>
-              
-            </div>
-
-            <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
-              <article class="post clearfix mb-sm-30">
-                <div class="entry-header">
-                  <div class="post-thumb thumb"> 
-                    <img src="/multi/images/noticias/diplomado-titulacion.jpg" alt="" class="img-responsive img-fullwidth"> 
-                  </div>
-                </div>
-                <div class="entry-content p-20 pr-10 bg-white">
-                  <div class="entry-meta media mt-0 no-bg no-border">
-                    <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
-                      <ul>
-                        <li class="font-16 text-white font-weight-600 border-bottom">20</li>
-                        <li class="font-12 text-white text-uppercase">JUN</li>
-                      </ul>
-                    </div>
-                    <div class="media-body pl-15">
-                      <div class="event-content pull-left flip">
-                        <h4 class="entry-title text-white text-uppercase m-0 mt-5"><a href="{{ route('blog.titulacion') }}">¿Sabías que en UANE...</a></h4>
-                        {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                        --}}
-                        {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}}
-                      </div>
-                    </div>
-                  </div>
-                  <p class="mt-10">Próximamente te graduarás y seguramente estás considerando cada una de las alternativas para titularte...</p>
-                  <a href="{{ route('blog.titulacion') }}" class="btn-read-more">Leer más</a>
-                  <div class="clearfix"></div>
-                </div>
-              </article>
-              
-            </div>
-
+           
            <!-- <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
               <article class="post clearfix mb-sm-30">
                 <div class="entry-header">

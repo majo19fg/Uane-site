@@ -208,7 +208,8 @@
                                     </table>
                                     <h2 class="o_heading o_mb-xxs" style="font-family: Helvetica, Arial, sans-serif;font-weight: bold;margin-top: 0px;margin-bottom: 4px;font-size: 30px;line-height: 39px;">Solicitud enviada</h2>
                                     <p style="margin-top: 0px;margin-bottom: 0px;">Tu solicitud ya ha sido compartida con el equipo de marketing.</p>
-                                    <p style="margin-top: 0px;margin-bottom: 0px;">Se iniciará el proceso de diseño una vez confirmada la recepción.</p>
+                                    <p style="margin-top: 0px;margin-bottom: 0px;">El tiempo de realización de tu solicitud inicia a partir de que el estatus cambie a Confirmado.</p>
+                                    <p style="margin-top: 0px;margin-bottom: 0px;">Revisa tu correo para mantenerte atento de todas las actualizaciones.</p>
 
                                     <p style="margin-top: 0px;margin-bottom: 0px;">&nbsp;</p>
 

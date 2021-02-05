@@ -6592,7 +6592,7 @@ a.text-dark:hover, a.text-dark:focus {
 .alert-bordered {
   border-width: 1px; }
   .alert-bordered.alert-success {
-    background-color: #f2fef0; }
+    background-color: #ccff00; }
   .alert-bordered.alert-info {
     background-color: #f7fbff; }
   .alert-bordered.alert-warning {
@@ -6602,9 +6602,9 @@ a.text-dark:hover, a.text-dark:focus {
 
 .alert-solid {
   border-color: transparent;
-  color: #fff; }
+  color: black; }
   .alert-solid.alert-success {
-    background-color: #23BF08; }
+    background-color: #ccff00; }
   .alert-solid.alert-info {
     background-color: #17A2B8; }
   .alert-solid.alert-warning {
