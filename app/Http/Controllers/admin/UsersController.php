@@ -1238,6 +1238,25 @@ public function WA50PP()
         return view('admin.marketingbox.WhatsApp-45Mty');
 
     }
+    public function DIT7002() 
+    {
+
+        return view('admin.marketingbox.DIT7002');
+
+    }
+
+    public function Mail7002() 
+    {
+
+        return view('admin.marketingbox.Mail-7002');
+
+    }
+    public function FB7002() 
+    {
+
+        return view('admin.marketingbox.FB-7002');
+
+    }    
     public function lista_encuesta()
     {
         $encuestas = Programa::all();

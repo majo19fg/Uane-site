@@ -207,7 +207,11 @@
                                     <th><a href="{{ route('usuarios.DIT45mty') }}">DIT 45% Febrero Mty</a></th>
                                     <td>1 elemento</td>
                                   </tr>                                  
-
+                                  <tr>
+                                    <td><a href="{{ route('usuarios.DIT7002') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.DIT7002') }}">DIT 70% Febrero </a></th>
+                                    <td>2 elementos</td>
+                                  </tr>  
                                   </tbody>
                               </table>
                             </div>

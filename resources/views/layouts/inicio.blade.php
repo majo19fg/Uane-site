@@ -10,51 +10,27 @@
     </section>
 
     <!-- Section: About -->
-    <!--<section>
-      <div class="container">
+  </br>
+    <section>
+    
         <div class="section-content">
           <div class="row justify-content-center">
             <div class="col-md-12" data-wow-duration="1s" data-wow-delay="0.3s">
-              <div class="gallery-isotope grid-2 gutter-small clearfix" data-lightbox="gallery">
-                <!-- Portfolio Item Start --
+              <div class="gallery-isotope grid-1 gutter-small" data-lightbox="gallery">
+                <!-- Portfolio Item Start -->
                 <div class="gallery-item">
                   <div class="thumb">
-                    <img alt="project" src="/multi/images/Comunicado1.jpg" >
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a href="/multi/images/Comunicado1.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
+                    <img alt="project" src="/multi/images/Promoción_Febrero_70_Banner.jpg" style="width: 100%" >
                   </div>
                 </div>
                 <!-- Portfolio Item End -->
-                
-                <!-- Portfolio Item Start --
-                <div class="gallery-item">
-                  <div class="thumb">
-                    <img alt="project" src="/multi/images/Comunicadopostgrados.jpg" >
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                          <a href="/multi/images/Comunicadopostgrados.jpg"   data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!-- Portfolio Item End --
-              </div>
-              <!-- End Portfolio Gallery Grid --
+              <!-- End Portfolio Gallery Grid -->
               </div>
           </div>
 
         </div>
-      </div>
-    </section>-->
+   
+    </section>
     <section>
       <div class="container">
         <div class="section-content">

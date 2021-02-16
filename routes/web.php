@@ -373,6 +373,9 @@ Route::group(['prefix' => 'mkt-user', 'namespace' => 'admin', 'middleware' => 'a
     Route::get('/usuarios/MKTBOX/Mailing45Mty', 'UsersController@Mail45Mty')->name('usuarios.Mail45Mty');
     Route::get('/usuarios/MKTBOX/WhatsApp45Mty', 'UsersController@WA45Mty')->name('usuarios.WA45Mty');
    
+    Route::get('/usuarios/MKTBOX/DIT7002', 'UsersController@DIT7002')->name('usuarios.DIT7002');
+    Route::get('/usuarios/MKTBOX/Mail7002', 'UsersController@Mail7002')->name('usuarios.Mail7002');
+    Route::get('/usuarios/MKTBOX/Facebook7002', 'UsersController@FB7002')->name('usuarios.FB7002');
     //Route::get('/usuarios/MKTBOX/DIT70Mty', 'UsersController@carpeta70Mty')->name('usuarios.carpeta70Mty');
     //Route::get('/usuarios/MKTBOX/Banner 70 Mty', 'UsersController@banner70Mty')->name('usuarios.banner70Mty');
     //Route::get('/usuarios/MKTBOX/Facebook 70 Mty', 'UsersController@FB70Mty')->name('usuarios.FB70Mty');

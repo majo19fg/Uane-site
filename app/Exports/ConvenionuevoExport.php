@@ -21,11 +21,13 @@ class ConvenionuevoExport implements FromCollection, WithHeadings, ShouldAutoSiz
     {
         return [
             'Id',
+            'Tipo de convenio',
             'Campus',
             'Nombre de la empresa',
             'Giro de la empresa',
             'Dirección de la empresa',
             'Representante legal',
+            'Correo representante legal',
             'Contacto',
             'Telefono de contacto ',
             'Correo ',
