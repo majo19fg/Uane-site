@@ -42,10 +42,10 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EXdAhqPVQyRFkvYsETgxl_QBkk19BMsK-nqeTSg3GiA7gA?e=OcfIVv">UANE - Oferta Educativa En línea.pdf</a></th>
-                                      <td>21 de Febrero</td>
-                                      <td>5.6 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EXdAhqPVQyRFkvYsETgxl_QBkk19BMsK-nqeTSg3GiA7gA?e=OcfIVv"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ER5LqhT1rKpAt-rcIuXJRuABWHBSYgptrLyo3QYPeaBZ6A?e=ADv1vh">UANE - Oferta Educativa En línea.pdf</a></th>
+                                      <td>26 de Febrero</td>
+                                      <td>1.42 MB</td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ER5LqhT1rKpAt-rcIuXJRuABWHBSYgptrLyo3QYPeaBZ6A?e=ADv1vh"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                   </tbody>
                                 </table>

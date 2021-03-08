@@ -42,22 +42,22 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ea2bBNVernpOvfI2V8W4SK0BTOKJULtA6pe-l_OxN25NGA?e=UpqV3w">UANE - Oferta Educativa Monclova - Bachillerato.pdf</a></th>
-                                      <td>21 de Febrero</td>
-                                      <td>5.6 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ea2bBNVernpOvfI2V8W4SK0BTOKJULtA6pe-l_OxN25NGA?e=UpqV3w"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EVZExzYxTDtMnYJxN0TL4Q8BSX4co80vO1ZRteo4lrP-3g?e=1u0aUW">UANE - Oferta Educativa Monclova - Bachillerato.pdf</a></th>
+                                      <td>26 de Febrero</td>
+                                      <td>2.58 MB</td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EVZExzYxTDtMnYJxN0TL4Q8BSX4co80vO1ZRteo4lrP-3g?e=1u0aUW"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                     <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EVsTTErKXVdNoh1mVEXLq2ABNVyTvLFUyBGydz7A5xS0Fw?e=YDmYF7">UANE - Oferta Educativa Monclova - Empresas.pdf</a></th>
-                                        <td>21 de Febrero</td>
-                                        <td>4.6 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EVsTTErKXVdNoh1mVEXLq2ABNVyTvLFUyBGydz7A5xS0Fw?e=YDmYF7"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EYbpDKH0zCxGomJOtQFdhuoBscPZT_rB8rhv69xD8rb4cg?e=c97Wl7">UANE - Oferta Educativa Monclova - Empresas.pdf</a></th>
+                                        <td>26 de Febrero</td>
+                                        <td>2.07 MB</td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EYbpDKH0zCxGomJOtQFdhuoBscPZT_rB8rhv69xD8rb4cg?e=c97Wl7"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                       <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EXT4wtLSe8NPuKGwbatN15MBndm0DIeptooTfMBgu0K5Dg?e=Q8lcrz">UANE - Oferta Educativa Monclova - Presencial.pdf</a></th>
-                                        <td>21 de Febrero</td>
-                                        <td>2.7 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EXT4wtLSe8NPuKGwbatN15MBndm0DIeptooTfMBgu0K5Dg?e=Q8lcrz"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EQ9ZI4zCZhRKhTt_qMeOadMBvahRohyqo8in7DjHo1MirQ?e=OQ6lZ5">UANE - Oferta Educativa Monclova - Presencial.pdf</a></th>
+                                        <td>26 de Febrero</td>
+                                        <td>1.23 MB</td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EQ9ZI4zCZhRKhTt_qMeOadMBvahRohyqo8in7DjHo1MirQ?e=OQ6lZ5"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                   </tbody>
                                 </table>

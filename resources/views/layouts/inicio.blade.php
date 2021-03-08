@@ -11,26 +11,26 @@
 
     <!-- Section: About -->
   </br>
-    <section>
+    <!--  <section>
     
-        <div class="section-content">
+      <div class="section-content">
           <div class="row justify-content-center">
             <div class="col-md-12" data-wow-duration="1s" data-wow-delay="0.3s">
               <div class="gallery-isotope grid-1 gutter-small" data-lightbox="gallery">
-                <!-- Portfolio Item Start -->
+                <!-- Portfolio Item Start --
                 <div class="gallery-item">
                   <div class="thumb">
                     <img alt="project" src="/multi/images/Promoción_Febrero_70_Banner.jpg" style="width: 100%" >
                   </div>
                 </div>
                 <!-- Portfolio Item End -->
-              <!-- End Portfolio Gallery Grid -->
+              <!-- End Portfolio Gallery Grid --
               </div>
           </div>
 
         </div>
    
-    </section>
+    </section>-->
     <section>
       <div class="container">
         <div class="section-content">

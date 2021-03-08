@@ -42,22 +42,22 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EZK4x7OD1eBDq8WQWD1RLS0BOLKUVY0IGYFhYXgF8gvEnQ?e=AuwpAj">UANE - Oferta Educativa Sabinas - Bachillerato.pdf</a></th>
-                                      <td>21 de Febrero</td>
-                                      <td>5.6 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EZK4x7OD1eBDq8WQWD1RLS0BOLKUVY0IGYFhYXgF8gvEnQ?e=AuwpAj"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ETprIYCaSmpLj2ZcCqcc05EBc9V34bgUTvLJrNHhhRfZFQ?e=0EnFyB">UANE - Oferta Educativa Sabinas - Bachillerato.pdf</a></th>
+                                      <td>26 de Febrero</td>
+                                      <td>2.52 MB</td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ETprIYCaSmpLj2ZcCqcc05EBc9V34bgUTvLJrNHhhRfZFQ?e=0EnFyB"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                     <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ec7Uw5je10dGs5tS_BsddcABBt7KIcKr3lSCvlt4GSXDKg?e=Ja7ThE">UANE - Oferta Educativa Sabinas - Empresas.pdf</a></th>
-                                        <td>21 de Febrero</td>
-                                        <td>4.6 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ec7Uw5je10dGs5tS_BsddcABBt7KIcKr3lSCvlt4GSXDKg?e=Ja7ThE"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ES1JU5NEd65Mj6XRZ4PeZRkBAOiWcKVPUnhusHePYg2kvQ?e=Djb2ES">UANE - Oferta Educativa Sabinas - Empresas.pdf</a></th>
+                                        <td>26 de Febrero</td>
+                                        <td>1.92 MB</td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ES1JU5NEd65Mj6XRZ4PeZRkBAOiWcKVPUnhusHePYg2kvQ?e=Djb2ES"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                       <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EZOwnlqWyr5PoFmEz8JPWfQBNakoO23y-P31zpsTNppaZw?e=6wYrGS">UANE - Oferta Educativa Sabinas - Presencial.pdf</a></th>
-                                        <td>21 de Febrero</td>
-                                        <td>2.7 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EZOwnlqWyr5PoFmEz8JPWfQBNakoO23y-P31zpsTNppaZw?e=6wYrGS"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Eclyv2hmt6hPpIjKUsLLhNMBYSrVTu6magc4lQH5M1CAow?e=ND9Lf8">UANE - Oferta Educativa Sabinas - Presencial.pdf</a></th>
+                                        <td>26 de Febrero</td>
+                                        <td>1.11 MB</td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Eclyv2hmt6hPpIjKUsLLhNMBYSrVTu6magc4lQH5M1CAow?e=ND9Lf8"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
     
 

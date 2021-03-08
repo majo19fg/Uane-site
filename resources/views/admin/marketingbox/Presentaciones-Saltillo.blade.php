@@ -42,28 +42,22 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ETEk6LRJ_phPrIfFTgWbxDkBGL3hIYn1fuR_8pJxnqM6Og?e=5T9PMj">UANE - Oferta Educativa Saltillo - Bachillerato.pdf</a></th>
-                                      <td>21 de Febrero</td>
-                                      <td>5.6 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ETEk6LRJ_phPrIfFTgWbxDkBGL3hIYn1fuR_8pJxnqM6Og?e=5T9PMj"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ecj9u-ECEOBPjgNHV5gTzzYBs5jjk5DqesyX1hdB3vaLbg?e=aQtWIq">UANE - Oferta Educativa Saltillo - Bachillerato.pdf</a></th>
+                                      <td>26 de Febrero</td>
+                                      <td>2.6 MB</td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ecj9u-ECEOBPjgNHV5gTzzYBs5jjk5DqesyX1hdB3vaLbg?e=aQtWIq"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ee0Qw1XVb1NOgG050pU_BsEBpFeTvZ9ZekUzvRpcO7Mj0A?e=U1Kyui">UANE - Oferta Educativa Saltillo - Bachillerato 2021.pdf</a></th>
-                                      <td>10 de Noviembre</td>
-                                      <td>5.6 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ee0Qw1XVb1NOgG050pU_BsEBpFeTvZ9ZekUzvRpcO7Mj0A?e=U1Kyui"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                    </tr>
-                                    <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EVzO7QXU165Nl0osbYbAPtgBa7LdeeRrWD6lgTV6cH21Nw?e=OuKE0w">UANE - Oferta Educativa Saltillo - Empresas.pdf</a></th>
-                                        <td>21 de Febrero</td>
-                                        <td>4.6 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EVzO7QXU165Nl0osbYbAPtgBa7LdeeRrWD6lgTV6cH21Nw?e=OuKE0w"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EeImTcxkoPtHmlOsMu30kDMBiSTsByF2KSXP_BGDQbxkBw?e=5JGlBN">UANE - Oferta Educativa Saltillo - Empresas.pdf</a></th>
+                                        <td>26 de Febrero</td>
+                                        <td>2.27 MB</td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EeImTcxkoPtHmlOsMu30kDMBiSTsByF2KSXP_BGDQbxkBw?e=5JGlBN"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                       <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EY9D1pdbq-pBsw7Z_vhZYn4Bvu30PlfbiS6upl811h6qkg?e=97DHrm">UANE - Oferta Educativa Saltillo - Presencial.pdf</a></th>
-                                        <td>21 de Febrero</td>
-                                        <td>2.7 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EY9D1pdbq-pBsw7Z_vhZYn4Bvu30PlfbiS6upl811h6qkg?e=97DHrm"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EROMEozHmfNOiwxrXFU8-CUB5Xczja3OjK3fWsaG2JjRhA?e=Ic9OTW">UANE - Oferta Educativa Saltillo - Presencial.pdf</a></th>
+                                        <td>26 de Febrero</td>
+                                        <td>1.23 MB</td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EROMEozHmfNOiwxrXFU8-CUB5Xczja3OjK3fWsaG2JjRhA?e=Ic9OTW"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
     
 

@@ -42,22 +42,22 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EUlCF6HyxX5IqniFzamYfc8BH0YVARdsnawNy3yyEAM7hA?e=adzgME">UANE - Oferta Educativa Torreón - Bachillerato.pdf</a></th>
-                                      <td>21 de Febrero</td>
-                                      <td>5.6 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EUlCF6HyxX5IqniFzamYfc8BH0YVARdsnawNy3yyEAM7hA?e=adzgME"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Edoec8aSHWFJonn3zdvZ1YsBd6gETV1y--5-_AwUuqrgbQ?e=yMEYmg">UANE - Oferta Educativa Torreón - Bachillerato.pdf</a></th>
+                                      <td>26 de Febrero</td>
+                                      <td>2.7 MB</td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Edoec8aSHWFJonn3zdvZ1YsBd6gETV1y--5-_AwUuqrgbQ?e=yMEYmg"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                     <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ETPfnUB3KHBOo4zdVxLIlSwBYpA6XgwBqRTOH0QfULbxnw?e=oJscOM">UANE - Oferta Educativa Torreón - Empresas.pdf</a></th>
-                                        <td>21 de Febrero</td>
-                                        <td>4.6 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ETPfnUB3KHBOo4zdVxLIlSwBYpA6XgwBqRTOH0QfULbxnw?e=oJscOM"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EaLu1bYrycxEtBUP7h0j2UEBlzhZLsCx_tH3CbKLEDFLsg?e=EMWUec">UANE - Oferta Educativa Torreón - Empresas.pdf</a></th>
+                                        <td>26 de Febrero</td>
+                                        <td>2.18 MB</td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EaLu1bYrycxEtBUP7h0j2UEBlzhZLsCx_tH3CbKLEDFLsg?e=EMWUec"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                       <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EYw3PDoA0jhBirdFtGu7em0Bnt8KHoRoc3iwNMVjOS-GLg?e=nxGQtS">UANE - Oferta Educativa Torreón - Presencial.pdf</a></th>
-                                        <td>21 de Febrero</td>
-                                        <td>2.7 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EYw3PDoA0jhBirdFtGu7em0Bnt8KHoRoc3iwNMVjOS-GLg?e=nxGQtS"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EZTADtqX8ApNv4gbYNMv55YBFp1TJh2AmAwHR7k6PlwARg?e=1WLFiB">UANE - Oferta Educativa Torreón - Presencial.pdf</a></th>
+                                        <td>26 de Febrero</td>
+                                        <td>1.31 MB</td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EZTADtqX8ApNv4gbYNMv55YBFp1TJh2AmAwHR7k6PlwARg?e=1WLFiB"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
     
 

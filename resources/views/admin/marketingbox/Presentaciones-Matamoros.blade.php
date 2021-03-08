@@ -42,22 +42,22 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EZtzuszWhoBAmhmprcuyIX4BCrFNpOgEuIF0Y-H_I-Zk-Q?e=2bUU9N">UANE - Oferta Educativa Matamoros - Bachillerato.pdf</a></th>
-                                      <td>21 de Febrero</td>
-                                      <td>5.6 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EZtzuszWhoBAmhmprcuyIX4BCrFNpOgEuIF0Y-H_I-Zk-Q?e=2bUU9N"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ER6fMvi1xjZMlAMD8LzVoyMBXIQtJdLfQYQL8MwWN2p0eg?e=Ndzlen">UANE - Oferta Educativa Matamoros - Bachillerato.pdf</a></th>
+                                      <td>26 de Febrero</td>
+                                      <td>2.34 MB</td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ER6fMvi1xjZMlAMD8LzVoyMBXIQtJdLfQYQL8MwWN2p0eg?e=Ndzlen"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                     <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EXBZKg2Pro9BuFw03iZmBj0BCBQF1Blaju0ud2shzBSAcA?e=qIwEtk">UANE - Oferta Educativa Matamoros - Empresas.pdf</a></th>
-                                        <td>21 de Febrero</td>
-                                        <td>4.6 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EXBZKg2Pro9BuFw03iZmBj0BCBQF1Blaju0ud2shzBSAcA?e=qIwEtk"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EYT2r7bC4TBPj5ClkvHZXvwBbY3L-MYWuoD9XRZ1uS6nOw?e=v1JGd5">UANE - Oferta Educativa Matamoros - Empresas.pdf</a></th>
+                                        <td>26 de Febrero</td>
+                                        <td>1.81 MB</td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EYT2r7bC4TBPj5ClkvHZXvwBbY3L-MYWuoD9XRZ1uS6nOw?e=v1JGd5"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                       <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EcESf5FAdiJBiUmRqBSUDMMBSQ5hlCNEu5A6tI5mkmcauQ?e=GnNMKP">UANE - Oferta Educativa Matamoros - Presencial.pdf</a></th>
-                                        <td>21 de Febrero</td>
-                                        <td>2.7 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EcESf5FAdiJBiUmRqBSUDMMBSQ5hlCNEu5A6tI5mkmcauQ?e=GnNMKP"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EbiCddp9ysxEmdA3zt-Y5mUBFv9sZCtX90kcAPfjFKJ50w?e=5vEXu1">UANE - Oferta Educativa Matamoros - Presencial.pdf</a></th>
+                                        <td>26 de Febrero</td>
+                                        <td>990 KB</td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EbiCddp9ysxEmdA3zt-Y5mUBFv9sZCtX90kcAPfjFKJ50w?e=5vEXu1"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
     
 

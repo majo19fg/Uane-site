@@ -42,16 +42,16 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ed9gdjP2Z6JIpNt3U2nXPu8BqLSKUmF6JZn1G2MFL9jRdA?e=KLZI2X">UANE - Oferta Educativa Monterrey - Empresas.pdf</a></th>
-                                        <td>21 de Febrero</td>
-                                        <td>4.6 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Ed9gdjP2Z6JIpNt3U2nXPu8BqLSKUmF6JZn1G2MFL9jRdA?e=KLZI2X"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EahumhBzCgVAsP0BfKsmwXoBVd89oXfEJRCzNbCJYU-16w?e=wmIjfB">UANE - Oferta Educativa Monterrey - Empresas.pdf</a></th>
+                                        <td>26 de Febrero</td>
+                                        <td>1.91 MB</td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EahumhBzCgVAsP0BfKsmwXoBVd89oXfEJRCzNbCJYU-16w?e=wmIjfB"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                       <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ETWgq75XFi5LpM9pbHr3-KUBbpi8r0fNPX6ZsZ9e7zuYag?e=sbeD4b">UANE - Oferta Educativa Monterrey - Presencial.pdf</a></th>
-                                        <td>11 de Mayo</td>
-                                        <td>2.7 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ETWgq75XFi5LpM9pbHr3-KUBbpi8r0fNPX6ZsZ9e7zuYag?e=sbeD4b"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ET8TdXu6i99EvSUzdfMXj4QBkI5tYn32qa-aNyp1Z7jg6g?e=VxEh1g">UANE - Oferta Educativa Monterrey - Presencial.pdf</a></th>
+                                        <td>26 de Febrero</td>
+                                        <td>1.15 MB</td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ET8TdXu6i99EvSUzdfMXj4QBkI5tYn32qa-aNyp1Z7jg6g?e=VxEh1g"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                   </tbody>
                                 </table>

@@ -42,22 +42,22 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EeTUFeI1041OhYo7BQl50RkBwfpm5Fi6ym5j2brUlMhnGw?e=bJ6c2g">UANE - Oferta Educativa Reynosa - Bachillerato.pdf</a></th>
-                                      <td>21 de Febrero</td>
-                                      <td>5.6 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EeTUFeI1041OhYo7BQl50RkBwfpm5Fi6ym5j2brUlMhnGw?e=bJ6c2g"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ETTB7-BuJAdErG2sbH3bgSMB5HsYYvlzJcw0nAmTKSxiiw?e=OFwhp6">UANE - Oferta Educativa Reynosa - Bachillerato.pdf</a></th>
+                                      <td>26 de Febrero</td>
+                                      <td>2.5 MB</td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ETTB7-BuJAdErG2sbH3bgSMB5HsYYvlzJcw0nAmTKSxiiw?e=OFwhp6"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                     <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EWygSDhnLq1Nl5L4W_dWcJQBHBDkFKYlIdkeNEEoztQaRQ?e=9F3yBZ">UANE - Oferta Educativa Reynosa - Empresas.pdf</a></th>
-                                        <td>21 de Febrero</td>
-                                        <td>4.6 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EWygSDhnLq1Nl5L4W_dWcJQBHBDkFKYlIdkeNEEoztQaRQ?e=9F3yBZ"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EXtw5Xs1JCRDgmUlGiJm1NsBCJnk1Szqa1riEIfQl44ZcQ?e=UrcY8G">UANE - Oferta Educativa Reynosa - Empresas.pdf</a></th>
+                                        <td>26 de Febrero</td>
+                                        <td>2.14 MB</td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EXtw5Xs1JCRDgmUlGiJm1NsBCJnk1Szqa1riEIfQl44ZcQ?e=UrcY8G"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                       <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EfSsyY3y58FPo0_HyeEKCqABjDTlSYtH_hzgnQz6E8pR1Q?e=hIiqVF">UANE - Oferta Educativa Reynosa - Presencial.pdf</a></th>
-                                        <td>21 de Febrero</td>
-                                        <td>2.7 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EfSsyY3y58FPo0_HyeEKCqABjDTlSYtH_hzgnQz6E8pR1Q?e=hIiqVF"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ERfq2tlpGANFnZPJQD8nklcBSHpouYP_D3ewmG_rKo3M2w?e=5X3Zym">UANE - Oferta Educativa Reynosa - Presencial.pdf</a></th>
+                                        <td>26 de Febrero</td>
+                                        <td>1.24 MB</td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/ERfq2tlpGANFnZPJQD8nklcBSHpouYP_D3ewmG_rKo3M2w?e=5X3Zym"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
     
 

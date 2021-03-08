@@ -42,16 +42,16 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EXgxq9C1GvtBhoWjMcWVS-0BOGBcg8r2_yMXHoEZg0svyg?e=pVp6da">Historia instagram 1 45% Febrero.jpg</a></th>
-                                      <td>2 de Febrero</td>
-                                      <td>1,03 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EXgxq9C1GvtBhoWjMcWVS-0BOGBcg8r2_yMXHoEZg0svyg?e=pVp6da"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EQxdmu_OOzJLmPSesS29BrkBTOK6iU2yzA3LLBmjb2i8sw?e=oBAMgc">Historia instagram 1 40% Marzo.jpg</a></th>
+                                      <td>26 de Febrero</td>
+                                      <td>471 KB</td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EQxdmu_OOzJLmPSesS29BrkBTOK6iU2yzA3LLBmjb2i8sw?e=oBAMgc"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ER44t81uj4RBhItcvWTjurUB8B9L6HfhGRrkfzGANXC1mQ?e=5HvadQ">Historia instagram 2 45% Febrero.jpg</a></th>
-                                      <td>2 de Febrero</td>
-                                      <td>1,59 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ER44t81uj4RBhItcvWTjurUB8B9L6HfhGRrkfzGANXC1mQ?e=5HvadQ"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ea7dDZDoZD5NinFIaxjNCfwBc0RbZaNB0tX69-W3DTlKGw?e=f1wwGh">Historia instagram 2 40% Marzo.jpg</a></th>
+                                      <td>26 de Febrero</td>
+                                      <td>766 KB</td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ea7dDZDoZD5NinFIaxjNCfwBc0RbZaNB0tX69-W3DTlKGw?e=f1wwGh"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                   </tbody>
                                 </table>

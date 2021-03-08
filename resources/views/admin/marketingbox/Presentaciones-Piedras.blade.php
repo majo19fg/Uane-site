@@ -42,22 +42,22 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Eb3I-Xw1pURKncsyIpBBCTYBeBemrn9GZR9OB2hSIYJn1g?e=D9wHox">UANE - Oferta Educativa Piedras Negras - Bachillerato.pdf</a></th>
-                                      <td>21 de Febrero</td>
-                                      <td>5.6 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Eb3I-Xw1pURKncsyIpBBCTYBeBemrn9GZR9OB2hSIYJn1g?e=D9wHox"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Efz2fqVJ8bNFhbBrdn4gf-4B5VaLdbVCtkX5W_Uz94qL6g?e=MqbAsf">UANE - Oferta Educativa Piedras Negras - Bachillerato.pdf</a></th>
+                                      <td>26 de Febrero</td>
+                                      <td>2.52 MB</td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Efz2fqVJ8bNFhbBrdn4gf-4B5VaLdbVCtkX5W_Uz94qL6g?e=MqbAsf"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                     <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EeaKiBN21htEma3mBWjE7VABavxz6ISUgck7-M5dzijy-w?e=R0Ly9a">UANE - Oferta Educativa Piedras Negras - Empresas.pdf</a></th>
-                                        <td>21 de Febrero</td>
-                                        <td>4.6 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EeaKiBN21htEma3mBWjE7VABavxz6ISUgck7-M5dzijy-w?e=R0Ly9a"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Edqs3bJ8R0tFqrSFrrUN0uEBZcSCwTRuCezGLfE5GpOnkQ?e=g9saRH">UANE - Oferta Educativa Piedras Negras - Empresas.pdf</a></th>
+                                        <td>26 de Febrero</td>
+                                        <td>2.09 MB</td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/Edqs3bJ8R0tFqrSFrrUN0uEBZcSCwTRuCezGLfE5GpOnkQ?e=g9saRH"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                       <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EYHol0VMz6pIqxyydqsq5bAB9f3HYbyRqUrwWoufMNxc7w?e=LtGhUs">UANE - Oferta Educativa Piedras Negras - Presencial.pdf</a></th>
-                                        <td>21 de Febrero</td>
-                                        <td>2.7 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EYHol0VMz6pIqxyydqsq5bAB9f3HYbyRqUrwWoufMNxc7w?e=LtGhUs"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EaSFOsT0fX9HlRoCaLJAzCYBjKnIW8P7z2yDzi3v_21BYw?e=Hp81Lk">UANE - Oferta Educativa Piedras Negras - Presencial.pdf</a></th>
+                                        <td>26 de Febrero</td>
+                                        <td>1.20 MB</td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:b:/g/personal/marketingdigital_uane_edu_mx/EaSFOsT0fX9HlRoCaLJAzCYBjKnIW8P7z2yDzi3v_21BYw?e=Hp81Lk"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                   </tbody>
                                 </table>
