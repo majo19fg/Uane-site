@@ -373,9 +373,12 @@ Route::group(['prefix' => 'mkt-user', 'namespace' => 'admin', 'middleware' => 'a
     Route::get('/usuarios/MKTBOX/Mailing45Mty', 'UsersController@Mail45Mty')->name('usuarios.Mail45Mty');
     Route::get('/usuarios/MKTBOX/WhatsApp45Mty', 'UsersController@WA45Mty')->name('usuarios.WA45Mty');
    
-    Route::get('/usuarios/MKTBOX/DIT7002', 'UsersController@DIT7002')->name('usuarios.DIT7002');
-    Route::get('/usuarios/MKTBOX/Mail7002', 'UsersController@Mail7002')->name('usuarios.Mail7002');
-    Route::get('/usuarios/MKTBOX/Facebook7002', 'UsersController@FB7002')->name('usuarios.FB7002');
+    Route::get('/usuarios/MKTBOX/DIT7003', 'UsersController@DIT7003')->name('usuarios.DIT7003');
+    Route::get('/usuarios/MKTBOX/Mail7003', 'UsersController@Mail7003')->name('usuarios.Mail7003');
+    Route::get('/usuarios/MKTBOX/Facebook7003', 'UsersController@FB7003')->name('usuarios.FB7003');
+    Route::get('/usuarios/MKTBOX/WhatsApp7003', 'UsersController@WA7003')->name('usuarios.WA7003');
+    Route::get('/usuarios/MKTBOX/Instagram7003', 'UsersController@Instagram7003')->name('usuarios.Instagram7003');
+    Route::get('/usuarios/MKTBOX/prueba21', 'UsersController@prueba21')->name('usuarios.prueba21');
     //Route::get('/usuarios/MKTBOX/DIT70Mty', 'UsersController@carpeta70Mty')->name('usuarios.carpeta70Mty');
     //Route::get('/usuarios/MKTBOX/Banner 70 Mty', 'UsersController@banner70Mty')->name('usuarios.banner70Mty');
     //Route::get('/usuarios/MKTBOX/Facebook 70 Mty', 'UsersController@FB70Mty')->name('usuarios.FB70Mty');

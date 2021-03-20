@@ -1238,23 +1238,41 @@ public function WA50PP()
         return view('admin.marketingbox.WhatsApp-45Mty');
 
     }
-    public function DIT7002() 
+    public function DIT7003() 
     {
 
-        return view('admin.marketingbox.DIT7002');
+        return view('admin.marketingbox.DIT7003');
 
     }
 
-    public function Mail7002() 
+    public function Mail7003() 
     {
 
-        return view('admin.marketingbox.Mail-7002');
+        return view('admin.marketingbox.Mail-7003');
 
     }
-    public function FB7002() 
+    public function FB7003() 
     {
 
-        return view('admin.marketingbox.FB-7002');
+        return view('admin.marketingbox.FB-7003');
+
+    }    
+    public function WA7003() 
+    {
+
+        return view('admin.marketingbox.WhatsApp-7003');
+
+    }
+    public function Instagram7003() 
+    {
+
+        return view('admin.marketingbox.Instagram-7003');
+
+    }    
+    public function prueba21() 
+    {
+
+        return view('admin.marketingbox.prueba21');
 
     }    
     public function lista_encuesta()

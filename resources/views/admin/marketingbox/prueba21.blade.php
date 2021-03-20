@@ -7,14 +7,10 @@
         <span class="breadcrumb-item active">Marketing Box</span>
     </nav>
 </div><!-- br-pageheader -->
-<div class="br-pagetitle">
- <img src="{{ asset('/multi/images/Marketing box/logo.png') }}" width="150px" height="150px"/>
-
-<div>
-        <h4>Marketing Box</h4>
-        <p class="mg-b-0"></p>
-    </div>
-</div><!-- d-flex -->
+<center><div>
+<img src="{{ asset('/multi/images/Marketing box/logo.png') }}" width="150px" height="150px"/>
+<div></center>
+<!-- d-flex -->
 
 
 <section class="">
@@ -22,7 +18,7 @@
         <div class="section-content">
             <div class="row"> 
                     <div class="col-md-3">
-                    <div id="accordion1" class="br-menu-item show-sub">
+                    <div id="accordion1">
                       <div class="panel">
                         <div class="panel-title"> <a data-parent="#accordion1" data-toggle="collapse" href="#accordion15" class="" aria-expanded="true"> <span class="open-sub"></span><center><img src="{{ asset('/multi/images/Marketing box/Iconos -01.png') }}"/>Presentaciones- Oferta Educativa </center></a></div>
                         <div id="accordion15" class="panel-collapse collapse" role="tablist" aria-expanded="true">
