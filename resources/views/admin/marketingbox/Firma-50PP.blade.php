@@ -42,10 +42,16 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EX5yh86FewpAk1OFpOFrRFYBDaxkGzLLJ1hzIWutfbP_xQ?e=2CLdyj">Firma DIT 50% Postgrado Presencial.jpg</a></th>
-                                        <td>1 de Diciembre</td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EUkBJpA9y-1Liud6h_aCHYIBU-HlNb-Z6ISvCgMVH-qMVQ?e=pRsb3N">Flyer DIT 70% Postgrado Presencial.jpg</a></th>
+                                        <td>21 de Junio</td>
                                         <td>433 KB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EX5yh86FewpAk1OFpOFrRFYBDaxkGzLLJ1hzIWutfbP_xQ?e=2CLdyj"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EUkBJpA9y-1Liud6h_aCHYIBU-HlNb-Z6ISvCgMVH-qMVQ?e=pRsb3N"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      </tr>
+                                      <tr>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EftaxIYsuzFGtFq4aKNk0gkBfhuxvMTNjsvM-3o0OBm8Ww?e=UhB7K1">Flyer BN DIT 70% Postgrado Presencial.jpg</a></th>
+                                        <td>21 de Junio</td>
+                                        <td>433 KB</td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EftaxIYsuzFGtFq4aKNk0gkBfhuxvMTNjsvM-3o0OBm8Ww?e=UhB7K1"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                   </tbody>
                                 </table>

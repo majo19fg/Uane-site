@@ -42,10 +42,10 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EeXiT9qO0fJJq5THDA4etJUBGjL9esmoMGIaKaRghFg5HA?e=YxxKPR">Mailing 50% Postgrado Presencial.jpg</a></th>
-                                      <td>1 de Diciembre</td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Eas6UmOs0CJGppTe-q1Xf4EBl236LCBFKUiGfhucPUsaQw?e=AAJGyl">Mailing 70% Postgrado Presencial.jpg</a></th>
+                                      <td>21 de Junio</td>
                                       <td>3,60 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EeXiT9qO0fJJq5THDA4etJUBGjL9esmoMGIaKaRghFg5HA?e=YxxKPR"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Eas6UmOs0CJGppTe-q1Xf4EBl236LCBFKUiGfhucPUsaQw?e=AAJGyl"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                   </tbody>
                                 </table>

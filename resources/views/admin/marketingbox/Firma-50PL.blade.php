@@ -42,10 +42,16 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EdwGOR_7wwlFgAnX_N-njwEBzB_wlWBXN8sxzr7y25IvxQ?e=MVD7No">Firma DIT 50% Postgrado en Línea.jpg</a></th>
-                                        <td>1 de Diciembre</td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Eb0FKnRfEalKkcg9F-y-QfMBDI66IntJOoGs1VmwJpCl0g?e=Om2dmi">Flyer DIT 70% en Línea.jpg</a></th>
+                                        <td>21 de Junio</td>
                                         <td>433 KB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EdwGOR_7wwlFgAnX_N-njwEBzB_wlWBXN8sxzr7y25IvxQ?e=MVD7No"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Eb0FKnRfEalKkcg9F-y-QfMBDI66IntJOoGs1VmwJpCl0g?e=Om2dmi"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      </tr>
+                                      <tr>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ER3YlMbrcXhPueRiTdLDAYwBoNmBGzX0Rx3T9koa1WFuiQ?e=nmHpVB">Flyer BN DIT 70% en Línea.jpg</a></th>
+                                        <td>21 de Junio</td>
+                                        <td>433 KB</td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ER3YlMbrcXhPueRiTdLDAYwBoNmBGzX0Rx3T9koa1WFuiQ?e=nmHpVB"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                   </tbody>
                                 </table>

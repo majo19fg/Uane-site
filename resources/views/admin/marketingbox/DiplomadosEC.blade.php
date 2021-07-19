@@ -42,46 +42,59 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ETSy-SEzsYlLlnQ5_dNaAncB0rxAGE3yQ2l2VNQ9NJ5aqw?e=hkr2in">Diplomados 2021_UANE_Administración-de Negocios.jpg</a></th>
-                                      <td>29 de Enero</td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EQON_C4xWl5JtNgG5JIXX7MBPwQ7paPA49c685NYIrydJw?e=uT8nlA">Diplomados 2021_UANE_Administración-de Negocios.jpg</a></th>
+                                      <td>30 de Abril</td>
                                       <td>5.6 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ETSy-SEzsYlLlnQ5_dNaAncB0rxAGE3yQ2l2VNQ9NJ5aqw?e=hkr2in"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EQON_C4xWl5JtNgG5JIXX7MBPwQ7paPA49c685NYIrydJw?e=uT8nlA"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                     <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ESKaXJD8IfZLsiP2iKaaHIsBCXpLa_EWeXDIVAylmfweCw?e=hTDWTt">Diplomados 2021_UANE_Coaching Familiar.jpg</a></th>
-                                        <td>29 de Enero</td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EffAeaRD2jlNkf2yc9XZOLEB7sD1r3B8pWMoH0Bka7nBbw?e=MWfZQv">Diplomados 2021_UANE_Coaching Familiar.jpg</a></th>
+                                        <td>30 de Abril</td>
                                         <td>4.6 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ESKaXJD8IfZLsiP2iKaaHIsBCXpLa_EWeXDIVAylmfweCw?e=hTDWTt"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EffAeaRD2jlNkf2yc9XZOLEB7sD1r3B8pWMoH0Bka7nBbw?e=MWfZQv"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                       <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EXwOtzw7ZZhGtdVNfSQkWPABIuJ92otshYqLlj9Iww0NLg?e=G9bEck">Diplomados 2021_UANE_Fundamentos-de Docencia.jpg</a></th>
-                                        <td>29 de Enero</td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EbnNC08Y8YxPgjM6XoTB2KkBdk1l6ASWfjjMIHBWOs6KpA?e=72SI7M">Diplomados 2021_UANE_Fundamentos-de Docencia.jpg</a></th>
+                                        <td>30 de Abril</td>
                                         <td>5.6 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EXwOtzw7ZZhGtdVNfSQkWPABIuJ92otshYqLlj9Iww0NLg?e=G9bEck"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EbnNC08Y8YxPgjM6XoTB2KkBdk1l6ASWfjjMIHBWOs6KpA?e=72SI7M"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                       <tr>
-                                          <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZuHRZuX62hKjVey_ch7cBABhTeBD-WwDYkttJ7Muk393A?e=uN4QGD">Diplomados 2021_UANE_Globalización.jpg</a></th>
-                                          <td>29 de Enero</td>
+                                          <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ecst9-HaH1pNhk8VQndQY7UBQFolkpSFD9K2tE8q9PPDmQ?e=wczusV">Diplomados 2021_UANE_Globalización.jpg</a></th>
+                                          <td>30 de Abril</td>
                                           <td>4.6 MB</td>
-                                          <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZuHRZuX62hKjVey_ch7cBABhTeBD-WwDYkttJ7Muk393A?e=uN4QGD"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                          <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ecst9-HaH1pNhk8VQndQY7UBQFolkpSFD9K2tE8q9PPDmQ?e=wczusV"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                         </tr>
                                         <tr>
-                                          <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EdEV-bbMw8lCko95lDlAf8EBo5QexOcUwqMToBEAhnjnXg?e=6IV51e">Diplomados 2021_UANE_Herramientas para-Emprendimiento.jpg</a></th>
-                                          <td>29 de Enero</td>
+                                          <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EQBI3lXe_mBNin4RjpOuBcUBJfCMRmy6xuQMFgh0pYrh9w?e=8rhgKB">Diplomados 2021_Herramientas Básicas-para Ingenieros.jpg</a></th>
+                                          <td>30 de Abril</td>
                                           <td>5.6 MB</td>
-                                          <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EdEV-bbMw8lCko95lDlAf8EBo5QexOcUwqMToBEAhnjnXg?e=6IV51e"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                          <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EQBI3lXe_mBNin4RjpOuBcUBJfCMRmy6xuQMFgh0pYrh9w?e=8rhgKB"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                         </tr>
                                         <tr>
-                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EcLBwnXWVtRGuGryn3xDkowBjNKp7dlrHewEm9Eo66Re2g?e=8fNIpj">Diplomados 2021_UANE_Liderazgo para Nuevos-Profesionistas_Lidere.jpg</a></th>
-                                            <td>29 de Enero</td>
+                                          <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ERH5lomRqnRAkjL3cgU7A04Bxrej8cyPlJQzr3Jrql4AGQ?e=q0rXII">Diplomados 2021_UANE_Herramientas para-Emprendimiento.jpg</a></th>
+                                          <td>30 de Abril</td>
+                                          <td>5.6 MB</td>
+                                          <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ERH5lomRqnRAkjL3cgU7A04Bxrej8cyPlJQzr3Jrql4AGQ?e=q0rXII"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        </tr>
+
+                                        <tr>
+                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ESfLj_gDgcxNgWsHx1OS_tQBJN5XpXyq2DkM2mDQOSNJsg?e=hwnwi0">Diplomados 2021_UANE_Liderazgo para Nuevos-Profesionistas_Lidere.jpg</a></th>
+                                            <td>30 de Abril</td>
                                             <td>4.6 MB</td>
-                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EcLBwnXWVtRGuGryn3xDkowBjNKp7dlrHewEm9Eo66Re2g?e=8fNIpj"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ESfLj_gDgcxNgWsHx1OS_tQBJN5XpXyq2DkM2mDQOSNJsg?e=hwnwi0"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                           </tr>
                                           <tr>
-                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EVgd7qmIfEpOoFrZf93ecUUBifnhi74V2nU06MjH3cM3cw?e=TzsTbs">Diplomados 2021_UANE_Talento Humano.jpg</a></th>
-                                            <td>29 de Enero</td>
+                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ee-p6fuHIEtKrf8DionOEnsBAKGHNzGiLGMuB3_GWr3v3g?e=dnbSP3">Diplomados 2021_UANE_Talento Humano.jpg</a></th>
+                                            <td>30 de Abril</td>
                                             <td>5.6 MB</td>
-                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EVgd7qmIfEpOoFrZf93ecUUBifnhi74V2nU06MjH3cM3cw?e=TzsTbs"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ee-p6fuHIEtKrf8DionOEnsBAKGHNzGiLGMuB3_GWr3v3g?e=dnbSP3"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                          </tr>
+                                          <tr>
+                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EXgPtmSY2LZDoUwVQ9i37HYB7Ya41zBHQq8H7wcYA8H9bw?e=SZglYR">Diplomados 2021_Transformación Digital_UB.jpg</a></th>
+                                            <td>30 de Abril</td>
+                                            <td>5.6 MB</td>
+                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EXgPtmSY2LZDoUwVQ9i37HYB7Ya41zBHQq8H7wcYA8H9bw?e=SZglYR"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                           </tr>
                                    </tbody>
                                 </table>

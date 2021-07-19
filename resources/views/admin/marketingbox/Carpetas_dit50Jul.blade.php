@@ -11,7 +11,7 @@
 <div class="br-pagetitle">
     <img src="{{ asset('/multi/images/Marketing box/logo.png') }}" width="150px" height="150px"/>
     <div>
-        <h4>Promociones Autonoma</h4>
+        <h4>Promociones</h4>
         <p class="mg-b-0"></p>
     </div>
 </div><!-- d-flex -->
@@ -40,13 +40,13 @@
                       </tfoot>
                       <tbody>
                         <tr>
-                          <td><a href="{{ route('usuarios.presencial50Jul') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.presencial50Jul') }}">Presencial</a></th>
+                          <td><a href="{{ route('usuarios.presencial50') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.presencial50') }}">Presencial</a></th>
                           <td>5 elemento</td>
                         </tr>
                        <tr>
-                          <td><a href="{{ route('usuarios.enlinea50') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.enlinea50') }}">En Línea</a></th>
+                          <td><a href="{{ route('usuarios.enlinea70') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.enlinea70') }}">En Línea</a></th>
                           <td>5 elemento</td>
                         </tr> 
                       </tbody>

@@ -42,16 +42,16 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ETkkBuy8WI5IvHMWqpHEdcMBoNY4nKTqgNLGZkT2Ie8jAw?e=XhBfIE">Cursos y Diplomados 2021_Mailing Cursos y Diplomados UANE.jpg</a></th>
-                                      <td>22 de Enero</td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EaOsKYeNWfJCkU-YVjaQQO4B7JPOu0pRFN_3PR7KOxVf1Q?e=BIgNlh">Cursos y Diplomados 2021_Mailing Cursos y Diplomados UANE.jpg</a></th>
+                                      <td>6 de Mayo</td>
                                       <td>10,3 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ETkkBuy8WI5IvHMWqpHEdcMBoNY4nKTqgNLGZkT2Ie8jAw?e=XhBfIE"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EaOsKYeNWfJCkU-YVjaQQO4B7JPOu0pRFN_3PR7KOxVf1Q?e=BIgNlh"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EQvlJ42x135BmtBLeycxzNYBhiZhIf1JdaN3rt0e-86GGw?e=dRLd29">Cursos y Diplomados 2021_Mailing Diplomados Barcelona.jpg</a></th>
-                                      <td>22 de Enero</td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ERNLkHtN4gVKtxCeIk5bfIkB4qFOVAUrnz4OgmNvmNgO-g?e=3tuX71">Cursos y Diplomados 2021_Mailing Diplomados Barcelona.jpg</a></th>
+                                      <td>30 de Abril</td>
                                       <td>6.16 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EQvlJ42x135BmtBLeycxzNYBhiZhIf1JdaN3rt0e-86GGw?e=dRLd29"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ERNLkHtN4gVKtxCeIk5bfIkB4qFOVAUrnz4OgmNvmNgO-g?e=3tuX71"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                   </tbody>
                                 </table>

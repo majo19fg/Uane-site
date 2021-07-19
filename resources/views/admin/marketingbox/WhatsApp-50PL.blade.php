@@ -42,10 +42,10 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EXyX6elOE9RGkRhx1WhVCkABC9brjeEhvXeblyiTfya1lg?e=fYvwcN">WhastApp 50% Postgrado en Línea.jpg</a></th>
-                                      <td>1 de Diciembre</td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ESO3PuJAA-9IpHc9FEyrNzEBcjfuVpJC2UpwGfbgNK-TEw?e=9WhgVA">WhastApp 70% en Línea.jpg</a></th>
+                                      <td>21 de Junio</td>
                                       <td>2,03 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EXyX6elOE9RGkRhx1WhVCkABC9brjeEhvXeblyiTfya1lg?e=fYvwcN"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ESO3PuJAA-9IpHc9FEyrNzEBcjfuVpJC2UpwGfbgNK-TEw?e=9WhgVA"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                   </tbody>
                                 </table>

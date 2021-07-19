@@ -42,10 +42,10 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ec_jq7FYM6xCjBjESo6BvY0BTj3B4bm7vCYpw1YRNTxE8Q?e=q5hRHw">Mailing 50% Postgrado en Línea.jpg</a></th>
-                                      <td>1 de Diciembre</td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EdRd6XBy3JJFk-ZlZsO4sL0Bx6jAIbZH00IbdasgP82pJQ?e=qROg05">Mailing 70% en Línea.jpg</a></th>
+                                      <td>21 de Junio</td>
                                       <td>3,60 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ec_jq7FYM6xCjBjESo6BvY0BTj3B4bm7vCYpw1YRNTxE8Q?e=q5hRHw"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EdRd6XBy3JJFk-ZlZsO4sL0Bx6jAIbZH00IbdasgP82pJQ?e=qROg05"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                   </tbody>
                                 </table>

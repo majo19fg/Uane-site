@@ -42,10 +42,10 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EbXwjQu9wyhGv3l_oxpMTXgB4xv68pb4hL158P4HGHn_Rg?e=ZamTPC">WhastApp 40% Marzo.jpg</a></th>
-                                      <td>26 de Febrero</td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EfLl-3qhHLhJg5eLF8LUH3kBkMaM6gVAuVk3MKR8MzAu7A?e=NRO14y">WhastApp 60% Julio.jpg</a></th>
+                                      <td>2 de Julio</td>
                                       <td>992 KB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EbXwjQu9wyhGv3l_oxpMTXgB4xv68pb4hL158P4HGHn_Rg?e=ZamTPC"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EfLl-3qhHLhJg5eLF8LUH3kBkMaM6gVAuVk3MKR8MzAu7A?e=NRO14y"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                   </tbody>
                                 </table>

@@ -40,14 +40,14 @@
                       </tfoot>
                       <tbody>
                         <tr>
-                          <td><a href="{{ route('usuarios.DIT55DIC') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.DIT55DIC') }}">DIT 55 Diciembre</a></th>
+                          <td><a href="{{ route('usuarios.DIT50PP') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.DIT50PP') }}">Presencial</a></th>
                           <td>5 elementos</td>
                         </tr>
 
                         <tr>
-                          <td><a href="{{ route('usuarios.DIT55DICM') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.DIT55DICM') }}">DIT 55 Diciembre Monterrey</a></th>
+                          <td><a href="{{ route('usuarios.DIT50PL') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.DIT50PL') }}">En lìnea</a></th>
                           <td>5 elementos</td>
                         </tr>
                       </tbody>

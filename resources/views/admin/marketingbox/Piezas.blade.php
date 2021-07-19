@@ -41,36 +41,13 @@
                                   <tfoot>
                                   </tfoot>
                                   <tbody>
-                                    <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZ63RVWNyMxFlEKcmdjWJi4B9pQwxsw2cHMF0h-yI_PMwg?e=QfLSDz">Cursos y Diplomados-100� en Línea.jpg</a></th>
-                                      <td>29 de Enero</td>
-                                      <td>5.6 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZ63RVWNyMxFlEKcmdjWJi4B9pQwxsw2cHMF0h-yI_PMwg?e=QfLSDz"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                    </tr>
-                                    <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ER-Vq57h2WdNk2NbDSCLBREBiq98FJxvuFLXj8vB0RzLgA?e=rGwjW9">Cursos-100� en Línea.jpg</a></th>
-                                        <td>29 de Enero</td>
-                                        <td>4.6 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ER-Vq57h2WdNk2NbDSCLBREBiq98FJxvuFLXj8vB0RzLgA?e=rGwjW9"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                      </tr>
                                       <tr>
                                         <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZH7CAKY2yNLouS8LULQd48B_YQcnqbMWO2E-onqAT-Y8A?e=Z9hGM1">Cursos-100� en Línea_Continua.jpg</a></th>
                                         <td>29 de Enero</td>
                                         <td>5.6 MB</td>
                                         <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZH7CAKY2yNLouS8LULQd48B_YQcnqbMWO2E-onqAT-Y8A?e=Z9hGM1"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
-                                      <tr>
-                                          <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EVdhmMIlHHpAlP4Cr22f_50BjncMlMsmoa4cjoqUWxo75w?e=Pm8KhS">Diplomados-100� en Línea.jpg</a></th>
-                                          <td>29 de Enero</td>
-                                          <td>4.6 MB</td>
-                                          <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EVdhmMIlHHpAlP4Cr22f_50BjncMlMsmoa4cjoqUWxo75w?e=Pm8KhS"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                        </tr>
-                                        <tr>
-                                          <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ERj0hNO3sBVLnQQxv5AqjCwB6_KMCeg3ekoLojdDZ18gVg?e=RAmJIB">Diplomados-100� en Línea_Barcelona.jpg</a></th>
-                                          <td>29 de Enero</td>
-                                          <td>5.6 MB</td>
-                                          <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ERj0hNO3sBVLnQQxv5AqjCwB6_KMCeg3ekoLojdDZ18gVg?e=RAmJIB"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                        </tr>
+
                                         <tr>
                                             <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EYPrggKO0FVPhLlj8SwXVnkBksaQa-whBOfrD2SU8HBKqQ?e=fgOFCR">Diplomados-100� en Línea_Barcelona_Desarrollate.jpg</a></th>
                                             <td>29 de Enero</td>

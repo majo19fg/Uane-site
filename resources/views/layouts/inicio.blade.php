@@ -502,6 +502,36 @@
         </div>
         <div class="section-content">
           <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+              <article class="post clearfix mb-sm-30">
+                <div class="entry-header">
+                  <div class="post-thumb thumb"> 
+                    <img src="/multi/images/noticias/fc7a43f6-8493-4633-978d-68b598b263ea.jpg" alt="" class="img-responsive img-fullwidth"> 
+                  </div>
+                </div>
+                <div class="entry-content p-20 pr-10 bg-white">
+                  <div class="entry-meta media mt-0 no-bg no-border">
+                    <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
+                      <ul>
+                        <li class="font-16 text-white font-weight-600 border-bottom">07</li>
+                        <li class="font-12 text-white text-uppercase">MAY</li>
+                      </ul>
+                    </div>
+                    <div class="media-body pl-15">
+                      <div class="event-content pull-left flip">
+                        <h4 class="entry-title text-white text-uppercase m-0 mt-5"><a href="{{ route('blog.Firma_convenio') }}">Firma convenio IMEF & UANE</a></h4>
+                        {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                        --}}
+                        {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}}
+                      </div>
+                    </div>
+                  </div>
+                  <p class="mt-10">El día viernes 07 de mayo se llevó a cabo la firma...</p>
+                  <a href="{{ route('blog.Firma_convenio') }}" class="btn-read-more">Leer más</a>
+                  <div class="clearfix"></div>
+                </div>
+              </article>
+              
+            </div>
             <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
               <article class="post clearfix mb-sm-30">
                 <div class="entry-header">
@@ -557,36 +587,6 @@
                   </div>
                   <p class="mt-10">UANE campus Monclova abrió sus puertas para celebrar el ya tradicional InterUANE en su edición 2020...</p>
                   <a href="{{ route('blog.interuane20') }}" class="btn-read-more">Leer más</a>
-                  <div class="clearfix"></div>
-                </div>
-              </article>
-              
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-4 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
-              <article class="post clearfix mb-sm-30">
-                <div class="entry-header">
-                  <div class="post-thumb thumb"> 
-                    <img src="/multi/images/SARAM/SARAM1.jpg" alt="" class="img-responsive img-fullwidth"> 
-                  </div>
-                </div>
-                <div class="entry-content p-20 pr-10 bg-white">
-                  <div class="entry-meta media mt-0 no-bg no-border">
-                    <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
-                      <ul>
-                        <li class="font-16 text-white font-weight-600 border-bottom">20</li>
-                        <li class="font-12 text-white text-uppercase">AGO</li>
-                      </ul>
-                    </div>
-                    <div class="media-body pl-15">
-                      <div class="event-content pull-left flip">
-                        <h4 class="entry-title text-white text-uppercase m-0 mt-5"><a href="{{ route('blog.Saram') }}">Inaguración del primer Employment Center en Monterrey</a></h4>
-                        {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>                        --}}
-                        {{-- <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>                        --}}
-                      </div>
-                    </div>
-                  </div>
-                  <p class="mt-10">UANE y Saram HR buscan mayor inserción con el primer Employment Center...</p>
-                  <a href="{{ route('blog.Saram') }}" class="btn-read-more">Leer más</a>
                   <div class="clearfix"></div>
                 </div>
               </article>

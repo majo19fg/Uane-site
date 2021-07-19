@@ -42,10 +42,10 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EUD1xe4LMmFEn5JC2BM7gvIBDF9DrEUJ_IiPv8SF5ZxHnQ?e=LbA5ef">Facebook DIT 50% Postgrado en Línea.jpg</a></th>
-                                      <td>1 de Diciembre</td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EcOXqHNdl2RMoQiVaEr0TVoBbxc40h4Z7srjr3hHki-tsQ?e=wT72kD">Facebook DIT 70% en Línea.jpg</a></th>
+                                      <td>21 de Junio</td>
                                       <td>3,70 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EUD1xe4LMmFEn5JC2BM7gvIBDF9DrEUJ_IiPv8SF5ZxHnQ?e=LbA5ef"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EcOXqHNdl2RMoQiVaEr0TVoBbxc40h4Z7srjr3hHki-tsQ?e=wT72kD"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                   </tbody>
                                 </table>

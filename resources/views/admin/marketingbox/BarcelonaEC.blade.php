@@ -41,47 +41,47 @@
                                   <tfoot>
                                   </tfoot>
                                   <tbody>
-                                    <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Efv1rTBMeoZDq_VE-VtkaCcB0a5rKqtgncG0vpF3tNSUfw?e=6bO0b6">Diplomados Barcelona_Design Thinking-y Gamificación_UB.jpg</a></th>
-                                      <td>29 de Enero</td>
-                                      <td>5.6 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Efv1rTBMeoZDq_VE-VtkaCcB0a5rKqtgncG0vpF3tNSUfw?e=6bO0b6"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                    </tr>
-                                    <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EYJNr0Nb0MZCt4XmnU4VKKYBB1Jhc9I4TmIFiI9ihDZdBw?e=PqpmiT">Diplomados Barcelona_Envejecimiento, Calidad-de Vida  y Dependencia_UB.jpg</a></th>
-                                        <td>29 de Enero</td>
+                                  <tr>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZISuWtfGAVKufoNvnpd3HMBwUnmj3L677SdGGJGwOv8Sg?e=eNAMGg">Diplomados 2021_Design Thinking-y Gamificación_UB.jpg</a></th>
+                                        <td>30 de Abril</td>
                                         <td>4.6 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EYJNr0Nb0MZCt4XmnU4VKKYBB1Jhc9I4TmIFiI9ihDZdBw?e=PqpmiT"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZISuWtfGAVKufoNvnpd3HMBwUnmj3L677SdGGJGwOv8Sg?e=eNAMGg"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                       <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ES_U-6XT66dFgu9EsMUb-mwByOPdPD596V0ZNp_ieOHVFg?e=gM0yB4">Diplomados Barcelona_Liderazgo Digital-y Employee Experience_UB.jpg</a></th>
-                                        <td>29 de Enero</td>
-                                        <td>5.6 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ES_U-6XT66dFgu9EsMUb-mwByOPdPD596V0ZNp_ieOHVFg?e=gM0yB4"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ESO8B8d6C01OqlwzGEB5RZIBAnLVAu-l5mIa0Wjbud6mOQ?e=b2CMZt">Diplomados 2021_Envejecimiento, Calidad-de Vida  y Dependencia_UB.jpg</a></th>
+                                        <td>30 de Abril</td>
+                                        <td>4.6 MB</td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ESO8B8d6C01OqlwzGEB5RZIBAnLVAu-l5mIa0Wjbud6mOQ?e=b2CMZt"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                       <tr>
-                                          <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZtyM5Pn59RJly6xC_IITNcBGawWHCmFIl00o9iWt_c5hQ?e=y2yvD7">Diplomados Barcelona_Marketing Digital y Social-Media Management_UB.jpg</a></th>
-                                          <td>29 de Enero</td>
-                                          <td>4.6 MB</td>
-                                          <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZtyM5Pn59RJly6xC_IITNcBGawWHCmFIl00o9iWt_c5hQ?e=y2yvD7"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                        </tr>
-                                        <tr>
-                                          <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EWNDyFfG_4NMlPR44addSxgBsIHRn3eLF_63IltMnAdr_g?e=nzTw8h">Diplomados Barcelona_Recursos Humanos- -Employer Branding -y E-recruitment_UB.jpg</a></th>
-                                          <td>29 de Enero</td>
-                                          <td>5.6 MB</td>
-                                          <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EWNDyFfG_4NMlPR44addSxgBsIHRn3eLF_63IltMnAdr_g?e=nzTw8h"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                        </tr>
-                                        <tr>
-                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EaBmu0324gRGlSv_OQa6_hABpwJO6P4KmPGQMhmM3VOYhg?e=bTkgn2">Diplomados Barcelona_Storytelling_UB.jpg</a></th>
-                                            <td>29 de Enero</td>
+                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EY-ZHk8zoepEiLrCpefxYQsBWyqvNx7AxLMAVhZFcwISUg?e=uw6nqc">Diplomados 2021_Liderazgo Digital-y Employee Experience_UB.jpg</a></th>
+                                            <td>30 de Abril</td>
                                             <td>4.6 MB</td>
-                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EaBmu0324gRGlSv_OQa6_hABpwJO6P4KmPGQMhmM3VOYhg?e=bTkgn2"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EY-ZHk8zoepEiLrCpefxYQsBWyqvNx7AxLMAVhZFcwISUg?e=uw6nqc"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                           </tr>
                                           <tr>
-                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EdA3XeilkgFJuqiuuDwfIUoBfyImHxXHz6I6Lw09OXLpNA?e=X4VMif">Diplomados Barcelona_Transformación-Digital_UB.jpg</a></th>
-                                            <td>29 de Enero</td>
+                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ea43n1Ys5FNMmoV6rYZqTcwBZ4-2q0Il6EQ4kSX-DGH7DQ?e=EUOPDb">Diplomados 2021_Marketing Digital y Social-Media Management_UB.jpg</a></th>
+                                            <td>30 de Abril</td>
                                             <td>5.6 MB</td>
-                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EdA3XeilkgFJuqiuuDwfIUoBfyImHxXHz6I6Lw09OXLpNA?e=X4VMif"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ea43n1Ys5FNMmoV6rYZqTcwBZ4-2q0Il6EQ4kSX-DGH7DQ?e=EUOPDb"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                          </tr>
+                                          <tr>
+                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EdPuqiJtin9BkVJ3_2nQ26sBSi_rUDiF_3GqNzrzWqOvlA?e=cTH3Ts">Diplomados 2021_Recursos Humanos- -Employer Branding -y E-recruitment_UB.jpg</a></th>
+                                            <td>30 de Abril</td>
+                                            <td>5.6 MB</td>
+                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EdPuqiJtin9BkVJ3_2nQ26sBSi_rUDiF_3GqNzrzWqOvlA?e=cTH3Ts"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                          </tr>
+                                          <tr>
+                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZJMD72RzFZCrd5tUNUU8QoBpaQw7QhD8dXSNBrFQzZcBw?e=4zWGvh">Diplomados 2021_Storytelling_UB.jpg</a></th>
+                                            <td>30 de Abril</td>
+                                            <td>5.6 MB</td>
+                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZJMD72RzFZCrd5tUNUU8QoBpaQw7QhD8dXSNBrFQzZcBw?e=4zWGvh"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                          </tr>
+                                          <tr>
+                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EXgPtmSY2LZDoUwVQ9i37HYB7Ya41zBHQq8H7wcYA8H9bw?e=SZglYR">Diplomados 2021_Transformación Digital_UB.jpg</a></th>
+                                            <td>30 de Abril</td>
+                                            <td>5.6 MB</td>
+                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EXgPtmSY2LZDoUwVQ9i37HYB7Ya41zBHQq8H7wcYA8H9bw?e=SZglYR"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                           </tr>
                                    </tbody>
                                 </table>

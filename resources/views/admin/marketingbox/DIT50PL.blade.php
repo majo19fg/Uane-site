@@ -41,7 +41,7 @@
                       <tbody>
                         <tr>
                           <td><a href="{{ route('usuarios.Firma50PL') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.Firma50PL') }}">Firma</a></th>
+                          <th><a href="{{ route('usuarios.Firma50PL') }}">Flyer</a></th>
                           <td>1 elemento</td>
                         </tr>
                         <tr>

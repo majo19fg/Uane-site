@@ -52,7 +52,7 @@
                         <div class="styled-select">
                             <select name="campusAspirante" id="campusAspirante" class="form-control" >
                                 <option value="">Selecciona campus</option>
-                                <option  value="">Otro</option>
+                                <option  value="otro">Otro</option>
                                   <option  value="Saltillo">Saltillo</option>
                                   <option  value="Torreón">Torreón</option>
                                   <option  value="Monclova">Monclova</option>
@@ -357,19 +357,20 @@
                   
       
                     
-      
-                    
+
+  
                     
                     <div class="col-sm-12">
                       <div class="form-group mb-0 mt-0">
                         <input name="form_botcheck" class="form-control" type="hidden" value="">
-                        <button type="submit" class="btn btn-colored btn-theme-colored btn-lg btn-flat border-left-theme-colored-4px mt-20" data-loading-text="Please wait...">Enviar datos</button>
+                        <a href="{{ route('confirm') }}"><button type="submit" class="btn btn-colored btn-theme-colored btn-lg btn-flat border-left-theme-colored-4px mt-20" data-loading-text="Please wait...">Enviar datos</button></a>
                       </div>
                     </div>
                   </div>
                 </form>
                 <!-- Reservation Form End-->
-      
+
+                  
                 
             </div>
           </div>

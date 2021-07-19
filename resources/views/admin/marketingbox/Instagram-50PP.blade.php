@@ -42,16 +42,16 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ESlAlxitWrlDqvNkZT6mofUBFge9ycPSkwHo98IfWdDhNA?e=8SCQ3a">Historia instagram 1 50% Postgrado Presencial.jpg</a></th>
-                                      <td>1 de Diciembre</td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EY_rddlVDG5AqR9oAMtF2B0BbBPgBeCWXaP-vOhZ-8ZOeA?e=UA4uYo">Historia instagram 1 70% Postgrado Presencial.jpg</a></th>
+                                      <td>21 de Junio</td>
                                       <td>1,03 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ESlAlxitWrlDqvNkZT6mofUBFge9ycPSkwHo98IfWdDhNA?e=8SCQ3a"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EY_rddlVDG5AqR9oAMtF2B0BbBPgBeCWXaP-vOhZ-8ZOeA?e=UA4uYo"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZ6akIyY8QhGvrq4UnESXsIBNDZ3z1xrjUthrS3DFKUaUw?e=7psObz">Historia instagram 2 50% Postgrado Presencial.jpg</a></th>
-                                      <td>1 de Diciembre</td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EWH_3Jq7Y-JLq8aOGzZuSNwB0h96MCdveaOKBtl6TM-9MA?e=91en39">Historia instagram 2 70% Postgrado Presencial.jpg</a></th>
+                                      <td>21 de Junio</td>
                                       <td>1,59 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZ6akIyY8QhGvrq4UnESXsIBNDZ3z1xrjUthrS3DFKUaUw?e=7psObz"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EWH_3Jq7Y-JLq8aOGzZuSNwB0h96MCdveaOKBtl6TM-9MA?e=91en39"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                   </tbody>
                                 </table>

@@ -42,10 +42,10 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EcZjMjaVls5Gt7AhKHaKpGwBsTzXSzRTFnVTWNikbZ7nCA?e=S85m78">Mailing Septiembre.jpg</a></th>
-                                      <td>1 de Septiembre</td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EeNeu1sG6oFIi1P2kLfp8TIBkcc3oJ_yj-dw9XQfrfGbpA?e=eUhSGR">Mailing .jpg</a></th>
+                                      <td>8 de Junio</td>
                                       <td>5,97 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EcZjMjaVls5Gt7AhKHaKpGwBsTzXSzRTFnVTWNikbZ7nCA?e=S85m78"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EeNeu1sG6oFIi1P2kLfp8TIBkcc3oJ_yj-dw9XQfrfGbpA?e=eUhSGR"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                   </tbody>
                                 </table>

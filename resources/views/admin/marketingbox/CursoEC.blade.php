@@ -42,154 +42,148 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EbnEjETpStBHgQDlMjS-1kkBCd4YQrNH7x12Vc_i6_fuwQ?e=xttn6N">Cursos_UANE_7 Desperdicios.jpg</a></th>
-                                      <td>29 de Enero</td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EeIhmiYLgSBOkXXiOE4UsWoBlTsXXXaSu_Boe_XrXcAAtw?e=YoaFjq">Cursos_UANE_7 Desperdicios.jpg</a></th>
+                                      <td>6 de Mayo</td>
                                       <td>5.6 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EbnEjETpStBHgQDlMjS-1kkBCd4YQrNH7x12Vc_i6_fuwQ?e=xttn6N"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EeIhmiYLgSBOkXXiOE4UsWoBlTsXXXaSu_Boe_XrXcAAtw?e=YoaFjq"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                     <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ESzBOClvCC1DrIAIkiDujFEBYiGI4RRHoUDwZ8jibd-yWg?e=WA8KkP">Cursos_UANE_Administración y Certificación-de Proveedores.jpg</a></th>
-                                        <td>29 de Enero</td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EVx4Y7m-xHlGj4MJHqOTfqQBbvTXgjg8PNE0yIY2kZWjGw?e=Ig5bg0">Cursos_UANE_Administración y Certificación-de Proveedores.jpg</a></th>
+                                        <td>6 de Mayo</td>
                                         <td>4.6 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ESzBOClvCC1DrIAIkiDujFEBYiGI4RRHoUDwZ8jibd-yWg?e=WA8KkP"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EVx4Y7m-xHlGj4MJHqOTfqQBbvTXgjg8PNE0yIY2kZWjGw?e=Ig5bg0"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                       <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Eeauvn-npahOr-rDzIioUMkBc9iLuUgy3pSK1a7yZHiXkw?e=We8ja0">Cursos_UANE_Administración-Estratégica.jpg</a></th>
-                                        <td>29 de Enero</td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ES0I9tF8xD1EqQVuLUjbaeIBLMmXd9UsT3INtxjWOlp0tg?e=aBfi8s">Cursos_UANE_Administración-Estratégica.jpg</a></th>
+                                        <td>6 de Mayo</td>
                                         <td>5.6 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Eeauvn-npahOr-rDzIioUMkBc9iLuUgy3pSK1a7yZHiXkw?e=We8ja0"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ES0I9tF8xD1EqQVuLUjbaeIBLMmXd9UsT3INtxjWOlp0tg?e=aBfi8s"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                       <tr>
-                                          <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EQDv2qIsMcZFsHyyMF2v6_8B7TpE3I4cgpgxcc9W7M2FsQ?e=EOg8lh">Cursos_UANE_Atrévete a ser Docente.jpg</a></th>
-                                          <td>29 de Enero</td>
+                                          <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ESiRFWAUon9PkQKjjHilz10BZ074AJ1nZ14ngj6DbeSaUA?e=utxN1T">Cursos_UANE_Atrévete a ser Docente.jpg</a></th>
+                                          <td>6 de Mayo</td>
                                           <td>4.6 MB</td>
-                                          <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EQDv2qIsMcZFsHyyMF2v6_8B7TpE3I4cgpgxcc9W7M2FsQ?e=EOg8lh"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                          <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ESiRFWAUon9PkQKjjHilz10BZ074AJ1nZ14ngj6DbeSaUA?e=utxN1T"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                         </tr>
                                         <tr>
-                                          <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ee8hlczYY8lGg2hlhmsaE3gBaslShBLCqX5LYyzhBQFhtQ?e=Sa3pqY">Cursos_UANE_Coaching.jpg</a></th>
-                                          <td>29 de Enero</td>
+                                          <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Eab8kylkrMpNnlqsCs08QVYBhLBrI-2E14R_qSGyXZxrwg?e=fXBcMx">Cursos_UANE_Coaching.jpg</a></th>
+                                          <td>6 de Mayo</td>
                                           <td>5.6 MB</td>
-                                          <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ee8hlczYY8lGg2hlhmsaE3gBaslShBLCqX5LYyzhBQFhtQ?e=Sa3pqY"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                          <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Eab8kylkrMpNnlqsCs08QVYBhLBrI-2E14R_qSGyXZxrwg?e=fXBcMx"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                         </tr>
                                         <tr>
-                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EdFrDXVwwb5HlMeJmf2BgVkBLjWqYD4LRn8CID7ev2Jlig?e=TywFdZ">Cursos_UANE_Cómo Evitar los Daños del Divorcio.jpg</a></th>
-                                            <td>29 de Enero</td>
+                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EWLjCqEKRMZJn5qigWzHMD4B3UjzH-rtJfUm-DcrLkKQHQ?e=jwnm2B">Cursos_UANE_Cómo Evitar los Daños del Divorcio.jpg</a></th>
+                                            <td>6 de Mayo</td>
                                             <td>4.6 MB</td>
-                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EdFrDXVwwb5HlMeJmf2BgVkBLjWqYD4LRn8CID7ev2Jlig?e=TywFdZ"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EWLjCqEKRMZJn5qigWzHMD4B3UjzH-rtJfUm-DcrLkKQHQ?e=jwnm2B"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                           </tr>
                                           <tr>
-                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EbIobbDYE95Aja3Q64izxrQBTn_avi5nCvw9WJKiKxYt6Q?e=CfKHLm">Cursos_UANE_Cómo Iniciar una Idea de Negocio.jpg</a></th>
-                                            <td>29 de Enero</td>
+                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EWqyBDECRRZAnZDdabHhhl0BVgOfotbUgd9SGajoc5805g?e=b5a3I8">Cursos_UANE_Cómo Iniciar una Idea de Negocio.jpg</a></th>
+                                            <td>6 de Mayo</td>
                                             <td>5.6 MB</td>
-                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EbIobbDYE95Aja3Q64izxrQBTn_avi5nCvw9WJKiKxYt6Q?e=CfKHLm"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EWqyBDECRRZAnZDdabHhhl0BVgOfotbUgd9SGajoc5805g?e=b5a3I8"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                           </tr>
                                           <tr>
-                                              <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EX_zQdfMPzBLlRg6fTr4hl8B5KeRdlq_eSCKWu_7VveJSg?e=9evvAz">Cursos_UANE_Cómo Sanar la Relación Padre-Hija.jpg</a></th>
-                                              <td>29 de Enero</td>
+                                              <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EVRuQCLCmA1Noh9Zo9wwDSwBK87UY7zxPGkKn7jwtDVa-w?e=i0GrJa">Cursos_UANE_Cómo Sanar la Relación Padre-Hija.jpg</a></th>
+                                              <td>6 de Mayo</td>
                                               <td>4.6 MB</td>
-                                              <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EX_zQdfMPzBLlRg6fTr4hl8B5KeRdlq_eSCKWu_7VveJSg?e=9evvAz"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                              <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EVRuQCLCmA1Noh9Zo9wwDSwBK87UY7zxPGkKn7jwtDVa-w?e=i0GrJa"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                             </tr>
                                             <tr>
-                                              <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EcIGg57PStZAkjPCUIRl0n0B1YKB6f_Q9UGSuVvsKZmkcQ?e=itsllO">Cursos_UANE_Cultura de Servicio al Cliente.jpg</a></th>
-                                              <td>29 de Enero</td>
+                                              <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ERTjHmZ7U5ZLq94xFIf02FIBE5OLSQzCVhvf-RpITbm_TQ?e=uxw79g">Cursos_UANE_Cultura de Servicio al Cliente.jpg</a></th>
+                                              <td>6 de Mayo</td>
                                               <td>5.6 MB</td>
-                                              <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EcIGg57PStZAkjPCUIRl0n0B1YKB6f_Q9UGSuVvsKZmkcQ?e=itsllO"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                              <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ERTjHmZ7U5ZLq94xFIf02FIBE5OLSQzCVhvf-RpITbm_TQ?e=uxw79g"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                             </tr>
                                             <tr>
-                                                <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZomm47OaNJGjTBkDEEJ6MwBHcnUJA8YU9NXVyLtpUsgjw?e=xx0H31">Cursos_UANE_Enfrentando a la Diabetes.jpg</a></th>
-                                                <td>29 de Enero</td>
+                                                <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ESzqVgz5HBVDn-lrZ-icW2QBrirbSWC4UzGnDZ0jviNHIg?e=2hKyrc">Cursos_UANE_Enfrentando a la Diabetes.jpg</a></th>
+                                                <td>6 de Mayo</td>
                                                 <td>4.6 MB</td>
-                                                <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZomm47OaNJGjTBkDEEJ6MwBHcnUJA8YU9NXVyLtpUsgjw?e=xx0H31"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                                <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ESzqVgz5HBVDn-lrZ-icW2QBrirbSWC4UzGnDZ0jviNHIg?e=2hKyrc"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                               </tr>
                                               <tr>
-                                                <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ESYwt1OkP7dEgtGrCJT7w-cBYDDhaiN3ScffKVRd6tvEfA?e=teKaHQ">Cursos_UANE_Franquicias.jpg</a></th>
-                                                <td>29 de Enero</td>
+                                                <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EeZotZe-WR9Om0T8DOSMe_kB7mHxe1YrELItCZRJBLBcbA?e=A2uIIU">Cursos_UANE_Franquicias.jpg</a></th>
+                                                <td>6 de Mayo</td>
                                                 <td>5.6 MB</td>
-                                                <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ESYwt1OkP7dEgtGrCJT7w-cBYDDhaiN3ScffKVRd6tvEfA?e=teKaHQ"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                                <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EeZotZe-WR9Om0T8DOSMe_kB7mHxe1YrELItCZRJBLBcbA?e=A2uIIU"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                               </tr>
                                               <tr>
-                                                  <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ef3ytwPTLH5PuUBy3g4DlMEBHnI2SE30YHx1Z2OVs0f89w?e=OELbul">Cursos_UANE_Gestión del Talento Humano.jpg</a></th>
-                                                  <td>29 de Enero</td>
+                                                  <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EQK4jimdHV1EmQX4dbDRiKcBltye4Z_y9CC0ytbcFdoZGw?e=KkMquq">Cursos_UANE_Gestión del Talento Humano.jpg</a></th>
+                                                  <td>6 de Mayo</td>
                                                   <td>4.6 MB</td>
-                                                  <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ef3ytwPTLH5PuUBy3g4DlMEBHnI2SE30YHx1Z2OVs0f89w?e=OELbul"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                                  <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EQK4jimdHV1EmQX4dbDRiKcBltye4Z_y9CC0ytbcFdoZGw?e=KkMquq"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                                 </tr>
                                                 <tr>
-                                                  <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ear-VyyS2hBJh8zK6PVOlMYBxHfGyXNydQrv1Mc0-ksFVQ?e=WmBHqf">Cursos_UANE_Gestor de Redes Sociales.jpg</a></th>
-                                                  <td>29 de Enero</td>
+                                                  <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EaCgesxlMHZMnoIgVy5JldgBE7JHagnCUkK_6KvPrVF54A?e=Cp3oWw">Cursos_UANE_Gestor de Redes Sociales.jpg</a></th>
+                                                  <td>6 de Mayo</td>
                                                   <td>5.6 MB</td>
-                                                  <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ear-VyyS2hBJh8zK6PVOlMYBxHfGyXNydQrv1Mc0-ksFVQ?e=WmBHqf"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                                  <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EaCgesxlMHZMnoIgVy5JldgBE7JHagnCUkK_6KvPrVF54A?e=Cp3oWw"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                                 </tr>
                                                 <tr>
-                                                    <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ETZfKoUJ_w5LlEHZPhLZKgMBzfRYzQjO5OQtKgmzd3Idtg?e=UfeBnF">Cursos_UANE_Hábitos de la Gente Exitosa.jpg</a></th>
-                                                    <td>29 de Enero</td>
+                                                    <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ed9t_0PrfDpLgD1b6eOpPFcBkELnpQvi2ZWJtoEbnqoGJA?e=aIkMzJ">Cursos_UANE_Hábitos de la Gente Exitosa.jpg</a></th>
+                                                    <td>6 de Mayo</td>
                                                     <td>4.6 MB</td>
-                                                    <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ETZfKoUJ_w5LlEHZPhLZKgMBzfRYzQjO5OQtKgmzd3Idtg?e=UfeBnF"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                                    <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ed9t_0PrfDpLgD1b6eOpPFcBkELnpQvi2ZWJtoEbnqoGJA?e=aIkMzJ"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                                   </tr>
-                                                                                  <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Eb_XOP-whDJKk0NWUjR75JkBhgcK93XWRX6-9Xh-5mTvkQ?e=sv5sNF">Cursos_UANE_Herramientas Básicas para Ingenieros.jpg</a></th>
-                                      <td>29 de Enero</td>
-                                      <td>5.6 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Eb_XOP-whDJKk0NWUjR75JkBhgcK93XWRX6-9Xh-5mTvkQ?e=sv5sNF"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
-                                    </tr>
                                     <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ET3AoXlCAJVJjlTJrTAf23EBGzUo64bgixrginQ25t-zfw?e=sMa27j">Cursos_UANE_Herramientas Básicas para la Inclusión Educativa.jpg</a></th>
-                                        <td>29 de Enero</td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EWbukhy0C_BGlSzYhet4YOgBmmu3p3j3Zy9xRjT1NX9vZA?e=9Ktt7N">Cursos_UANE_Herramientas Básicas para la Inclusión Educativa.jpg</a></th>
+                                        <td>6 de Mayo</td>
                                         <td>4.6 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ET3AoXlCAJVJjlTJrTAf23EBGzUo64bgixrginQ25t-zfw?e=sMa27j"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EWbukhy0C_BGlSzYhet4YOgBmmu3p3j3Zy9xRjT1NX9vZA?e=9Ktt7N"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                       <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZKhem1Zuw9JmtUo6RmHXlMB4zw9mbwZbYrWZrS6N43P9w?e=TBEDfU">Cursos_UANE_Lean Manufacturing.jpg</a></th>
-                                        <td>29 de Enero</td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EenB3QcPQqFMgX9XEodQV_YBz6_2ebPURpQOXTOqmNNYlQ?e=22PPRF">Cursos_UANE_Lean Manufacturing.jpg</a></th>
+                                        <td>6 de Mayo</td>
                                         <td>5.6 MB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZKhem1Zuw9JmtUo6RmHXlMB4zw9mbwZbYrWZrS6N43P9w?e=TBEDfU"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EenB3QcPQqFMgX9XEodQV_YBz6_2ebPURpQOXTOqmNNYlQ?e=22PPRF"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                       <tr>
-                                          <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EWZSZrj2oa1AqRdrGGSVBA8BI2Aa_Dc1WCT3ewU_eRCNPQ?e=KlbmxI">Cursos_UANE_Los Secretos Personales y Familiares.jpg</a></th>
-                                          <td>29 de Enero</td>
+                                          <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EYb4Uz0jjRxDp4sII8crk6gBD_ebliUEBEq71CeZhOOtcQ?e=KPz6kW">Cursos_UANE_Los Secretos Personales y Familiares.jpg</a></th>
+                                          <td>6 de Mayo</td>
                                           <td>4.6 MB</td>
-                                          <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EWZSZrj2oa1AqRdrGGSVBA8BI2Aa_Dc1WCT3ewU_eRCNPQ?e=KlbmxI"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                          <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EYb4Uz0jjRxDp4sII8crk6gBD_ebliUEBEq71CeZhOOtcQ?e=KPz6kW"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                         </tr>
                                         <tr>
-                                          <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ER9YsGazWyZLpoQhTa-Wst8Bsk_QV-8b0H4aTDGvDkTa5w?e=sFGgDz">Cursos_UANE_Maltrato Físico y-o Psicológico.jpg</a></th>
-                                          <td>29 de Enero</td>
+                                          <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ES1TH0GvNhVFld7FOcZnROMBXkAQXqQuEtXj3JP_0hU1_A?e=dqdsbO">Cursos_UANE_Maltrato Físico y-o Psicológico.jpg</a></th>
+                                          <td>6 de Mayo</td>
                                           <td>5.6 MB</td>
-                                          <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ER9YsGazWyZLpoQhTa-Wst8Bsk_QV-8b0H4aTDGvDkTa5w?e=sFGgDz"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                          <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ES1TH0GvNhVFld7FOcZnROMBXkAQXqQuEtXj3JP_0hU1_A?e=dqdsbO"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                         </tr>
                                         <tr>
-                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EeLdM0TsW-BJhYDPYFGONvsB02xhM4khT61UXGZ9xivYQA?e=8Pyax8">Cursos_UANE_Manejo-de Conflictos.jpg</a></th>
-                                            <td>29 de Enero</td>
+                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EWRTMT1jPAJMuqwCyrjnBqAB6j-ppGKLbS4nknn3jvhlYg?e=qoGgj3">Cursos_UANE_Manejo-de Conflictos.jpg</a></th>
+                                            <td>6 de Mayo</td>
                                             <td>4.6 MB</td>
-                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EeLdM0TsW-BJhYDPYFGONvsB02xhM4khT61UXGZ9xivYQA?e=8Pyax8"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EWRTMT1jPAJMuqwCyrjnBqAB6j-ppGKLbS4nknn3jvhlYg?e=qoGgj3"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                           </tr>
                                           <tr>
-                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EQ9HAnQNr5lIsUrfRFZid-oBzjpCaMev4ozureQDXcunmQ?e=Stvmpm">Cursos_UANE_Marca Profesional.jpg</a></th>
-                                            <td>29 de Enero</td>
+                                            <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZr_XnNkM7xEkAysxoc-JYoBp_L_UxArefRCgoITp-FUAA?e=s5CWPM">Cursos_UANE_Marca Profesional.jpg</a></th>
+                                            <td>6 de Mayo</td>
                                             <td>5.6 MB</td>
-                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EQ9HAnQNr5lIsUrfRFZid-oBzjpCaMev4ozureQDXcunmQ?e=Stvmpm"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                            <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZr_XnNkM7xEkAysxoc-JYoBp_L_UxArefRCgoITp-FUAA?e=s5CWPM"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                           </tr>
                                           <tr>
-                                              <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ETqwPSyUwp9LinPcERNty0kBL-VUSmQvsB6Q6FYTHWVRkQ?e=ltD8xy">Cursos_UANE_Plan de Negocios.jpg</a></th>
-                                              <td>29 de Enero</td>
+                                              <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EW8-itk9BnJHuPUE5NNn890BLPx8Ssu5OQZSOBWLd24x2g?e=Oz4cW4">Cursos_UANE_Plan de Negocios.jpg</a></th>
+                                              <td>6 de Mayo</td>
                                               <td>4.6 MB</td>
-                                              <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ETqwPSyUwp9LinPcERNty0kBL-VUSmQvsB6Q6FYTHWVRkQ?e=ltD8xy"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                              <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EW8-itk9BnJHuPUE5NNn890BLPx8Ssu5OQZSOBWLd24x2g?e=Oz4cW4"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                             </tr>
                                             <tr>
-                                              <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZRvTHJ4PoBHr9SAzOta370ByzudXJOrU28n0Ajd7X07mQ?e=R1yG75">Cursos_UANE_Qué es Seis Sigma.jpg</a></th>
-                                              <td>29 de Enero</td>
+                                              <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ETQr7w6-iGVDqe0xlnMqxMgBrNqCawY5JIpKksqQ51ggcw?e=doTRtu">Cursos_UANE_Qué es Seis Sigma.jpg</a></th>
+                                              <td>6 de Mayo</td>
                                               <td>5.6 MB</td>
-                                              <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EZRvTHJ4PoBHr9SAzOta370ByzudXJOrU28n0Ajd7X07mQ?e=R1yG75"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                              <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ETQr7w6-iGVDqe0xlnMqxMgBrNqCawY5JIpKksqQ51ggcw?e=doTRtu"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                             </tr>
                                             <tr>
-                                                <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ea1R4VpfDJRLry_1MGraKbgBX4Dr-F4QIdp4QwrwqAGdhA?e=1SQF4t">Cursos_UANE_Satisfacción en el Trabajo.jpg</a></th>
-                                                <td>29 de Enero</td>
+                                                <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EeVKWSN4_5VJv3b38J3JsIwBPeL8XY60mmBWsmX-bV_Nhw?e=DeriX0">Cursos_UANE_Satisfacción en el Trabajo.jpg</a></th>
+                                                <td>6 de Mayo</td>
                                                 <td>4.6 MB</td>
-                                                <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ea1R4VpfDJRLry_1MGraKbgBX4Dr-F4QIdp4QwrwqAGdhA?e=1SQF4t"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                                <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EeVKWSN4_5VJv3b38J3JsIwBPeL8XY60mmBWsmX-bV_Nhw?e=DeriX0"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                               </tr>
                                               <tr>
-                                                <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EaUsaB8ZJ95AmIg1E5F1Py4BlB-Nd4JGzwHVnbct2nvOPg?e=3tr952">Cursos_UANE_Supervisando para el Éxito.jpg</a></th>
-                                                <td>29 de Enero</td>
+                                                <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EQRScBp5zIlLktJJf_rK9soBvDpspXzUULZOe38tvCD4-w?e=PuvrBq">Cursos_UANE_Supervisando para el Éxito.jpg</a></th>
+                                                <td>6 de Mayo</td>
                                                 <td>5.6 MB</td>
-                                                <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EaUsaB8ZJ95AmIg1E5F1Py4BlB-Nd4JGzwHVnbct2nvOPg?e=3tr952"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                                <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EQRScBp5zIlLktJJf_rK9soBvDpspXzUULZOe38tvCD4-w?e=PuvrBq"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                               </tr>
                                    </tbody>
                                 </table>
