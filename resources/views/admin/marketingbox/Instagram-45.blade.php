@@ -42,16 +42,16 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EW-S_RV0CA9GgJZc2TTa4zwBoHxW76A3XsVMkBicre_jaw?e=XdVpiP">Historia instagram 1 60% Julio.jpg</a></th>
-                                      <td>2 de Julio</td>
-                                      <td>471 KB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EW-S_RV0CA9GgJZc2TTa4zwBoHxW76A3XsVMkBicre_jaw?e=XdVpiP"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Edgi3cxSPK5JpQMbFMnr_voBtW35c1Tp0156HV36B3GLUA?e=znnhl3">Historia instagram 1 DIT 70% En línea.jpg</a></th>
+                                      <td>28 de Julio</td>
+                                      <td>504 KB</td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Edgi3cxSPK5JpQMbFMnr_voBtW35c1Tp0156HV36B3GLUA?e=znnhl3"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ea6S4ATLlOJHgtKAYMD5dEABSE24rmsGMYgDIjrDkA6zvg?e=0z1BF7">Historia instagram 2 60% Julio.jpg</a></th>
-                                      <td>2 de Julio</td>
-                                      <td>766 KB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Ea6S4ATLlOJHgtKAYMD5dEABSE24rmsGMYgDIjrDkA6zvg?e=0z1BF7"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EeYcRwrESFhCpfow0iiiL5IBoIHxCQ-yeto5Snk_aP30iw?e=1fR0xg">Historia instagram 2 DIT 70% En línea.jpg</a></th>
+                                      <td>28 de Julio</td>
+                                      <td>615 KB</td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EeYcRwrESFhCpfow0iiiL5IBoIHxCQ-yeto5Snk_aP30iw?e=1fR0xg"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                   </tbody>
                                 </table>

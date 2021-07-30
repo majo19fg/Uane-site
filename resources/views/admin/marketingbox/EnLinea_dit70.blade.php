@@ -39,6 +39,11 @@
                       <tfoot>
                       </tfoot>
                       <tbody>
+                      <tr>
+                          <td><a href="{{ route('usuarios.Firma70EL') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.Firma70EL') }}">Firma</a></th>
+                          <td>1 elemento</td>
+                        </tr>
                         <tr>
                           <td><a href="{{ route('usuarios.FB70AgoEL') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
                           <th><a href="{{ route('usuarios.FB70AgoEL') }}">Facebook</a></th>

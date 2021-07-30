@@ -410,7 +410,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
                     data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
                     data-start="900" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                    style="z-index: 5; white-space: nowrap; font-weight:700 ;  color:#fff; ">&nbsp; Gracias por contactarnos &nbsp;
+                    style="z-index: 5; white-space: nowrap; font-weight:700 ;  color:#fff; ">&nbsp; ¡Gracias por compartirnos tu información! &nbsp;
                   </div>
                            <!-- LAYER NR. 2 -->
                   <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['middle']"
@@ -432,7 +432,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;"
                     data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
                     data-start="1300" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-                    style="z-index: 5; white-space: nowrap; font-weight:800 ;color:#F4C300; ">&nbsp;Contáctanos&nbsp;
+                    style="z-index: 5; white-space: nowrap; font-weight:800 ;color:#F4C300; ">&nbsp;Si deseas más información, llama al&nbsp;
           </div>
           <div class="tp-caption tp-resizeme font-raleway" id="rs-1-layer-1" data-x="['middle']"
           data-hoffset="['0']" data-y="['middle']"

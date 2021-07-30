@@ -42,16 +42,16 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EefNRX1s89tFn4AoAmE0LyIB_8YoJNalmo6vhiIq_ClZRA?e=WdNKgo">Historia instagram 50 En lìnea.jpg</a></th>
-                                      <td>8 de Junio</td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Edf3nwaThbpAidrcsi7USU8Bv1H0Hm41dvOaK3CtgmnDzA?e=OyuXdx">Historia instagram 50.jpg</a></th>
+                                      <td>28 de Julio</td>
                                       <td>1.29 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EefNRX1s89tFn4AoAmE0LyIB_8YoJNalmo6vhiIq_ClZRA?e=WdNKgo"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/Edf3nwaThbpAidrcsi7USU8Bv1H0Hm41dvOaK3CtgmnDzA?e=OyuXdx"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                     <tr>
-                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EabtHEk91qJCoLSdWfxR-9EBdKw7TfRs61BDOFcRrWx2Mg?e=9vfuCh">Historia instagram 2 50 En lìnea.jpg</a></th>
-                                      <td>8 de Junio</td>
+                                      <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ERrXqn1pqx1KsRmOh3PWFWAB3sO-rZaRFL1PJwRwfzn6Ew?e=VryDd1">Historia instagram 2 50.jpg</a></th>
+                                      <td>28 de Julio</td>
                                       <td>1.13 MB</td>
-                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EabtHEk91qJCoLSdWfxR-9EBdKw7TfRs61BDOFcRrWx2Mg?e=9vfuCh"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                      <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ERrXqn1pqx1KsRmOh3PWFWAB3sO-rZaRFL1PJwRwfzn6Ew?e=VryDd1"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                     </tr>
                                   </tbody>
                                 </table>

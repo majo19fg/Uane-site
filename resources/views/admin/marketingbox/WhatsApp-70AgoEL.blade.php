@@ -42,10 +42,10 @@
                                   </tfoot>
                                   <tbody>
                                     <tr>
-                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ETNAGliUQllNjgoOIg7fQW4Bnfj9TumUHh1OZNCN5nUY8Q?e=0OWjrp">WhatsApp DIT 50 En lìnea.jpg</a></th>
-                                        <td>8 de Junio</td>
-                                        <td>262 KB</td>
-                                        <td><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/ETNAGliUQllNjgoOIg7fQW4Bnfj9TumUHh1OZNCN5nUY8Q?e=0OWjrp"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
+                                        <th><a href="https://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EdBnp7XCnzRHtbNi9xrSw1YBtiOuZYOWu8jp1RJmFqSZ-Q?e=cCHo9L">WhatsApp DIT 50.jpg</a></th>
+                                        <td>28 de Julio</td>
+                                        <td>933 KB</td>
+                                        <td><a href="hhttps://uanemx-my.sharepoint.com/:i:/g/personal/marketingdigital_uane_edu_mx/EdBnp7XCnzRHtbNi9xrSw1YBtiOuZYOWu8jp1RJmFqSZ-Q?e=cCHo9L"><img src="{{ asset('/multi/images/download.png') }}"width="50px" height="50px" /></a></td>
                                       </tr>
                                   </tbody>
                                 </table>

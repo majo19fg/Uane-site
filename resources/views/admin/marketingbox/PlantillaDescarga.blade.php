@@ -199,12 +199,12 @@
                                 <tbody>
                                   <tr>
                                     <td><a href="{{ route('usuarios.DIT45') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.DIT45') }}">DIT 60% Julio</a></th>
+                                    <th><a href="{{ route('usuarios.DIT45') }}">DIT 70% En línea</a></th>
                                     <td>5 elementos</td>
                                   </tr>    
                                   <tr>
-                                    <td><a href="{{ route('usuarios.Carpetasdit50Jul') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                                    <th><a href="{{ route('usuarios.Carpetasdit50Jul') }}">DIT 50% </a></th>
+                                    <td><a href="{{ route('usuarios.enlinea70') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                                    <th><a href="{{ route('usuarios.enlinea70') }}">DIT 50% Agosto</a></th>
                                     <td>2 elementos</td>
                                   </tr>
                     
