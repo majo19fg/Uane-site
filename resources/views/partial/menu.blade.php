@@ -43,7 +43,7 @@
               <li><i class="fa fa-phone-square text-theme-colored font-36 mt-5 sm-display-block"></i></li>
               <li>
                 <a href="#" class="font-12 text-gray text-uppercase">Llámanos</a>
-                <h5 class="font-14 m-0"> Lun a Vie 9:00 am – 9:00 pm<br>800 822 8263</h5>
+                <h5 class="font-14 m-0"> Lun a Vie 9:00 am – 8:00 pm<br>800 822 8263</h5>
               </li>
             </ul>
           </div>
@@ -54,7 +54,7 @@
               <li><i class="fa fa-clock-o text-theme-colored font-36 mt-5 sm-display-block"></i></li>
               <li>
                 <a href="#" class="font-12 text-gray text-uppercase">Visítanos</a>
-                <h5 class="font-13 text-black m-0">  Lun a Vie 9:00 - 1:00 pm <br>y de 4:00 - 8:30 pm</h5>
+                <h5 class="font-13 text-black m-0">  Lun a Vie 9:00 am - 8:00 pm</h5>
               </li>
             </ul>
           </div>
@@ -227,8 +227,8 @@
             <li class="{{ request()->is('egresados') ? 'active' : '' }} {{ request()->is('egresados/actualizar-datos') ? 'active' : '' }}"><a href="{{ route('exauane') }}">ExaUANE</a></li>
             <li><a href="#">Vida universitaria</a>
               <ul class="dropdown">
-               <li><a href="{{ route('aniversario') }}">Eventos Aniversario</a></li>
-               <li><a href="{{ route('investigacion') }}">Investigación</a></li>
+               <!--<li><a href="{{ route('aniversario') }}">Eventos Aniversario</a></li>-->
+               <!--<li><a href="{{ route('investigacion') }}">Investigación</a></li>-->
                 <li><a href="{{ route('vozuane') }}">Voz Uane</a></li>
                 <li><a href="{{ route('blog.noticias') }}">Noticias</a></li>
                 <li><a href="{{ route('blog.MensajesRector') }}">Mensaje del Rector</a></li>

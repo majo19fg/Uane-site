@@ -50,8 +50,8 @@
                           <td>7 elementos</td>
                         </tr>
                         <tr>
-                          <td><a href="{{ route('usuarios.Postgrados') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
-                          <th><a href="{{ route('usuarios.Postgrados') }}">Postgrados</a></th>
+                          <td><a href="{{ route('usuarios.PostgradosRey') }}"><img src="{{ asset('/multi/images/vector.jpg') }}"  /></a></td>
+                          <th><a href="{{ route('usuarios.PostgradosRey') }}">Postgrados</a></th>
                           <td>5 elementos</td>
                         </tr>
                         <tr>

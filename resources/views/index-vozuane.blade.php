@@ -1018,13 +1018,13 @@ integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb
               </div>
             </div>
           </section>-->
-          <section>
+          <!--<section>
             <div class="container">
               <div class="section-content">
                 <div class="row justify-content-center">
                   <div class="col-md-12" data-wow-duration="1s" data-wow-delay="0.3s">
                     <div class="gallery-isotope grid-2 gutter-small clearfix" data-lightbox="gallery">
-                      <!-- Portfolio Item Start -->
+                      <!-- Portfolio Item Start --
                       <div class="gallery-item">
                         <div class="thumb">
                           <img alt="project" src="/multi/images/Comunicado1.jpg" >
@@ -1040,7 +1040,7 @@ integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb
                       </div>
                       <!-- Portfolio Item End -->
                       
-                      <!-- Portfolio Item Start -->
+                      <!-- Portfolio Item Start --
                       <div class="gallery-item">
                         <div class="thumb">
                           <img alt="project" src="/multi/images/Comunicadopostgrados.jpg" >
@@ -1054,16 +1054,16 @@ integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb
                           </div>
                         </div>
                       </div>
-                      <!-- Portfolio Item End -->
+                      <!-- Portfolio Item End --
                     </div>
-                    <!-- End Portfolio Gallery Grid -->
+                    <!-- End Portfolio Gallery Grid --
                     </div>
                 </div>
       
               </div>
             </div>
           </section>
-          <center><a class="btn btn-colored btn-theme-colored btn-sm" href="/multi/images/Comunicado 06-01-21.pdf">Descargar comunicados</a></center>
+          <center><a class="btn btn-colored btn-theme-colored btn-sm" href="/multi/images/Comunicado 06-01-21.pdf">Descargar comunicados</a></center>-->
           <section class="divider parallax layer-overlay overlay-white-7 img-responsive img-fullwidth" data-bg-img="/multi/images/soyuane/vozuaneprueba.jpg" data-parallax-ratio="0.7">
             <div class="container">
 
@@ -1224,7 +1224,7 @@ integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb
             <div class="col-md-6">
                 <article class="post clearfix maxwidth600 mb-30 mb-sm-30">
                   <div class="entry-header">
-                    <div class="post-thumb thumb"> <img src="/multi/images/noticias/diplomado-titulacion.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="post-thumb thumb"> <img src="/multi/images/nutriologo.jpg" alt="" class="img-responsive img-fullwidth"> </div>
                     {{-- <div class="entry-meta meta-absolute text-center pl-15 pr-15">
                     <div class="display-table">
                       <div class="display-table-cell">
@@ -1237,11 +1237,11 @@ integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb
                     </div> --}}
                   </div>
                   <div class="entry-content border-1px p-20">
-                    <h5 class="entry-title mt-0 pt-0"><a href="{{ route('blog.titulacion') }}">¿Sabías que en UANE...</a></h5>
-                    <p class="text-left mb-20 mt-15 font-13">Próximamente te graduarás y seguramente estás considerando cada una de las alternativas para titularte...</p>
-                    <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="{{ route('blog.titulacion') }}">Leer más</a>
+                    <h5 class="entry-title mt-0 pt-0"><a href="{{ route('blog.nutricion') }}">¿Te interesa estudiar nutrición?</a></h5>
+                    <p class="text-left mb-20 mt-15 font-13">Si aún no te animas en hacerlo, las siguientes razones te servirán para que le apuestes a esta carrera...</p>
+                    <a class="btn btn-flat btn-dark btn-theme-colored btn-sm pull-left" href="{{ route('blog.nutricion') }}">Leer más</a>
                     <ul class="list-inline entry-date pull-right font-12 mt-5">
-                      <li><span class="text-theme-colored">Jun 20, 2019</span></li>
+                      <li><span class="text-theme-colored">Ago 18, 2021</span></li>
                     </ul>
                     <div class="clearfix"></div>
                   </div>

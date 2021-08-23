@@ -102,6 +102,7 @@ Route::get('/VozUane', 'PagesController@vozuane')->name('vozuane');
 Route::get('/Noticias/interuane2020', 'PagesController@NoticiasEventos12')->name('blog.interuane20');
 Route::get('/Noticias/Quality Matters', 'PagesController@QualityMatters')->name('blog.QualityMatters');
 Route::get('/Noticias/Firma_convenio', 'PagesController@Firma_convenio')->name('blog.Firma_convenio');
+Route::get('/VozUane/nutrucion', 'PagesController@nutricion')->name('blog.nutricion');
 
 // Route::get('/prueba', function () {
 //     return App\Programa::all();

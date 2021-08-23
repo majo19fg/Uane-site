@@ -450,6 +450,12 @@
                         especificación importante que pueda servir para el diseño.</p>
                     <div class="col-md-12">
                         <textarea name="desc" class="form-control {{ $errors->has('desc') ? 'is-invalid' :'' }}" id="desc" cols="30" rows="10">{{ old('desc') }}</textarea>
+                    </div>                
+                </br>
+                    <div class="col-md-12" style="background-color: #0056ff; color:white;">
+
+                        <center><h5>Este apartado no está diseñado para adjuntar archivos. Si deseas realizarlo, envía tus archivos al correo: vpimentel@uane.edu.mx, y en "asunto" coloca el número de ID que se te asignará mediante correo cuando finalices tu solicitud.</h5></center>
+
                     </div>
                 </br>
                     <div class="col-md-12" style="background-color: #cc0000; color:white;">
